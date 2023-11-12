@@ -582,7 +582,7 @@ So these were -- that is how the transmission had occurred, and if we go to the 
    as to this claim. Then if that was the case, who that was. Perhaps these 
    will be asked of Dame Jenny Harries at a later date if she is recalled for  
    more questions.
-   </div><code></code></div>
+   </div></div>
 
 **Counsel Inquiry**: Yes.
 
