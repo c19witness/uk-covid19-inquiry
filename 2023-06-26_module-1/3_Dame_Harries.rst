@@ -571,6 +571,19 @@ So these were -- that is how the transmission had occurred, and if we go to the 
 
 **Dame Harries**: But there is also a generational thing, it depends about how forcefully they come out, which is why we have these distinctions about singing or shouting.
 
+
+.. raw:: html
+
+   <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
+   Counsel could have asked for studies that informed on why singing 
+   and shouting could emit virons carried in aerosols but showed that 
+   talking or just breathing did not. Then if the witness didn't know of any
+   if it was the case that she was informed by someone else, or instructred
+   as to this claim. Then if that was the case, who that was. Perhaps these 
+   will be asked of Dame Jenny Harries at a later date if she is recalled for  
+   more questions.
+   </div><code></code></div>
+
 **Counsel Inquiry**: Yes.
 
 If we can go to paragraph 15, please, at page 9 of this document. Now, we can see that according to this risk assessment, it states that the total number of estimated fatalities -- there we are, at the top of the page -- is between 40 and 70.
