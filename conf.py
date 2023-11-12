@@ -34,7 +34,8 @@ html_theme_options = {
     'includehidden': True,
     'titles_only': False
 }
-
+#
+exclude_patterns = ['module*', 'README_AS_WELL.md']
 html_static_path = ['_static']
 html_css_files = ['custom.css']
 
