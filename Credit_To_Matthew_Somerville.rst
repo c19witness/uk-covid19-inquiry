@@ -1,7 +1,7 @@
 Credit to Matthew Somerville
 ============================
 
-**Comments here below pertinent to https://ukcovid19inquiry.dracos.co.uk on which THIS site is based**
+**Comments here below pertinent to `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_ on which THIS site is based**. These are also Matthew's own words:
 
 This site takes a copy of the `official transcripts
 <https://www.covid19.public-inquiry.uk/hearings>`_, which are available in PDF,

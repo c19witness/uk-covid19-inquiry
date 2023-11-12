@@ -9,11 +9,13 @@ Searchable transcripts of the UK Covid-19 Inquiry hearings with comments from th
    See `Credit To Matthew Somerville <./Credit_To_Matthew_Somerville.html>`_
 
 The UK Covid-19 Inquiry was set up to “examine the UK’s response to and impact of the Covid-19 pandemic, and learn lessons for the future”,
-chaired by Baroness Heather Hallett, a former Court of Appeal judge.  There were many questions not asked to witnesses as they testified.
+chaired by Baroness Heather Hallett, a former Court of Appeal judge.  
+
+There were many questions not asked to witnesses as they testified.
 Some pertain to the predominant transmission mechanism (airborne / aerosols). Like many, the UK government was at times talking up droplets
 and fomites (and the ambiguous "close contact") mechanism of transmission (likely incorrect). With that a safe distance of two meters, and
-hand-washing and wiping or surfaces. These were likely unhelpful. One job of a Covid-19 public inquiry on those topics is to gauge where those
-claims came from. THIS site allows is to insert questions we would asked of witnesses, were we there and had the legal right to pose questions.
+hand-washing and wiping or surfaces. These mitigations were likely unhelpful in stopping transmission. One job of a Covid-19 public inquiry on those topics is to determine where those
+claims came from. THIS site allows us to insert questions we would have asked of witnesses, were we there and had the legal right to pose questions.
 
 Contents
 --------

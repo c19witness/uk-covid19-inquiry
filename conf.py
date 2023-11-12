@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Searchable transcripts of the UK Covid-19 Inquiry hearings'
-copyright = 'Crown copyright, OGL v3.0'
-author = 'UK Covid-19 Inquiry (HTMLized by Matthew Somerville)'
+project = 'Searchable transcripts of the UK Covid-19 Inquiry hearings, with comments from the covid-is-airborne community'
+copyright = 'Crown copyright, OGL v3.0 where that pertains to source transcripts'
+author = 'UK Covid-19 Inquiry (HTMLized by Matthew Somerville) and various commentors'
 
 # -- General configuration
 
