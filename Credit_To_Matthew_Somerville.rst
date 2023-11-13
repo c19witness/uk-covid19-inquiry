@@ -3,8 +3,7 @@ Credit to Matthew Somerville
 
 **Comments here below pertinent to `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_ on which THIS site is based**. These are also Matthew's own words:
 
-This site takes a copy of the `official transcripts
-<https://www.covid19.public-inquiry.uk/hearings>`_, which are available in PDF,
+This site takes a copy of the `official transcripts <https://www.covid19.public-inquiry.uk/hearings>`_, which are available in PDF,
 parses them into reStructuredText, and uploads them to ReadTheDocs for
 **display and searching**. It also auto-links evidence IDs to the relevant page
 on the official site.
