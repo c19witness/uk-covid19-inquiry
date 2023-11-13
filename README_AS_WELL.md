@@ -36,3 +36,5 @@ Some words in the transcript
 Some words in the transcript 
 
 ```
+
+Feel free to make a pull-request on GitHub (preferred), or notify about comments on Twitter to @its_airborne
