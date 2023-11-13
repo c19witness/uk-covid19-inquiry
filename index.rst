@@ -4,7 +4,7 @@ Searchable transcripts of the UK Covid-19 Inquiry hearings with comments from th
 .. note::
 
    The official UK government inquiry site can be found at
-   `www.covid19.public-inquiry.uk <https://www.covid19.public-inquiry.uk>`_ and the site on which THIS site is based is
+   `covid19.public-inquiry.uk <https://covid19.public-inquiry.uk>`_ and the site on which THIS site is based is
    found at `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_.
    See `Credit To Matthew Somerville <./Credit_To_Matthew_Somerville.html>`_
 
