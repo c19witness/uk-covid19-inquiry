@@ -6,7 +6,7 @@ Searchable transcripts of the UK Covid-19 Inquiry hearings with comments from th
    The official UK government inquiry site can be found at
    `covid19.public-inquiry.uk <https://covid19.public-inquiry.uk>`_ and the site on which THIS site is based is
    found at `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_.
-   See `Credit To Matthew Somerville <./Credit_To_Matthew_Somerville.html>`_
+   We should pause to give `credit to Matthew Somerville <./Credit_To_Matthew_Somerville.html>`_ for that work.
 
 The UK Covid-19 Inquiry was set up to “examine the UK’s response to and impact of the Covid-19 pandemic, and learn lessons for the future”,
 chaired by Baroness Heather Hallett, a former Court of Appeal judge.  
