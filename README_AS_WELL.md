@@ -8,7 +8,7 @@ We're interested in the addition of comments in the following style:
 
 Constraints:
 
-1. We're only interested in comments that are in the is-predominently-airborne, is-not-predominetnly-airborne, is-predominently-droplets and is-predominently-fomites (the last three are not true)
+1. We're interested in comments that are in the is-predominently-airborne, is-not-predominetnly-airborne, is-predominently-droplets and is-predominently-fomites (the last three are not true)
 
 2. We're not intested in vaccines-harm comments
 
@@ -19,3 +19,20 @@ We and you believe that:
 * Long Covid is not all in the mind (the ME/CFS and Lyme community have battled this for decades)
 * You can seemingly fully recover from Covid-19 then go on to cardicvascular incidents that will have a 911 call and being sped by ambulance to ER/ED (999 & A&E in the UK)
 * You  can seemingly fully recover from Covid-19, but have lowered CD4 and CD8 counts that mean you're up for a basked of really bad opportunisitic medical conditions.
+
+
+A comment looks like this for now:
+
+```
+
+Some words in the transcript 
+
+.. raw:: html
+
+   <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
+   Blah Blah Blah Blah...
+   </div></div>
+
+Some words in the transcript 
+
+```
