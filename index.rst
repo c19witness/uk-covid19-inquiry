@@ -17,9 +17,9 @@ and fomites (and the ambiguous "close contact") mechanism of transmission (likel
 hand-washing and wiping or surfaces. These mitigations were likely unhelpful in stopping transmission. One job of a Covid-19 public inquiry on those topics is to determine where those
 claims came from. THIS site allows us to insert questions we would have asked of witnesses, were we there and had the legal right to pose questions.
 
-Before the pandemix, it was easy for officials to discover which diseases were primarily transmitted via airborne routes (not droplets not fomites). See our `its-airborne.org/non-covid19-timeline <https://its-airborne.org/non-covid19-timeline>`_ and `its-airborne.org/non-covid19-list <https://its-airborne.org/non-covid19-list>`_.
+Before the pandemic, it was easy for officials to discover which diseases were primarily transmitted via airborne routes (not droplets not fomites). See our `its-airborne.org/non-covid19-timeline <https://its-airborne.org/non-covid19-timeline>`_ and `its-airborne.org/non-covid19-list <https://its-airborne.org/non-covid19-list>`_. There are 129 entries here.
 
-During the pandemix, it was easy for officials to discover that COVID-19 was primarily transmitted via airborne routes (not droplets not fomites). See our `its-airborne.org/covid19-timeline <https://its-airborne.org/covid19-timeline>`_ and `its-airborne.org/covid19-list <https://its-airborne.org/covid19-list>`_.
+During the pandemic, it was easy for officials to discover that COVID-19 was primarily transmitted via airborne routes (not droplets not fomites). See our `its-airborne.org/covid19-timeline <https://its-airborne.org/covid19-timeline>`_ and `its-airborne.org/covid19-list <https://its-airborne.org/covid19-list>`_. There are 185 entries here.
 
 Contents
 --------
