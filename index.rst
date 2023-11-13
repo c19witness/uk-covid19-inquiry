@@ -4,8 +4,8 @@ Searchable transcripts of the UK Covid-19 Inquiry hearings with comments from th
 .. note::
 
    The official UK government inquiry site can be found at
-   https://www.covid19.public-inquiry.uk and the site on which THIS site is based is
-   found at https://ukcovid19inquiry.dracos.co.uk.
+   `www.covid19.public-inquiry.uk <https://www.covid19.public-inquiry.uk>`_ and the site on which THIS site is based is
+   found at `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk`_.
    See `Credit To Matthew Somerville <./Credit_To_Matthew_Somerville.html>`_
 
 The UK Covid-19 Inquiry was set up to “examine the UK’s response to and impact of the Covid-19 pandemic, and learn lessons for the future”,
@@ -16,6 +16,8 @@ Some pertain to the predominant transmission mechanism (airborne / aerosols). Li
 and fomites (and the ambiguous "close contact") mechanism of transmission (likely incorrect). With that a safe distance of two meters, and
 hand-washing and wiping or surfaces. These mitigations were likely unhelpful in stopping transmission. One job of a Covid-19 public inquiry on those topics is to determine where those
 claims came from. THIS site allows us to insert questions we would have asked of witnesses, were we there and had the legal right to pose questions.
+
+Before the pandemix, it was easy for officials to discover which diseases were primarily transmitted via airborne routes (not droplets not fomites). See our `its-airborne.org/non-covid19-timeline <https://its-airborne.org/non-covid19-timeline>`_ and `its-airborne.org/non-covid19-list <https://its-airborne.org/non-covid19-list>`_.
 
 Contents
 --------
