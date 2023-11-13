@@ -673,22 +673,22 @@ But it was rapidly contained, was it not, Professor Heymann, within a couple of 
 
 **Counsel Inquiry**: Does it follow from what you've just said that the main or the primary route of transmission of MERS was through droplets or aerosols --
 
+**Professor David Heymann**: That's correct.
+
+**Counsel Inquiry**: -- in the same way that we've described in SARS, with SARS?
+
+**Professor David Heymann**: Yes.
+
 .. raw:: html
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    And we didn't circle back to aerosols/airborne for COVID-19 and it might be a good idea to do so
    if/when he is recalled. He could also be asked what the prevailing opinion of his employer
    (London School of Hygiene and Tropical Medicine) is, and whether other colleagues had connections to
-   government policy making. For example early on, colleague Dr Shunmay Yeung was on TV
+   government policy making. For example early on, colleague Dr Shunmay Yeung was on TV confidently and incorrectly
    <code><a href="https://its-airborne.org/oops#event-bbc-tv-dr-shunmay-yeung-lshtm-says-masks-dont-work">
-   confidently and incorrectly proclaiming that masks don't work</a>.</code>
+   proclaiming that masks don't work</a>.</code>
    </div></div>
-
-**Professor David Heymann**: That's correct.
-
-**Counsel Inquiry**: -- in the same way that we've described in SARS, with SARS?
-
-**Professor David Heymann**: Yes.
 
 **Counsel Inquiry**: Were there any superspreading events in relation to MERS? And can you describe to us what a superspreading event is, please.
 
