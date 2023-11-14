@@ -3,6 +3,10 @@
     line-height: 1.5;
 }
 
+.outline {
+  background-color: yellow;
+}
+
 /* My sign-off */
 .right {
     text-align: right;

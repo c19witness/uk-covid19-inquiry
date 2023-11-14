@@ -39,5 +39,9 @@ exclude_patterns = ['module*', 'README_AS_WELL.md']
 html_static_path = ['_static']
 html_css_files = ['custom.css']
 
+rst_epilog = """
+.. include:: <s5defs.txt>
+"""
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
