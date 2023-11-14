@@ -576,9 +576,9 @@ So these were -- that is how the transmission had occurred, and if we go to the 
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    Counsel could have asked for studies that informed on why singing 
-   and shouting could emit virons carried in :outline:`aerosols` but showed that
+   and shouting could emit virons carried in aerosols but showed that
    talking or just breathing did not. Then if the witness didn't know of any
-   if it was the case that she was informed by someone else, or instructred
+   if it was the case that she was informed by someone else, or instructed
    as to this claim. Then if that was the case, who that was. Perhaps these 
    will be asked of Dame Jenny Harries at a later date if she is recalled for  
    more questions.

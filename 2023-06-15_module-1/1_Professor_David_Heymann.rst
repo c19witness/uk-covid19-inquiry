@@ -682,11 +682,11 @@ But it was rapidly contained, was it not, Professor Heymann, within a couple of 
 .. raw:: html
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
-   And we didn't circle back to :outline:`aerosols`/:outline:`airborne` for COVID-19 and it might be a good idea to do so
+   And we didn't circle back to aerosols/airborne for COVID-19 and it might be a good idea to do so
    if/when he is recalled. He could also be asked what the prevailing opinion of his employer
    (London School of Hygiene and Tropical Medicine) is, and whether other colleagues had connections to
    government policy making. For example early on, colleague Dr Shunmay Yeung was on TV confidently and incorrectly
-   <code><a href="https://its-:outline:`airborne`.org/oops#event-bbc-tv-dr-shunmay-yeung-lshtm-says-masks-dont-work">
+   <code><a href="https://its-airborne.org/oops#event-bbc-tv-dr-shunmay-yeung-lshtm-says-masks-dont-work">
    proclaiming that masks don't work</a>.</code>
    </div></div>
 
