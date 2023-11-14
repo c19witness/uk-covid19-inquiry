@@ -35,7 +35,7 @@ My Lady, the issues that are particularly important to CBFJ Cymru include health
 
 They want to know how infection control was managed in hospitals, including ventilation, testing, segregation and PPE. Want to know the extent of testing for Covid-19 hospital patients prior to discharge, whether the correct PPE was used and the scientific basis for choosing one type of PPE over another. Wish to know whether the belief that Covid-19 was fomite based led to the incorrect type of PPE being used.
 
-My Lady, we wish to know whether the Welsh Government paid sufficient regard to the fact that Covid-19 was airborne and the date of knowledge for relevant facts about Covid-19 and who provided that information. We would like to know whether the local health boards adhered to a mandatory trading and whether there was sufficient education of staff.
+My Lady, we wish to know whether the Welsh Government paid sufficient regard to the fact that Covid-19 was :outline:`airborne` and the date of knowledge for relevant facts about Covid-19 and who provided that information. We would like to know whether the local health boards adhered to a mandatory trading and whether there was sufficient education of staff.
 
 My Lady, you can see there are many differences that we have identified. Our list of issues goes on for a page or two longer than I have read out. I am going to stop there because it gives an indication of the particular matters which concern Wales.
 

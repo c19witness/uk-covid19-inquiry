@@ -57,7 +57,7 @@ My Lady, may I turn firstly to the designation of Core Participants. Pursuant to
 
 There are those representing the Royal College of Anaesthetists, the Faculty of Intensive Care Medicine and the Association of Anaesthetists, the Royal Pharmaceutical Society, [National Pharmacy Association], Core Participant group representing Long Covid Kids, Long COVID Physio, Long Covid SOS and Long Covid Support.
 
-The Disability Charities Consortium, the Trades Union Congress (known as the TUC), the Covid-19 Airborne Transmission Alliance, the Federation of Ethnic Minority Healthcare Organisations, John's Campaign and the Relatives & Residents Association, and the Patients Association, those representing clinically vulnerable families, the 13 pregnancy, parenting and baby charities, the Frontline Migrant Health Workers Group, the UK Health Security Agency, Independent Ambulance Association, His Majesty's Treasury, and Mind.
+The Disability Charities Consortium, the Trades Union Congress (known as the TUC), the Covid-19 :outline:`airborne` Transmission Alliance, the Federation of Ethnic Minority Healthcare Organisations, John's Campaign and the Relatives & Residents Association, and the Patients Association, those representing clinically vulnerable families, the 13 pregnancy, parenting and baby charities, the Frontline Migrant Health Workers Group, the UK Health Security Agency, Independent Ambulance Association, His Majesty's Treasury, and Mind.
 
 A list of the Core Participants that you have designated for Module 3 has now been published on the Inquiry website.
 
@@ -229,7 +229,7 @@ Secondly, Module 3 has also identified an expert in relation to the diagnosis of
 
 The identities of these two experts and, indeed, any other expert will be contained in the solicitor to the Inquiry's update notes, and these notes will also provide the topics on which experts are instructed, thereby updating the Core Participants and enabling the Core Participants to comment on those matters.
 
-My Lady, in the course of the written submissions a number of Core Participants have included suggestions for areas of expert evidence, for example, the Covid-19 Airborne Transmission Alliance has suggested that the effectiveness of PPE might be a potential area.
+My Lady, in the course of the written submissions a number of Core Participants have included suggestions for areas of expert evidence, for example, the Covid-19 :outline:`airborne` Transmission Alliance has suggested that the effectiveness of PPE might be a potential area.
 
 I have no doubt that you will wish to consider that and, indeed, all of those suggestions after the conclusion of today's hearing.
 

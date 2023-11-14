@@ -1665,7 +1665,7 @@ Then we can see this chart, "Likelihood" at the bottom, "Impact" on the left: "I
 
 So that's an issue about transmissibility.
 
-"Due to the nature of an emerging infectious disease [so not a pandemic influenza] there is some uncertainty as to whether a different emerging pathogen, including one which was airborne [respiratory] would lead to ..."
+"Due to the nature of an emerging infectious disease [so not a pandemic influenza] there is some uncertainty as to whether a different emerging pathogen, including one which was :outline:`airborne` [respiratory] would lead to ..."
 
 I'm afraid I've lost the place now because of the change in the page.
 

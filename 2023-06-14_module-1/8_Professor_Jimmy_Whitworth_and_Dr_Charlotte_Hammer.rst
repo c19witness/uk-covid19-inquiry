@@ -167,7 +167,7 @@ What is that a reference to?
 
 **Dr Hammer**: So there we are seeing things like, for example, changes related to climate change and also changes related to things that are also mentioned in the further point of land use change, so what kind of environment we have around ourselves, and that impacts both the animals as well as the pathogens, and in between those two also vectors, so think about insects, for example, that have a different range with climate change.
 
-**Mr Keith**: Is a vector -- does the word "vector" mean the means by which a disease may be transmitted to humans, so it could be by way of a flea or an animal or indeed even, perhaps, a surface, or airborne or whatever it might be?
+**Mr Keith**: Is a vector -- does the word "vector" mean the means by which a disease may be transmitted to humans, so it could be by way of a flea or an animal or indeed even, perhaps, a surface, or :outline:`airborne` or whatever it might be?
 
 **Dr Hammer**: There are two meanings to the word "vector" here, the first being what you just described, so where it could also be a surface, so a means of transmission. The second, which is what I was more referring to just now, is usually an insect or a similar entity in which a pathogen can exist, but is not infected. So it wouldn't be an animal that is infected, but it would be something like certain species of fleas, it would be something like certain species of mosquitoes, that depends on the pathogen.
 
@@ -319,11 +319,11 @@ Is that the Middle East Respiratory Syndrome coronavirus?
 
 **Professor Whitworth**: Yes.
 
-**Mr Keith**: Can you say anything about the difference between that coronavirus, MERS, the Middle East Respiratory Syndrome, and Covid-19 in terms of whether or not it differed, in terms of whether it was symptomatic or asymptomatic, or whether or not -- and whether or not, as a disease, there were different methods of transmission? So, for example, whether or not it was a disease transmitted more by aerosol or droplets from the higher respiratory tract or lower down in the chest?
+**Mr Keith**: Can you say anything about the difference between that coronavirus, MERS, the Middle East Respiratory Syndrome, and Covid-19 in terms of whether or not it differed, in terms of whether it was symptomatic or asymptomatic, or whether or not -- and whether or not, as a disease, there were different methods of transmission? So, for example, whether or not it was a disease transmitted more by :outline:`aerosol` or :outline:`droplets` from the higher respiratory tract or lower down in the chest?
 
-**Dr Hammer**: Yes. So, I believe Professor Heymann will go into more detail on this tomorrow as well, but, generally speaking, MERS is transmitted quite differently. We are -- there's two main routes. So MERS is entering the human population primarily from camels, dromedarian camels, so one route of transmission is very close contact with an infected dromedarian camel, who, as far as I understand it, can have MERS asymptomatically.
+**Dr Hammer**: Yes. So, I believe Professor Heymann will go into more detail on this tomorrow as well, but, generally speaking, MERS is transmitted quite differently. We are -- there's two main routes. So MERS is entering the human population primarily from camels, dromedarian camels, so one route of transmission is very :outline:`close contact` with an infected dromedarian camel, who, as far as I understand it, can have MERS asymptomatically.
 
-The other route of transmission, which is the route that the larger MERS outbreaks have gone through, is within a healthcare setting. Again, very close contact. And there you can have either transmission from patient to patient or from patient to healthcare worker.
+The other route of transmission, which is the route that the larger MERS outbreaks have gone through, is within a healthcare setting. Again, very :outline:`close contact`. And there you can have either transmission from patient to patient or from patient to healthcare worker.
 
 **Mr Keith**: But the degree of human-to-human transmission for MERS was very different to that of Covid-19?
 

@@ -221,7 +221,7 @@ On 28 January, SAGE meets again and it's informed that 50% of new cases in China
 
 The Chief Medical Officer emails a health special adviser in Number 10, copying in the Chief Scientific Adviser and others, to inform him of the possible scenarios.
 
-On 29 January there is a further article, this time in the New England Journal of Medicine. It publishes an article from a field epidemiology investigation team in China, but the heart of the article provides their estimate that, based on their research of the first 425 cases, the basic reproductive number is 2.2, and it states in clear terms that there is evidence that human-to-human transmission has occurred amongst close contacts since the middle of December.
+On 29 January there is a further article, this time in the New England Journal of Medicine. It publishes an article from a field epidemiology investigation team in China, but the heart of the article provides their estimate that, based on their research of the first 425 cases, the basic reproductive number is 2.2, and it states in clear terms that there is evidence that human-to-human transmission has occurred amongst :outline:`close contact`s since the middle of December.
 
 On 30 January, the World Health Organisation declares a public health emergency of international concern, the declaration that it had declined to do a week or so before. A level 4 national incident is declared in England, and the UK current risk level is raised from low to moderate.
 
@@ -489,7 +489,7 @@ The heart of it was contained at paragraph 3.9, page 10, please. I think that's 
 
 "The overall phases of our plan to respond ... are:
 
-"Contain: detect early cases, follow up close contacts, and prevent the disease taking hold in this country for as long is reasonably possible.
+"Contain: detect early cases, follow up :outline:`close contact`s, and prevent the disease taking hold in this country for as long is reasonably possible.
 
 "Delay: slow the spread in this country, if it does take hold, lowering the peak impact and pushing it away from the winter season."
 

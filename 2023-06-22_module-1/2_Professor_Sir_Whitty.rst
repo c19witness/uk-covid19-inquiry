@@ -661,9 +661,9 @@ It is quite important when you look at a risk or a hazard that you make a judgme
 
 "I think that's true, having documents and plans are separate things, you need to have capabilities backed up by resources with capabilities to scale up."
 
-Now, with HCIDs, and I think this again, hopefully you'll agree with this, in terms of airborne HCIDs and responding to them, there have been some exercises such as an Ebola exercise, wasn't there?
+Now, with HCIDs, and I think this again, hopefully you'll agree with this, in terms of :outline:`airborne` HCIDs and responding to them, there have been some exercises such as an Ebola exercise, wasn't there?
 
-**Professor Sir Whitty**: Yes, I mean, Ebola, just to be clear, is actually a touch-based disease, it's not airborne or respiratory by route. That's an important point. So were I sitting next to someone who had Ebola, I would be much less concerned than if it was an airborne or respiratory infection.
+**Professor Sir Whitty**: Yes, I mean, Ebola, just to be clear, is actually a touch-based disease, it's not :outline:`airborne` or respiratory by route. That's an important point. So were I sitting next to someone who had Ebola, I would be much less concerned than if it was an :outline:`airborne` or respiratory infection.
 
 **Ms Munroe KC**: Well, as an HCID --
 

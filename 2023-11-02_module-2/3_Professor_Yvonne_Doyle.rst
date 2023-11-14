@@ -499,7 +499,7 @@ Given this was a UK remit, what I would like to understand is what part Scotland
 
 We had the four-country infectious disease consultants and the four-country infection prevention control experts who met regularly; we had the regular clinicians' meetings, which were four countries, during the pandemic; and I chaired, throughout 2021, a four-country genomics group. My purpose there was to ensure that the devolved countries got their fair share of funding for the development of their genomic services.
 
-As well as that, we had regular -- every day we had situation awareness with the four countries and, when they wished to join, the Republic of Ireland, and we kept very close contact on an ad hoc basis with our colleagues in Public Health Scotland.
+As well as that, we had regular -- every day we had situation awareness with the four countries and, when they wished to join, the Republic of Ireland, and we kept very :outline:`close contact` on an ad hoc basis with our colleagues in Public Health Scotland.
 
 **Mr Wilcock**: My Lady, thank you, I don't have any other questions. My other questions were answered earlier.
 
@@ -519,17 +519,17 @@ At the fourth paragraph, I'll just read -- I beg your pardon, I should say the l
 
 The fourth paragraph reads:
 
-"There are significant and growing concerns about the role of aerosol transmission of COVID-19 in healthcare settings, and the need for wider use of RPE (for example, FFP3 respirators) outside of those procedures designated as aerosol generating. We are therefore calling on [Public Health England] to support the wider use of RPE in other high-risk settings across primary and secondary care."
+"There are significant and growing concerns about the role of :outline:`aerosol` transmission of COVID-19 in healthcare settings, and the need for wider use of RPE (for example, FFP3 respirators) outside of those procedures designated as :outline:`aerosol` generating. We are therefore calling on [Public Health England] to support the wider use of RPE in other high-risk settings across primary and secondary care."
 
-Professor, so the first question I have for you is: appreciating that there was considerable uncertainty in the early stages of the pandemic, when did Public Health England first become aware that aerosol transmission was a significant transmission route of Covid-19, including through daily actions such as coughing, talking, et cetera?
+Professor, so the first question I have for you is: appreciating that there was considerable uncertainty in the early stages of the pandemic, when did Public Health England first become aware that :outline:`aerosol` transmission was a significant transmission route of Covid-19, including through daily actions such as coughing, talking, et cetera?
 
-**Professor Yvonne Doyle**: Thank you. So there was always a recognition, well, from fairly early on, that aerosol transmission could occur. I think what changed over the months, and particularly after the summer of 2020, was the work that had been done particularly through SAGE and through its subgroup, and Professor Noakes, of course, and the importance of aerosol -- the balance of aerosol transmission versus droplet versus fomite, and, you know, surface transmission. And that balance changed.
+**Professor Yvonne Doyle**: Thank you. So there was always a recognition, well, from fairly early on, that :outline:`aerosol` transmission could occur. I think what changed over the months, and particularly after the summer of 2020, was the work that had been done particularly through SAGE and through its subgroup, and Professor Noakes, of course, and the importance of :outline:`aerosol` -- the balance of :outline:`aerosol` transmission versus :outline:`droplet` versus fomite, and, you know, surface transmission. And that balance changed.
 
 Professor Noakes is part of a number of scientists who wrote to WHO and asked them to change their advice on this as well.
 
 But in the early months, we had certainly provided guidance for those who were in the context of what were known to be aerosol-generating procedures, and certainly a precaution around the importance of social -- of distancing, and, where at all feasible, the use of face coverings.
 
-Now, that came again to a discussion later in 2020, and I am aware of this letter in 2021 which Mr Brodie received. He did ask for -- the guidance that had been produced around this letter was a four-country guidance and it was also NHS and DHSC, so it was the infection prevention and control group who had produced the guidance on what protective equipment was needed and aerosol procedures.
+Now, that came again to a discussion later in 2020, and I am aware of this letter in 2021 which Mr Brodie received. He did ask for -- the guidance that had been produced around this letter was a four-country guidance and it was also NHS and DHSC, so it was the infection prevention and control group who had produced the guidance on what protective equipment was needed and :outline:`aerosol` procedures.
 
 The IPC cell, this infection prevention control cell, was asked to look at that guidance again at the end of 2020, which they did. This also did this in conjunction with the New and Emerging Virus Group, NERVTAG, and they had a good look also at the evidence, because there was a lot of testing going on in various healthcare settings, this was about healthcare, and the testing had shown that actually -- this was in the context of the Alpha variant -- that there hadn't been an increase in serious illness among healthcare workers, but that healthcare worker to healthcare worker transmission was important, and therefore a CAS alert had been issued, which I think Mr Brodie was able to advise the BMA, which recommended the strengthening of infection control procedures.
 

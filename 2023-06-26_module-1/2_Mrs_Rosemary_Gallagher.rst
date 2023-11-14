@@ -221,17 +221,17 @@ We undertook an assessment of the situation and were actually very concerned abo
 
 **Counsel Inquiry**: Right, and you tell us at paragraph 36 in your witness statement that you believe, in your extensive experience of that outbreak:
 
-"... significant lessons should have been learnt from the experience with MERS CoV. For example, the Gulf Co-operation Council's IPC guidance specifically addressed the airborne spread of MERS CoV and the requirement for the use of RPE."
+"... significant lessons should have been learnt from the experience with MERS CoV. For example, the Gulf Co-operation Council's IPC guidance specifically addressed the :outline:`airborne` spread of MERS CoV and the requirement for the use of RPE."
 
 **Mrs Rosemary Gallagher**: Yes, that's correct.
 
 **Counsel Inquiry**: You go on to say in a following paragraph:
 
-"The Covid-19 pandemic has shown that there was too much of a focus on preparing for a flu pandemic and not enough consideration was given to how such plans would need to be adapted to deal with a respiratory infection pandemic, where the primary mode of transmission was not necessarily via 'traditional' droplet transmission."
+"The Covid-19 pandemic has shown that there was too much of a focus on preparing for a flu pandemic and not enough consideration was given to how such plans would need to be adapted to deal with a respiratory infection pandemic, where the primary mode of transmission was not necessarily via 'traditional' :outline:`droplet` transmission."
 
 And:
 
-"... that airborne transmission needed to be properly factored into IPC Guidance concerning the level of PPE required for health and care workers exposed to patients with Covid-19."
+"... that :outline:`airborne` transmission needed to be properly factored into IPC Guidance concerning the level of PPE required for health and care workers exposed to patients with Covid-19."
 
 **Mrs Rosemary Gallagher**: That's correct. We had the experience of MERS CoV in Saudi Arabia and we additionally had the South Korean experience as well, both of which showed that transmission within healthcare facilities was entirely possible in addition to community spread of infection.
 

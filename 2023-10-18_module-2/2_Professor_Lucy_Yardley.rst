@@ -249,21 +249,21 @@ So quite often I would find that the epidemiologists would be asking the questio
 
 **Counsel Inquiry**: It's not a straightforward single answer. Thank you.
 
-I now want to move, if I may, to two very specific areas, one certainly that you were asked to conduct some work on and a separate issue that arose during the pandemic, and that is one of airborne transmission and the communication of risk.
+I now want to move, if I may, to two very specific areas, one certainly that you were asked to conduct some work on and a separate issue that arose during the pandemic, and that is one of :outline:`airborne` transmission and the communication of risk.
 
-Was the issue of airborne transmission and risk communication ever dealt with by SPI-B?
+Was the issue of :outline:`airborne` transmission and risk communication ever dealt with by SPI-B?
 
-**Professor Lucy Yardley**: Oh, very much so, but not mainly by SPI-B on its own, because that would be very much a matter for other groups. So, for example, I co-authored papers with the Environmental Modelling Group on transmission in various situations, and NERVTAG would have had, you know, input into this kind of thing, because the extent to which transmission was airborne and the ways in which it was airborne weren't very well understood at the start of the pandemic. Obviously it was assumed there was airborne transmission, but how important that route was wasn't known.
+**Professor Lucy Yardley**: Oh, very much so, but not mainly by SPI-B on its own, because that would be very much a matter for other groups. So, for example, I co-authored papers with the Environmental Modelling Group on transmission in various situations, and NERVTAG would have had, you know, input into this kind of thing, because the extent to which transmission was :outline:`airborne` and the ways in which it was :outline:`airborne` weren't very well understood at the start of the pandemic. Obviously it was assumed there was :outline:`airborne` transmission, but how important that route was wasn't known.
 
-**Counsel Inquiry**: May I just interrupt just to ask you a very specific question. In fact it's been suggested by, and I'm sure you'll be very familiar with, Professor Noakes, who is the chair of the Environmental Modelling Group, EMG, that one of the reasons as to why airborne transmission was not made clearer at the outset of the pandemic to the population was because of the fear of public reaction.
+**Counsel Inquiry**: May I just interrupt just to ask you a very specific question. In fact it's been suggested by, and I'm sure you'll be very familiar with, Professor Noakes, who is the chair of the Environmental Modelling Group, EMG, that one of the reasons as to why :outline:`airborne` transmission was not made clearer at the outset of the pandemic to the population was because of the fear of public reaction.
 
 Now, is that something that SPI-B could have assisted on in advising with respect to communication, and --
 
-**Professor Lucy Yardley**: I've never heard that hypothesis, and I never heard that hypothesis at the time, I'd never heard anybody talk about airborne transmission being potentially a more scary mode and that we shouldn't talk about it. So I don't recognise that at all.
+**Professor Lucy Yardley**: I've never heard that hypothesis, and I never heard that hypothesis at the time, I'd never heard anybody talk about :outline:`airborne` transmission being potentially a more scary mode and that we shouldn't talk about it. So I don't recognise that at all.
 
 **Counsel Inquiry**: But is it something that SPI-B could have assisted on if asked to advise on that specific issue in relation to minimising public fear?
 
-**Professor Lucy Yardley**: Oh, absolutely, if there had been any concern about minimising public fear of airborne transmission, yes, that -- we could certainly have advised on that.
+**Professor Lucy Yardley**: Oh, absolutely, if there had been any concern about minimising public fear of :outline:`airborne` transmission, yes, that -- we could certainly have advised on that.
 
 **Counsel Inquiry**: Thank you.
 

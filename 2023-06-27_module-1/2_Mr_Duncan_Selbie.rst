@@ -633,7 +633,7 @@ It is in relation to a document that you have already been referred to today, th
 
 **Mr Duncan Selbie**: Yes.
 
-**Ms Munroe KC**: Now, appreciating, Mr Selbie, what you have said this afternoon in answer to questions from Ms Blackwell about this MERS plan, that there needed to be clarification with UKHSA, that notwithstanding, given that Covid-19 was initially classified as an airborne HCID, would you have expected the MERS plan to have been utilised in some form for Covid-19, as it had been for MERS and monkeypox, as you've referenced, and are you able to say whether it was in any form utilised?
+**Ms Munroe KC**: Now, appreciating, Mr Selbie, what you have said this afternoon in answer to questions from Ms Blackwell about this MERS plan, that there needed to be clarification with UKHSA, that notwithstanding, given that Covid-19 was initially classified as an :outline:`airborne` HCID, would you have expected the MERS plan to have been utilised in some form for Covid-19, as it had been for MERS and monkeypox, as you've referenced, and are you able to say whether it was in any form utilised?
 
 **Mr Duncan Selbie**: Yes and yes. So what you were describing would be regular health protection activity at a scale that we were well used to dealing with. It is my understanding that the HCID pathway was in fact utilised for the early cases of Covid, yes.
 

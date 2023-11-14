@@ -25,9 +25,9 @@ Dealing firstly with the provisional list of issues. Your Ladyship will have rea
 
 First, the Cymru group agrees with the joint submission of Covid Bereaved Families for Justice and the Northern Ireland group that, given that preparedness of the health system fell outside of the scope of Module 1, that number 1 on the list of issues in Module 3 should be preparedness. In particular this should include pandemic preparedness at NHS trust health board level in Wales, including the readiness of the infrastructure, provisions, management and frontline staff.
 
-Secondly, in respect of decision-making and leadership, the Cymru group is focused on how matters were dealt with in Wales. The group seeks confirmation that the Inquiry will explore what information was or should have been available to decision-makers at the time decisions were made. And this in particular should include an exploration of whether Welsh bodies paid sufficient regard to the fact that Covid-19 was airborne and, if not, why not.
+Secondly, in respect of decision-making and leadership, the Cymru group is focused on how matters were dealt with in Wales. The group seeks confirmation that the Inquiry will explore what information was or should have been available to decision-makers at the time decisions were made. And this in particular should include an exploration of whether Welsh bodies paid sufficient regard to the fact that Covid-19 was :outline:`airborne` and, if not, why not.
 
-In this regard, the Cymru group supports the points raised in the written submission of COVID-19 Airborne Transmission Alliance.
+In this regard, the Cymru group supports the points raised in the written submission of COVID-19 :outline:`airborne` Transmission Alliance.
 
 Third, the Inquiry will be aware that many of the Cymru group lost loved ones due to hospital-acquired Covid, in the context of perceived inadequate infection control and a lack of adequate PPE in Welsh hospitals, many of which were known to have inadequate ventilation.
 

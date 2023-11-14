@@ -67,7 +67,7 @@ Wales did not formally plan for the impact of any lockdown measures, but tested 
 
 However, one of the most significant failures on the part of the Welsh Government was only planning for an influenza pandemic, to the exclusion of planning for other viruses with pandemic potential. This was a catastrophic and unjustifiable failure. Not only had the Welsh Government been warned about a very high death toll from a flu pandemic in the years prior to Covid-19, but there had also been two coronavirus pandemics in the 21st century, SARS and the Middle East Respiratory Syndrome.
 
-The Inquiry is asked to pay close attention to the witness statement that has been provided to you from the COVID-19 Airborne Transmission Alliance, which systemically dismantles the flaw in the UK and, by extension, the Welsh Government's failure to engage in long-term planning for an aerosol-transmitted SARS virus. The Cymru group endorse and support the crucial work and analysis that has been carried out by the COVID-19 Airborne Transmission Alliance.
+The Inquiry is asked to pay close attention to the witness statement that has been provided to you from the COVID-19 :outline:`airborne` Transmission Alliance, which systemically dismantles the flaw in the UK and, by extension, the Welsh Government's failure to engage in long-term planning for an aerosol-transmitted SARS virus. The Cymru group endorse and support the crucial work and analysis that has been carried out by the COVID-19 :outline:`airborne` Transmission Alliance.
 
 So what about the implementation of lessons learnt from pandemic planning groups in Wales? There were a profusion of bodies apparently engaging in pandemic planning in Wales, similar to the other devolved nations and indeed to the United Kingdom.
 

@@ -61,7 +61,7 @@ So by this week in January, do you believe that it was clear that the virus in C
 
 **Professor Anthony Costello**: I think so, but it would also indicate that you have an even better chance of closing it down if your supposition was not correct, that, you know, the most important thing is to close down an infection from close family members, and therefore that makes it easier if you can close down households. And that's the first principle.
 
-Remember that in the early days you don't have tests, so what you go on are symptoms and close contacts, and if you can close that down then you hope that you can bring about containment.
+Remember that in the early days you don't have tests, so what you go on are symptoms and :outline:`close contact`s, and if you can close that down then you hope that you can bring about containment.
 
 **Lead Inquiry**: Of course --
 
@@ -667,7 +667,7 @@ We'll just have that on the screen, INQ000237322.
 
 You'll recall, Professor, this is the document in which the government sets out its strategy, if we go forward to the first page, of containing, delaying, mitigating, researching -- perhaps one more page -- I'm afraid I can't remember, I think it may be page 4. Let's try page 10, at 3.9. Ah, yes. The overall phases are: contain, delay, research, mitigate.
 
-So as at 3 March, step 1 of the government's strategy was detect early cases, follow up close contacts and prevent the disease taking hold in this country for as long as is reasonably possible.
+So as at 3 March, step 1 of the government's strategy was detect early cases, follow up :outline:`close contact`s and prevent the disease taking hold in this country for as long as is reasonably possible.
 
 By 3 March, in the absence of a scaled-up test system, had containment of the disease already been lost?
 

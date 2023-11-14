@@ -141,7 +141,7 @@ So we would test that, and essentially by testing variations you can tune and im
 
 Again, very briefly, what was your understanding of Covid transmission at that stage, on 18 February?
 
-**Professor David Halpern**: Sir Chris very generously helped us, and we had that early briefing, particularly to understand what was the transmission mechanism. So, again, it might seem trivial and everything but if you think, for example, it's airborne, it may be different than if you think it's so-called fomite, when you cough it's on a surface --
+**Professor David Halpern**: Sir Chris very generously helped us, and we had that early briefing, particularly to understand what was the transmission mechanism. So, again, it might seem trivial and everything but if you think, for example, it's :outline:`airborne`, it may be different than if you think it's so-called fomite, when you cough it's on a surface --
 
 **Counsel Inquiry**: Yes?
 

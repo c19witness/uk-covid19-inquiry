@@ -1357,17 +1357,17 @@ Dr Sandifer, I ask questions on behalf of Covid-19 Bereaved Families for Justice
 
 I want to look at an exhibit in your witness statement. If we could have up on the screen, please, INQ000089594.
 
-So this is the report to inform policy on airborne isolation rooms in major acute hospitals, and it's the Report of the Airborne Isolation Rooms Review Working Group on behalf of Welsh Government.
+So this is the report to inform policy on :outline:`airborne` isolation rooms in major acute hospitals, and it's the Report of the :outline:`airborne` Isolation Rooms Review Working Group on behalf of Welsh Government.
 
 If we have a look at the date, it's 18 October 2017, and we can see the purpose and summary of the document at the bottom.
 
 If we look now, please, at page 2, in the introduction, and it's the top paragraph, it says here:
 
-"Since 2006 NHS Wales Shared Services Partnership -- Specialist Estates Services ... have surveyed and produced an annual report on all airborne isolation rooms in major hospitals across Wales. Every year the reports have concluded that many of these airborne isolation rooms are inadequate for the purpose intended when assessed against current best practice."
+"Since 2006 NHS Wales Shared Services Partnership -- Specialist Estates Services ... have surveyed and produced an annual report on all :outline:`airborne` isolation rooms in major hospitals across Wales. Every year the reports have concluded that many of these :outline:`airborne` isolation rooms are inadequate for the purpose intended when assessed against current best practice."
 
 Then the rest of that introduction just outlines why there needs to be a working group to look at this.
 
-If we then look, please, at page 3, next, these are the recommendations and this is an indicative list of the organisms requiring airborne isolation facilities. Subparagraph (f): "SARS like infections and MERS CoV".
+If we then look, please, at page 3, next, these are the recommendations and this is an indicative list of the organisms requiring :outline:`airborne` isolation facilities. Subparagraph (f): "SARS like infections and MERS CoV".
 
 If we have a little look down at the bottom of the page there are some recommendations. Recommendation 2:
 
@@ -1381,7 +1381,7 @@ If we have a look now, please, at page 13 of this document --
 
 **Lady Hallett**: Ms Shepherd, just before you go on, can you alert me to which is the question I have given permission for you to ask.
 
-**Ms Shepherd**: Yes, my Lady, you gave me permission to ask why there hadn't been an update to the airborne isolation facilities in accordance with this document.
+**Ms Shepherd**: Yes, my Lady, you gave me permission to ask why there hadn't been an update to the :outline:`airborne` isolation facilities in accordance with this document.
 
 **Lady Hallett**: Sorry, I must have lost it. Anyway, okay.
 

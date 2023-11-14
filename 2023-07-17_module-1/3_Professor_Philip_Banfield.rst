@@ -147,11 +147,11 @@ But, in general, the everyday occurrence of our members was trying to get the jo
 
 **Lead Inquiry**: One important, very important, operational area concerns of course the availability of respirators in order to be able -- and ventilators -- to be able to deal with the transmission of whatever virus it is which forms the basis of the pandemic.
 
-I don't want to go into the operational side of this issue, but was the BMA aware of whether or not there had been any planning for or preparation for the debate about the extent to which a future pandemic may be caused by a virus which was more transmissible than other viruses, in particular because it may be transmitted by aerosol transmission as opposed to droplet transmission? Was that a debate or an issue in which the BMA engaged pre-pandemic?
+I don't want to go into the operational side of this issue, but was the BMA aware of whether or not there had been any planning for or preparation for the debate about the extent to which a future pandemic may be caused by a virus which was more transmissible than other viruses, in particular because it may be transmitted by :outline:`aerosol` transmission as opposed to :outline:`droplet` transmission? Was that a debate or an issue in which the BMA engaged pre-pandemic?
 
 **Professor Philip Banfield**: So the BMA discussed that within the public health community and within its own public health committees, because the local public health teams will have been practised and exercised in infection control measures.
 
-**Lead Inquiry**: Are you aware of the extent to which persons on the inside of government were debating the consequences of there being a pandemic which had a high degree of aerosol transmission? Do you know whether that is something that was being addressed?
+**Lead Inquiry**: Are you aware of the extent to which persons on the inside of government were debating the consequences of there being a pandemic which had a high degree of :outline:`aerosol` transmission? Do you know whether that is something that was being addressed?
 
 **Professor Philip Banfield**: No. There was no discussion and the general feeling is that there was a disconnect between anything that was going on in central government and the local public health teams.
 
@@ -265,7 +265,7 @@ What do you mean by that in practice? Do you mean that planning documents, plann
 
 **Lead Inquiry**: So, in essence, it's not really a question of planning, it's a question of ensuring that inequalities are reduced and the health of the population, in particular those who suffer from ill health, is improved, so that we are all better off for the next pandemic?
 
-**Professor Philip Banfield**: I mean, that's partially true, but when it comes to, for example, inequalities within our healthcare and social care workforce, we are still in a situation where the recommendation is for fluid-resistant surgical masks, which of course are not protective against aerosols at all. So that advice is affecting disproportionately those with inequalities.
+**Professor Philip Banfield**: I mean, that's partially true, but when it comes to, for example, inequalities within our healthcare and social care workforce, we are still in a situation where the recommendation is for fluid-resistant surgical masks, which of course are not protective against :outline:`aerosols` at all. So that advice is affecting disproportionately those with inequalities.
 
 And ventilation within our NHS estate and social care isn't -- hasn't been addressed either.
 
@@ -319,13 +319,13 @@ Were the BMA, Professor Banfield, aware that that 2019 National Risk Register co
 
 Dr Michael Prentice from NHS England -- again, no need to bring up his statement. He has provided a statement, hasn't given evidence to the Inquiry, but for reference, my Lady, it's INQ000177805, paragraph 181.
 
-He talks about the number of airborne high-consequence infectious disease units located in the country, and he says in that paragraph airborne HCID units are located at Guy's and Saint Thomas' NHS Trust, adult and paediatric services; secondly, Royal Free London NHS Foundation Trust with a paediatric service provided by Imperial College Healthcare and St Mary's. Then Liverpool University Hospitals NHS Foundation Trust, with a paediatric service provided at Alder Hey Children's Hospital, and, finally, Newcastle upon Tyne Hospitals NHS Foundation Trust, both adult and paediatric services. Each centre routinely provides two beds, eight in total, for airborne HCID. Specific service specifications outline the care pathway and unit requirements.
+He talks about the number of :outline:`airborne` high-consequence infectious disease units located in the country, and he says in that paragraph :outline:`airborne` HCID units are located at Guy's and Saint Thomas' NHS Trust, adult and paediatric services; secondly, Royal Free London NHS Foundation Trust with a paediatric service provided by Imperial College Healthcare and St Mary's. Then Liverpool University Hospitals NHS Foundation Trust, with a paediatric service provided at Alder Hey Children's Hospital, and, finally, Newcastle upon Tyne Hospitals NHS Foundation Trust, both adult and paediatric services. Each centre routinely provides two beds, eight in total, for :outline:`airborne` HCID. Specific service specifications outline the care pathway and unit requirements.
 
-Was the BMA aware that there were only four units in England for airborne HCIDs, with two beds each?
+Was the BMA aware that there were only four units in England for :outline:`airborne` HCIDs, with two beds each?
 
 **Professor Philip Banfield**: Yes.
 
-**Ms Munroe KC**: Well, firstly, those figures, those are the bald facts and figures from both the National Risk Register and the number of HCID units; would you agree that eight beds for an airborne HCID is woefully inadequate to contain 2,000 cases?
+**Ms Munroe KC**: Well, firstly, those figures, those are the bald facts and figures from both the National Risk Register and the number of HCID units; would you agree that eight beds for an :outline:`airborne` HCID is woefully inadequate to contain 2,000 cases?
 
 **Professor Philip Banfield**: Yes, I would.
 

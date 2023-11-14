@@ -23,27 +23,27 @@ The BMA has gathered extensive feedback from its membership over the course of t
 
 First, there was a failure to prepare adequately for a range of pandemic threats. The UK's pandemic planning was predominantly focused on an influenza-style pandemic. This narrow focus was an oversight, particularly as there had been relatively recent coronavirus outbreaks, including SARS in 2002 and MERS in 2012.
 
-One consequence of the predominant focus on an influenza-style pandemic was that the UK's response to Covid-19 failed to properly consider the potential for aerosol transmission of the virus.
+One consequence of the predominant focus on an influenza-style pandemic was that the UK's response to Covid-19 failed to properly consider the potential for :outline:`aerosol` transmission of the virus.
 
 This in turn impacted the public health measures put in place, including the focus on hand washing and the delay in mandating mask wearing for the public.
 
-For doctors and other healthcare workers, the failure in considering aerosol transmission resulted in insufficient stocks of appropriate PPE and inadequate infection prevention and control in healthcare settings. As one doctor in Scotland said:
+For doctors and other healthcare workers, the failure in considering :outline:`aerosol` transmission resulted in insufficient stocks of appropriate PPE and inadequate infection prevention and control in healthcare settings. As one doctor in Scotland said:
 
 "The PPE guidance was based not on safety, but rather the lack of preparedness."
 
 Shockingly, this is the case even now. The current IPC guidance continues to put staff and patients at risk by erroneously stating that fluid-resistant surgical masks are adequate protection for healthcare workers carrying out routine care for Covid positive patients, rather than specifying respirators such as filtering facepiece respirators, often referred to as FFP2 and FFP3 masks, which are recommended by international guidance and by the BMA.
 
-The limitations of surgical masks were well known prior to the pandemic, highlighted, for example, in a research report by the Health and Safety Executive in 2008. The HSE report noted that whilst surgical masks may reduce residual aerosol risk to some degree, they might not sufficiently reduce the likelihood of transmission, and consequently surgical masks should not be used in situations where close exposure to infectious aerosols is likely.
+The limitations of surgical masks were well known prior to the pandemic, highlighted, for example, in a research report by the Health and Safety Executive in 2008. The HSE report noted that whilst surgical masks may reduce residual :outline:`aerosol` risk to some degree, they might not sufficiently reduce the likelihood of transmission, and consequently surgical masks should not be used in situations where close exposure to infectious :outline:`aerosols` is likely.
 
 This same 2008 report also predicted the crisis of PPE supply, including the following statement:
 
 "The widespread use of respirators might be difficult to sustain during a pandemic unless provision is made for their use in advance."
 
-As the regulator entrusted with the protection of worker health, the Health and Safety Executive will be in a position to help the Inquiry understand what more should have been done to mitigate the risks to workers of an airborne virus.
+As the regulator entrusted with the protection of worker health, the Health and Safety Executive will be in a position to help the Inquiry understand what more should have been done to mitigate the risks to workers of an :outline:`airborne` virus.
 
 The BMA has heard from countless doctors who are concerned about the failure to provide adequate protection, including a GP in Northern Ireland who complained that there was:
 
-"... no attempt by the health and social care board to follow the science on airborne transmission and the need for staff to have FFP3 masks and HEPA air filters."
+"... no attempt by the health and social care board to follow the science on :outline:`airborne` transmission and the need for staff to have FFP3 masks and HEPA air filters."
 
 Governments could and should have been better prepared for the foreseeable risks to doctors and healthcare staff. This would have reduced the serious harm that affected so many of the BMA's members and the wider healthcare workforce, many of whom are today still suffering with long Covid acquired in their workplace.
 

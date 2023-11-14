@@ -191,7 +191,7 @@ Just at this stage, at a very general level, what were the sorts of issues, what
 
 **Lead Inquiry**: Is that the topic of risk assessment? So, because of the impact or because of the consequences of your members having to wear PPE that may not have been adequate or proper, that gave rise to very difficult debates about the extent to which they would have been placed at risk, the need for risk assessments, as well as the objective impact upon them individually of having to wear deficient PPE?
 
-**Professor Philip Banfield**: Yes, because there was a shortage of PPE, the very high-risk areas, like intensive care units, were using respiratory protection throughout the pandemic, but once you got beyond an intensive care unit, with people who were Covid positive, the amount and degree of PPE very rapidly tailed off. So, for example, people were either treating patients with no masks or with fluid-resistant surgical masks, which don't protect from an airborne virus.
+**Professor Philip Banfield**: Yes, because there was a shortage of PPE, the very high-risk areas, like intensive care units, were using respiratory protection throughout the pandemic, but once you got beyond an intensive care unit, with people who were Covid positive, the amount and degree of PPE very rapidly tailed off. So, for example, people were either treating patients with no masks or with fluid-resistant surgical masks, which don't protect from an :outline:`airborne` virus.
 
 **Lead Inquiry**: Was another area of general concern to the BMA the disproportionate impact on ethnic minority communities?
 
@@ -319,11 +319,11 @@ Are you okay to come back this afternoon, Professor? Thank you.
 
 **Mr Keith**: Professor Banfield, at paragraph 145 you say this:
 
-"While not a specific [non-pharmaceutical intervention], the BMA contends that a key failure of the Government was, and continues to be, the failure to properly acknowledge (and at an early enough stage), that Covid-19 was spread by aerosol transmission and to adapt their public messaging, guidance to health services or the focus of their NPIs appropriately."
+"While not a specific [non-pharmaceutical intervention], the BMA contends that a key failure of the Government was, and continues to be, the failure to properly acknowledge (and at an early enough stage), that Covid-19 was spread by :outline:`aerosol` transmission and to adapt their public messaging, guidance to health services or the focus of their NPIs appropriately."
 
-Was that because there was an issue in the very early days as to whether or not Covid was transmitted by droplet or aerosol or both, and when it became apparent that it could be spread by both vectors, or both forms of transmission, the government didn't sufficiently tailor its messaging?
+Was that because there was an issue in the very early days as to whether or not Covid was transmitted by :outline:`droplet` or :outline:`aerosol` or both, and when it became apparent that it could be spread by both vectors, or both forms of transmission, the government didn't sufficiently tailor its messaging?
 
-**Professor Philip Banfield**: That's true in some ways. We have always advocated a precautionary approach to public health measures, and it was known that similar coronaviruses are transmitted by aerosol, you know, airborne spread rather than droplets, so it seemed sensible from a professional point of view to consider that possibility. There became more emerging evidence across that summer, and it became unequivocal, and at the point at which it became unequivocal, there were temporary changes to the advice from Public Health England that then got reversed after the vaccination programme came into play.
+**Professor Philip Banfield**: That's true in some ways. We have always advocated a precautionary approach to public health measures, and it was known that similar coronaviruses are transmitted by aerosol, you know, :outline:`airborne` spread rather than :outline:`droplets`, so it seemed sensible from a professional point of view to consider that possibility. There became more emerging evidence across that summer, and it became unequivocal, and at the point at which it became unequivocal, there were temporary changes to the advice from Public Health England that then got reversed after the vaccination programme came into play.
 
 **Lead Inquiry**: So relatively late?
 

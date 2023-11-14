@@ -29,7 +29,7 @@ Two, it was unlikely that existing antivirals would be effective.
 
 Three, there had been multiple cases of emergent infectious diseases with pandemic potential which had arisen within the previous century, and that they were usually zoonotic, jumping to humans from other animal species.
 
-Four, the most likely scenario was based on SARS, which was contained by barrier nursing, isolation and contact tracing, and Ebola, which was not airborne. But the reasonable worst-case scenario was based upon smallpox, a respiratory virus, with a fatality rate of 40%.
+Four, the most likely scenario was based on SARS, which was contained by barrier nursing, isolation and contact tracing, and Ebola, which was not :outline:`airborne`. But the reasonable worst-case scenario was based upon smallpox, a respiratory virus, with a fatality rate of 40%.
 
 Five, the possibility of asymptomatic transmission was clearly flagged.
 

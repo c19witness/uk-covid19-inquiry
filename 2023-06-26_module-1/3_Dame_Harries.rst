@@ -521,9 +521,9 @@ Is this the document that PHE would have produced and provided to DHSC in relati
 
 **Counsel Inquiry**: I'd like to look at the last two paragraphs on this page, please, and just remind ourselves of the reasonable worst-case scenario risk description, or indeed to see how it is in this template document.
 
-Over the past 30 years, more than 30 new or newly recognised diseases have been identified. Most of these have been zoonoses, ie diseases that are naturally transmissible, directly or indirectly, from animals to humans. The reasonable worst-case scenario ... is an outbreak of a high-consequence infectious disease ... which is airborne. An airborne disease is more likely to spread rapidly from person to person, and can make contact tracing more difficult compared to other diseases which have a different route of transmission. Other emerging infectious diseases which are spread through different routes of transmission are explored in the three variations below.
+Over the past 30 years, more than 30 new or newly recognised diseases have been identified. Most of these have been zoonoses, ie diseases that are naturally transmissible, directly or indirectly, from animals to humans. The reasonable worst-case scenario ... is an outbreak of a high-consequence infectious disease ... which is :outline:`airborne`. An :outline:`airborne` disease is more likely to spread rapidly from person to person, and can make contact tracing more difficult compared to other diseases which have a different route of transmission. Other emerging infectious diseases which are spread through different routes of transmission are explored in the three variations below.
 
-"Specifically, the current RWCS is based on an outbreak of a respiratory infection in the United Kingdom ... which is similar to the outbreak of ... (MERS) seen in South Korea in the 2015. This has been chosen due to the current risk of this disease and the historical precedent of imported MERS cases leading to outbreaks. However, it should be noted that due to the nature of an emerging infectious disease there is some uncertainty as to whether a different emerging pathogen, including one which was airborne, would lead to an outbreak similar to the scenario described."
+"Specifically, the current RWCS is based on an outbreak of a respiratory infection in the United Kingdom ... which is similar to the outbreak of ... (MERS) seen in South Korea in the 2015. This has been chosen due to the current risk of this disease and the historical precedent of imported MERS cases leading to outbreaks. However, it should be noted that due to the nature of an emerging infectious disease there is some uncertainty as to whether a different emerging pathogen, including one which was :outline:`airborne`, would lead to an outbreak similar to the scenario described."
 
 We can see, moving back to paragraph 4, that the "overall confidence assessment", the likelihood or plausibility, is assessed as being low.
 
@@ -535,7 +535,7 @@ Was the reference to infection control procedures a reference to IPC within the 
 
 "The RWCS is predicated on a novel or emerging infection (ie one that is either globally unknown or unknown/very rare in the UK) arising in another country and then arriving in the UK before it is identified. It is possible that a novel infection could arise in the UK first but this is less likely.
 
-"Based upon the experience of recent international outbreaks of MERS, the likely impact of such an outbreak originating outside the UK would be cases occurring amongst returning travellers and their families and close contacts, with potential spread to health care workers, and other patients within a hospital setting. The resulting cluster of individuals with a similar illness should lead to infection control within health care settings and other public health measures being instigated which can control the spread of the disease. For MERS, sustained human-to-human transmission outside of close contacts and healthcare workers has been limited so far ... and therefore there is currently a low risk of this disease presenting a wider threat to the UK. However, sustained human-to-human transmission in emerging airborne diseases is possible, which is why infection control procedures are critical to the mitigation of this risk."
+"Based upon the experience of recent international outbreaks of MERS, the likely impact of such an outbreak originating outside the UK would be cases occurring amongst returning travellers and their families and :outline:`close contact`s, with potential spread to health care workers, and other patients within a hospital setting. The resulting cluster of individuals with a similar illness should lead to infection control within health care settings and other public health measures being instigated which can control the spread of the disease. For MERS, sustained human-to-human transmission outside of :outline:`close contact`s and healthcare workers has been limited so far ... and therefore there is currently a low risk of this disease presenting a wider threat to the UK. However, sustained human-to-human transmission in emerging :outline:`airborne` diseases is possible, which is why infection control procedures are critical to the mitigation of this risk."
 
 **Dame Harries**: Sorry, and could you repeat the actual question?
 
@@ -545,29 +545,29 @@ Was the reference to infection control procedures a reference to IPC within the 
 
 So is the reference to infection control procedures a reference to IPC within healthcare settings or within community IPC or both, do you think?
 
-**Dame Harries**: So, I mean, as I say, I'm slightly -- we just need to take this carefully because I'm not clear of the absolute origin of the document, but I can see a peer reviewed reference there, of 2017, so it's going to be 2017 or later, which -- and the reference to infection control will be, it says, within healthcare settings. But we always have infection control measures within healthcare settings. This will refer to, potentially, bolstered healthcare settings controls, and I think this work actually was taken forward in the HCID pathway work which resulted in the commissioning of five new airborne HCID transmission control centres, if you like, which were not in the UK prior to this.
+**Dame Harries**: So, I mean, as I say, I'm slightly -- we just need to take this carefully because I'm not clear of the absolute origin of the document, but I can see a peer reviewed reference there, of 2017, so it's going to be 2017 or later, which -- and the reference to infection control will be, it says, within healthcare settings. But we always have infection control measures within healthcare settings. This will refer to, potentially, bolstered healthcare settings controls, and I think this work actually was taken forward in the HCID pathway work which resulted in the commissioning of five new :outline:`airborne` HCID transmission control centres, if you like, which were not in the UK prior to this.
 
 **Counsel Inquiry**: Right. When were those created or where were they created?
 
-**Dame Harries**: So the names are actually in the statement, but the HCID work which started after Ebola, which is obviously a contact transmission, but looked at the potential for high-consequence airborne and touch transmission, and at the time there were just two contact transmission centres, which was the Royal Free and Newcastle, so, working with DHSC and with NHSE, new airborne transmission control centres, if you like, were created, so this is a direct result of the HCID pathway. And in fact in 2018, of course, we had a MERS case; appropriate IPC in healthcare settings was put in place, and there was no transmission.
+**Dame Harries**: So the names are actually in the statement, but the HCID work which started after Ebola, which is obviously a contact transmission, but looked at the potential for high-consequence :outline:`airborne` and touch transmission, and at the time there were just two contact transmission centres, which was the Royal Free and Newcastle, so, working with DHSC and with NHSE, new :outline:`airborne` transmission control centres, if you like, were created, so this is a direct result of the HCID pathway. And in fact in 2018, of course, we had a MERS case; appropriate IPC in healthcare settings was put in place, and there was no transmission.
 
 **Counsel Inquiry**: All right, thank you.
 
-Is it right that, certainly looking at this document, which appears to have been based on the MERS outbreak, that SARS and MERS were considered to be primarily transmitted via droplets rather than aerosols?
+Is it right that, certainly looking at this document, which appears to have been based on the MERS outbreak, that SARS and MERS were considered to be primarily transmitted via :outline:`droplets` rather than :outline:`aerosols`?
 
 **Dame Harries**: No, I mean, I think Professor David Heymann put it --
 
 **Counsel Inquiry**: Sliding --
 
-**Dame Harries**: -- I thought expressed it very well in his -- the evidence prior to this was that mostly people were infectious when they were symptomatic, and the aerosol generating procedures, so these are procedures where you are, if you like, it's not quite right, but actively pushing air up from the bottom of the lungs, which is different, for example, to having a virus sitting in your nose and it just popping out if you sneeze or are passing somebody.
+**Dame Harries**: -- I thought expressed it very well in his -- the evidence prior to this was that mostly people were infectious when they were symptomatic, and the :outline:`aerosol` generating procedures, so these are procedures where you are, if you like, it's not quite right, but actively pushing air up from the bottom of the lungs, which is different, for example, to having a virus sitting in your nose and it just popping out if you sneeze or are passing somebody.
 
 So these were -- that is how the transmission had occurred, and if we go to the Korea case, for example, as soon as they had put in good infection control measures in the healthcare setting, then they got on top of the transmission.
 
-**Counsel Inquiry**: All right. And you've referred to the evidence that Professor Heymann gave to the Inquiry. He described, didn't he, that really the difference between droplets and aerosols is best described by a sliding scale --
+**Counsel Inquiry**: All right. And you've referred to the evidence that Professor Heymann gave to the Inquiry. He described, didn't he, that really the difference between :outline:`droplets` and :outline:`aerosols` is best described by a sliding scale --
 
 **Dame Harries**: Yes.
 
-**Counsel Inquiry**: -- droplets being the heavier, larger particles and aerosols being smaller, so the bottom of the scale.
+**Counsel Inquiry**: -- :outline:`droplets` being the heavier, larger particles and :outline:`aerosols` being smaller, so the bottom of the scale.
 
 **Dame Harries**: But there is also a generational thing, it depends about how forcefully they come out, which is why we have these distinctions about singing or shouting.
 
@@ -576,7 +576,7 @@ So these were -- that is how the transmission had occurred, and if we go to the 
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    Counsel could have asked for studies that informed on why singing 
-   and shouting could emit virons carried in aerosols but showed that 
+   and shouting could emit virons carried in :outline:`aerosols` but showed that
    talking or just breathing did not. Then if the witness didn't know of any
    if it was the case that she was informed by someone else, or instructred
    as to this claim. Then if that was the case, who that was. Perhaps these 
@@ -848,7 +848,7 @@ Then Exercise Broad Street in January of 2018, which had as its subject matter a
 
 Do you accept, Dame Jenny, that by the time we reached the outbreak of Covid-19 in January of 2020, that there had been lessons identified, warnings given, however you want to describe it, that come a pandemic, whether it be influenza or another type of disease, there needed to be within the health systems of the United Kingdom public health and also general health the capacity for a surge in terms of within hospitals, within workforces, and within a capacity in order to try and deal with a significant outbreak?
 
-**Dame Harries**: I do, but I think all of those three things are quite different surge mechanisms, and I'm wildly trying to remember -- it's a bit like variants for Covid -- which one the Northern Lights exercise was, I think it was Lassa fever and H7N9, which was to try and see if two HCIDs, an airborne and a touch, could be handled at the same time.
+**Dame Harries**: I do, but I think all of those three things are quite different surge mechanisms, and I'm wildly trying to remember -- it's a bit like variants for Covid -- which one the Northern Lights exercise was, I think it was Lassa fever and H7N9, which was to try and see if two HCIDs, an :outline:`airborne` and a touch, could be handled at the same time.
 
 **Counsel Inquiry**: Yes.
 

@@ -385,7 +385,7 @@ Was that a major factor in the control of SARS?
 
 **Counsel Inquiry**: Right.
 
-**Professor David Heymann**: The second thing, it reproduced deep in the lungs, and therefore was very difficult to transmit. There had to be really deep coughing and close contact with others. Finally, there was a willingness of the world at that time to work together, and so countries agreed not to travel to places where there were uncontrolled outbreaks of SARS Coronavirus 1, which included Singapore, Hong Kong --
+**Professor David Heymann**: The second thing, it reproduced deep in the lungs, and therefore was very difficult to transmit. There had to be really deep coughing and :outline:`close contact` with others. Finally, there was a willingness of the world at that time to work together, and so countries agreed not to travel to places where there were uncontrolled outbreaks of SARS Coronavirus 1, which included Singapore, Hong Kong --
 
 **Counsel Inquiry**: Yes.
 
@@ -579,7 +579,7 @@ Is that right?
 
 **Counsel Inquiry**: So what factors led to its containment after the period of about six months, I think you said?
 
-**Professor David Heymann**: Well, those factors I reviewed earlier, was the fact that it was very difficult to transmit from human to human, it required very close contact with :outline:`droplet` spread. The world worked together to limit travel to where outbreaks were occurring --
+**Professor David Heymann**: Well, those factors I reviewed earlier, was the fact that it was very difficult to transmit from human to human, it required very :outline:`close contact` with :outline:`droplet` spread. The world worked together to limit travel to where outbreaks were occurring --
 
 **Counsel Inquiry**: Yes.
 
@@ -607,7 +607,7 @@ Is that right?
 
 **Counsel Inquiry**: Right. Let's move on to MERS, please.
 
-First identified in the Kingdom of Saudi Arabia in June of 2012, humans became infected from close contact with camels, as we heard yesterday.
+First identified in the Kingdom of Saudi Arabia in June of 2012, humans became infected from :outline:`close contact` with camels, as we heard yesterday.
 
 Was the route of transmission between the species through :outline:`droplets` or bodily secretions or faeces or the combination of all three?
 
@@ -682,11 +682,11 @@ But it was rapidly contained, was it not, Professor Heymann, within a couple of 
 .. raw:: html
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
-   And we didn't circle back to aerosols/airborne for COVID-19 and it might be a good idea to do so
+   And we didn't circle back to :outline:`aerosols`/:outline:`airborne` for COVID-19 and it might be a good idea to do so
    if/when he is recalled. He could also be asked what the prevailing opinion of his employer
    (London School of Hygiene and Tropical Medicine) is, and whether other colleagues had connections to
    government policy making. For example early on, colleague Dr Shunmay Yeung was on TV confidently and incorrectly
-   <code><a href="https://its-airborne.org/oops#event-bbc-tv-dr-shunmay-yeung-lshtm-says-masks-dont-work">
+   <code><a href="https://its-:outline:`airborne`.org/oops#event-bbc-tv-dr-shunmay-yeung-lshtm-says-masks-dont-work">
    proclaiming that masks don't work</a>.</code>
    </div></div>
 

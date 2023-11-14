@@ -95,7 +95,7 @@ I think it's fair to say that we haven't done a detailed examination of the stan
 
 **Lead Inquiry**: It is obvious, and the evidence plainly establishes, that such preparedness as there was was focused on the possibility of an influenza pandemic as opposed to a different type of catastrophic pathogenic outbreak. To what extent did your researchers see the consequences of that focus as they looked at the general state of health of the social care sector? Did they see evidence that non-influenza outbreak had been planned for to any degree at all?
 
-**Mr Nigel Edwards**: No. Most of the focus had been on planning for an influenza-type outbreak, and the significance of that was that a number of the proposals for how to deal with that did not take into account the airborne nature of transmission for Covid-19.
+**Mr Nigel Edwards**: No. Most of the focus had been on planning for an influenza-type outbreak, and the significance of that was that a number of the proposals for how to deal with that did not take into account the :outline:`airborne` nature of transmission for Covid-19.
 
 **Lead Inquiry**: Did some of the employees and the managers in the social care sector to whom your researchers spoke express any view on the extent to which, both pre and post pandemic, the United Kingdom had availed itself sufficiently of learning or knowledge or experience from other countries who had had to deal with pandemic outbreaks in earlier times?
 

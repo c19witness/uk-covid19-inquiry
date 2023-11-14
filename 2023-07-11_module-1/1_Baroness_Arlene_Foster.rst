@@ -431,7 +431,7 @@ There hadn't, I think, been a report on Exercise Cygnus in Northern Ireland by t
 
 **Lead Inquiry**: Did you ensure, after no doubt an appropriate passage of time, that a Northern Ireland representative was to be on SAGE and had to be on SAGE?
 
-**Baroness Arlene Foster**: It was a matter of concern. The Chief Medical Officer and Chief Scientific Adviser, however, assured us that they were very much in close contact with their colleagues in Whitehall, and, as I understand it, I think from March the Chief Scientific Adviser did attend most of the meetings in SAGE and then augmented that with other mechanisms, which we will discuss during the response phase no doubt.
+**Baroness Arlene Foster**: It was a matter of concern. The Chief Medical Officer and Chief Scientific Adviser, however, assured us that they were very much in :outline:`close contact` with their colleagues in Whitehall, and, as I understand it, I think from March the Chief Scientific Adviser did attend most of the meetings in SAGE and then augmented that with other mechanisms, which we will discuss during the response phase no doubt.
 
 **Lead Inquiry**: Did you have many dealings yourself when you were First Minister with Professor Young, one of the two departmental CSAs? There was a CSA in the Department of Health, Professor Young, and one in the Department of Agriculture, Environment and Rural Affairs, as you would have known from your previous ministerial position.
 

@@ -1,7 +1,7 @@
 13. Submission by Mr Simblet, KC
 ================================
 
-**Mr Simblet**: My Lady, the Covid-19 Airborne Transmission Alliance (CATA) thanks you for granting this application for Core Participant status in Module 3. CATA looks forward to assisting this Inquiry in pursuing an effective investigation, and to that end we've submitted comprehensive and what we hope are helpful written submissions.
+**Mr Simblet**: My Lady, the Covid-19 :outline:`airborne` Transmission Alliance (CATA) thanks you for granting this application for Core Participant status in Module 3. CATA looks forward to assisting this Inquiry in pursuing an effective investigation, and to that end we've submitted comprehensive and what we hope are helpful written submissions.
 
 We very much hope that those will be published on the Inquiry's website and we hope others will read them.
 
@@ -9,7 +9,7 @@ I asked for 15 to 20 minutes or so to speak to the following six themes:
 
 1. To introduce my clients to you and say a little about how they come before you as Core Participants in this Inquiry.
 
-2. To highlight the centrality of our concerns about airborne transmission and underscore its importance in your investigation of the healthcare system.
+2. To highlight the centrality of our concerns about :outline:`airborne` transmission and underscore its importance in your investigation of the healthcare system.
 
 3. To highlight the issue of inadequate reporting of events and relevant data collection for the healthcare system.
 
@@ -21,23 +21,23 @@ I asked for 15 to 20 minutes or so to speak to the following six themes:
 
 So, (1), who and what is CATA? Well, CATA is a voluntary and collaborative forum, or consortium, made up of professional, scientific and employee organisations and individual representatives from all across the UK.
 
-It was formed in response to the UK Government's failure to recognise and adequately respond to the airborne route of transmission of the Covid-19 virus. The central contention is that UK Government's failure to recognise airborne transmission of Covid-19 in a timely manner put healthcare workers at significant risk of illness and death and caused other serious problems.
+It was formed in response to the UK Government's failure to recognise and adequately respond to the :outline:`airborne` route of transmission of the Covid-19 virus. The central contention is that UK Government's failure to recognise :outline:`airborne` transmission of Covid-19 in a timely manner put healthcare workers at significant risk of illness and death and caused other serious problems.
 
-For instance, the lack of acceptance of the risk of airborne transmission led to policies, decisions and practices that deprived health workers of the correct respiratory protective equipment, or RPE, to protect them from infection.
+For instance, the lack of acceptance of the risk of :outline:`airborne` transmission led to policies, decisions and practices that deprived health workers of the correct respiratory protective equipment, or RPE, to protect them from infection.
 
-Now, CATA, as an umbrella for 12 constituent bodies and several individual representatives, coincidentally and not intended to be symbolic, now 19 entities, comprises a large number, over 65,000 people. Its members include professional organisations, trade unions and healthcare charities. They provide a representative voice for a wide range of healthcare workers in both institutional and community settings. Its purpose is to ensure that its knowledge of the existing and developing scientific evidence basis for the aerosol transmission of SARS-CoV-2, as well as the lived experience of its members, was made available to this Inquiry.
+Now, CATA, as an umbrella for 12 constituent bodies and several individual representatives, coincidentally and not intended to be symbolic, now 19 entities, comprises a large number, over 65,000 people. Its members include professional organisations, trade unions and healthcare charities. They provide a representative voice for a wide range of healthcare workers in both institutional and community settings. Its purpose is to ensure that its knowledge of the existing and developing scientific evidence basis for the :outline:`aerosol` transmission of SARS-CoV-2, as well as the lived experience of its members, was made available to this Inquiry.
 
-I say something about airborne transmission and its importance for Module 3. A core submission is the importance of the Inquiry having the correct starting point. Prior to the pandemic, beta coronaviruses, including SARS, were recognised to be transmitted via the airborne route.
+I say something about :outline:`airborne` transmission and its importance for Module 3. A core submission is the importance of the Inquiry having the correct starting point. Prior to the pandemic, beta coronaviruses, including SARS, were recognised to be transmitted via the :outline:`airborne` route.
 
 We therefore disagree with paragraph 5 of NHS England written submissions where they assert that in early 2020 little was known about the Novel Coronavirus, including -- continuing -- whether, how quickly or in what ways it could be transmitted. We say that's wrong. We say there was already a lot known about these types of viruses, and importantly there was an appropriate protection and regulatory framework already in existence for tackling them.
 
-So one important issue for your Inquiry is to investigate why there was deviation from these existing policies and procedures, and instead why there wasn't effective implementation of the appropriate framework for response. As we say at paragraph 9 of our written submissions, the prolonged, mistaken focus on a droplet transmission route of Covid-19 misdirected all from proper and effective risk management, undermining both worker protection and measures to manage clinical risk.
+So one important issue for your Inquiry is to investigate why there was deviation from these existing policies and procedures, and instead why there wasn't effective implementation of the appropriate framework for response. As we say at paragraph 9 of our written submissions, the prolonged, mistaken focus on a :outline:`droplet` transmission route of Covid-19 misdirected all from proper and effective risk management, undermining both worker protection and measures to manage clinical risk.
 
-Simply put, there was a failure to appreciate the contemporaneous existing science regarding the airborne transmission of Covid-19. There was significant error in seeing Covid-19 as being due to an entirely new virus and, consequently, inappropriate measures were taken to deal with the virus in healthcare and community settings.
+Simply put, there was a failure to appreciate the contemporaneous existing science regarding the :outline:`airborne` transmission of Covid-19. There was significant error in seeing Covid-19 as being due to an entirely new virus and, consequently, inappropriate measures were taken to deal with the virus in healthcare and community settings.
 
-So the Inquiry will need to investigate whether promotion of the idea that the virus was spread through droplet rather than airborne transmission might have been because of inadequate available PPE and we note and support the observations from others such as the British Medical Association, the TUC, FEMHO, that this is an important topic for you to consider.
+So the Inquiry will need to investigate whether promotion of the idea that the virus was spread through :outline:`droplet` rather than :outline:`airborne` transmission might have been because of inadequate available PPE and we note and support the observations from others such as the British Medical Association, the TUC, FEMHO, that this is an important topic for you to consider.
 
-Crucially, CATA submits there was insufficient transparency and inadequate oversight, and the Government was misdirected on scientific decision-making during the pandemic. For example, there was a lack of transparency on the scientific sources and basis for the decisions made. These include, again, the focus on droplet as opposed to airborne transmission, the decision to remove the high consequence infectious disease, or HCID, status of Covid-19, and the decision to downgrade protective equipment for healthcare workers from effective respiratory protection equipment to fluid repellent surgical masks.
+Crucially, CATA submits there was insufficient transparency and inadequate oversight, and the Government was misdirected on scientific decision-making during the pandemic. For example, there was a lack of transparency on the scientific sources and basis for the decisions made. These include, again, the focus on :outline:`droplet` as opposed to :outline:`airborne` transmission, the decision to remove the high consequence infectious disease, or HCID, status of Covid-19, and the decision to downgrade protective equipment for healthcare workers from effective respiratory protection equipment to fluid repellent surgical masks.
 
 Even more specifically, the role of the infection prevention and control cell was not previously identified in the governance of pandemic management and its membership and basis for deliberations are unclear.
 

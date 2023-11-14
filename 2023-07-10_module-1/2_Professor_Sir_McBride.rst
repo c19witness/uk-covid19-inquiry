@@ -663,7 +663,7 @@ That was a long time before 2020, of course, but many of the aspects of the syst
 
 **Lead Inquiry**: -- on the level which was anticipated in the recommendations from Exercise Goliath?
 
-**Professor Sir McBride**: No, and I think therein is the difference, because again this was, you know, looking at it, rightly or wrongly, through the lens of a high-consequences infectious disease with very limited potential to become a pandemic. So it wasn't looking at these requirements through: might we need this for a pandemic? It was looking at: are these needed now for this high-consequences infectious disease which has limited -- compared to coronavirus, SARS-CoV-2, has limited person-to-person risk of transmission except particularly in those who are in close contact, such as in the healthcare environment?
+**Professor Sir McBride**: No, and I think therein is the difference, because again this was, you know, looking at it, rightly or wrongly, through the lens of a high-consequences infectious disease with very limited potential to become a pandemic. So it wasn't looking at these requirements through: might we need this for a pandemic? It was looking at: are these needed now for this high-consequences infectious disease which has limited -- compared to coronavirus, SARS-CoV-2, has limited person-to-person risk of transmission except particularly in those who are in :outline:`close contact`, such as in the healthcare environment?
 
 So I think that that, I suppose, leap of thinking and challenge in terms of thinking did not occur, I can only assume, in terms of whether these are capabilities that we may need to deploy in a scenario where we are dealing with a novel pandemic virus.
 
