@@ -1,4 +1,4 @@
-Searchable transcripts of the UK Covid-19 Inquiry hearings with comments from the 'Covid-19 is :outline:`airborne` community'
+Searchable transcripts of the UK Covid-19 Inquiry hearings with comments from the 'Covid-19 is airborne' community
 ==================================================================================================================
 
 .. note::
@@ -17,9 +17,9 @@ and fomites (and the ambiguous ":outline:`close contact`") mechanism of transmis
 hand-washing and wiping or surfaces. These mitigations were likely unhelpful in stopping transmission. One job of a Covid-19 public inquiry on those topics is to determine where those
 claims came from. THIS site allows us to insert questions we would have asked of witnesses, were we there and had the legal right to pose questions.
 
-Before the pandemic, it was easy for officials to discover which diseases were primarily transmitted via :outline:`airborne` routes (not :outline:`droplets` not fomites). See our `its-:outline:`airborne`.org/non-covid19-timeline <https://its-:outline:`airborne`.org/non-covid19-timeline>`_ and `its-:outline:`airborne`.org/non-covid19-list <https://its-:outline:`airborne`.org/non-covid19-list>`_. There are 129 entries here.
+Before the pandemic, it was easy for officials to discover which diseases were primarily transmitted via :outline:`airborne` routes (not :outline:`droplets` not fomites). See our `its-airborne.org/non-covid19-timeline <https://its-airborne.org/non-covid19-timeline>`_ and `its-airborne.org/non-covid19-list <https://its-airborne.org/non-covid19-list>`_. There are 129 entries here.
 
-During the pandemic, it was easy for officials to discover that COVID-19 was primarily transmitted via :outline:`airborne` routes (not :outline:`droplets` not fomites). See our `its-:outline:`airborne`.org/covid19-timeline <https://its-:outline:`airborne`.org/covid19-timeline>`_ and `its-:outline:`airborne`.org/covid19-list <https://its-:outline:`airborne`.org/covid19-list>`_. There are 185 entries here.
+During the pandemic, it was easy for officials to discover that COVID-19 was primarily transmitted via :outline:`airborne` routes (not :outline:`droplets` not fomites). See our `its-airborne.org/covid19-timeline <https://its-airborne.org/covid19-timeline>`_ and `its-airborne.org/covid19-list <https://its-airborne.org/covid19-list>`_. There are 185 entries here.
 
 Contents
 --------
