@@ -33,7 +33,7 @@ Tragically, there are doctors and healthcare workers who died because of Covid-1
 
 The report establishes that lack of preparedness for a pandemic and poor risk management in health services contributed to many doctors contracting Covid-19 at work.
 
-A key finding of this report is the lack of access by staff to FFP3 respirators, which are the type of filtering face piece respirators that provide maximum protection from infection transmitted by aerosol.
+A key finding of this report is the lack of access by staff to FFP3 respirators, which are the type of filtering face piece respirators that provide maximum protection from infection transmitted by :outline:`aerosol`.
 
 77% of the respondents to the BMA survey who acquired a Covid-19 infection in the first wave of the pandemic believe that they were infected while at work, and only 16% of respondents had access to these more protective FFP3 respirators at the time they were infected.
 

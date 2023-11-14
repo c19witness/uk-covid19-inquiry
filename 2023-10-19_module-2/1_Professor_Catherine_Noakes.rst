@@ -145,7 +145,7 @@ Now, for the assistance of all of us, if I can just run you through what each of
 
 **Counsel Inquiry**: Okay. And :outline:`airborne`?
 
-**Professor Catherine Noakes**: So :outline:`airborne` transmission, or, as you said, aerosol, refers to when there are very small particles containing the virus, these get emitted when we -- through our respiratory activities, and these are the particles that can remain in the air and travel over some distance.
+**Professor Catherine Noakes**: So :outline:`airborne` transmission, or, as you said, :outline:`aerosol`, refers to when there are very small particles containing the virus, these get emitted when we -- through our respiratory activities, and these are the particles that can remain in the air and travel over some distance.
 
 Often ":outline:`airborne`" is used to describe longer-range transmission, so to the other side of a room, but actually it also happens when you're close to somebody, because those small :outline:`aerosols` are also present at close range, they don't just sort of magically get to the far distance.
 
@@ -161,7 +161,7 @@ Then droplet?
 
 **Counsel Inquiry**: So it's not an easy distinction, necessarily, to make, owing to those differences in interpretation?
 
-**Professor Catherine Noakes**: Correct, it's not an easy distinction to make, and there's no sort of single cut-off between a :outline:`droplet` and an aerosol, we actually all breathe out all of the different sizes of particles. It's not a sort of -- there's no single -- not a cut-off you can put in there.
+**Professor Catherine Noakes**: Correct, it's not an easy distinction to make, and there's no sort of single cut-off between a :outline:`droplet` and an :outline:`aerosol`, we actually all breathe out all of the different sizes of particles. It's not a sort of -- there's no single -- not a cut-off you can put in there.
 
 **Lady Hallett**: Does it make a difference -- do you need to distinguish between them? Or if you're trying to combat them, supposing you have :outline:`aerosol` transmission, does it make a difference if you're trying to combat :outline:`droplet` transmission?
 
@@ -237,7 +237,7 @@ On 29 March of 2020 the World Health Organisation published a tweet stating that
 
 **Counsel Inquiry**: Why do you think there was a reluctance to acknowledge the potential for :outline:`airborne` transmission?
 
-**Professor Catherine Noakes**: So it is hard to be sure, but my personal opinions are there may be a number of reasons. So I think it's -- there's something about changing an accepted paradigm, if -- you know, traditionally respiratory diseases have often been categorised as droplet, and to change what people's accepted views are is -- can be difficult, especially if they feel that that challenge is coming from a different -- different field, a different area, aspect of it.
+**Professor Catherine Noakes**: So it is hard to be sure, but my personal opinions are there may be a number of reasons. So I think it's -- there's something about changing an accepted paradigm, if -- you know, traditionally respiratory diseases have often been categorised as :outline:`droplet`, and to change what people's accepted views are is -- can be difficult, especially if they feel that that challenge is coming from a different -- different field, a different area, aspect of it.
 
 I think mitigating :outline:`airborne` transmission is more challenging, because it involves dealing with the environment, every environment's different, and it's not as easy to put a simple rule like washing your hands.
 

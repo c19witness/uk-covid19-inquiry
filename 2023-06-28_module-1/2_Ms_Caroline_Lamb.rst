@@ -523,7 +523,7 @@ We'd also written to NHS boards in July 2019 to remind them of their responsibil
 
 **Lead Inquiry**: Is that a particular grade of mask which is required in certain HCID scenarios?
 
-**Ms Caroline Lamb**: Yes, that's the case. That's a grade of mask that protects people who are involved in procedures that might create aerosol.
+**Ms Caroline Lamb**: Yes, that's the case. That's a grade of mask that protects people who are involved in procedures that might create :outline:`aerosols`.
 
 **Lead Inquiry**: So the position then in relation to PPE and masks is that work was done in relation to raising awareness of the need for the stockpiles of PPE and masks to be up to date, letters were written to the health boards to say "Are you ready"?
 

@@ -323,7 +323,7 @@ Are you okay to come back this afternoon, Professor? Thank you.
 
 Was that because there was an issue in the very early days as to whether or not Covid was transmitted by :outline:`droplet` or :outline:`aerosol` or both, and when it became apparent that it could be spread by both vectors, or both forms of transmission, the government didn't sufficiently tailor its messaging?
 
-**Professor Philip Banfield**: That's true in some ways. We have always advocated a precautionary approach to public health measures, and it was known that similar coronaviruses are transmitted by aerosol, you know, :outline:`airborne` spread rather than :outline:`droplets`, so it seemed sensible from a professional point of view to consider that possibility. There became more emerging evidence across that summer, and it became unequivocal, and at the point at which it became unequivocal, there were temporary changes to the advice from Public Health England that then got reversed after the vaccination programme came into play.
+**Professor Philip Banfield**: That's true in some ways. We have always advocated a precautionary approach to public health measures, and it was known that similar coronaviruses are transmitted by :outline:`aerosols`, you know, :outline:`airborne` spread rather than :outline:`droplets`, so it seemed sensible from a professional point of view to consider that possibility. There became more emerging evidence across that summer, and it became unequivocal, and at the point at which it became unequivocal, there were temporary changes to the advice from Public Health England that then got reversed after the vaccination programme came into play.
 
 **Lead Inquiry**: So relatively late?
 
