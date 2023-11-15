@@ -1,5 +1,5 @@
-3. Dame Harries
-===============
+3. Dame Jenny Harries
+=====================
 
 *DAME JENNY HARRIES (affirmed).*
 

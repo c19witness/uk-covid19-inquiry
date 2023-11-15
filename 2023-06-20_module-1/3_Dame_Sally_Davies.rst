@@ -1,5 +1,5 @@
-3. Dame Davies
-==============
+3. Dame Sally Davies
+====================
 
 *DAME SALLY DAVIES (sworn).*
 

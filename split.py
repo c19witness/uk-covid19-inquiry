@@ -36,8 +36,10 @@ for file in glob.glob("**/*.rst"):
 """)
             ixFile.close()
             fName = previousLine.strip().replace("Submissions on Behalf of the ", "SOBO: ").replace("Submissions on Behalf of ", "SOBO ")
+            fName = fName.replace("Lady Hallett", "Lady Heather Hallett").replace("Dame Patel", "Dame Priti Patel").replace("Dame Harries", "Dame Jenny Harries").replace("Dame Davies", "Dame Sally Davies")
             #print("fName=" + fName)
             opFileName = d___m + "/" + ("0" if d in moreThanNine and fileIx < 10  else "") + str(fileIx) + "_" + fName.replace(" ", "_").replace(",", "_") + ".rst"
+            #print(opFileName)
             if os.path.isfile(opFileName):
                 break
             opFile = open(opFileName, 'w')

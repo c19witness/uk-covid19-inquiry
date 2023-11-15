@@ -1,5 +1,5 @@
-2. Dame Patel
-=============
+2. Dame Priti Patel
+===================
 
 *DAME PRITI PATEL (affirmed).*
 

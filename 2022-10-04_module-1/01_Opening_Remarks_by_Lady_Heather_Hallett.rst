@@ -2,8 +2,8 @@ Transcript of Module 1 Preliminary Hearing on 4 October 2022
 
 *(10.00 am)*
 
-1. Opening Remarks by Lady Hallett
-===================================
+1. Opening Remarks by Lady Heather Hallett
+==========================================
 
 **Lady Hallett**: Good morning. The UK Covid-19 Public Inquiry was established to examine, consider and report on the UK's preparations for and the response to the Covid-19 pandemic. This is our first public hearing.
 
