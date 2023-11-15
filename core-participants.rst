@@ -151,7 +151,7 @@ Core participants
    * - Long Covid Kids
      - Jane Ryan (Bhatt Murphy)
      - 2
-     -
+     - `Airborne Aligned <https://www.google.com/search?q=airborne+site%3Alongcovidkids.org>`_
    * - Long Covid SOS
      - Jane Ryan (Bhatt Murphy)
      - 2
