@@ -25,7 +25,7 @@ During the pandemic, it was easy for officials to discover that COVID-19 was pri
 
    For our entire site, we are yellow-highlighting :outline:`airborne` and :outline:`aerosol`. These are our indicators of correct 
    understanding of how Covid-19 transmits. We'd also highlighting :outline:`fomites` and :outline:`droplets` throughout 
-    - the bad descriptions of how it transmits. Lastly, we are highlighting :outline:`close contact` for which a decent 
+   - the bad descriptions of how it transmits. Lastly, we are highlighting :outline:`close contact` for which a decent 
    description is required because (say) *touching elbows* is **not** how Covid-19 transmits from one person to another.
 
 Contents
