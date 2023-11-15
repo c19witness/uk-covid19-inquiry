@@ -23,11 +23,11 @@ Core participants
    * - British Medical Association (BMA)
      - Brian Stanton (Innovo Law)
      - 1, 2, 4
-     -
-   * - British Medical Association
+     - `BMA Priorities include "Continue to seek opportunities to lobby for access to RPE (respiratory protective equipment) for staff working with confirmed or suspected COVID-19 patients, highlighting the inadequacies in IPC (Infection Prevention Control) guidance and failure to properly recognise the airborne transmission of COVID-19." <https://www.bma.org.uk/advice-and-support/covid-19/what-the-bma-is-doing/covid-19-bma-priorities>`_
+   * - British Medical Association (BMA)
      - Deirdre Domingo (Innovo Law Ltd)
      - 3
-     - 
+     - `BMA Priorities include "Continue to seek opportunities to lobby for access to RPE (respiratory protective equipment) for staff working with confirmed or suspected COVID-19 patients, highlighting the inadequacies in IPC (Infection Prevention Control) guidance and failure to properly recognise the airborne transmission of COVID-19." <https://www.bma.org.uk/advice-and-support/covid-19/what-the-bma-is-doing/covid-19-bma-priorities>`_
    * - Cabinet Office
      - Sharanjeet Sidhu (Government Legal Department)
      - 4
