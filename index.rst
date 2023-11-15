@@ -1,4 +1,4 @@
-A COVID-19-is-airborne community view of the UK Covid-19 Inquiry
+A COVID19-is-airborne community view of the UK Covid-19 Inquiry
 ================================================================
 
 .. note::
