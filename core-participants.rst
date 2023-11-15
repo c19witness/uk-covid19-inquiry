@@ -51,7 +51,7 @@ Core participants
    * - Covid-19 Bereaved Families For Justice UK (CBFFJ)
      - Elkan Abrahamson (Broudie Jackson Canter)
      - 1, 2, 3 & 4
-     - `Airborne Aligned <https://covidfamiliesforjustice.org/wp-content/uploads/2021/11/Learn-Lessons-Save-Lives-Final.pdf>`_
+     - `"The general lack of mitigations against an airborne infection has impacted heavily on CV groups, especially those with persistent vulnerabilities" <https://covidfamiliesforjustice.org/wp-content/uploads/2021/11/Learn-Lessons-Save-Lives-Final.pdf>`_
    * - Covid-19 Bereaved Families for Justice Cymru (CBFJ Cymru)
      - Craig Court (Harding Evans Solicitors)
      - 1, 2, 3 & 4
