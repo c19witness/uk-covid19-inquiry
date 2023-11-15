@@ -155,7 +155,7 @@ Core participants
    * - Long Covid SOS
      - Jane Ryan (Bhatt Murphy)
      - 2
-     -
+     - `"Long Covid SOS signed a letter [..] calling for the government to pass legislation to ensure people using indoor public spaces are protected from airborne pathogens" <https://www.longcovidsos.org/post/long-covid-sos-write-to-health-secretary-steve-barclay-the-uk-is-running-out-of-clean-air>`_
    * - Long Covid Support
      - Jane Ryan (Bhatt Murphy)
      - 2
