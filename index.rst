@@ -21,6 +21,13 @@ Before the pandemic, it was easy for officials to discover which diseases were p
 
 During the pandemic, it was easy for officials to discover that COVID-19 was primarily transmitted via :outline:`airborne` routes (not :outline:`droplets` not fomites). See our `its-airborne.org/covid19-timeline <https://its-airborne.org/covid19-timeline>`_ and `its-airborne.org/covid19-list <https://its-airborne.org/covid19-list>`_. There are 185 entries here.
 
+.. note::
+
+   For our entire site, we are yellow-highlighting :outline:`airborne` and :outline:`aerosol`. These are our indicators of correct 
+   understanding of how Covid-19 transmits. We'd also highlighting :outline:`fomites` and :outline:`droplets` throughout 
+    - the bad descriptions of how it transmits. Lastly, we are highlighting :outline:`close contact` for which a decent 
+   description is required because (say) *touching elbows* is **not** how Covid-19 transmits from one person to another.
+
 Contents
 --------
 
