@@ -1,4 +1,4 @@
-14. Submissions on Behalf of the Covid-19 :outline:`airborne` Transmission Alliance by Mr Simblet KC
+14. Submissions on Behalf of the Covid-19 airborne Transmission Alliance by Mr Simblet KC
 =========================================================================================
 
 **Mr Simblet**: Thank you, my Lady.
