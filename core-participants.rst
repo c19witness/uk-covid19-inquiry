@@ -251,7 +251,7 @@ Core participants
    * - Save the Children UK
      - Jennifer Twite (Garden Court Chambers)
      - 2
-     -
+     - `"coronavirus is spread via droplets when a person coughs or sneezes" <https://www.savethechildren.org.uk/news/media-centre/press-releases/coronavirus-children-at-risk>`_ (might be out of date)
    * - Scottish Covid Bereaved (formerly The Scottish Covid-19 Bereaved Families for Justice)
      - Aamer Anwar (Aamer Anwar & Co)
      - 1, 2 & 3
