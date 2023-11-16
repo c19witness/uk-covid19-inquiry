@@ -11,6 +11,9 @@ A COVID19-is-airborne community view of the UK Covid-19 Inquiry
 The UK Covid-19 Inquiry was set up to “examine the UK’s response to and impact of the Covid-19 pandemic, and learn lessons for the future”,
 chaired by Baroness Heather Hallett, a former Court of Appeal judge.  
 
+The inquiry should (by may not) conclude that the UK should have identified primarily airborne transmission then tactically and strategically
+mitigated for it. The inquiry may not conclude this, so we're getting that in writing while the inquiry is underway.
+
 There were many questions not asked to witnesses as they testified.
 Some pertain to the predominant transmission mechanism (:outline:`airborne` / :outline:`aerosols`). Like many, the UK government was at times talking up :outline:`droplets`
 and fomites (and the ambiguous ":outline:`close contact`") mechanism of transmission (likely incorrect). With that a safe distance of two meters, and

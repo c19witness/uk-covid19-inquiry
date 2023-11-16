@@ -323,11 +323,11 @@ Core participants
    * - Trades Union Congress (TUC)
      - Gerard Stilliard (Thompsons Solicitors)
      - 2 & 3
-     - `Ventilation, ventilation, ventilation: We know that Covid is an airborne virus, meaning it is primarily spread through the air in tiny particles, known as aerosols. <https://www.tuc.org.uk/blogs/ventilation-ventilation-ventilation>`_
+     - `Ventilation, ventilation, ventilation (page): "We know that Covid is an airborne virus, meaning it is primarily spread through the air in tiny particles, known as aerosols". <https://www.tuc.org.uk/blogs/ventilation-ventilation-ventilation>`_
    * - Trades Union Congress (TUC)
      - Harry Thompson (Thompsons Solicitors)
      - 1
-     - `Ventilation, ventilation, ventilation: We know that Covid is an airborne virus, meaning it is primarily spread through the air in tiny particles, known as aerosols. <https://www.tuc.org.uk/blogs/ventilation-ventilation-ventilation>`_
+     - `Ventilation, ventilation, ventilation (page): "We know that Covid is an airborne virus, meaning it is primarily spread through the air in tiny particles, known as aerosols". <https://www.tuc.org.uk/blogs/ventilation-ventilation-ventilation>`_
    * - Traveller Movement
      - Martin Howe (Howe & Co Solicitors)
      - 4
