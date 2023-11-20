@@ -6,353 +6,226 @@ Core participants
 
    * - Name of Organisation/Individual
      - Recognised Legal Representative
-     - Modules
      - Airborne vs droplets/fomites
    * - 13 Pregnancy, Baby and Parent Organisations: Aching Arms; Baby; Lifeline; Bliss; The Ectopic Pregnancy Trust; Group B Strep Support; ICP Support; The Lullaby Trust; Miscarriage Association; National Childbirth Trust; Pelvic Partnership; Pregnancy Sickness Support; Tommy's; and Twins Trust
-     - Kim Harrison (Slater and Gordon)
-     - 3
-     - 
+     - Module 3: Kim Harrison (Slater and Gordon)
+     -
    * - Academy of Medical Royal Colleges
-     - N/A
-     - 3
-     - 
+     - Module 3 unknown
+     -
    * - Association of Directors of Public Health (ADPH)
-     - Henry Bermingham (Weightmans LLP)
-     - 1
-     - 
+     - Module 1: Henry Bermingham (Weightmans LLP)
+     -
    * - British Medical Association (BMA)
-     - Brian Stanton (Innovo Law)
-     - 1, 2, 4
-     - `BMA Priorities include "Continue to seek opportunities to lobby for access to RPE (respiratory protective equipment) for staff working with confirmed or suspected COVID-19 patients, highlighting the inadequacies in IPC (Infection Prevention Control) guidance and failure to properly recognise the airborne transmission of COVID-19." <https://www.bma.org.uk/advice-and-support/covid-19/what-the-bma-is-doing/covid-19-bma-priorities>`_
-   * - British Medical Association (BMA)
-     - Deirdre Domingo (Innovo Law Ltd)
-     - 3
+     - Modules 1, 2 & 4: Brian Stanton, Module 3: Deirdre Domingo (both of Innovo Law Ltd)
      - `BMA Priorities include "Continue to seek opportunities to lobby for access to RPE (respiratory protective equipment) for staff working with confirmed or suspected COVID-19 patients, highlighting the inadequacies in IPC (Infection Prevention Control) guidance and failure to properly recognise the airborne transmission of COVID-19." <https://www.bma.org.uk/advice-and-support/covid-19/what-the-bma-is-doing/covid-19-bma-priorities>`_
    * - Cabinet Office
-     - Sharanjeet Sidhu (Government Legal Department)
-     - 4
+     - Module 4: Sharanjeet Sidhu (Government Legal Department)
      -
    * - Care England
-     - Unknown
-     - 2
-     - 
-   * - Children's Rights Alliance
-     - Jennifer Twite (Garden Court Chambers)
-     - 2
-     - 
-   * - Clinically Vulnerable Families (CVF)
-     - Kim Harrison (Slater & Gordon)
-     - 3 & 4
+     - Module 2: Unknown 4: Kim Harrison (Slater & Gordon)
      -
    * - COVID-19 Airborne Transmission Alliance
-     - Cyrilia Knight (Saunders Law)
-     - 3
+     - Module 3: Cyrilia Knight (Saunders Law)
      -
    * - Covid-19 Bereaved Families For Justice UK (CBFFJ)
-     - Elkan Abrahamson (Broudie Jackson Canter)
-     - 1, 2, 3 & 4
+     - All modules: Elkan Abrahamson (Broudie Jackson Canter)
      - `"The general lack of mitigations against an airborne infection has impacted heavily on CV groups, especially those with persistent vulnerabilities" <https://covidfamiliesforjustice.org/wp-content/uploads/2021/11/Learn-Lessons-Save-Lives-Final.pdf>`_
    * - Covid-19 Bereaved Families for Justice Cymru (CBFJ Cymru)
-     - Craig Court (Harding Evans Solicitors)
-     - 1, 2, 3 & 4
+     - All modules: Craig Court (Harding Evans Solicitors)
      -
    * - Department for Business and Trade (DBT)
-     - Laura Zanchi (Government Legal Department)
-     - 1
+     - Module 1: Laura Zanchi (Government Legal Department)
      -
    * - Department for Science, Innovation and Technology (DSIT)
-     - Amir Mughal (Government Legal Department)
-     - 4
+     - Module 4: Amir Mughal (Government Legal Department)
      -
    * - Department of Health and Social Care (DHSC)
-     - Sarah Wise (Government Legal Department)
-     - 1, 2 & 4
+     - Modules 1, 2 & 4: Sarah Wise (Government Legal Department)
      -
    * - Department of Health in Northern Ireland
-     - Sara Erwin (Departmental Solicitor's Office)
-     - 3
+     - Module 3: Sara Erwin (Departmental Solicitor's Office)
      -
    * - Disability Action Northern Ireland
-     - Shamik Dutta (Bhatt Murphy)
-     - 2
+     - Module 2: Shamik Dutta (Bhatt Murphy)
      -
    * - Disability Charities Consortium
-     - Anne-Marie Irwin (Rook Irwin Sweeney)
-     - 3
+     - Module 3: Anne-Marie Irwin (Rook Irwin Sweeney)
      -
    * - Disability Rights UK, Disability Action Northern Ireland, Disability Wales and Inclusion Scotland
-     - Shamik Dutta (Bhatt Murphy Solicitors)
-     - 4
+     - Module 4: Shamik Dutta (Bhatt Murphy Solicitors)
      -
    * - Disability Rights UK
-     - Shamik Dutta (Bhatt Murphy)
-     - 2
+     - Module 2: Shamik Dutta (Bhatt Murphy)
      -
    * - Disability Wales Shamik Dutta (Bhatt Murphy)
-     - unknown
-     - 2
+     - Module 2: unknown
      -
    * - Federation of Ethnic Minority Healthcare Organisations (FEMHO)
-     - Cyrilia Knight (Saunders Law)
-     - 2, 3 & 4
+     - Modules 2, 3 & 4: Cyrilia Knight (Saunders Law)
      -
    * - Frontline Migrant Health Workers Group
-     - Helen Mowatt (Public Interest Law Centre)
-     - 3
+     - Module 3: Helen Mowatt (Public Interest Law Centre)
      -
    * - Government Office for Science (GO-Science)
-     - Amir Mughal (Government Legal Department)
-     - 1 & 2
+     - Modules 1 & 2: Amir Mughal (Government Legal Department)
      -
    * - Group of Welsh NHS bodies: Aneurin Bevan University Health Board; Betsi Cadwaladr University Health Board; Cwm Taf Morgannwg University Health Board; Hywel Dda University Local Health Board; Swansea Bay University Health Board; and Velindre University NHS Trust (excluding NHS Wales Shared Services Partnership)
-     - Sarah Watt (NWSSP Legal and Risk Services)
-     - 3
+     - Module 3: Sarah Watt (NWSSP Legal and Risk Services)
      -
    * - His Majesty's Treasury (HMT)
-     - Robyn Smith (Government Legal Department)
-     - 2, 3 & 4
-     -
-   * - His Majesty's Treasury (HMT)
-     - Armen Adjemian (Government Legal Department)
-     - 1
+     - Modules 2, 3 & 4: Robyn Smith, Module 1: Armen Adjemian (both of Government Legal Department)
      -
    * - Homecare Association
-     - unknown
-     - 2
+     - Module 2: unknown
      -
    * - Imperial College of Science, Technology and Medicine (Imperial)
-     - Paul Ridge (Bindmans LLP)
-     - 1 & 2
+     - Modules 1 & 2: Paul Ridge (Bindmans LLP)
      -
    * - Inclusion Scotland
-     - Shamik Dutta (Bhatt Murphy)
-     - 2
+     - Module 2: Shamik Dutta (Bhatt Murphy)
      -
    * - Independent Ambulance Association
-     - Linda Barker (Duncan Lewis Solicitors)
-     - 3
+     - Module 3: Linda Barker (Duncan Lewis Solicitors)
      -
    * - John's Campaign, Care Rights UK (formerly the Relatives and Residents Association) and the Patients Association
-     - Emma Jones (Leigh Day)
-     - 3
+     - Module 3: Emma Jones (Leigh Day)
      -
    * - Just for Kids Law
-     - Jennifer Twite (Garden Court Chambers)
-     - 2
+     - Module 2: Jennifer Twite (Garden Court Chambers)
      -
    * - Local Government Association (LGA)
-     - Thelma Stober (Local Government Association)
-     - 1 & 2
+     - Modules 1 & 2: Thelma Stober (Local Government Association)
      -
    * - Long Covid Kids, Long Covid Physio, Long Covid SOS and Long Covid Support
-     - Jane Ryan (Bhatt Murphy Solicitors)
-     - 3 
+     - Module 3: Jane Ryan (Bhatt Murphy Solicitors)
      -
    * - Long Covid Kids
-     - Jane Ryan (Bhatt Murphy)
-     - 2
+     - Module 2: Jane Ryan (Bhatt Murphy)
      - `Airborne Aligned <https://www.google.com/search?q=airborne+site%3Alongcovidkids.org>`_
    * - Long Covid SOS
-     - Jane Ryan (Bhatt Murphy)
-     - 2
+     - Module 2: Jane Ryan (Bhatt Murphy)
      - `"Long Covid SOS signed a letter [..] calling for the government to pass legislation to ensure people using indoor public spaces are protected from airborne pathogens" <https://www.longcovidsos.org/post/long-covid-sos-write-to-health-secretary-steve-barclay-the-uk-is-running-out-of-clean-air>`_
    * - Long Covid Support
-     - Jane Ryan (Bhatt Murphy)
-     - 2
+     - Module 2: Jane Ryan (Bhatt Murphy)
      -
    * - Medicines and Healthcare Products Regulatory Agency (MHRA)
-     - James McArthur (Government Legal Department)
-     - 4
+     - Module 4: James McArthur (Government Legal Department)
      -
    * - Migrant Primary Care Access Group (MPCAG)
-     - Paul Heron (Public Interest Law Centre)
-     - 4
+     - Module 4: Paul Heron (Public Interest Law Centre)
      -
    * - Mind
-     - Rheian Davies (Mind)
-     - 3
+     - Module 3: Rheian Davies (Mind)
      -
    * - National Care Forum
-     - unknown
-     - 2
+     - Module 2: unknown
      -
    * - National Institute for Health and Care Excellence (NICE)
-     - Mark Thompson (DWF Law LLP)
-     - 4
+     - Module 3: Steffan Groch, Module 4: Mark Thompson (both of DWF Law LLP)
      -
    * - National Pharmacy Association (NPA)
-     - Deirdre Domingo (Innovo Law)
-     - 4
-     -
-   * - National Pharmacy Association (NPA)
-     - Brian Stanton (Innovo Law)
-     - 3
+     - Module 4: Deirdre Domingo, Module 3: Brian Stanton (both of Innovo Law)
      -
    * - National Police Chiefs' Council (NPCC)
-     - Sarah Winfield (MPS Directorate of Legal Services)
-     - 1 & 2
+     - Modules 1 & 2: Sarah Winfield (MPS Directorate of Legal Services)
      -
    * - NHS England (NHSE)
-     - Alistair Robertson (DAC Beachcroft LLP)
-     - 1, 2, 3 & 4
+     - All modules: Alistair Robertson (DAC Beachcroft LLP)
      -
    * - NHS National Services Scotland (NHS NSS)
-     - Morag Shepherd (NHS National Services Scotland)
-     - 1 & 3
-     -
-   * - National Institute for Health and Care Excellence (NICE)
-     - Steffan Groch (DWF Law LLP)
-     - 3
+     - Modules 1 & 3: Morag Shepherd (NHS National Services Scotland)
      -
    * - Northern Ireland Covid 19 Bereaved Families for Justice (NICBFJ)
-     - Conal McGarrity (P.A. Duffy & Co Solicitors)
-     - 1, 2, 3 & 4
+     - All modules: Conal McGarrity (P.A. Duffy & Co Solicitors)
      -
    * - Northern Ireland Department of Health (DoH)
-     - Sara Erwin (Departmental Solicitor\'s Office)
-     - 1 & 4
+     - Modules 1 & 4: Sara Erwin (Departmental Solicitor's Office)
      -
    * - Office of the Chief Medical Officer (CMO)
-     - Warrick Olsen (Government Legal Department)
-     - 1, 2 & 3
-     -
-   * - Office of the Chief Medical Officer (CMO)
-     - Steven Winder (Government Legal Department)
-     - 4
+     - Modules 1, 2 & 3: Warrick Olsen, Module 4: Steven Winder (both of Government Legal Department)
      -
    * - Public Health Agency for Northern Ireland
-     - June Turkington (Business Service Organisation Directorate of Legal Service)
-     - 3
-     -
-   * - Public Health Agency for Northern Ireland
-     - Brian Donnelly (Directorate of Legal Services)
-     - 4
+     - Module 3: June Turkington (Business Service Organisation Directorate of Legal Service), Module 4: Brian Donnelly (Directorate of Legal Services)
      -
    * - Public Health Scotland (PHS)
-     - Stefano Rinaldi (Central Legal Office)
-     - 1, 3 & 4
+     - Modules 1, 3 & 4: Stefano Rinaldi (Central Legal Office)
      -
    * - Public Health Wales (PHW)
-     - Paul Veysey (NHS Wales SSP Legal and Risk Services)
-     - 1
-     -
-   * - Public Health Wales (PHW)
-     - Rhiannon Holtham (NWSSP Legal and Risk Services)
-     - 4
+     - Module 1: Paul Veysey, Module 4: Rhiannon Holtham (both of NHS Wales SSP Legal and Risk Services)
      -
    * - Royal College of Nursing
-     - Claire Whittle (Bates Wells)
-     - 3
+     - Module 3: Claire Whittle (Bates Wells)
      -
    * - Royal Pharmaceutical Society
-     - Brian Stanton (Innovo Law)
-     - 3
+     - Module 3: Brian Stanton (Innovo Law)
      -
    * - Save the Children UK
-     - Jennifer Twite (Garden Court Chambers)
-     - 2
+     - Module 2: Jennifer Twite (Garden Court Chambers)
      - `"coronavirus is spread via droplets when a person coughs or sneezes" <https://www.savethechildren.org.uk/news/media-centre/press-releases/coronavirus-children-at-risk>`_ (might be out of date)
    * - Scottish Covid Bereaved (formerly The Scottish Covid-19 Bereaved Families for Justice)
-     - Aamer Anwar (Aamer Anwar & Co)
-     - 1, 2 & 3
-     -
-   * - Scottish Covid Bereaved (formerly The Scottish Covid-19 Bereaved Families for Justice)
-     - Sarah Murray (Aamer Anwar and Co)
-     - 4
+     - Modules 1, 2 & 3: Aamer Anwar, Module 4: Sarah Murray (both of Aamer Anwar and Co)
      -
    * - Scottish Health Boards (Scottish Territorial and Special Health Boards)
-     - Elaine Coull (NHS Central Legal Office)
-     - 4
-     -
-   * - Scottish Health Boards: NHS Ayrshire and Arran; NHS Borders; NHS Dumfries and Galloway; NHS Fife; NHS Forth Valley; NHS Grampian; NHS Greater Glasgow and Clyde; NHS Highland; NHS Lanarkshire; NHS Lothian; NHS Orkney; NHS Shetland; NHS Tayside and NHS Western Isles, The Scottish Ambulance Service; NHS National Waiting Times Centre Board; NHS Education for Scotland; The State Hospital; and NHS 24
-     - Elaine Coull (NHS Scotland Central Legal Office)
-     - 3
+     - Modules 3 & 4: Elaine Coull (NHS Scotland Central Legal Office)
      -
    * - Scottish Ministers
-     - Caroline Beattie (Scottish Government Legal Directorate)
-     - 1, 2, 3 & 4
+     - All modules: Caroline Beattie (Scottish Government Legal Directorate)
      -
    * - Secretary of State for Foreign, Commonwealth and Development Affairs
-     - Lesley Paton (Government Legal Department)
-     - 4
+     - Module 4: Lesley Paton (Government Legal Department)
      -
    * - Secretary of State for Health and Social Care
-     - Sarah Wise (Government Legal Department)
-     - 3
+     - Module 3: Sarah Wise (Government Legal Department)
      -
    * - Secretary of State for the Environment, Food & Rural Affairs (SSEFRA)
-     - Luke Chattaway (Government Legal Department)
-     - 1
+     - Module 1: Luke Chattaway (Government Legal Department)
      -
    * - Secretary of State for the Foreign, Commonwealth and Development Office (SSFCDO)
-     - Steven Winder (Government Legal Department)
-     - 2
+     - Module 2: Steven Winder (Government Legal Department)
      -
    * - Secretary of State for the Home Department (SSHD)
-     - Warrick Olsen (Government Legal Department)
-     - 1 & 2
+     - Module 1 & 2: Warrick Olsen (Government Legal Department)
      -
    * - Solace Women's Aid
-     - Paul Heron (Public Interest Law Centre)
-     - 2
+     - Module 2: Paul Heron (Public Interest Law Centre)
      -
    * - Southall Black Sisters
-     - Paul Heron (Public Interest Law Centre)
-     - 2
+     - Module 2: Paul Heron (Public Interest Law Centre)
      -
    * - The Chancellor of the Duchy of Lancaster (Cabinet Office)
-     - Sharanjeet Sidhu (Government Legal Department)
-     - 1 & 2
+     - Modules 1 & 2: Sharanjeet Sidhu (Government Legal Department)
      -
    * - The Executive Office of Northern Ireland (TEO)
-     - Joan MacElhatton (Departmental Solicitor\'s Office)
-     - 1 & 2
+     - Modules 1 & 2: Joan MacElhatton (Departmental Solicitor\'s Office)
      -
    * - The Royal College of Anaesthetists, the Faculty of Intensive Care Medicine, and the Association of Anaesthetists
-     - Sonia Campbell (Mishcon de Reya LLP)
-     - 3
+     - Module 3: Sonia Campbell (Mishcon de Reya LLP)
      -
    * - The Rt Hon Baroness Arlene Foster of Aghadrumsee DBE and Paul Givan MLA
-     - John McBurney (John McBurney Solicitors)
-     - 4
+     - Module 4: John McBurney (John McBurney Solicitors)
      -
    * - The Welsh Ambulance Services NHS Trust
-     - Gemma Cooper (NWSSP Legal and Risk Services)
-     - 3
+     - Module 3: Gemma Cooper (NWSSP Legal and Risk Services)
      -
    * - Trades Union Congress (TUC)
-     - Gerard Stilliard (Thompsons Solicitors)
-     - 2 & 3
-     - `Ventilation, ventilation, ventilation (page): "We know that Covid is an airborne virus, meaning it is primarily spread through the air in tiny particles, known as aerosols". <https://www.tuc.org.uk/blogs/ventilation-ventilation-ventilation>`_
-   * - Trades Union Congress (TUC)
-     - Harry Thompson (Thompsons Solicitors)
-     - 1
+     - Modules 2 & 3: Gerard Stilliard, Module 1: Harry Thompson (both of Thompson's Solicitors)
      - `Ventilation, ventilation, ventilation (page): "We know that Covid is an airborne virus, meaning it is primarily spread through the air in tiny particles, known as aerosols". <https://www.tuc.org.uk/blogs/ventilation-ventilation-ventilation>`_
    * - Traveller Movement
-     - Martin Howe (Howe & Co Solicitors)
-     - 4
+     - Module 4: Martin Howe (Howe & Co Solicitors)
      -
    * - UK CV Family, Scottish Vaccine Injury Group and Vaccine Injured and Bereaved UK (VIBUK)
-     - Terry Wilcox (Hudgell Solicitors)
-     - 4
+     - Module 4: Terry Wilcox (Hudgell Solicitors)
      -
    * - UK Health Security Agency (UKHSA)
-     - Katrina McCrory (Mills & Reeve)
-     - 1, 2 & 3
-     -
-   * - UK Health Security Agency (UKHSA)
-     - Olivia Barnes (Government Legal Department)
-     - 4
+     - Modules 1, 2 & 3: Katrina McCrory (Mills & Reeve), Module 4: Olivia Barnes (Government Legal Department)
      -
    * - UK Statistics Authority
-     - Elizabeth Rebello (Government Legal Department)
-     - 2
+     - Module 2: Elizabeth Rebello (Government Legal Department)
      -
    * - Welsh Government
-     - Stephanie McGarry (Browne Jacobson LLP)
-     - 1, 2, 3 & 4
+     - All modules: Stephanie McGarry (Browne Jacobson LLP)
      -
    * - Welsh Local Government Association (Welsh LGA)
-     - Thelma Stober (Local Government Association)
-     - 1 & 2
+     - Modules 1 & 2: Thelma Stober (Local Government Association)
      -
