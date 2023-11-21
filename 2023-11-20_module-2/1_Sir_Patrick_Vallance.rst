@@ -2086,7 +2086,7 @@ Can you explain that note, please?
    to him around mechanisms of transmission (airborne vs droplets/fomites) generally.
    Nor any questions on where the UK government's accepted droplets/fomites mechanism
    of spread came from. These are things he would know about off the top of his head.
-   He may be back as a witness, so we could observe Counsel probing these things.
+   He may be back as a witness, so we could still observe Counsel probing these things.
    </div></div>
 
 **Mr Menon KC**: Would that -- can you assist as to what the government's response was, if any, to that view that SAGE apparently held in October 2020?
