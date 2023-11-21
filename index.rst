@@ -1,4 +1,4 @@
-A COVID19-is-airborne community view of the UK Covid-19 Inquiry
+A Covid-19-is-airborne community view of the UK Covid-19 Inquiry
 ================================================================
 
 .. note::
@@ -22,7 +22,7 @@ claims came from. THIS site allows us to insert questions we would have asked of
 
 Before the pandemic, it was easy for officials to discover which diseases were primarily transmitted via :outline:`airborne` routes (not :outline:`droplets` not fomites). See our `its-airborne.org/non-covid19-timeline <https://its-airborne.org/non-covid19-timeline>`_ and `its-airborne.org/non-covid19-list <https://its-airborne.org/non-covid19-list>`_. There are 129 entries here.
 
-During the pandemic, it was easy for officials to discover that COVID-19 was primarily transmitted via :outline:`airborne` routes (not :outline:`droplets` not fomites). See our `its-airborne.org/covid19-timeline <https://its-airborne.org/covid19-timeline>`_ and `its-airborne.org/covid19-list <https://its-airborne.org/covid19-list>`_. There are 185 entries here.
+During the pandemic, it was easy for officials to discover that Covid-19 was primarily transmitted via :outline:`airborne` routes (not :outline:`droplets` not fomites). See our `its-airborne.org/covid19-timeline <https://its-airborne.org/covid19-timeline>`_ and `its-airborne.org/covid19-list <https://its-airborne.org/covid19-list>`_. There are 185 entries here.
 
 .. note::
 
