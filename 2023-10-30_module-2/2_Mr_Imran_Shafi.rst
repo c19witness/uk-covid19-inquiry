@@ -355,7 +355,7 @@ Number 10 understood, therefore, from 5 February that restrictions on borders wo
 
 **Mr Imran Shafi**: Erm, I don't recall that specific discussion.
 
-**Lead Inquiry**: You were told, were you not, in late February that Public Health England could only manage five coronavirus cases a week with all the :outline:`contacts` that those five cases would give rise to?
+**Lead Inquiry**: You were told, were you not, in late February that Public Health England could only manage five coronavirus cases a week with all the contacts that those five cases would give rise to?
 
 **Mr Imran Shafi**: Could well have been, yes.
 

@@ -307,7 +307,7 @@ Two points to pick up on that. Firstly, an issue you raise at various points in 
 
 **Counsel Inquiry**: So moving from there, given that that was what you were being told, do you think that enough was done during February to understand what that meant and what an NHS overwhelm would look like, what the numbers involved were?
 
-**Sir Patrick Vallance**: I think the numbers -- well, there was a lot done in terms of what needed to be -- what the options were to reduce the spread. So quite early in February work started on non-pharmaceutical interventions. Neil Ferguson in particular drew up a lot of modelling around that, what the different options were, and came up with a figure that others endorsed as well of needing to get the 75% reduction in contacts in order to try to really suppress this to the right level.
+**Sir Patrick Vallance**: I think the numbers -- well, there was a lot done in terms of what needed to be -- what the options were to reduce the spread. So quite early in February work started on non-pharmaceutical interventions. Neil Ferguson in particular drew up a lot of modelling around that, what the different options were, and came up with a figure that others endorsed as well of needing to get the 75% reduction in :outline:`contacts` in order to try to really suppress this to the right level.
 
 So there was a lot of work done on the modelling, there was a lot of work done exposing those options into COBR, including with the behavioural science input on that, and there was a discussion -- which I think Boris Johnson puts in his statement -- which he had with the CMO at the end of February on lockdown options and what the implications of those would be.
 
@@ -435,7 +435,7 @@ So help us, Sir Patrick, was there this tension or friction between the two of y
 
 **Counsel Inquiry**: Let me go back, then, with that in mind, to those meetings over that weekend of the 14th and 15th. We have gone through them in some detail with other witnesses and I'm not going to go through them in detail with you. But in summary, what was it that you were arguing for during the course of those meetings, and what was your understanding of what was decided?
 
-**Sir Patrick Vallance**: We got information on 13 March which unambiguously showed that the pandemic was far more widespread and far bigger and moving faster than we had anticipated, and that came from a number of sources, including surveillance systems that we'd set up to look at people who had pneumonia, hospital-based surveillance, and some work coming in from the initial sporadic surveillance systems and NHS numbers. That was unambiguous, and extremely worrying. Over that weekend, it became very clear that much more stringent measures would be needed to control this and they needed to be introduced quickly. I made my views known about that, that that was the view of the SAGE committee and the modellers, and it was my view that we were in a position now where we had to move quickly. That decision, I believe, was understood. On the Sunday of that weekend I was unambiguous in the meeting that much more stringent measures would be needed now, I think that's recorded in Imran Shafi's notebooks, and the following day when the Prime Minister announced that there would be voluntary measures to keep people from making contacts, I also suggested on that day that London was so far ahead that it would be necessary to possibly lock down London.
+**Sir Patrick Vallance**: We got information on 13 March which unambiguously showed that the pandemic was far more widespread and far bigger and moving faster than we had anticipated, and that came from a number of sources, including surveillance systems that we'd set up to look at people who had pneumonia, hospital-based surveillance, and some work coming in from the initial sporadic surveillance systems and NHS numbers. That was unambiguous, and extremely worrying. Over that weekend, it became very clear that much more stringent measures would be needed to control this and they needed to be introduced quickly. I made my views known about that, that that was the view of the SAGE committee and the modellers, and it was my view that we were in a position now where we had to move quickly. That decision, I believe, was understood. On the Sunday of that weekend I was unambiguous in the meeting that much more stringent measures would be needed now, I think that's recorded in Imran Shafi's notebooks, and the following day when the Prime Minister announced that there would be voluntary measures to keep people from making :outline:`contacts`, I also suggested on that day that London was so far ahead that it would be necessary to possibly lock down London.
 
 So those were my views over that weekend. I think frankly on that weekend an in principle decision was taken that lockdown would be required. It then took several more days to work that into a full mandatory process. But whether it's mandatory or voluntary is a political issue, not a scientific one.
 
@@ -2074,6 +2074,19 @@ Can you explain that note, please?
 **Mr Menon KC**: This is October 2020.
 
 **Sir Patrick Vallance**: Well, I think on the rule of six, we were pretty clear that we didn't actually think that that had an enormous basis in anything. In other words, it was: why six? Why not eight? Why not ten? We couldn't tell anyone which was better or worse, only that the more :outline:`contacts` you had, the more likely it was to create a spreading environment. Exactly how that was organised was a policy matter.
+
+.. raw:: html
+
+   <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
+   At a stage of the pandemic "contact tracing" (CT) made sense, but no
+   country was asking "were you in an N95 or equivalent", yet they should
+   have been.  Pat Vallance uses "contacts" in conjuction with "reduction of"
+   which is closer to a description of transmission than CT, but he's not
+   been asked about that specifically. So far no questions
+   to him around mechanisms of transmission (airborne vs droplets/fomites) generally.
+   Nor any questions on where the UK government's accepted droplets/fomites mechanism
+   of spread came from.
+   </div></div>
 
 **Mr Menon KC**: Would that -- can you assist as to what the government's response was, if any, to that view that SAGE apparently held in October 2020?
 
