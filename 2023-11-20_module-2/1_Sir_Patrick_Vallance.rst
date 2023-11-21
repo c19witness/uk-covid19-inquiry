@@ -2078,14 +2078,14 @@ Can you explain that note, please?
 .. raw:: html
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
-   At a stage of the pandemic "contact tracing" (CT) made sense, but no
+   At a stage of the pandemic, an activity called "contact tracing" (CT) made sense, but no
    country was asking "were you in an N95 or equivalent", yet they should
-   have been.  Pat Vallance uses "contacts" in conjuction with "reduction of"
+   have been because it to actual transmission. Pat Vallance uses "contacts" in conjuction with "reduction of"
    which is closer to a description of transmission than CT, but he's not
-   been asked about that specifically. So far no questions
+   been questioned about that specifically. So far no questions
    to him around mechanisms of transmission (airborne vs droplets/fomites) generally.
    Nor any questions on where the UK government's accepted droplets/fomites mechanism
-   of spread came from.
+   of spread came from. These are things he would know about off the top of his head.
    </div></div>
 
 **Mr Menon KC**: Would that -- can you assist as to what the government's response was, if any, to that view that SAGE apparently held in October 2020?
