@@ -61,7 +61,7 @@ That having been said, I do not think it would be right, and I'm a traditionalis
 
 **Lead Inquiry**: So in that sense, Professor, you were accountable to the Chief Medical Officer, and is that why you say in your statement that you wouldn't issue a piece of evidence, for example, to a core decision-maker, without first satisfying yourself that it was in line with the Chief Medical Officer's own views?
 
-**Professor Sir Van-Tam**: Yes, it would depend on the subject. So, for example, if it was something quite technical, on the aerobiology of respiratory viruses and droplet distances and aerosols, then of course I would just, you know, kind of crack on with giving the advice, in the interests of speed and efficiency of government. But if it was something notable or significant, it would only be right for me to channel that through the Chief Medical Officer.
+**Professor Sir Van-Tam**: Yes, it would depend on the subject. So, for example, if it was something quite technical, on the aerobiology of respiratory viruses and :outline:`droplet` distances and :outline:`aerosols`, then of course I would just, you know, kind of crack on with giving the advice, in the interests of speed and efficiency of government. But if it was something notable or significant, it would only be right for me to channel that through the Chief Medical Officer.
 
 **Lead Inquiry**: The evidence shows very plainly that during the initial weeks of the crisis, so particularly between January and March of 2020, you took the lead, by virtue of your role as DCMO for health protection, on the initial phase of the response to the pandemic. How did that come about?
 
@@ -307,7 +307,7 @@ Was there any real change, however, in the response of yourself, NERVTAG and tho
 
 **Lead Inquiry**: On 15 January you advised your DHSC colleagues on the subject of person-to-person transmission -- INQ000151316 -- and on page 1 you said, in the third paragraph:
 
-"For now we do have [person-to-person transmission] by the sound of it; but it does feel, from the statement made, like H5N1 in 2004 where we did see [person-to-person transmission] that was largely limited to really close contacts ... and where the length of the chains of transmission were short ... suggesting inefficacy transmissibility between humans."
+"For now we do have [person-to-person transmission] by the sound of it; but it does feel, from the statement made, like H5N1 in 2004 where we did see [person-to-person transmission] that was largely limited to really :outline:`close contacts` ... and where the length of the chains of transmission were short ... suggesting inefficacy transmissibility between humans."
 
 Was this an important moment because it was you informing your colleagues that you'd answered the question you'd poled in the earlier email, which is: is there person-to-person transmission?
 
@@ -643,7 +643,7 @@ So it's back to this point that I think there is -- it's always very difficult i
 
 **Lead Inquiry**: All right. Then secondly this, just on the epidemiological side, there is some suggestion in the material that whilst it's clear that outdoor sporting events epidemiologically are insignificant because they're outdoor, there may have been an underestimate of the epidemiological consequences of queuing to get into games or perhaps using public transport or the use of trains, and, as my Lady has observed, that's one way perhaps in which people may be coming together to go to a game and therefore there was an epidemiological risk there which perhaps wasn't fully appreciated at the time this advice was given?
 
-**Professor Sir Van-Tam**: Whenever you get people gathering together in conditions of close contact, low ventilation, with this virus, you're likely to get transmission.
+**Professor Sir Van-Tam**: Whenever you get people gathering together in conditions of :outline:`close contact`, low ventilation, with this virus, you're likely to get transmission.
 
 The ... the however many tens of thousands one could get into a stadium will be dwarfed by the however many millions that are gathering in pubs to watch it on Sky TV. So, you know, there's a broader context here of what the sporting event generates in terms of people coming together, quite often to drink alcohol, which we know reduces social barriers, to observe a sporting event.
 
@@ -751,7 +751,7 @@ Eat Out to Help Out.
 
 **Lead Inquiry**: What view would you taken had you been consulted?
 
-**Professor Sir Van-Tam**: So had I been consulted I wouldn't have made any distinction between Eat Out to Help Out and any other epidemiological event that brought different households into close contact with each other for the purposes of socialising, eating and consuming alcohol.
+**Professor Sir Van-Tam**: So had I been consulted I wouldn't have made any distinction between Eat Out to Help Out and any other epidemiological event that brought different households into :outline:`close contact` with each other for the purposes of socialising, eating and consuming alcohol.
 
 The net epidemiological effect, you know, is kind of agnostic to what's on the menu, as it were. But I would have said, "This is -- this is exactly encouraging what we have been trying to suppress and get on top of in the last few months". So it didn't feel sensible to me.
 
@@ -793,13 +793,13 @@ And I just couldn't see it working. I was sent to the Moonshot meeting, I can't 
 
 **Lead Inquiry**: Indeed.
 
-Finally, communications. In your statement you refer to the fact that there was a Japanese poster called the "Three Cs" (closed spaces, crowded places and close-contact settings), the merits of which commended themselves to you, and you sent a copy of that poster to the Cabinet Office in mid-June, so not during the lockdown and not "Save the NHS" time, but afterwards.
+Finally, communications. In your statement you refer to the fact that there was a Japanese poster called the "Three Cs" (closed spaces, crowded places and :outline:`close-contact` settings), the merits of which commended themselves to you, and you sent a copy of that poster to the Cabinet Office in mid-June, so not during the lockdown and not "Save the NHS" time, but afterwards.
 
 **Professor Sir Van-Tam**: No, no.
 
 **Lead Inquiry**: Why did you send a copy of that poster to the Cabinet Office in mid-June?
 
-**Professor Sir Van-Tam**: Well, I can't remember when I first discovered the existence of the Japanese "Three Cs" concept, but it immediately resonated with me. And, you know, all I can say is it resonated with me personally because I felt it would be a way, if we did it right, by which we could coach the public to look at any situation and just, you know, remember three Cs. It's pretty simple. Literally, is it closed? Corollary: and what's the ventilation like? Is it crowded? Are you putting a lot of people into that closed space? And is the purpose of them being there to have close contact with each other?
+**Professor Sir Van-Tam**: Well, I can't remember when I first discovered the existence of the Japanese "Three Cs" concept, but it immediately resonated with me. And, you know, all I can say is it resonated with me personally because I felt it would be a way, if we did it right, by which we could coach the public to look at any situation and just, you know, remember three Cs. It's pretty simple. Literally, is it closed? Corollary: and what's the ventilation like? Is it crowded? Are you putting a lot of people into that closed space? And is the purpose of them being there to have :outline:`close contact` with each other?
 
 And I felt that you could teach people to self-regulate almost and risk manage their own behaviours, their own exposures, if we could kind of make that concept work in the UK. And I --
 
@@ -833,17 +833,17 @@ Now, on 9 January, so very, very early in the story, you attended a PHE strategi
 
 **Mr Weatherby KC**: -- work at pace.
 
-The minute of that meeting, I'll give the reference for the record, it's INQ000119453, and the minute records that it was recognised that Covid, like SARS, was a virus with "higher airborne transmissibility", and that would mean, wouldn't it, that it was recognised that it was transmitted either by aerosol or droplet transmission; is that right?
+The minute of that meeting, I'll give the reference for the record, it's INQ000119453, and the minute records that it was recognised that Covid, like SARS, was a virus with "higher :outline:`airborne` transmissibility", and that would mean, wouldn't it, that it was recognised that it was transmitted either by :outline:`aerosol` or :outline:`droplet` transmission; is that right?
 
-**Professor Sir Van-Tam**: So higher airborne transmissibility --
+**Professor Sir Van-Tam**: So higher :outline:`airborne` transmissibility --
 
 **Mr Weatherby KC**: Yes.
 
-**Professor Sir Van-Tam**: -- does mean that it could be transmitted via the airborne route, which includes large droplets and also includes fine particles, also referred to as aerosols.
+**Professor Sir Van-Tam**: -- does mean that it could be transmitted via the :outline:`airborne` route, which includes large :outline:`droplets` and also includes fine particles, also referred to as :outline:`aerosols`.
 
 **Mr Weatherby KC**: Yes. Thank you.
 
-**Professor Sir Van-Tam**: But aerosol or airborne transmission is not part of the definition --
+**Professor Sir Van-Tam**: But :outline:`aerosol` or :outline:`airborne` transmission is not part of the definition --
 
 **Mr Weatherby KC**: No.
 
@@ -1033,7 +1033,7 @@ I think what I was flagging, that the HCID process, if you like, and the use of 
 
 **Mr Weatherby KC**: Yes.
 
-Then we move to 3 March, and again I'm trying to go at some speed here, so please stay with me, but then a DHSC official messaged that the standing capacity for airborne HCIDs had been exceeded and therefore there was this outward movement from the very high isolation capacity outwards. Now, that you probably won't remember the date --
+Then we move to 3 March, and again I'm trying to go at some speed here, so please stay with me, but then a DHSC official messaged that the standing capacity for :outline:`airborne` HCIDs had been exceeded and therefore there was this outward movement from the very high isolation capacity outwards. Now, that you probably won't remember the date --
 
 **Professor Sir Van-Tam**: No.
 
@@ -1253,7 +1253,7 @@ So in terms of this, first -- I've got two points on this, just to finish with, 
 
 Why is it that that happens in the eye of the storm, when the cases are going exponentially and healthcare workers are at the highest risk; why is that happening now?
 
-**Professor Sir Van-Tam**: There wasn't the clearest understanding at that stage that there was -- that fine droplet transmission was dominant, and I can only surmise that the people who wrote the guidance, Public Health England, felt that the predominant route of infections was droplet and, therefore, a surgical face mask was adequate. But I can't give you a better answer that that.
+**Professor Sir Van-Tam**: There wasn't the clearest understanding at that stage that there was -- that fine :outline:`droplet` transmission was dominant, and I can only surmise that the people who wrote the guidance, Public Health England, felt that the predominant route of infections was :outline:`droplet` and, therefore, a surgical face mask was adequate. But I can't give you a better answer that that.
 
 **Mr Weatherby KC**: Yes. Well, I mean, you were involved in these discussions. Let me just put this to you: was this decision to reduce the protection for healthcare workers because there simply weren't enough FFP3 respirators?
 
