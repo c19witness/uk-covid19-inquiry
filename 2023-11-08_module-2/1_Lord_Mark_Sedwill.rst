@@ -1,4 +1,4 @@
-Transcript of Module 2 Public Hearing on 08 November 2023.
+Transcript of Module 2 Public Hearing on 08 November 2023
 
 *(10.00 am)*
 
