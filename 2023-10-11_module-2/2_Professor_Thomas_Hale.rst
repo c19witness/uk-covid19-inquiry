@@ -173,7 +173,7 @@ But on account of the way in which a viral outbreak or a virus disease will spre
 
 **Professor Thomas Hale**: Mask wearing is indeed one of the factors that has been shown. I think I would -- I note the Royal Society's report on this fact, showing quite a clear balance of evidence that the right kind of mask wearing in particular has reduced transmission.
 
-**Lead Inquiry**: When you say the "right" type of mask, do you mean medical masks, respirators, as opposed to cloth masks?
+**Lead Inquiry**: When you say the "right" type of mask, do you mean :outline:`medical masks:outline:`, :outline:`respirators:outline:`, as opposed to :outline:`cloth masks:outline:`?
 
 **Professor Thomas Hale**: That does seem to be where the evidence shows, yes.
 

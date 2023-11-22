@@ -889,7 +889,7 @@ So it's the "Wuhan novel coronavirus ... infection preferential prevention and c
 
 **Mr Weatherby KC**: So could we go to the paragraph that had helpfully already been put up -- thank you, 4.3 -- the page before, I think, yeah, 4.3.
 
-So what was required was, firstly, an isolation room with negative pressure relative to the surrounding areas, or a neutral-pressure single room, and then a use specifically set out -- use of an FFP3 respirator by all persons entering the room. And then, I won't go through it but you can see it there, full PPE.
+So what was required was, firstly, an isolation room with negative pressure relative to the surrounding areas, or a neutral-pressure single room, and then a use specifically set out -- use of an :outline:`FFP3 respirator` by all persons entering the room. And then, I won't go through it but you can see it there, full PPE.
 
 Yes?
 
@@ -1003,7 +1003,7 @@ I think what I was flagging, that the HCID process, if you like, and the use of 
 
 **Professor Sir Van-Tam**: Yeah.
 
-**Mr Weatherby KC**: -- sets out the need for the isolation units but not in terms of specifically HCID units, but it does specifically refer to the FFP3s --
+**Mr Weatherby KC**: -- sets out the need for the isolation units but not in terms of specifically HCID units, but it does specifically refer to the :outline:`FFP3s` --
 
 **Professor Sir Van-Tam**: Yeah.
 
@@ -1091,7 +1091,7 @@ And then there is the example of ambulances; yes?
 
 **Professor Sir Van-Tam**: Yes.
 
-**Mr Weatherby KC**: Then if we move on to 2.9, please, the new guidance that's been proposed is then stepping down from FFP3 proper respirators to the kind of blue surgical masks that many of us are familiar with --
+**Mr Weatherby KC**: Then if we move on to 2.9, please, the new guidance that's been proposed is then stepping down from :outline:`FFP3 proper respirators` to the kind of blue surgical masks that many of us are familiar with --
 
 **Professor Sir Van-Tam**: Yes.
 
@@ -1255,7 +1255,7 @@ Why is it that that happens in the eye of the storm, when the cases are going ex
 
 **Professor Sir Van-Tam**: There wasn't the clearest understanding at that stage that there was -- that fine :outline:`droplet` transmission was dominant, and I can only surmise that the people who wrote the guidance, Public Health England, felt that the predominant route of infections was :outline:`droplet` and, therefore, a surgical face mask was adequate. But I can't give you a better answer that that.
 
-**Mr Weatherby KC**: Yes. Well, I mean, you were involved in these discussions. Let me just put this to you: was this decision to reduce the protection for healthcare workers because there simply weren't enough FFP3 respirators?
+**Mr Weatherby KC**: Yes. Well, I mean, you were involved in these discussions. Let me just put this to you: was this decision to reduce the protection for healthcare workers because there simply weren't enough :outline:`FFP3` :outline:`respirators`?
 
 **Professor Sir Van-Tam**: Not by me.
 

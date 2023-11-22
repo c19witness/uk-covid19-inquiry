@@ -979,15 +979,15 @@ Do you recall that?
 
 **Mr Matt Hancock**: But from one year to another, I doubt it would have changed much. You know, again, the central failing of that sort of risk register was not to learn the lessons from MERS and SARS, as has been discussed, and, as I've made clear in my submission, not to have the right plan to deal with a pandemic.
 
-**Lead Inquiry**: Would you agree that in 2016, the risk register for that central DHSC-led board showed a risk that supplies of face masks, respirators and gloves could be below the optimum requirement in the event of a pandemic, and that the health and social care systems would be unable to cope with an extreme surge in demand for services in the event of a pandemic?
+**Lead Inquiry**: Would you agree that in 2016, the risk register for that central DHSC-led board showed a risk that supplies of :outline:`face masks`, :outline:`respirators` and gloves could be below the optimum requirement in the event of a pandemic, and that the health and social care systems would be unable to cope with an extreme surge in demand for services in the event of a pandemic?
 
 **Mr Matt Hancock**: I wasn't aware of that, no.
 
-**Lead Inquiry**: That in 2017, the following year, countermeasures were still a risk issue, the supply of face masks, respirators and gloves could be below the optimum requirement, and an extreme surge in the NHS and social care system was still an identified risk? That's 2017.
+**Lead Inquiry**: That in 2017, the following year, countermeasures were still a risk issue, the supply of :outline:`face masks`, :outline:`respirators` and gloves could be below the optimum requirement, and an extreme surge in the NHS and social care system was still an identified risk? That's 2017.
 
 **Mr Matt Hancock**: Yes. If I may say so, my recollection was being reassured that we had a huge stockpile of PPE. Of course it's possible to write that it may be below the optimum, because the optimum may be an absolutely enormous quantity, which is exactly what we needed. So it's -- can be perfectly true to say it's below the optimum and at the same time reassure that it's huge.
 
-**Lead Inquiry**: The health and social care system may be unable to cope with an extreme surge in demand. That was an identified risk in the PIPP risk register in 2017, and by 2018, 24 September, the following risks were still being identified: issues with face masks, respirators, gloves below the optimum requirement; plans for the surge that would be required in the health and social care systems were not fully tested; there was a risk in relation to the health and social care systems being unable to cope in the event of a pandemic and that risk remains.
+**Lead Inquiry**: The health and social care system may be unable to cope with an extreme surge in demand. That was an identified risk in the PIPP risk register in 2017, and by 2018, 24 September, the following risks were still being identified: issues with :outline:`face masks`, :outline:`respirators`, gloves below the optimum requirement; plans for the surge that would be required in the health and social care systems were not fully tested; there was a risk in relation to the health and social care systems being unable to cope in the event of a pandemic and that risk remains.
 
 So for two and a half years those risks, having been identified by the PIPP board, were not mitigated by virtue of being addressed. They remained, did they not?
 

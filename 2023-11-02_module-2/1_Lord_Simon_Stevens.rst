@@ -707,7 +707,7 @@ Lord Stevens, I am going to ask you questions about that final topic on behalf o
 
 **Mr Weatherby KC**: Yes, and the management of it is something that no doubt the Inquiry will be going into, as Mr O'Connor indicated, in a future module, but an important point.
 
-It's right, I think, that in 2016 NERVTAG had made a formal recommendation to the Department of Health that there should be a rolling NHS programme for the fit testing of respirators, FFP3 masks, effectively as an important part of infection control. That's right, isn't it?
+It's right, I think, that in 2016 NERVTAG had made a formal recommendation to the Department of Health that there should be a rolling NHS programme for the fit testing of respirators, :outline:`FFP3 masks`, effectively as an important part of infection control. That's right, isn't it?
 
 **Lord Simon Stevens**: I'd need to see the NERVTAG papers.
 
@@ -799,11 +799,11 @@ Okay? Does that help you in terms of the knowledge about this?
 
 **Mr Weatherby KC**: -- but it was about respiratory -- respirators and other PPE, which went rather beyond Covid, didn't it?
 
-**Lord Simon Stevens**: Well, as you know, there was a live and indeed ongoing debate, which I was not directly involved with, but a scientific debate as to the circumstances under which it was appropriate to use the type 2R mask as against the FFP3 --
+**Lord Simon Stevens**: Well, as you know, there was a live and indeed ongoing debate, which I was not directly involved with, but a scientific debate as to the circumstances under which it was appropriate to use the type 2R mask as against the :outline:`FFP3` --
 
 **Mr Weatherby KC**: Yes, okay --
 
-**Lord Simon Stevens**: Masks and I think it's the FFP3 masks that you're referring to specifically here.
+**Lord Simon Stevens**: Masks and I think it's the :outline:`FFP3 masks` that you're referring to specifically here.
 
 **Mr Weatherby KC**: Well, I think that's something that possibly we'll leave to a different module, the granular detail of it.
 

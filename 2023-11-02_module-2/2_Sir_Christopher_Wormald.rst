@@ -1129,7 +1129,7 @@ So as of 24 January your department was receiving advice that if community trans
 
 Can we please put up INQ000106319.
 
-This is a paper produced again by your department. We understand on 31 March 2020. You can see it's PPE guideline comparison. Can we go quickly, please, to page 2. There will be a great deal of other evidence in this module and indeed in future modules about procurement of PPE, but on 31 March your department was proposing, under the intensive care column on the right-hand side, that to deal with the problem of a lack of PPE or a risk of lack of PPE, FFP3 respirators which had been recommended to be one per patient interaction was to be changed, and those who work in intensive care were to wear one over the course of two hours. Do you see that?
+This is a paper produced again by your department. We understand on 31 March 2020. You can see it's PPE guideline comparison. Can we go quickly, please, to page 2. There will be a great deal of other evidence in this module and indeed in future modules about procurement of PPE, but on 31 March your department was proposing, under the intensive care column on the right-hand side, that to deal with the problem of a lack of PPE or a risk of lack of PPE, :outline:`FFP3 respirators` which had been recommended to be one per patient interaction was to be changed, and those who work in intensive care were to wear one over the course of two hours. Do you see that?
 
 **Sir Christopher Wormald**: Yes.
 

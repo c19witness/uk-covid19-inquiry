@@ -31,7 +31,7 @@ For doctors and other healthcare workers, the failure in considering :outline:`a
 
 "The PPE guidance was based not on safety, but rather the lack of preparedness."
 
-Shockingly, this is the case even now. The current IPC guidance continues to put staff and patients at risk by erroneously stating that fluid-resistant surgical masks are adequate protection for healthcare workers carrying out routine care for Covid positive patients, rather than specifying respirators such as filtering facepiece respirators, often referred to as FFP2 and FFP3 masks, which are recommended by international guidance and by the BMA.
+Shockingly, this is the case even now. The current IPC guidance continues to put staff and patients at risk by erroneously stating that fluid-resistant surgical masks are adequate protection for healthcare workers carrying out routine care for Covid positive patients, rather than specifying respirators such as filtering facepiece respirators, often referred to as :outline:`FFP2` and :outline:`FFP3` masks, which are recommended by international guidance and by the BMA.
 
 The limitations of surgical masks were well known prior to the pandemic, highlighted, for example, in a research report by the Health and Safety Executive in 2008. The HSE report noted that whilst surgical masks may reduce residual :outline:`aerosol` risk to some degree, they might not sufficiently reduce the likelihood of transmission, and consequently surgical masks should not be used in situations where close exposure to infectious :outline:`aerosols` is likely.
 

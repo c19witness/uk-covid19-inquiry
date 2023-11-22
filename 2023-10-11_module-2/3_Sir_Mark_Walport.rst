@@ -179,7 +179,7 @@ In general terms, prior to the Royal Society's report, there was very little mat
 
 **Sir Mark Walport**: That's correct, yes.
 
-**Lead Inquiry**: The research looked at available evidence in relation to the efficacy of all masks, as I've suggested, respirators, surgical masks and face coverings such as cloth masks; is that correct?
+**Lead Inquiry**: The research looked at available evidence in relation to the efficacy of all masks, as I've suggested, :outline:`respirators`, :outline:`surgical masks` and face coverings such as :outline:`cloth masks`; is that correct?
 
 **Sir Mark Walport**: Yes.
 
@@ -191,15 +191,15 @@ In general terms, prior to the Royal Society's report, there was very little mat
 
 **Sir Mark Walport**: Yes. So there were 35 studies in community settings. Three of them were in fact randomised controlled trials, and there were 32 observational studies, and then were a further 40 studies in healthcare settings, one of which was a randomised control trial, and 39 observations.
 
-The majority of those studies, the large majority, showed that the masks were effective. And importantly there was a gradient. In other words, respirator masks were more effective than surgical masks, and mask wearing in the context of a mandate, in other words an instruction with more or less legal force behind it to wear masks, was also more effective.
+The majority of those studies, the large majority, showed that the masks were effective. And importantly there was a gradient. In other words, :outline:`respirator` masks were more effective than :outline:`surgical masks`, and mask wearing in the context of a mandate, in other words an instruction with more or less legal force behind it to wear masks, was also more effective.
 
 So, if you like, the plausibility of the results was emphasised by that gradient of effect. In other words, you might expect that a very -- you know, the sort of masks that you'd wear in a -- if you're exposed to a dangerous toxin is much more likely to be effective than a loosely fitting mask.
 
 I should qualify it by saying that there was information about mask wearing in other infections, and in fact there were evidence syntheses, and we've learned about flu as well. So it's not that there was no evidence, but there was no evidence in relation to masks in coronavirus.
 
-**Lead Inquiry**: The issue of mask wearing is a particularly vexed one in the context of the general population. To what extent did the research indicate a level of efficacy for cloth masks of the type that the government might order or mandate a population to wear, so non-medical?
+**Lead Inquiry**: The issue of mask wearing is a particularly vexed one in the context of the general population. To what extent did the research indicate a level of efficacy for :outline:`cloth masks` of the type that the government might order or mandate a population to wear, so non-medical?
 
-**Sir Mark Walport**: I don't think there were any of the systematic reviews that could distinguish between, say, cloth masks and surgical masks, so I don't think we have information to answer that.
+**Sir Mark Walport**: I don't think there were any of the systematic reviews that could distinguish between, say, :outline:`cloth masks` and :outline:`surgical masks`, so I don't think we have information to answer that.
 
 **Lady Hallett**: Was there also, do I remember, conflicting advice about mask wearing and its effectiveness and whether it engendered complacency?
 

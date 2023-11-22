@@ -1253,7 +1253,7 @@ Were surgical gowns stockpiled?
 
 **Sir Christopher Wormald**: No, they didn't, and I think you reference the report, those contracts didn't work largely because other countries introduced bans on the exports of PPE, and we were therefore -- and I'm sure we will cover this in much more detail in other modules -- forced to go to the general market at considerable expense.
 
-**Lead Inquiry**: Did your own departmental briefing paper for oversight and assurance in July 2020 report that the respirators which had been provided for frequently fitted white faces but the ones which were better off for black staff were purchased in much smaller quantity and there had been no provision for that in the post Exercise Cygnus pre-pandemic planning?
+**Lead Inquiry**: Did your own departmental briefing paper for oversight and assurance in July 2020 report that the :outline:`respirators` which had been provided for frequently fitted white faces but the ones which were better off for black staff were purchased in much smaller quantity and there had been no provision for that in the post Exercise Cygnus pre-pandemic planning?
 
 **Sir Christopher Wormald**: Yeah, that is a finding that the department found during the pandemic and acted on during the pandemic, that is correct.
 

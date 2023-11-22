@@ -619,7 +619,7 @@ You've said where we are today, but is it right that in the decade or so leading
 
 **Mr Jeremy Hunt**: Yes.
 
-**Mr Jacobs**: What she said yesterday, and Mr Weatherby touched on a part of it, she described not having resilience in the NHS and by comparator data, compared to similar countries, per 100,000 population, we were at the bottom of the table on number of doctors, number of nurses, number of beds, number of ITUs, number of respirators, number of ventilators.
+**Mr Jacobs**: What she said yesterday, and Mr Weatherby touched on a part of it, she described not having resilience in the NHS and by comparator data, compared to similar countries, per 100,000 population, we were at the bottom of the table on number of doctors, number of nurses, number of beds, number of ITUs, number of :outline:`respirators`, number of ventilators.
 
 Is that a picture you recognise, and do you think it's a pretty damning picture of the state and capacity of the NHS as we went into the pandemic?
 

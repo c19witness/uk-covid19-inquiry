@@ -379,7 +379,7 @@ Could we have, please, page 29, paragraph 10.2.
 
 Obviously in relation to countermeasures, on account of the strategic nature of the document, which we debated earlier, the only infection control procedures that were identified and debated in the course of this draft document could be those that were related to influenza: hygiene, respiratory and cough hygiene, patient placement, personal protective equipment, safe management of the care environment.
 
-Then if you scroll back out and just scroll slowly down to 10.7: respiratory protective equipment, FFP3 respirators, stockpiles of personal protective equipment.
+Then if you scroll back out and just scroll slowly down to 10.7: respiratory protective equipment, :outline:`FFP3` :outline:`respirators`, stockpiles of personal protective equipment.
 
 So obviously it followed, did it not, Ms Lamb, from that strategic approach adopted in the 2011 strategy and then in the draft July 2019 document that the only countermeasures that were really considered were those applicable for flu and, of course, not necessarily for a catastrophic HCID?
 
@@ -513,11 +513,11 @@ I think the other area that we were concerned about in terms of things not being
 
 **Lead Inquiry**: Just so that we're clear about that, one of the recommendations, I think from Iris, was that there needed to be a better understanding of potential use of respiratory protective equipment, the need for a survey of NHS boards and local authorities to understand what their needs might be, and that process of trying to identify what their prospective needs might be was never finally concluded?
 
-**Ms Caroline Lamb**: We had extended the survey, so we had been carrying out a survey of NHS boards in relation to their respiratory PPE, since I think 2015, and we had updated that survey to include additional questions about the number of staff who were fit tested for FFP3 masks, so we had implemented that, I don't think we'd yet had time to fully act on all the information that came out of that.
+**Ms Caroline Lamb**: We had extended the survey, so we had been carrying out a survey of NHS boards in relation to their respiratory PPE, since I think 2015, and we had updated that survey to include additional questions about the number of staff who were fit tested for :outline:`FFP3` masks, so we had implemented that, I don't think we'd yet had time to fully act on all the information that came out of that.
 
-We'd also written to NHS boards in July 2019 to remind them of their responsibility to make sure that staff who would require FFP3 masks were fit tested for those and that they had sufficient of those. That was in response to, I think, an Ebola outbreak.
+We'd also written to NHS boards in July 2019 to remind them of their responsibility to make sure that staff who would require :outline:`FFP3` masks were fit tested for those and that they had sufficient of those. That was in response to, I think, an Ebola outbreak.
 
-**Lead Inquiry**: Could you just explain something about what sorts of masks those are? You say FFP3 masks.
+**Lead Inquiry**: Could you just explain something about what sorts of masks those are? You say :outline:`FFP3` masks.
 
 **Ms Caroline Lamb**: Yeah.
 
