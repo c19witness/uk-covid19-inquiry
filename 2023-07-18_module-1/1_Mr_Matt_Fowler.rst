@@ -197,13 +197,13 @@ One of the things that I would like to point out is that had my dad died from so
 
 **Lead Inquiry**: Other aspects of hospital care.
 
-**Mr Matt Fowler**: So things that I have brought with me, so what I have been told is that hospital protocol at early stages was hand washing only, and patients were moved frequently between wards, which obviously increased exposure to infection. Often PPE was out of date, and not fit for purpose.
+**Mr Matt Fowler**: So things that I have brought with me, so what I have been told is that hospital protocol at early stages was :outline:`hand washing` only, and patients were moved frequently between wards, which obviously increased exposure to infection. Often PPE was out of date, and not fit for purpose.
 
 I have been told that at times some NHS workers were staying in tents in their gardens to try to avoid spreading infection to their loved ones. It sounds utterly tragic to me. It's not something that I think anybody should be -- had to have gone through.
 
 There was poor communication generally between sort of central and hospitals. Often that was contradictory, it changed frequently, and a lot of the time apparently it made no sense to NHS workers.
 
-**Lead Inquiry**: What about medical treatment? Have your members expressed concerns about aspects of treatment such as the availability of CPAP, continuous pressurised air devices, the use of and the apparently widespread use of DNACPR, do not attempt cardiopulmonary resuscitation orders, or notices, and availability generally of respirators and ventilators in order to be able to maintain treatment? Are those also areas in which concern has been expressed?
+**Lead Inquiry**: What about medical treatment? Have your members expressed concerns about aspects of treatment such as the availability of CPAP, continuous pressurised air devices, the use of and the apparently widespread use of DNACPR, do not attempt cardiopulmonary resuscitation orders, or notices, and availability generally of :outline:`respirators` and ventilators in order to be able to maintain treatment? Are those also areas in which concern has been expressed?
 
 **Mr Matt Fowler**: Over the course of the organisation's existence, we've had obviously -- almost 7,000 people have come to us, who've joined us, and these are the sort of stories that we hear all of the time, and alarmingly these are stories that we were hearing right at the start of Covid and we were seeing repeated again and again as time went on. Seeing the same horror stories that people had experienced in April of 2020 then also happening at Christmas, and then happening again after Christmas, was frankly traumatic to all of us that are involved.
 

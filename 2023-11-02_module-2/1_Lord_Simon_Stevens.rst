@@ -669,13 +669,13 @@ Lord Stevens, I am going to ask you questions about that final topic on behalf o
 
 **Lord Simon Stevens**: Absolutely.
 
-**Mr Weatherby KC**: So that's sufficiency, first of all, it's insufficient, but this point about fitting face masks, and also training to use PPE, is a further important point, isn't it?
+**Mr Weatherby KC**: So that's sufficiency, first of all, it's insufficient, but this point about fitting :outline:`face masks`, and also training to use PPE, is a further important point, isn't it?
 
 **Lord Simon Stevens**: Yes.
 
 **Mr Weatherby KC**: So it's sufficiency on the one hand but also, even if you have lots of it, if it doesn't fit or if your staff don't know how to use it, then that's an additional problem?
 
-**Lord Simon Stevens**: It is, although the two points are somewhat related, in that if you can't be certain of getting the same type of face mask or PPE with each delivery, because there's a shortage, then that is probably one of the root causes of the problems that I think you're describing.
+**Lord Simon Stevens**: It is, although the two points are somewhat related, in that if you can't be certain of getting the same type of :outline:`face mask` or PPE with each delivery, because there's a shortage, then that is probably one of the root causes of the problems that I think you're describing.
 
 **Mr Weatherby KC**: Yes, so if you know about the problem in advance, then the sufficiency of different types of PPE should be catered for?
 
@@ -707,7 +707,7 @@ Lord Stevens, I am going to ask you questions about that final topic on behalf o
 
 **Mr Weatherby KC**: Yes, and the management of it is something that no doubt the Inquiry will be going into, as Mr O'Connor indicated, in a future module, but an important point.
 
-It's right, I think, that in 2016 NERVTAG had made a formal recommendation to the Department of Health that there should be a rolling NHS programme for the fit testing of respirators, :outline:`FFP3 masks`, effectively as an important part of infection control. That's right, isn't it?
+It's right, I think, that in 2016 NERVTAG had made a formal recommendation to the Department of Health that there should be a rolling NHS programme for the fit testing of :outline:`respirators`, :outline:`FFP3 masks`, effectively as an important part of infection control. That's right, isn't it?
 
 **Lord Simon Stevens**: I'd need to see the NERVTAG papers.
 
@@ -723,7 +723,7 @@ It's right, I think, that in 2016 NERVTAG had made a formal recommendation to th
 
 INQ000022737, please.
 
-And, as you can see, the heading of it "NERVTAG Sub-committee on the pandemic influenza", so directly related to pandemics and face masks and respirators stockpile, and then formal recommendations to the Department of Health, and I'll try to deal with this quickly but, if we can go to page 2 -- I'm so sorry, it's the bottom of page 1 and then 2. Have you got that?
+And, as you can see, the heading of it "NERVTAG Sub-committee on the pandemic influenza", so directly related to pandemics and :outline:`face masks` and :outline:`respirators` stockpile, and then formal recommendations to the Department of Health, and I'll try to deal with this quickly but, if we can go to page 2 -- I'm so sorry, it's the bottom of page 1 and then 2. Have you got that?
 
 So under "Discussion points" and "Stockpile":
 
@@ -773,7 +773,7 @@ Okay? Does that help you in terms of the knowledge about this?
 
 **Lord Simon Stevens**: -- but, just to be clear, the recommendation in respect of pandemic flu, it was a completely different set of PPE requirements, well not completely but substantially different, and the type of staff who would be involved in this type of fit testing, as I think this document itself suggests, were different than what we ended up with. So, look, there's no doubt --
 
-**Mr Weatherby KC**: Yes, we're talking about respirators for a respiratory virus.
+**Mr Weatherby KC**: Yes, we're talking about :outline:`respirators` for a respiratory virus.
 
 **Lord Simon Stevens**: Yeah, I mean, I'm talking about the :outline:`aerosol` generating procedures but also the use of these PPE in far wider settings than frankly was envisaged for the flu stockpile and that's one of the great misjudgements, essentially, that was made and resulted in the fact that, when Covid struck, we did not, as a country, have the PPE that we needed.
 
@@ -797,7 +797,7 @@ Okay? Does that help you in terms of the knowledge about this?
 
 **Lord Simon Stevens**: Yeah.
 
-**Mr Weatherby KC**: -- but it was about respiratory -- respirators and other PPE, which went rather beyond Covid, didn't it?
+**Mr Weatherby KC**: -- but it was about respiratory -- :outline:`respirators` and other PPE, which went rather beyond Covid, didn't it?
 
 **Lord Simon Stevens**: Well, as you know, there was a live and indeed ongoing debate, which I was not directly involved with, but a scientific debate as to the circumstances under which it was appropriate to use the type 2R mask as against the :outline:`FFP3` --
 

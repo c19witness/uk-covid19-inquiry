@@ -357,7 +357,7 @@ To the extent that it did address the possible outcomes of a major infectious di
 
 "Antibiotics/Antivirals"
 
-The presumption, the working presumption was, wasn't it, that the countermeasures would be those usually associated with dealing with an influenza outbreak, namely the existence of antivirals, Tamiflu, vaccination, because there is a flu vaccine, of course, and the infectious control and PPE would be hand washing and sensible personal hygiene methods, as well as the PPE required for the treatment of flu. That was how the document approached it; would you agree?
+The presumption, the working presumption was, wasn't it, that the countermeasures would be those usually associated with dealing with an influenza outbreak, namely the existence of antivirals, Tamiflu, vaccination, because there is a flu vaccine, of course, and the infectious control and PPE would be :outline:`hand washing` and sensible personal hygiene methods, as well as the PPE required for the treatment of flu. That was how the document approached it; would you agree?
 
 **Sir Frank Atherton**: Well, I would say it's true but you could equally apply those to cholera or measles or a wide range of other infectious diseases. I don't think it was specific to flu, the framework we're looking at.
 

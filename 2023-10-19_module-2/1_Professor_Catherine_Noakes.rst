@@ -137,11 +137,11 @@ Now, as the pandemic progressed, a number of subgroups were set up under the aus
 
 **Counsel Inquiry**: Indeed, thank you.
 
-What I want to go to next, if I may, is the issue of transmission and how the scientific evidence and understanding evolved over the period of the pandemic. To do so, may I just firstly deal with the various routes of transmission. We see that there is fomite transmission, :outline:`airborne` transmission, sometimes known as :outline:`aerosol` transmission, and :outline:`droplet` transmission.
+What I want to go to next, if I may, is the issue of transmission and how the scientific evidence and understanding evolved over the period of the pandemic. To do so, may I just firstly deal with the various routes of transmission. We see that there is :outline:`fomite transmission`, :outline:`airborne` transmission, sometimes known as :outline:`aerosol` transmission, and :outline:`droplet` transmission.
 
-Now, for the assistance of all of us, if I can just run you through what each of those actually means. So fomite?
+Now, for the assistance of all of us, if I can just run you through what each of those actually means. So :outline:`fomite`?
 
-**Professor Catherine Noakes**: Okay, so fomite transmission refers to -- a fomite is an object, so it refers to transmission that would happen if, say, a surface or an object was contaminated, somebody touched that object with their hand and then they subsequently touched their mucus membrane, so their eyes, nose or mouth.
+**Professor Catherine Noakes**: Okay, so :outline:`fomite` transmission refers to -- a :outline:`fomite` is an object, so it refers to transmission that would happen if, say, a surface or an object was contaminated, somebody touched that object with their hand and then they subsequently touched their mucus membrane, so their eyes, nose or mouth.
 
 **Counsel Inquiry**: Okay. And :outline:`airborne`?
 
@@ -157,7 +157,7 @@ Often ":outline:`airborne`" is used to describe longer-range transmission, so to
 
 Then :outline:`droplet`?
 
-**Professor Catherine Noakes**: So :outline:`droplet` transmission is -- this is a slightly more tricky one, because it tends -- most people think of it as it refers to large :outline:`droplets`, almost like the spit :outline:`droplets`, that then behave like a ball, ballistically, and deposit out on surfaces very close by. Now, in traditional sort of infection control in healthcare, :outline:`droplets` are defined as particles that are above 5 microns in diameter, and that's not correct, because a 5-micron diameter -- well, a 10-micron diameter particle can stay in the air and go to the other side of the room. So there are actually some incorrect definitions used to define the difference between :outline:`droplets` and :outline:`aerosols` that are used very commonly in infection control literature.
+**Professor Catherine Noakes**: So :outline:`droplet` transmission is -- this is a slightly more tricky one, because it tends -- most people think of it as it refers to large :outline:`droplets`, almost like the spit :outline:`droplets`, that then behave like a ball, ballistically, and :outline:`deposit out on surfaces` very close by. Now, in traditional sort of infection control in healthcare, :outline:`droplets` are defined as particles that are above 5 microns in diameter, and that's not correct, because a 5-micron diameter -- well, a 10-micron diameter particle can stay in the air and go to the other side of the room. So there are actually some incorrect definitions used to define the difference between :outline:`droplets` and :outline:`aerosols` that are used very commonly in infection control literature.
 
 **Counsel Inquiry**: So it's not an easy distinction, necessarily, to make, owing to those differences in interpretation?
 
@@ -165,7 +165,7 @@ Then :outline:`droplet`?
 
 **Lady Hallett**: Does it make a difference -- do you need to distinguish between them? Or if you're trying to combat them, supposing you have :outline:`aerosol` transmission, does it make a difference if you're trying to combat :outline:`droplet` transmission?
 
-**Professor Catherine Noakes**: So in some senses perhaps you don't, but actually where it becomes an issue is the sizes of these particles, because if you believe everything that happens when you're close to somebody is :outline:`droplets`, then, for example, you won't take precautions that require masks that will filter out the :outline:`aerosols`. So if people are just wearing a simple face mask or a face shield, which may deal with splashes and very large :outline:`droplets`, those won't filter out the small :outline:`aerosols` that are quite likely to also be present at close range.
+**Professor Catherine Noakes**: So in some senses perhaps you don't, but actually where it becomes an issue is the sizes of these particles, because if you believe everything that happens when you're close to somebody is :outline:`droplets`, then, for example, you won't take precautions that require masks that will filter out the :outline:`aerosols`. So if people are just wearing a simple :outline:`face mask` or a face shield, which may deal with splashes and very large :outline:`droplets`, those won't filter out the small :outline:`aerosols` that are quite likely to also be present at close range.
 
 **Lady Hallett**: I follow, thank you.
 
@@ -239,9 +239,9 @@ On 29 March of 2020 the World Health Organisation published a tweet stating that
 
 **Professor Catherine Noakes**: So it is hard to be sure, but my personal opinions are there may be a number of reasons. So I think it's -- there's something about changing an accepted paradigm, if -- you know, traditionally respiratory diseases have often been categorised as :outline:`droplet`, and to change what people's accepted views are is -- can be difficult, especially if they feel that that challenge is coming from a different -- different field, a different area, aspect of it.
 
-I think mitigating :outline:`airborne` transmission is more challenging, because it involves dealing with the environment, every environment's different, and it's not as easy to put a simple rule like washing your hands.
+I think mitigating :outline:`airborne` transmission is more challenging, because it involves dealing with the environment, every environment's different, and it's not as easy to put a simple rule like :outline:`washing your hands`.
 
-It also takes the responsibility from the individual to the organisation, because it's the organisation that tends to deal with the environment whereas it's the individual who perhaps washes their hands.
+It also takes the responsibility from the individual to the organisation, because it's the organisation that tends to deal with the environment whereas it's the individual who perhaps :outline:`washes their hands`.
 
 And I think I note in my statement as well that it's possible there may be a fear aspect to it, and you can see this in movies and things where it goes :outline:`airborne`, it promotes a fear. Now, I don't know whether that really was the case, did happen, but I think that may possibly play into it as well.
 
@@ -271,7 +271,7 @@ In terms of EMG, it was obviously not established until April 2020, but in your 
 
 **Counsel Inquiry**: Now, come autumn 2020, did you still have concerns in terms of :outline:`airborne` transmission being taken seriously, or did you consider that enough was being done?
 
-**Professor Catherine Noakes**: Yes, I did, and one of the concerns which I think you will have identified that I raised in my statement was that the publicly available information that's on the websites of the Public Health England, as it was then, and the NHS, for members of the public who maybe are trying to find information about how to manage the illness if, you know, they have a case in their home, that all still focused on :outline:`droplets` and surfaces and didn't mention :outline:`airborne`. So I emailed Patrick Vallance and Chris Whitty in September to say: I'm concerned that this information, that we -- you know, the evidence base that we've been collecting and discussing and agreeing is not feeding in to this guidelines.
+**Professor Catherine Noakes**: Yes, I did, and one of the concerns which I think you will have identified that I raised in my statement was that the publicly available information that's on the websites of the Public Health England, as it was then, and the NHS, for members of the public who maybe are trying to find information about how to manage the illness if, you know, they have a case in their home, that all still focused on :outline:`droplets` and :outline:`surfaces` and didn't mention :outline:`airborne`. So I emailed Patrick Vallance and Chris Whitty in September to say: I'm concerned that this information, that we -- you know, the evidence base that we've been collecting and discussing and agreeing is not feeding in to this guidelines.
 
 **Counsel Inquiry**: Did you get a positive response?
 
@@ -413,9 +413,9 @@ Was that an appropriate use of that line from your report?
 
 :outline:`Face masks` have already been dealt with by Professor Horby, so I'm not going to ask you to deal with that today, but if I can just ask you very briefly to touch upon :outline:`fomite` transmission and the mitigations there. You've already referenced the :outline:`hand washing` campaigns that we're all so familiar with, with the happy birthday and various other things, in that respect.
 
-But in terms of broader challenges in relation to surfaces, what were those?
+But in terms of broader challenges in relation to :outline:`surfaces`, what were those?
 
-**Professor Catherine Noakes**: So there was -- I mean, I guess any surfaces which are contaminated, there's a potential risk there, so we're thinking around cleaning of those surfaces. But I think, although that was a key focus early on in the pandemic, really the evidence base to show that hand hygiene and cleaning surfaces reduces transmission for Covid-19 has not grown. I have yet to see evidence that suggests that it plays a major role. At the same time, I don't believe we can dismiss it, and I think we should have a certain amount of precaution there.
+**Professor Catherine Noakes**: So there was -- I mean, I guess any :outline:`surfaces` which are contaminated, there's a potential risk there, so we're thinking around cleaning of those :outline:`surfaces`. But I think, although that was a key focus early on in the pandemic, really the evidence base to show that :outline:`hand hygiene` and :outline:`cleaning surfaces` reduces transmission for Covid-19 has not grown. I have yet to see evidence that suggests that it plays a major role. At the same time, I don't believe we can dismiss it, and I think we should have a certain amount of precaution there.
 
 **Counsel Inquiry**: Thank you.
 

@@ -145,7 +145,7 @@ Was your reference here to the government having placed too much reliance upon t
 
 **Mr Kamran Mallick**: Yes. So the influenza modelling would be around kind of that idea of herd immunity, that if you let it spread there is natural protection that develops within people. We felt that that was not the right thing to be doing within this particular virus.
 
-**Lead Inquiry**: Was it your position that the best protection was not to have measures for hand washing or for trying to control marginally the spread of the virus, but to apply complete control to reduce the overall levels of infection?
+**Lead Inquiry**: Was it your position that the best protection was not to have measures for :outline:`hand washing` or for trying to control marginally the spread of the virus, but to apply complete control to reduce the overall levels of infection?
 
 **Mr Kamran Mallick**: Yes, yeah.
 

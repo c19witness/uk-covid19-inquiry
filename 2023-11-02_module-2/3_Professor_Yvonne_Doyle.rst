@@ -523,11 +523,11 @@ The fourth paragraph reads:
 
 Professor, so the first question I have for you is: appreciating that there was considerable uncertainty in the early stages of the pandemic, when did Public Health England first become aware that :outline:`aerosol` transmission was a significant transmission route of Covid-19, including through daily actions such as coughing, talking, et cetera?
 
-**Professor Yvonne Doyle**: Thank you. So there was always a recognition, well, from fairly early on, that :outline:`aerosol` transmission could occur. I think what changed over the months, and particularly after the summer of 2020, was the work that had been done particularly through SAGE and through its subgroup, and Professor Noakes, of course, and the importance of :outline:`aerosol` -- the balance of :outline:`aerosol` transmission versus :outline:`droplet` versus fomite, and, you know, surface transmission. And that balance changed.
+**Professor Yvonne Doyle**: Thank you. So there was always a recognition, well, from fairly early on, that :outline:`aerosol` transmission could occur. I think what changed over the months, and particularly after the summer of 2020, was the work that had been done particularly through SAGE and through its subgroup, and Professor Noakes, of course, and the importance of :outline:`aerosol` -- the balance of :outline:`aerosol` transmission versus :outline:`droplet` versus :outline:`fomite`, and, you know, :outline:`surface transmission`. And that balance changed.
 
 Professor Noakes is part of a number of scientists who wrote to WHO and asked them to change their advice on this as well.
 
-But in the early months, we had certainly provided guidance for those who were in the context of what were known to be aerosol-generating procedures, and certainly a precaution around the importance of social -- of distancing, and, where at all feasible, the use of face coverings.
+But in the early months, we had certainly provided guidance for those who were in the context of what were known to be :outline:`aerosol-generating procedures`, and certainly a precaution around the importance of social -- of distancing, and, where at all feasible, the use of face coverings.
 
 Now, that came again to a discussion later in 2020, and I am aware of this letter in 2021 which Mr Brodie received. He did ask for -- the guidance that had been produced around this letter was a four-country guidance and it was also NHS and DHSC, so it was the infection prevention and control group who had produced the guidance on what protective equipment was needed and :outline:`aerosol` procedures.
 

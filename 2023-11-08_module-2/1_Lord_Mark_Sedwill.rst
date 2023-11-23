@@ -379,7 +379,7 @@ I presumed, but I don't think explicitly, but presumed that, for example, plans 
 
 **Lord Mark Sedwill**: Indeed.
 
-**Lead Inquiry**: -- and notwithstanding considerable complexity, in middle to late March. There was obviously a plan for hand washing and there were plans for the dealing with the numbers of deaths which might be expected under the reasonable worst-case scenario, so, prosaically, body bags --
+**Lead Inquiry**: -- and notwithstanding considerable complexity, in middle to late March. There was obviously a plan for :outline:`hand washing` and there were plans for the dealing with the numbers of deaths which might be expected under the reasonable worst-case scenario, so, prosaically, body bags --
 
 **Lord Mark Sedwill**: Yes.
 

@@ -973,7 +973,7 @@ You had -- the CTF took a view, did it not, as to the merits of the various pack
 
 **Mr Simon Ridley**: I can't -- I can't honestly remember if I was in the room or on the end of a phone. There was a train delay that day and I ... But I listened to the meeting.
 
-**Lead Inquiry**: Following the meeting the Prime Minister's conclusion was to pursue all package A nationally and some measures, as you've said, from package B, including the national curfew from 10 pm, options to tighten face mask policy and a call for tighter local restrictions.
+**Lead Inquiry**: Following the meeting the Prime Minister's conclusion was to pursue all package A nationally and some measures, as you've said, from package B, including the national curfew from 10 pm, options to tighten :outline:`face mask` policy and a call for tighter local restrictions.
 
 If the scientific advice and the advice from the CTF is package A would be very unlikely to reduce R below 1, and if the government was following the science, why did the Prime Minister not adopt a combination of B and C or C or B, as opposed to pursuing all of package A and only some measures from package B?
 

@@ -235,7 +235,7 @@ I think the problem is if you say we're going to have no approach whatsoever, th
 
 **Professor Carl Heneghan**: Yeah.
 
-**Counsel Inquiry**: It's very clear that really, beyond hand washing, for that younger segment of the population they would live their lives as normal. Are you saying that you didn't agree with that?
+**Counsel Inquiry**: It's very clear that really, beyond :outline:`hand washing`, for that younger segment of the population they would live their lives as normal. Are you saying that you didn't agree with that?
 
 **Professor Carl Heneghan**: Well, I think that the idea of live life as normal in the face of an emerging risk is not possible, because everybody will attenuate their risk in some way.
 

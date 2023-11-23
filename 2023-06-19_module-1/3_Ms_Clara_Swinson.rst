@@ -563,7 +563,7 @@ The behavioural use and the fact that the other -- a second assumption is that P
 
 "There was insufficient data available to consider equality issues around PPE provision. A retrospective equality impact assessment is now being undertaken and will help address these concerns."
 
-**Ms Clara Swinson**: Yes, and my apologies, because you asked about the different types of face masks --
+**Ms Clara Swinson**: Yes, and my apologies, because you asked about the different types of :outline:`face masks` --
 
 **Counsel Inquiry**: Yes, yes.
 
@@ -571,7 +571,7 @@ The behavioural use and the fact that the other -- a second assumption is that P
 
 **Counsel Inquiry**: Yes.
 
-**Ms Clara Swinson**: -- carried out a review. It was evident in the first few months that that is something where there were not enough different types of face mask, and that is something both in business as usual and in our stockpiles of course we need to make sure are covered in future, now and in the future.
+**Ms Clara Swinson**: -- carried out a review. It was evident in the first few months that that is something where there were not enough different types of :outline:`face mask`, and that is something both in business as usual and in our stockpiles of course we need to make sure are covered in future, now and in the future.
 
 **Ms Blackwell**: Right. Thank you very much.
 
