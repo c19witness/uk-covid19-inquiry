@@ -439,7 +439,7 @@ If you receive data that shows an increase in infections, then you're actually r
 
 By the middle of February, what view, if any, had you reached, the alarm having been raised, as to the speed with which the government machine as a whole was responding?
 
-And I want you to answer that both by reference to the plans, plans for countermeasures, or plans for border controls or hand washing or school closures or whatever it might be, and also control. Was there a sufficient understanding of the practical limitations of control measures? Sir Chris Whitty has said he was under no illusions that control measures would by and large be affected because there was no scaled-up test and trace system.
+And I want you to answer that both by reference to the plans, plans for countermeasures, or plans for border controls or :outline:`hand washing` or school closures or whatever it might be, and also control. Was there a sufficient understanding of the practical limitations of control measures? Sir Chris Whitty has said he was under no illusions that control measures would by and large be affected because there was no scaled-up test and trace system.
 
 So were you concerned by mid-February at the speed of process, the speed of progress of the government, or were you content with the reaction?
 
@@ -1091,7 +1091,7 @@ And then there is the example of ambulances; yes?
 
 **Professor Sir Van-Tam**: Yes.
 
-**Mr Weatherby KC**: Then if we move on to 2.9, please, the new guidance that's been proposed is then stepping down from :outline:`FFP3 proper respirators` to the kind of blue surgical masks that many of us are familiar with --
+**Mr Weatherby KC**: Then if we move on to 2.9, please, the new guidance that's been proposed is then stepping down from :outline:`FFP3 proper respirators` to the kind of blue :outline:`surgical` masks that many of us are familiar with --
 
 **Professor Sir Van-Tam**: Yes.
 
@@ -1249,11 +1249,13 @@ So in terms of this, first -- I've got two points on this, just to finish with, 
 
 **Professor Sir Van-Tam**: If I could, I would.
 
-**Mr Weatherby KC**: Final point, the upshot of this is that right at the crisis point the classification of Covid is being downplayed and one of the key points, perhaps the key point here, is that healthcare workers, there's now no requirement for them to have respirators, the requirement is for them to have simple surgical masks.
+**Mr Weatherby KC**: Final point, the upshot of this is that right at the crisis point the classification of Covid is being downplayed and one of the key points, perhaps the key point here, is that healthcare workers, there's now no requirement for them to have :outline:`respirators`, the requirement is for them to have simple surgical masks.
 
 Why is it that that happens in the eye of the storm, when the cases are going exponentially and healthcare workers are at the highest risk; why is that happening now?
 
-**Professor Sir Van-Tam**: There wasn't the clearest understanding at that stage that there was -- that fine :outline:`droplet` transmission was dominant, and I can only surmise that the people who wrote the guidance, Public Health England, felt that the predominant route of infections was :outline:`droplet` and, therefore, a surgical face mask was adequate. But I can't give you a better answer that that.
+**Professor Sir Van-Tam**: There wasn't the clearest understanding at that stage that there was -- that fine :outline:`droplet` transmission was dominant, and I can only surmise that the people who wrote the guidance, Public Health England, felt that the predominant route of infections was :outline:`droplet` and, therefore, a :outline:`surgical face mask:outline:` was adequate. But I can't give you a better answer that that.
+**Professor Sir Van-Tam**: There wasn't the clearest understanding at that stage that there was -- that fine :outline:`droplet` transmission was dominant, and I can only surmise that the people who wrote the guidance, Public Health England, felt that the predominant route of infections was :outline:`droplet` and, therefore, a :outline:`surgical face`
+ mask was adequate. But I can't give you a better answer that that.
 
 **Mr Weatherby KC**: Yes. Well, I mean, you were involved in these discussions. Let me just put this to you: was this decision to reduce the protection for healthcare workers because there simply weren't enough :outline:`FFP3` :outline:`respirators`?
 
@@ -1261,7 +1263,7 @@ Why is it that that happens in the eye of the storm, when the cases are going ex
 
 **Mr Weatherby**: Thank you.
 
-**Lady Hallett**: Mr Weatherby, I appreciate you have been trying to stick to your time, and I'm very grateful. Did you want to ask the question about why did it take so long for medical masks to be recommended?
+**Lady Hallett**: Mr Weatherby, I appreciate you have been trying to stick to your time, and I'm very grateful. Did you want to ask the question about why did it take so long for :outline:`medical masks` to be recommended?
 
 **Mr Weatherby**: I wasn't going to go there, but thank you.
 
