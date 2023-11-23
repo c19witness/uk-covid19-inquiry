@@ -141,11 +141,11 @@ Has the BMA or did the BMA have any understanding of the extent to which recomme
 
 But, in general, the everyday occurrence of our members was trying to get the job done that was in front of them rather than planning.
 
-**Lead Inquiry**: In essence you were focused upon, for obvious and good reason, the lack of operational resources, if you like, so a lack of surge capacity or a lack of PPE or a lack of respirators, as opposed to making perhaps the rather drier point that a lack of operational resource was inevitably going to be the result of a lack of prior adequate planning?
+**Lead Inquiry**: In essence you were focused upon, for obvious and good reason, the lack of operational resources, if you like, so a lack of surge capacity or a lack of PPE or a lack of :outline:`respirators`, as opposed to making perhaps the rather drier point that a lack of operational resource was inevitably going to be the result of a lack of prior adequate planning?
 
 **Professor Philip Banfield**: Yes. So, for example, we were raising concerns and we had had concerns by our members in all four of the nations about intensive care capacity for routine elective and emergency work prior to the pandemic, and we had been, you know, mounting campaigns -- or the intensive care consultants had been mounting campaigns to get expansion of intensive care beds to deal with the increasing demand from the routine business of the NHS at that time.
 
-**Lead Inquiry**: One important, very important, operational area concerns of course the availability of respirators in order to be able -- and ventilators -- to be able to deal with the transmission of whatever virus it is which forms the basis of the pandemic.
+**Lead Inquiry**: One important, very important, operational area concerns of course the availability of :outline:`respirators` in order to be able -- and ventilators -- to be able to deal with the transmission of whatever virus it is which forms the basis of the pandemic.
 
 I don't want to go into the operational side of this issue, but was the BMA aware of whether or not there had been any planning for or preparation for the debate about the extent to which a future pandemic may be caused by a virus which was more transmissible than other viruses, in particular because it may be transmitted by :outline:`aerosol` transmission as opposed to :outline:`droplet` transmission? Was that a debate or an issue in which the BMA engaged pre-pandemic?
 
@@ -221,11 +221,11 @@ If you agree, say "yes", Professor, rather than nodding, so the stenographer can
 
 **Lead Inquiry**: Highlighting existing responsibilities under health and safety law. Why are health and safety legal requirements relevant to proper pandemic preparedness? What do such legal structures provide which, if implemented correctly, can assist with pandemic preparedness?
 
-**Professor Philip Banfield**: Well, there is a legal duty on behalf of the employer to the employee to make reasonable attempts to protect that employee, and we feel very strongly that the information that was available prior to the pandemic wasn't heeded. So the Health and Safety Executive, for example, in 2008 had its own investigation of fluid-resistant surgical masks, and showed that virus was behind each of the masks tested. So these were not protective of the respiratory tract. And we had seen a lot of comment -- everyone that comments about the influenza pandemic and future influenza pandemics talks about how unpredictable the pandemic might be in both its virulence and how severe it might be.
+**Professor Philip Banfield**: Well, there is a legal duty on behalf of the employer to the employee to make reasonable attempts to protect that employee, and we feel very strongly that the information that was available prior to the pandemic wasn't heeded. So the Health and Safety Executive, for example, in 2008 had its own investigation of fluid-resistant :outline:`surgical masks`, and showed that virus was behind each of the masks tested. So these were not protective of the respiratory tract. And we had seen a lot of comment -- everyone that comments about the influenza pandemic and future influenza pandemics talks about how unpredictable the pandemic might be in both its virulence and how severe it might be.
 
 So, you know, there should be a health and safety duty to take a precautionary approach, and that wasn't taken. We think that that's because occupational health medicine has collapsed in this country, effectively.
 
-**Lead Inquiry**: So are you saying that if health and safety workplace law and guidance were properly to be implemented and enforced, there would be a greater attention to detail and therefore, by implication, it would be less likely that that sort of risk assessment process would be overlooked and less likely that flaws in, for example, the use of respirators and the systems for their use would be allowed to go unchallenged? Is that the nub of it?
+**Lead Inquiry**: So are you saying that if health and safety workplace law and guidance were properly to be implemented and enforced, there would be a greater attention to detail and therefore, by implication, it would be less likely that that sort of risk assessment process would be overlooked and less likely that flaws in, for example, the use of :outline:`respirators` and the systems for their use would be allowed to go unchallenged? Is that the nub of it?
 
 **Professor Philip Banfield**: It is the nub of it, yes.
 
@@ -233,7 +233,7 @@ So, you know, there should be a health and safety duty to take a precautionary a
 
 A third area that you alight upon is the need to maintain an adequate rotating stockpile of PPE. I don't wish to go into the detail of the operational side of PPE -- and procurement, which is a matter for subsequent modules, but to what extent did the planning for the future use and availability of PPE oblige those persons, who held on to stockpiles and who made them available, to rotate them, to make sure that they were up to date, to make sure that they were fit for purpose?
 
-**Professor Philip Banfield**: Well, I mean, there is an obligation to review stockpiles. The reality was that there was a conscious decision to reduce stockpiles since 2009 up to the pandemic, so the stockpiles were, my understanding, about 3% of what they were or should have been planned for, especially with respect to respiratory protection and respirators.
+**Professor Philip Banfield**: Well, I mean, there is an obligation to review stockpiles. The reality was that there was a conscious decision to reduce stockpiles since 2009 up to the pandemic, so the stockpiles were, my understanding, about 3% of what they were or should have been planned for, especially with respect to respiratory protection and :outline:`respirators`.
 
 **Lead Inquiry**: All right, well, that's an issue that -- the degree of availability of PPE is something that will be looked at in a later module.
 
@@ -265,13 +265,13 @@ What do you mean by that in practice? Do you mean that planning documents, plann
 
 **Lead Inquiry**: So, in essence, it's not really a question of planning, it's a question of ensuring that inequalities are reduced and the health of the population, in particular those who suffer from ill health, is improved, so that we are all better off for the next pandemic?
 
-**Professor Philip Banfield**: I mean, that's partially true, but when it comes to, for example, inequalities within our healthcare and social care workforce, we are still in a situation where the recommendation is for fluid-resistant surgical masks, which of course are not protective against :outline:`aerosols` at all. So that advice is affecting disproportionately those with inequalities.
+**Professor Philip Banfield**: I mean, that's partially true, but when it comes to, for example, inequalities within our healthcare and social care workforce, we are still in a situation where the recommendation is for fluid-resistant :outline:`surgical masks`, which of course are not protective against :outline:`aerosols` at all. So that advice is affecting disproportionately those with inequalities.
 
 And ventilation within our NHS estate and social care isn't -- hasn't been addressed either.
 
 So the risk assessments and the assessment of hazards is still being poorly done, and it affects certain members of both our patients and our staff disproportionately.
 
-**Lead Inquiry**: So that's not so much an issue concerning health improvement of the population as a whole or for those who suffer from inequalities as much as a need to focus on societal and ethnic differences in the particular context of ensuring that, in future, respiratory facilities, respirators and so on and so forth, are fit for purpose?
+**Lead Inquiry**: So that's not so much an issue concerning health improvement of the population as a whole or for those who suffer from inequalities as much as a need to focus on societal and ethnic differences in the particular context of ensuring that, in future, respiratory facilities, :outline:`respirators` and so on and so forth, are fit for purpose?
 
 **Professor Philip Banfield**: Correct.
 

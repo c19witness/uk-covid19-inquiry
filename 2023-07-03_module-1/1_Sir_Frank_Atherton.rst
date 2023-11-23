@@ -385,7 +385,7 @@ INQ000116503 is the response guidance of 2014. It itself avowedly refers, of cou
 
 "Antibiotics
 
-"Facemasks and respirators
+":outline:`Facemasks` and :outline:`respirators`
 
 "Consumables
 
@@ -471,7 +471,7 @@ But the understanding at the time was that those final assumptions, you know, th
 
 You know, with the benefit of hindsight I think we could and should have paid more attention to the "what if" questions. You know, what if the virus was so different that we needed to go down some of these. But at the time I think it's fair to say that those measures had been considered and somewhat prematurely dismissed.
 
-**Lead Inquiry**: There was, as it turned out, a distinct and important role for face masks, for mass diagnostic testing, for mass contact tracing and, as we all discovered to our cost, mandatory quarantines. So it wasn't just a question of these measures having no efficacy, the thinking was never developed, there were no papers or policies drawn up to examine any of them in detail, and it was just assumed that there was nothing here to be seen or to be further thought about?
+**Lead Inquiry**: There was, as it turned out, a distinct and important role for :outline:`face masks`, for mass diagnostic testing, for mass contact tracing and, as we all discovered to our cost, mandatory quarantines. So it wasn't just a question of these measures having no efficacy, the thinking was never developed, there were no papers or policies drawn up to examine any of them in detail, and it was just assumed that there was nothing here to be seen or to be further thought about?
 
 **Sir Frank Atherton**: That was --
 

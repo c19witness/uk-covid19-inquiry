@@ -81,7 +81,7 @@ So on 7 April of 2020, you were contacted by SAGE; is that right?
 
 **Counsel Inquiry**: Now, just dealing with the remit of EMG, in a nutshell, how would you describe it?
 
-**Professor Catherine Noakes**: So I would describe it as we focused on how the virus transmits from person to person and the role that the environment plays in that, and then we also focused on the mitigations we could apply. But we focused more on the local mitigations, things like face masks, distancing, ventilation, hand hygiene, rather than the big ticket items like lockdowns or work from home.
+**Professor Catherine Noakes**: So I would describe it as we focused on how the virus transmits from person to person and the role that the environment plays in that, and then we also focused on the mitigations we could apply. But we focused more on the local mitigations, things like :outline:`face masks`, distancing, ventilation, :outline:`hand hygiene`, rather than the big ticket items like lockdowns or work from home.
 
 **Counsel Inquiry**: Indeed. I'm going to come on and ask you about those, firstly about methods of transmission and then secondly about mitigations and how they interrelate, but before I do that, very briefly, EMG was a new group?
 
@@ -155,7 +155,7 @@ Often ":outline:`airborne`" is used to describe longer-range transmission, so to
 
 **Counsel Inquiry**: Thank you.
 
-Then droplet?
+Then :outline:`droplet`?
 
 **Professor Catherine Noakes**: So :outline:`droplet` transmission is -- this is a slightly more tricky one, because it tends -- most people think of it as it refers to large :outline:`droplets`, almost like the spit :outline:`droplets`, that then behave like a ball, ballistically, and deposit out on surfaces very close by. Now, in traditional sort of infection control in healthcare, :outline:`droplets` are defined as particles that are above 5 microns in diameter, and that's not correct, because a 5-micron diameter -- well, a 10-micron diameter particle can stay in the air and go to the other side of the room. So there are actually some incorrect definitions used to define the difference between :outline:`droplets` and :outline:`aerosols` that are used very commonly in infection control literature.
 
@@ -175,7 +175,7 @@ Then droplet?
 
 **Counsel Inquiry**: Okay. In terms of understanding the transmission of Covid-19, what was the initial understanding at the outset of the pandemic in relation to the nature of the transmission?
 
-**Professor Catherine Noakes**: So I think as a new disease it's quite hard to -- it was quite hard to have any good evidence. We were very much reliant on very early information coming out and papers that were starting to come out from -- initially from China and then from other countries as that data grew. It was fairly clear from early stages that there was -- it was transmitted through a respiratory route, but an awful lot of the focus to start with was on :outline:`droplets` and washing your hands and surfaces, the fomites, rather than :outline:`aerosols`.
+**Professor Catherine Noakes**: So I think as a new disease it's quite hard to -- it was quite hard to have any good evidence. We were very much reliant on very early information coming out and papers that were starting to come out from -- initially from China and then from other countries as that data grew. It was fairly clear from early stages that there was -- it was transmitted through a respiratory route, but an awful lot of the focus to start with was on :outline:`droplets` and :outline:`washing your hands` and :outline:`surfaces`, the :outline:`fomites`, rather than :outline:`aerosols`.
 
 **Counsel Inquiry**: Thank you.
 
@@ -411,7 +411,7 @@ Was that an appropriate use of that line from your report?
 
 **Counsel Inquiry**: Thank you.
 
-Face masks have already been dealt with by Professor Horby, so I'm not going to ask you to deal with that today, but if I can just ask you very briefly to touch upon fomite transmission and the mitigations there. You've already referenced the hand washing campaigns that we're all so familiar with, with the happy birthday and various other things, in that respect.
+:outline:`Face masks` have already been dealt with by Professor Horby, so I'm not going to ask you to deal with that today, but if I can just ask you very briefly to touch upon :outline:`fomite` transmission and the mitigations there. You've already referenced the :outline:`hand washing` campaigns that we're all so familiar with, with the happy birthday and various other things, in that respect.
 
 But in terms of broader challenges in relation to surfaces, what were those?
 
