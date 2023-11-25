@@ -47,12 +47,12 @@ Core participants
      - Module 3: Sara Erwin (Departmental Solicitor's Office)
      -
    * - Disability Action Northern Ireland
-     - Module 2: Shamik Dutta (Bhatt Murphy)
-     -
+     - Module 2 & 4: Shamik Dutta (Bhatt Murphy Solicitors)
+     - `No position on airborne vs droplets/fomites<https://www.google.com/search?q=airborne+site%3Adisabilityaction.org>`_
    * - Disability Charities Consortium
      - Module 3: Anne-Marie Irwin (Rook Irwin Sweeney)
      -
-   * - Disability Rights UK, Disability Action Northern Ireland, Disability Wales and Inclusion Scotland
+   * - Disability Rights UK, Disability Wales and Inclusion Scotland
      - Module 4: Shamik Dutta (Bhatt Murphy Solicitors)
      -
    * - Disability Rights UK
