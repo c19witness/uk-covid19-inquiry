@@ -48,7 +48,7 @@ Core participants
      -
    * - Disability Action Northern Ireland
      - Module 2 & 4: Shamik Dutta (Bhatt Murphy Solicitors)
-     - `No position on airborne vs droplets/fomites<https://www.google.com/search?q=airborne+site%3Adisabilityaction.org>`_
+     - `No position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Adisabilityaction.org>`_
    * - Disability Charities Consortium
      - Module 3: Anne-Marie Irwin (Rook Irwin Sweeney)
      -
