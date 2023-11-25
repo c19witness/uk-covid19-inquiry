@@ -108,7 +108,7 @@ Core participants
      - `"Long Covid SOS signed a letter [..] calling for the government to pass legislation to ensure people using indoor public spaces are protected from airborne pathogens" <https://www.longcovidsos.org/post/long-covid-sos-write-to-health-secretary-steve-barclay-the-uk-is-running-out-of-clean-air>`_
    * - Long Covid Support
      - Module 2: Jane Ryan (Bhatt Murphy)
-     -
+     - `No position on airborne vs droplet/fomite transmission <https://www.google.com/search?q=airborne+site%3Alongcovid.org>`_
    * - Medicines and Healthcare Products Regulatory Agency (MHRA)
      - Module 4: James McArthur (Government Legal Department)
      -
