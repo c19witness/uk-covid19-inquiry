@@ -33,7 +33,7 @@ Core participants
      - `"The general lack of mitigations against an airborne infection has impacted heavily on CV groups, especially those with persistent vulnerabilities" <https://covidfamiliesforjustice.org/wp-content/uploads/2021/11/Learn-Lessons-Save-Lives-Final.pdf>`_
    * - Covid-19 Bereaved Families for Justice Cymru (CBFJ Cymru)
      - All modules: Craig Court (Harding Evans Solicitors)
-     -
+     - No website, but `aligned <https://twitter.com/cymru_inquiry/status/1671256280001052673>`_ in this tweet
    * - Department for Business and Trade (DBT)
      - Module 1: Laura Zanchi (Government Legal Department)
      -
