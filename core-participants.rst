@@ -78,7 +78,7 @@ Core participants
      -
    * - Homecare Association
      - Module 2: unknown
-     -
+     - `No position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Ahomecareassociation.org.uk>`_
    * - Imperial College of Science, Technology and Medicine (Imperial)
      - Modules 1 & 2: Paul Ridge (Bindmans LLP)
      -
