@@ -27,7 +27,7 @@ Core participants
      -
    * - COVID-19 Airborne Transmission Alliance
      - Module 3: Cyrilia Knight (Saunders Law)
-     -
+     - No website, but they're aligned
    * - Covid-19 Bereaved Families For Justice UK (CBFFJ)
      - All modules: Elkan Abrahamson (Broudie Jackson Canter)
      - `"The general lack of mitigations against an airborne infection has impacted heavily on CV groups, especially those with persistent vulnerabilities" <https://covidfamiliesforjustice.org/wp-content/uploads/2021/11/Learn-Lessons-Save-Lives-Final.pdf>`_
