@@ -52,12 +52,12 @@ Core participants
    * - Disability Charities Consortium
      - Module 3: Anne-Marie Irwin (Rook Irwin Sweeney)
      -
-   * - Disability Rights UK, Disability Wales and Inclusion Scotland
+   * - Disability Wales and Inclusion Scotland
      - Module 4: Shamik Dutta (Bhatt Murphy Solicitors)
      -
    * - Disability Rights UK
-     - Module 2: Shamik Dutta (Bhatt Murphy)
-     -
+     - Module 2 & 4: Shamik Dutta (Bhatt Murphy)
+     - `No position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Adisabilityrightsuk.org>`_
    * - Disability Wales Shamik Dutta (Bhatt Murphy)
      - Module 2: unknown
      -
