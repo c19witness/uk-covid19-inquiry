@@ -54,7 +54,7 @@ Core participants
      -
    * - Inclusion Scotland
      - Module 4: Shamik Dutta (Bhatt Murphy Solicitors)
-     -
+     - `No position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Ainclusionscotland.org/>`_
    * - Disability Rights UK
      - Module 2 & 4: Shamik Dutta (Bhatt Murphy Solicitors)
      - `No position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Adisabilityrightsuk.org>`_
