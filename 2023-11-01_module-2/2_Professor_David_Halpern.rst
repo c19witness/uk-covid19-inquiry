@@ -87,7 +87,7 @@ We see at paragraph 18 of your statement that you became formally involved on 14
 
 **Professor David Halpern**: Yes. When we'd originally built the Behavioural Insights Team, we also built it on the back of what had been the strategy unit. In order to affect someone's behaviour, you need to figure out what is going on, what's the cause of the behaviour, but also, in the case of Covid, what's the transmission mechanism? So how is it being spread, if it's on hands or if you're coughing?
 
-So it leads to quite practical questions around what exactly is going on in order to be able to answer it and, of course, this ranges from every aspect from first line of defence when you've only got public health issues like, you know, washing hands through to when you move into you want people to take a test. Well, will they turn up, you know? Will they stay at home if you ask them? And even when you have a vaccine later on, a vaccine, of course, is not a vaccination until someone physically turns up and says, "Yes, you can stick it in my arm".
+So it leads to quite practical questions around what exactly is going on in order to be able to answer it and, of course, this ranges from every aspect from first line of defence when you've only got public health issues like, you know, :outline:`washing hands` through to when you move into you want people to take a test. Well, will they turn up, you know? Will they stay at home if you ask them? And even when you have a vaccine later on, a vaccine, of course, is not a vaccination until someone physically turns up and says, "Yes, you can stick it in my arm".
 
 **Counsel Inquiry**: So pausing there, because there's a huge amount of work that you did --
 
@@ -111,9 +111,9 @@ So, yes, on the one hand you want to inform the public, not least about what can
 
 **Counsel Inquiry**: Yes. So one of the first public messaging programmes you were involved in was "No Regrets" -- or no-regret public messaging was the type of messaging you were involved in?
 
-**Professor David Halpern**: Yes. So our belief has always been if we're asking the public to do something, people have many other things in their lives, let's make sure that it's authentic in the sense that it's going to work, going to do some good for them, and early on when there is uncertainty particularly your attention is drawn to so-called no regret messages which you are pretty sure will be good things, generally are doing no harm almost for sure. So hand washing became very rapidly, even by the time we were engaged -- had been highlighted as an obvious thing to try and slow transmission so yes that would be an example of a no regret it's hard to think of examples of washing your hands doing much harm.
+**Professor David Halpern**: Yes. So our belief has always been if we're asking the public to do something, people have many other things in their lives, let's make sure that it's authentic in the sense that it's going to work, going to do some good for them, and early on when there is uncertainty particularly your attention is drawn to so-called no regret messages which you are pretty sure will be good things, generally are doing no harm almost for sure. So :outline:`hand washing` became very rapidly, even by the time we were engaged -- had been highlighted as an obvious thing to try and slow transmission so yes that would be an example of a no regret it's hard to think of examples of :outline:`washing your hands` doing much harm.
 
-**Counsel Inquiry**: No, I can't think of one. But in relation to that hand washing, that was a considerable amount of your work -- when I say "your", the organisation's work -- during those early days in February and into March; isn't that correct?
+**Counsel Inquiry**: No, I can't think of one. But in relation to that :outline:`hand washing`, that was a considerable amount of your work -- when I say "your", the organisation's work -- during those early days in February and into March; isn't that correct?
 
 **Professor David Halpern**: In those very early days, yes, that's correct. And maybe it's an illustration we can use for a minute about the nature of the work that we would do. It might seem an obvious thing. Many of you would have seen the posters, those green posters with the hand, they're still up across Britain. So if you think about your challenge, someone is going to look at that for a few seconds, and the question is: how can you get as much information across as possible in that poster?
 
@@ -137,15 +137,15 @@ So we would test that, and essentially by testing variations you can tune and im
 
 **Professor David Halpern**: It does take time, although a key issue is not as much time as you think. I mean, those things were assembled with experiments with thousands of people over days, not weeks or months, and it's a key question, in our view, about there are lots of these practical issues which are critical to effective policy or delivery which actually you need to handle in that empirical way.
 
-**Counsel Inquiry**: In relation to your involvement we can put hand washing to one side, that work was still ongoing, but your involvement expanded and you were in touch with Professor Whitty on 18 February asking the questions you have alluded to already in relation to Covid transmission mechanism.
+**Counsel Inquiry**: In relation to your involvement we can put :outline:`hand washing` to one side, that work was still ongoing, but your involvement expanded and you were in touch with Professor Whitty on 18 February asking the questions you have alluded to already in relation to Covid transmission mechanism.
 
 Again, very briefly, what was your understanding of Covid transmission at that stage, on 18 February?
 
-**Professor David Halpern**: Sir Chris very generously helped us, and we had that early briefing, particularly to understand what was the transmission mechanism. So, again, it might seem trivial and everything but if you think, for example, it's :outline:`airborne`, it may be different than if you think it's so-called fomite, when you cough it's on a surface --
+**Professor David Halpern**: Sir Chris very generously helped us, and we had that early briefing, particularly to understand what was the transmission mechanism. So, again, it might seem trivial and everything but if you think, for example, it's :outline:`airborne`, it may be different than if you think it's so-called :outline:`fomite`, when you cough it's on a surface --
 
 **Counsel Inquiry**: Yes?
 
-**Professor David Halpern**: -- right? If you think it's on a surface, then you're going to spend a lot of time cleaning surfaces. If you think it's in the air, it's a different strategy.
+**Professor David Halpern**: -- right? If you think it's on a surface, then you're going to spend a lot of time :outline:`cleaning surfaces`. If you think :outline:`it's in the air`, it's a different strategy.
 
 So he took us through what was understood about the virus, his understanding of those transmission mechanisms and, therefore, to help us work out what were the points behaviourally that you might be able to introduce to reinforce support people to slow down the spread of the virus.
 
@@ -211,7 +211,7 @@ I actually remember Ben Warner at that stage, you can ask him directly, was quit
 
 On 26 February, the next day, this isn't a government interaction, this is when you attended a Royal Society seminar, and we've heard evidence from the president of the Royal Society, and this was a seminar to discuss quarantine as it related to the current Covid outbreak. You recall attending that meeting, that seminar. What impact, if any, did that have on you?
 
-**Professor David Halpern**: Well, of course, this is -- the work on Covid was starting to really take over my life and many others, but it was particularly -- we were really still trying to understand the transmission mechanisms in detail. You know, we were very interested in the detail because we're trying to, you know, guide people, you want to guide to what's effective. So, I mean, a simple example would be -- I touched on this issue about surfaces, and the guidance was being assembled -- well, do you need everybody in schools to be cleaning every floor or not? Like, is that relevant, is it not?
+**Professor David Halpern**: Well, of course, this is -- the work on Covid was starting to really take over my life and many others, but it was particularly -- we were really still trying to understand the transmission mechanisms in detail. You know, we were very interested in the detail because we're trying to, you know, guide people, you want to guide to what's effective. So, I mean, a simple example would be -- I touched on this issue about :outline:`surfaces`, and the guidance was being assembled -- well, do you need everybody in schools to be :outline:`cleaning every floor` or not? Like, is that relevant, is it not?
 
 There was particular work -- so James Rubin, who I know you've spoken to, had done an absolutely excellent review on quarantine, looking at the evidence, and the extent to which people would sustain quarantining behaviour over long periods, to which his general conclusion was yes.
 
@@ -303,9 +303,9 @@ At that stage, why did you refer to the need to cocoon the elderly and vulnerabl
 
 **Professor David Halpern**: So I should explain the interview was primarily actually talking about the science behind -- you know, we talked about a moment ago --
 
-**Counsel Inquiry**: Hand washing?
+**Counsel Inquiry**: :outline:`Hand washing`?
 
-**Professor David Halpern**: Hand washing, but more generally how you'd apply it.
+**Professor David Halpern**: :outline:`Hand washing`, but more generally how you'd apply it.
 
 The interviewer, Mark Easton, at the end, asked a question. I responded, probably shouldn't have done, around essentially the vulnerable, and I'd said -- partly because of course it was in all the meetings, it was in the media. Self-evidently there was 5000-fold at least in the age-infected fatality rate, and so it was pretty inevitable, it seemed -- to discuss in SAGE too of course -- that we would want to protect the most vulnerable. I use the phrase "cocooning" because it's the one used in the literature. And I think Mark Easton asked me the question about three times, which should have been a warning sign, but -- and on the third time I said we obviously need toll cocoon protect and people until --
 

@@ -613,41 +613,41 @@ Then there's the question about -- which is not my area -- when politically woul
 
 **Lead Inquiry**: I now want to look at some of the important areas, other important areas that NERVTAG provided advice upon, not directly related to the lockdown decision or NPIs.
 
-NERVTAG played a very considerable role, as you've described, in advising on the efficacy of face masks, on the protection of the vulnerable and in particular those in care homes, and also on the issue of contact tracing.
+NERVTAG played a very considerable role, as you've described, in advising on the efficacy of :outline:`face masks`, on the protection of the vulnerable and in particular those in care homes, and also on the issue of contact tracing.
 
-So just dealing with those three in order: in relation to face masks, from late January, as you've already described, NERVTAG was tasked to provide advice and specifically on the efficacy, the utility of face masks. Is this the position: that by mid-February NERVTAG recommended that wearing a face mask by symptomatic people is recommended, if tolerated, but that the wearing of face masks by well people living with symptomatic people is not recommended, and also not recommended is the wearing of face masks in public?
+So just dealing with those three in order: in relation to :outline:`face masks`, from late January, as you've already described, NERVTAG was tasked to provide advice and specifically on the efficacy, the utility of :outline:`face masks`. Is this the position: that by mid-February NERVTAG recommended that wearing a :outline:`face mask` by symptomatic people is recommended, if tolerated, but that the wearing of :outline:`face masks` by well people living with symptomatic people is not recommended, and also not recommended is the wearing of :outline:`face masks` in public?
 
-Were there a number of meetings of SAGE and NERVTAG through February, April -- 7 and 19 and 13 April and then 14 April -- at which NERVTAG and SAGE returned repeatedly to the issue of face masks?
+Were there a number of meetings of SAGE and NERVTAG through February, April -- 7 and 19 and 13 April and then 14 April -- at which NERVTAG and SAGE returned repeatedly to the issue of :outline:`face masks`?
 
 **Professor Sir Horby**: Yes, that's right, and this is one of the issues I said I think rightly came back round again.
 
 **Lead Inquiry**: On 7 April, the SAGE minutes show that NERVTAG had concluded that the increased use of masks would have minimal effect.
 
-On 9 April, the NERVTAG minutes from that day, NERVTAG 13, showed that Sir Jonathan Van-Tam had asked you to return to the issue of face masks because other countries had introduced what's known as soft advisory positions in relation to the use of face masks, and he was concerned that NERVTAG and SAGE should re-examine the issue; is that correct?
+On 9 April, the NERVTAG minutes from that day, NERVTAG 13, showed that Sir Jonathan Van-Tam had asked you to return to the issue of :outline:`face masks` because other countries had introduced what's known as soft advisory positions in relation to the use of :outline:`face masks`, and he was concerned that NERVTAG and SAGE should re-examine the issue; is that correct?
 
 **Professor Sir Horby**: That's correct.
 
-**Lead Inquiry**: Was there then a very considerable consideration provided by a paper dated 13 April called "Face mask use in the Community"? Did that paper summarise all the evidence which had gone before, set out a number of policy options, and basically conclude that there was weak evidence that the use of face masks by symptomatic people may reduce transmission?
+**Lead Inquiry**: Was there then a very considerable consideration provided by a paper dated 13 April called ":outline:`Face mask` use in the Community"? Did that paper summarise all the evidence which had gone before, set out a number of policy options, and basically conclude that there was weak evidence that the use of :outline:`face masks` by symptomatic people may reduce transmission?
 
 **Professor Sir Horby**: That's correct. It summarised the evidence as we saw it, which is something we might want to discuss.
 
 **Lead Inquiry**: How did you see it, as NERVTAG, by 16 April?
 
-**Professor Sir Horby**: So NERVTAG had looked at the issues of face masks in the past, pre-pandemic, and had taken quite a stringent scientific view that the highest quality evidence is randomised controlled trials, where people are randomised to have a face mask or not -- not other sorts of studies, not just observational studies, which have many biases, or physical studies, how much virus is filtered -- and that data was fairly clear that there may be some small benefits, but it wasn't clear and the evidence was weak. And we maintained that position on how we saw the evidence, focusing on the data from randomised controlled trials. Others placed more weight on the physical evidence of filtration and the observational data.
+**Professor Sir Horby**: So NERVTAG had looked at the issues of :outline:`face masks` in the past, pre-pandemic, and had taken quite a stringent scientific view that the highest quality evidence is randomised controlled trials, where people are randomised to have a :outline:`face mask` or not -- not other sorts of studies, not just observational studies, which have many biases, or physical studies, how much virus is filtered -- and that data was fairly clear that there may be some small benefits, but it wasn't clear and the evidence was weak. And we maintained that position on how we saw the evidence, focusing on the data from randomised controlled trials. Others placed more weight on the physical evidence of filtration and the observational data.
 
-**Lead Inquiry**: To what extent was the argument for the wearing of face masks strengthened by the application of a precautionary approach: well, it may not have much practical benefit, and there's only some weak evidence to support the beneficial consequences of wearing a face mask, but it's a good thing to do?
+**Lead Inquiry**: To what extent was the argument for the wearing of :outline:`face masks` strengthened by the application of a precautionary approach: well, it may not have much practical benefit, and there's only some weak evidence to support the beneficial consequences of wearing a :outline:`face mask`, but it's a good thing to do?
 
-**Professor Sir Horby**: There are two considerations there. One is there was an issue early on about the availability of face masks and using them for a setting where they're less effective and less useful. The second was around communicating doing something when the evidence wasn't strong. But the reason it came back to us -- and I think it was right -- was the context had changed. The threat was much greater and more present than when we made the first recommendation. There was emerging data, observational data, which is sort of non-trial data, from places like Hong Kong, and there was more data about asymptomatic transmission.
+**Professor Sir Horby**: There are two considerations there. One is there was an issue early on about the availability of :outline:`face masks` and using them for a setting where they're less effective and less useful. The second was around communicating doing something when the evidence wasn't strong. But the reason it came back to us -- and I think it was right -- was the context had changed. The threat was much greater and more present than when we made the first recommendation. There was emerging data, observational data, which is sort of non-trial data, from places like Hong Kong, and there was more data about asymptomatic transmission.
 
 So the context, the evidence hadn't really changed. It had a bit, that we now had some Covid data rather than flu data, but the context had changed dramatically.
 
 **Lady Hallett**: I'm sorry, I'm not following, Sir Peter. If there's a possible benefit, what's the downside?
 
-**Professor Sir Horby**: The downside is you might divert face masks from healthcare workers and those who need them most, and those in who they're most effective, so sick people or the clinically very vulnerable.
+**Professor Sir Horby**: The downside is you might divert :outline:`face masks` from healthcare workers and those who need them most, and those in who they're most effective, so sick people or the clinically very vulnerable.
 
-The second downside is that you are making a population-wide recommendation based on weak evidence, which may weaken trust in your scientific independence and integrity, and you can see that face masks are still a controversial issue with different interpretation of the data. So we were trying to be, I think, very scientifically clean.
+The second downside is that you are making a population-wide recommendation based on weak evidence, which may weaken trust in your scientific independence and integrity, and you can see that :outline:`face masks` are still a controversial issue with different interpretation of the data. So we were trying to be, I think, very scientifically clean.
 
-**Mr Keith**: At that time, so in April, it was very apparent to NERVTAG, wasn't it, that the government had real concerns about -- this is your second point -- about the availability of masks? If NERVTAG or SAGE were to recommend the wearing of face masks, the government was concerned that that would take limited number of masks, such as there were, away from the healthcare sector?
+**Mr Keith**: At that time, so in April, it was very apparent to NERVTAG, wasn't it, that the government had real concerns about -- this is your second point -- about the availability of masks? If NERVTAG or SAGE were to recommend the wearing of :outline:`face masks`, the government was concerned that that would take limited number of masks, such as there were, away from the healthcare sector?
 
 I don't know whether we have this in the system, INQ000102697, page 33. This is a page from a WhatsApp group including Mr Hancock, and you can see at about the tenth or eleventh entry, 16.04 -- 16 April 2020, 22.03.53, Matt Hancock MP:
 
@@ -665,7 +665,7 @@ Now, that wasn't a remark made specifically in relation to the NERVTAG considera
 
 **Professor Sir Horby**: Well, I would say it wasn't just on the basis of NERVTAG, and I think this was -- you know, this is an example of effective challenge where DH or SAGE commissioned other expert groups to look at the data. The Royal Society and the DELVE group produced a paper, and also there were some other groups that looked at the data. So there was an attempt to get differing scientific views of the value of it, and it was those, all of those inputs I think that changed the position, not just NERVTAG.
 
-**Lead Inquiry**: But NERVTAG was not an outlier, was it? The general consensus was, from those other no less worthy scientific groups, was that there was some weak evidence to support the wearing of face masks and that in all the circumstances it was something you could recommend?
+**Lead Inquiry**: But NERVTAG was not an outlier, was it? The general consensus was, from those other no less worthy scientific groups, was that there was some weak evidence to support the wearing of :outline:`face masks` and that in all the circumstances it was something you could recommend?
 
 **Professor Sir Horby**: Yes, that's correct, and that matched what others were doing. So we were seeing WHO and the United States shift their position at the same time.
 

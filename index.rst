@@ -104,3 +104,4 @@ Contents
    2023-11-21_module-2/index.rst
    2023-11-22_module-2/index.rst
    2023-11-23_module-2/index.rst
+   2023-11-27_module-2/index.rst

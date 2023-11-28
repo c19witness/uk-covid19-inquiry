@@ -343,7 +343,7 @@ So if I'm honest, I can't say at that meeting I was surprised, because the meeti
 
 **Sir Christopher Wormald**: Yeah.
 
-**Lead Inquiry**: -- the Coronavirus -- or flu Bill, the possibility of school closures, washing hands and managing excess deaths. Were those the broad heads of --
+**Lead Inquiry**: -- the Coronavirus -- or flu Bill, the possibility of school closures, :outline:`washing hands` and managing excess deaths. Were those the broad heads of --
 
 **Sir Christopher Wormald**: Erm, plus the communications bit. So what the flu plan envisages --
 
@@ -355,7 +355,7 @@ So if I'm honest, I can't say at that meeting I was surprised, because the meeti
 
 **Sir Christopher Wormald**: Yes, so -- and in some ways the heart of the flu plan is voluntary -- I must remember not to use the acronyms -- non-pharmaceutical interventions, voluntary non-pharmaceutical interventions, which are dialled up and down to control, so that is the other thing in the flu plan that we were expecting to do. So the work going on in the department at this point is: can we update the flu plan for this different disease but, as you say, the presumption was that we would be following, basically, the flu plan.
 
-**Lead Inquiry**: Forgive me. What non-pharmaceutical interventions was the DHSC actively considering other than those measures which I have already mentioned which were part of the existing flu plan, the possibility of school closures, dealing with the physical problems associated with excess deaths, arranging for legislative proposals to be advanced, and washing hands?
+**Lead Inquiry**: Forgive me. What non-pharmaceutical interventions was the DHSC actively considering other than those measures which I have already mentioned which were part of the existing flu plan, the possibility of school closures, dealing with the physical problems associated with excess deaths, arranging for legislative proposals to be advanced, and :outline:`washing hands`?
 
 **Sir Christopher Wormald**: It's what advice you give to the public on how they should be behaving --
 
@@ -477,7 +477,7 @@ Where was the debate about whether or not borders or a test and trace system or 
 
 **Sir Christopher Wormald**: Well, I think, and this is from memory, if we look at the slides mentioned in paragraph 9, that is the report of the planning that is being done for the -- for the reasonable worst-case scenario, which is that the virus has escaped from China and become a pandemic. So I think it is that bit of the discussion.
 
-**Lead Inquiry**: The planning priorities there referred to were drawn, were they not, from the 2011 pandemic flu strategy document, which, as we've discussed, talked in terms of washing hands, talked in terms of the possibility of closing schools, talked in terms of how to manage large numbers of dead people, and communication.
+**Lead Inquiry**: The planning priorities there referred to were drawn, were they not, from the 2011 pandemic flu strategy document, which, as we've discussed, talked in terms of :outline:`washing hands`, talked in terms of the possibility of closing schools, talked in terms of how to manage large numbers of dead people, and communication.
 
 **Sir Christopher Wormald**: And the things I mentioned earlier.
 

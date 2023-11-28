@@ -1253,9 +1253,7 @@ So in terms of this, first -- I've got two points on this, just to finish with, 
 
 Why is it that that happens in the eye of the storm, when the cases are going exponentially and healthcare workers are at the highest risk; why is that happening now?
 
-**Professor Sir Van-Tam**: There wasn't the clearest understanding at that stage that there was -- that fine :outline:`droplet` transmission was dominant, and I can only surmise that the people who wrote the guidance, Public Health England, felt that the predominant route of infections was :outline:`droplet` and, therefore, a :outline:`surgical face mask:outline:` was adequate. But I can't give you a better answer that that.
-**Professor Sir Van-Tam**: There wasn't the clearest understanding at that stage that there was -- that fine :outline:`droplet` transmission was dominant, and I can only surmise that the people who wrote the guidance, Public Health England, felt that the predominant route of infections was :outline:`droplet` and, therefore, a :outline:`surgical face`
- mask was adequate. But I can't give you a better answer that that.
+**Professor Sir Van-Tam**: There wasn't the clearest understanding at that stage that there was -- that fine :outline:`droplet` transmission was dominant, and I can only surmise that the people who wrote the guidance, Public Health England, felt that the predominant route of infections was :outline:`droplet` and, therefore, a :outline:`surgical face mask` was adequate. But I can't give you a better answer that that.
 
 **Mr Weatherby KC**: Yes. Well, I mean, you were involved in these discussions. Let me just put this to you: was this decision to reduce the protection for healthcare workers because there simply weren't enough :outline:`FFP3` :outline:`respirators`?
 
