@@ -203,7 +203,7 @@ Professor Woolhouse gave evidence to this Inquiry earlier this week, and one of 
 
 **Professor James Rubin**: Partially. I think if you asked us to predict what percentage of people will adhere to the following behaviour next week, we don't have a crystal ball and I can't give you a number. If you ask us what will influence whether people are more likely to adhere or less likely to adhere and therefore what interventions should we put in place to help people to adhere to this recommendation, we can do that.
 
-So we can tell you what factors predict someone's behaviour, but I can't give you a prediction of, "It will be 37.8% of young men who are going to be washing their hands", no.
+So we can tell you what factors predict someone's behaviour, but I can't give you a prediction of, "It will be 37.8% of young men who are going to be  :outline:`washing their hands`", no.
 
 **Counsel Inquiry**: Yes. Professor Woolhouse of course is a modeller, and so perhaps from his point of view you can't provide him with the types of data or statistics that he could feed into one of his models, but I think what you're saying is that you are still able to give some sort of indication as to the likely impact, for example, of certain messaging or direction from the government?
 

@@ -1165,7 +1165,7 @@ Questions From Ms Morris KC
 
 **Ms Morris**: Thank you, my Lady.
 
-Good afternoon, Professor Riley. I ask questions on behalf of the Covid Bereaved Families for Justice, and I have just one topic, please, to ask you about, and that's the use of face masks in the community, a question that's not only important to the Inquiry but also to the bereaved families.
+Good afternoon, Professor Riley. I ask questions on behalf of the Covid Bereaved Families for Justice, and I have just one topic, please, to ask you about, and that's the use of  :outline:`face masks` in the community, a question that's not only important to the Inquiry but also to the bereaved families.
 
 You mention it at paragraph 4.9 of your witness statement, it's a side note, an illustration of a paper that you've written and a provision of advice that goes forward. I just want to ask you about the specifics, if I may.
 
@@ -1183,33 +1183,33 @@ Was this a report that was commissioned by SAGE?
 
 Thank you.
 
-So you've produced a paper in April 2020 on the use of face masks in the community for asymptomatic members of the public. Is it a fair summary to say that there was no obvious reason why surgical face masks couldn't be used in closed community settings, for example buses, public transport and shops, based on the limitations you'd observed from the widespread use of face coverings in other countries which had been considered useful and successful in containing Covid-19?
+So you've produced a paper in April 2020 on the use of  :outline:`face masks` in the community for asymptomatic members of the public. Is it a fair summary to say that there was no obvious reason why  :outline:`surgical face masks` couldn't be used in closed community settings, for example buses, public transport and shops, based on the limitations you'd observed from the widespread use of face coverings in other countries which had been considered useful and successful in containing Covid-19?
 
 **Professor Steven Riley**: So I just want to give what I perceive to be the key points of the report, because there was a reason I was asked to do that and it's because I had looked at some of the evidence from influenza, studies of influenza.
 
 **Ms Morris KC**: Yes. Pre-pandemic studies?
 
-**Professor Steven Riley**: Yes, so I went back to look at those, and the key point that I thought I was making in the report was, even though those studies suggested quite low effectiveness of face masks for influenza, there were a number of issues around the design and interpretation of those that said maybe it could actually be better and we shouldn't necessarily rely too heavily on those as negative results.
+**Professor Steven Riley**: Yes, so I went back to look at those, and the key point that I thought I was making in the report was, even though those studies suggested quite low effectiveness of :outline:`face masks` for influenza, there were a number of issues around the design and interpretation of those that said maybe it could actually be better and we shouldn't necessarily rely too heavily on those as negative results.
 
 **Ms Morris KC**: That's helpful, thank you.
 
 **Professor Steven Riley**: Then if we just come to your question, you asked quite a specific list of things about use in other countries. I don't know whether I commented on those in the report.
 
-**Ms Morris KC**: At that time, had you looked at, for example, other East Asian countries and their use of face masks?
+**Ms Morris KC**: At that time, had you looked at, for example, other East Asian countries and their use of :outline:`face masks`?
 
 **Professor Steven Riley**: So I don't recall commenting on that explicitly in the report, so I'm not sure that I did.
 
-**Ms Morris KC**: Okay. You've just touched upon the literature review you did about the influenza use of face masks, so you're doing this review in April 2020?
+**Ms Morris KC**: Okay. You've just touched upon the literature review you did about the influenza use of :outline:`face masks`, so you're doing this review in April 2020?
 
 **Professor Steven Riley**: Yeah.
 
 **Ms Morris KC**: Is it fair to say that if that review had been done in February 2020, of that pre-pandemic literature, the results would have been the same, had you done it in February?
 
-**Professor Steven Riley**: I think they would have been quite similar. And I believe WHO have commissioned a relatively recent study of face masks for influenza that I think probably was quite similar.
+**Professor Steven Riley**: I think they would have been quite similar. And I believe WHO have commissioned a relatively recent study of :outline:`face masks` for influenza that I think probably was quite similar.
 
 **Ms Morris KC**: Okay, thank you.
 
-So was it your conclusion that now would be quite a good time to gather more evidence about the efficacy of face masks?
+So was it your conclusion that now would be quite a good time to gather more evidence about the efficacy of :outline:`face masks`?
 
 **Professor Steven Riley**: Yes, I think that's -- yep.
 
@@ -1221,7 +1221,7 @@ So was it your conclusion that now would be quite a good time to gather more evi
 
 **Professor Steven Riley**: Yep.
 
-**Ms Morris KC**: There may be utility to using surgical face masks in closed community settings?
+**Ms Morris KC**: There may be utility to using surgical :outline:`face masks` in closed community settings?
 
 **Professor Steven Riley**: Yes.
 
@@ -1229,9 +1229,9 @@ So was it your conclusion that now would be quite a good time to gather more evi
 
 How did you expect that paper to be used by policymakers? Was it just for SAGE or did you expect it to have any wider impact?
 
-**Professor Steven Riley**: So it was commissioned as a rapid review over just one weekend, a rapid review to support the discussion at SAGE, and I could see from the SAGE minutes that there was an extensive discussion of face masks and there were clearly many other points raised -- I was not there -- there were clearly many other points raised in that meeting in addition to the material that I provided in that report.
+**Professor Steven Riley**: So it was commissioned as a rapid review over just one weekend, a rapid review to support the discussion at SAGE, and I could see from the SAGE minutes that there was an extensive discussion of :outline:`face masks` and there were clearly many other points raised -- I was not there -- there were clearly many other points raised in that meeting in addition to the material that I provided in that report.
 
-**Ms Morris KC**: But from your report, was there any scientific, as opposed to resource, reason not to advise the public to use surgical face masks in closed community settings in April 2020?
+**Ms Morris KC**: But from your report, was there any scientific, as opposed to resource, reason not to advise the public to use  :outline:`surgical face masks` in closed community settings in April 2020?
 
 **Professor Steven Riley**: I did not find a reason in the work that I did, no.
 

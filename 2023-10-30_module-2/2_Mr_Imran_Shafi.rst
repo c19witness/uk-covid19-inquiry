@@ -883,7 +883,7 @@ I think it's probably on the next page. No, it's on this page. If you could scro
 
 What was that a reference to?
 
-**Mr Imran Shafi**: I can't remember for sure. I think this was perhaps more around the hand washing campaign and the other sort of very non-intrusive measures that had been put in place and promoted at that time.
+**Mr Imran Shafi**: I can't remember for sure. I think this was perhaps more around the  :outline:`hand washing` campaign and the other sort of very non-intrusive measures that had been put in place and promoted at that time.
 
 **Lead Inquiry**: So where is the debate that further more stringent measures might be required?
 
