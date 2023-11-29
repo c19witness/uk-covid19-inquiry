@@ -48,19 +48,19 @@ Core participants
      -
    * - Disability Action Northern Ireland
      - Module 2 & 4: Shamik Dutta (Bhatt Murphy Solicitors)
-     - `No position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Adisabilityaction.org>`_
+     - `Has no position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Adisabilityaction.org>`_
    * - Disability Charities Consortium
      - Module 3: Anne-Marie Irwin (Rook Irwin Sweeney)
      -
    * - Inclusion Scotland
      - Module 4: Shamik Dutta (Bhatt Murphy Solicitors)
-     - `No position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Ainclusionscotland.org/>`_
+     - `Also has no position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Ainclusionscotland.org/>`_
    * - Disability Rights UK
      - Module 2 & 4: Shamik Dutta (Bhatt Murphy Solicitors)
-     - `No position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Adisabilityrightsuk.org>`_
+     - `One more having no position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Adisabilityrightsuk.org>`_
    * - Disability Wales 
      - Module 2 & 4: Shamik Dutta (Bhatt Murphy Solicitors)
-     - `No position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Ahttps://www.disabilitywales.org/>`_
+     - `Yet another that has no position on airborne vs droplets/fomites <https://www.google.com/search?q=airborne+site%3Ahttps://www.disabilitywales.org/>`_
    * - Federation of Ethnic Minority Healthcare Organisations (FEMHO)
      - Modules 2, 3 & 4: Cyrilia Knight (Saunders Law)
      -
