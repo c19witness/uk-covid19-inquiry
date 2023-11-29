@@ -775,7 +775,7 @@ Okay? Does that help you in terms of the knowledge about this?
 
 **Mr Weatherby KC**: Yes, we're talking about :outline:`respirators` for a respiratory virus.
 
-**Lord Simon Stevens**: Yeah, I mean, I'm talking about the :outline:`aerosol` generating procedures but also the use of these PPE in far wider settings than frankly was envisaged for the flu stockpile and that's one of the great misjudgements, essentially, that was made and resulted in the fact that, when Covid struck, we did not, as a country, have the PPE that we needed.
+**Lord Simon Stevens**: Yeah, I mean, I'm talking about the :outline:`aerosol generating procedures` but also the use of these PPE in far wider settings than frankly was envisaged for the flu stockpile and that's one of the great misjudgements, essentially, that was made and resulted in the fact that, when Covid struck, we did not, as a country, have the PPE that we needed.
 
 **Mr Weatherby KC**: Okay, let me just focus my question then. You told us that, by the time it's raised with you in April 2020, there was ongoing consideration about fit testing and the propriety of the types of PPE that you had. Was there a rolling programme of respiratory fit testing during the period from 2016 to 2020?
 

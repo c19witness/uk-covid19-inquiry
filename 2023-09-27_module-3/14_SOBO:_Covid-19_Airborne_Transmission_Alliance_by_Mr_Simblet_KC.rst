@@ -29,7 +29,7 @@ At the last preliminary Module 3 hearing, CATA drew attention to the contention 
 
 In fact there was no clear or sufficient scientific evidence for it to be asserted at the start of the pandemic that SARS-CoV-2 was not spread by the :outline:`airborne` route, nor sufficient scientific justification to make some of the other consequential decisions.
 
-In that context, it was therefore wrong, we say, in March 2020 to remove SARS-CoV-2's status as a high-consequence infectious disease and, on the very same day, to downgrade protective equipment for healthcare workers from effective respiratory protective equipment, or RPE, to FRSMs, save in relation to some particular specific medical procedures which were arbitrarily classified as :outline:`aerosol` generating procedures.
+In that context, it was therefore wrong, we say, in March 2020 to remove SARS-CoV-2's status as a high-consequence infectious disease and, on the very same day, to downgrade protective equipment for healthcare workers from effective respiratory protective equipment, or RPE, to FRSMs, save in relation to some particular specific medical procedures which were arbitrarily classified as :outline:`aerosol generating procedures`.
 
 Essentially, my Lady, the failure either to recognise the :outline:`airborne` route or to apply the precautionary principle in the formulation of infection prevention and control guidance had profound implications for the safety of patients and healthcare workers and the future of the NHS more generally.
 

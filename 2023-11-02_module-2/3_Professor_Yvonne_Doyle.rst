@@ -519,11 +519,11 @@ At the fourth paragraph, I'll just read -- I beg your pardon, I should say the l
 
 The fourth paragraph reads:
 
-"There are significant and growing concerns about the role of :outline:`aerosol` transmission of COVID-19 in healthcare settings, and the need for wider use of RPE (for example, :outline:`FFP3 respirators`) outside of those procedures designated as :outline:`aerosol` generating. We are therefore calling on [Public Health England] to support the wider use of RPE in other high-risk settings across primary and secondary care."
+"There are significant and growing concerns about the role of :outline:`aerosol` transmission of COVID-19 in healthcare settings, and the need for wider use of RPE (for example, :outline:`FFP3 respirators`) outside of those procedures designated as :outline:`aerosol generating`. We are therefore calling on [Public Health England] to support the wider use of RPE in other high-risk settings across primary and secondary care."
 
-Professor, so the first question I have for you is: appreciating that there was considerable uncertainty in the early stages of the pandemic, when did Public Health England first become aware that :outline:`aerosol` transmission was a significant transmission route of Covid-19, including through daily actions such as coughing, talking, et cetera?
+Professor, so the first question I have for you is: appreciating that there was considerable uncertainty in the early stages of the pandemic, when did Public Health England first become aware that :outline:`aerosol transmission` was a significant transmission route of Covid-19, including through daily actions such as `coughing`, `talking`, et cetera?
 
-**Professor Yvonne Doyle**: Thank you. So there was always a recognition, well, from fairly early on, that :outline:`aerosol` transmission could occur. I think what changed over the months, and particularly after the summer of 2020, was the work that had been done particularly through SAGE and through its subgroup, and Professor Noakes, of course, and the importance of :outline:`aerosol` -- the balance of :outline:`aerosol` transmission versus :outline:`droplet` versus :outline:`fomite`, and, you know, :outline:`surface transmission`. And that balance changed.
+**Professor Yvonne Doyle**: Thank you. So there was always a recognition, well, from fairly early on, that :outline:`aerosol transmission` could occur. I think what changed over the months, and particularly after the summer of 2020, was the work that had been done particularly through SAGE and through its subgroup, and Professor Noakes, of course, and the importance of :outline:`aerosol` -- the balance of :outline:`aerosol transmission` versus :outline:`droplet` versus :outline:`fomite`, and, you know, :outline:`surface transmission`. And that balance changed.
 
 Professor Noakes is part of a number of scientists who wrote to WHO and asked them to change their advice on this as well.
 

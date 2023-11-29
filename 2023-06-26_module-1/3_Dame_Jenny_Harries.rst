@@ -559,7 +559,7 @@ Is it right that, certainly looking at this document, which appears to have been
 
 **Counsel Inquiry**: Sliding --
 
-**Dame Harries**: -- I thought expressed it very well in his -- the evidence prior to this was that mostly people were infectious when they were symptomatic, and the :outline:`aerosol` generating procedures, so these are procedures where you are, if you like, it's not quite right, but actively pushing air up from the bottom of the lungs, which is different, for example, to having a virus sitting in your nose and it just popping out if you sneeze or are passing somebody.
+**Dame Harries**: -- I thought expressed it very well in his -- the evidence prior to this was that mostly people were infectious when they were symptomatic, and the :outline:`aerosol generating procedures`, so these are procedures where you are, if you like, it's not quite right, but actively pushing air up from the bottom of the lungs, which is different, for example, to having a virus sitting in your nose and it just popping out if you sneeze or are passing somebody.
 
 So these were -- that is how the transmission had occurred, and if we go to the Korea case, for example, as soon as they had put in good infection control measures in the healthcare setting, then they got on top of the transmission.
 
