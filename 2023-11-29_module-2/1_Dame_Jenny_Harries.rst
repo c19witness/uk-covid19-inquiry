@@ -357,7 +357,7 @@ If we can go to the third page of it, please, I think what we see on the sidelin
 
 "Just querying the logic behind needing to have two pieces of cotton fabric stacked on this version but only a single layer of cotton t-shirt in the previous model... I think they are both ineffective so am not unduly worried but someone might want to think of an answer for the Q&As."
 
-So there you are in May expressing a view that, frankly, these home made :outline:`cloth face masks:outline:`, one layer, two layer, are ineffective?
+So there you are in May expressing a view that, frankly, these home made :outline:`cloth face masks`, one layer, two layer, are ineffective?
 
 **Dame Harries**: Because the evidence at the time said at least three layers. So I didn't draft this guidance. My point was the guidance -- there were two points about this. The first one was I'm querying the logic, because if I was a member of the public and looked at that I'd think: why on earth do you want one layer here and two there? That was one point. The reason I said "I think [it's] ineffective" was because the only evidence I think we had at the time was around three layers, which actually started to give a bit of a positive impact. So I don't think that is effective.
 
@@ -787,7 +787,7 @@ Thinking about the measures in place within healthcare settings, what prevented 
 
 **Dame Harries**: So I -- the guidance, as you will know, I'm sure, was reviewed multiple times, and continues to be as we have gone through. It's set by a four nations IPC cell, not by myself, not by Public Health England in those days, now UKHSA, and the operational implementation of that sits with NHS England.
 
-So I can't -- I mean, there's a very, very complex review through that. It goes back to the risk and the evidence. So FFP3s were provided for :outline:`aerosol-generating procedures:outline:` right from the outset. That has always been there and it remains. We are back then to the balance of risks around appropriate PPE.
+So I can't -- I mean, there's a very, very complex review through that. It goes back to the risk and the evidence. So FFP3s were provided for :outline:`aerosol-generating procedures` right from the outset. That has always been there and it remains. We are back then to the balance of risks around appropriate PPE.
 
 But I would just like to say that at all times when those reviews have happened they have linked across to see what WHO's recommending and have stayed consistent, I'm pretty confident on that. So I don't think -- I think one of the interesting things was :outline:`FFP3s` and :outline:`FFP2s` are used differentially in different countries. So, in fact, the :outline:`FFP3` that was in play right at the start of the pandemic is, if you like, in simplistic terms, a stronger recommendation than in many other countries and I think for some of the WHO guidance.
 
