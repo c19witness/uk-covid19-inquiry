@@ -11,7 +11,13 @@ author = 'UK Covid-19 Inquiry (HTMLized by Matthew Somerville) and various comme
 extensions = [
     "recommonmark",
     "sphinxcontrib.jquery",
+    'sphinx_reredirects'
 ]
+
+redirects = {
+     "./Hancock2": "./2023-11-30_module-2/1_Mr_Matt_Hancock",
+     "./MH2": "./2023-11-30_module-2/1_Mr_Matt_Hancock"
+}
 
 templates_path = ['_templates']
 
