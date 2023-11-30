@@ -15,8 +15,8 @@ extensions = [
 ]
 
 redirects = {
-     "Hancock2": "2023-11-30_module-2/1_Mr_Matt_Hancock",
-     "MH2": "2023-11-30_module-2/1_Mr_Matt_Hancock"
+     "Hancock2": "../2023-11-30_module-2/1_Mr_Matt_Hancock",
+     "MH2": "../2023-11-30_module-2/1_Mr_Matt_Hancock"
 }
 
 templates_path = ['_templates']
