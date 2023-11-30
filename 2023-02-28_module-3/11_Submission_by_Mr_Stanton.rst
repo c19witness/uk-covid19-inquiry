@@ -37,7 +37,7 @@ In this context, we heard from counsel to the Inquiry that in March 2020 there w
 
 Second, PPE and infection prevention and control. The lack of stock and supply of appropriate PPE to protect doctors and healthcare workers who were exposed to a deadly virus while treating patients is an appalling failure. Even now healthcare workers still do not have access to adequate PPE as a result of continuing inadequate infection prevention and control guidance.
 
-In the early days of the pandemic, shockingly, doctors who purchased their own face masks were prevented from using them , and on some occasions even had them physically removed. Other doctors and healthcare workers were required to use bin bags as protective gowns, had to rely on homemade PPE, or were being offered expired masks, masks they had to reuse or masks that did not fit correctly.
+In the early days of the pandemic, shockingly, doctors who purchased their own :outline:`face masks` were prevented from using them , and on some occasions even had them physically removed. Other doctors and healthcare workers were required to use bin bags as protective gowns, had to rely on :outline:`homemade PPE`, or were being offered :outline:`expired masks`, masks they had to reuse or :outline:`masks` that did not fit correctly.
 
 This lack of protection had a profound impact on the medical workforce, including healthcare workers acquiring Covid or Long Covid, and a significant number are still affected now and limited in their ability to work.
 

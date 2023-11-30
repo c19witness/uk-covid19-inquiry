@@ -1525,7 +1525,7 @@ If I can just push you a little bit more, just in principle, in terms of how beh
 
 So where there are differences for, you know, culturally diverse communities or young men or pregnant mothers or whoever it may be, understanding the specifics of what is driving that behaviour is important.
 
-One thing we did recommend, as I've said, throughout the pandemic was the importance of co-producing guidance with affected groups, precisely so that you could understand what are the particular issues that are facing that group. With masks, for example, do masks fit appropriately around beards, if that's a cultural issue, and understanding how to improve that, would involve talking to those communities.
+One thing we did recommend, as I've said, throughout the pandemic was the importance of co-producing guidance with affected groups, precisely so that you could understand what are the particular issues that are facing that group. With :outline:`masks`, for example, do :outline:`masks` fit appropriately around beards, if that's a cultural issue, and understanding how to improve that, would involve talking to those communities.
 
 So I think that would be the key issue, is around understanding the drivers of those behaviours through co-production of guidance.
 

@@ -595,7 +595,7 @@ But the nature of our constitution is that not everything is -- well, very littl
 
 Then this:
 
-"Even the basics were neglected -- as a small but demonstrative example it took seven months after the beginning of the pandemic to get a hand sanitiser station by the link door between No 10 and the [Cabinet Office] (a door with a pin pad that anyone who worked for the Prime Minister was constantly having to touch on their way through)."
+"Even the basics were neglected -- as a small but demonstrative example it took seven months after the beginning of the pandemic to get a :outline:`hand sanitiser` station by the link door between No 10 and the [Cabinet Office] (a door with a pin pad that anyone who worked for the Prime Minister was constantly having to touch on their way through)."
 
 **Ms Helen MacNamara**: Yeah.
 
@@ -603,11 +603,11 @@ Then this:
 
 **Ms Helen MacNamara**: Even I was surprised by that when I went back into the record and saw how long it actually took.
 
-**Counsel Inquiry**: It's all very well to think of those complicated arrangements, a bit like the royal family, to stop senior officials and politicians becoming infected, but if they're working between the Cabinet Office and Number 10 and they're all having to touch a touch pad and there's no hand sanitiser, it's perhaps hardly surprising that so many of you got Covid at the same time?
+**Counsel Inquiry**: It's all very well to think of those complicated arrangements, a bit like the royal family, to stop senior officials and politicians becoming infected, but if they're working between the Cabinet Office and Number 10 and they're all having to touch a touch pad and there's no :outline:`hand sanitiser`, it's perhaps hardly surprising that so many of you got Covid at the same time?
 
 **Ms Helen MacNamara**: It's not surprising at all, and also it's indicative of just a lack of care, actually, which I think was damaging in all sorts of ways.
 
-**Counsel Inquiry**: Do you think that sort of planning has now been done or systems have been changed so that we could have some confidence that if there was, let's say, a flu pandemic, just as transmissible if not more so than Covid, perhaps there will be some sanitiser on that touch pad?
+**Counsel Inquiry**: Do you think that sort of planning has now been done or systems have been changed so that we could have some confidence that if there was, let's say, a flu pandemic, just as transmissible if not more so than Covid, perhaps there will be some :outline:`sanitiser` on that touch pad?
 
 **Ms Helen MacNamara**: I hope so, and I hope that people are better looked after, more importantly.
 

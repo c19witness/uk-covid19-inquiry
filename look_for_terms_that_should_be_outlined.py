@@ -18,15 +18,16 @@ for path in pathlist:
      path_in_str = str(path)
      with open(path_in_str) as file:
          for num, line in enumerate(file, 1):
-             for outlined_term_re in outlined_terms_re:
-                 m = outlined_term_re['term_re'].search(line)
-                 #if m is not None:
-                     #print(str(m))
-                 m2 = outlined_term_re['outlined_term_re'].search(line)
-                 m2b = outlined_term_re['outlined_term_reB'].search(line)
-                 if m and not m2 and not m2b:
-                     x1 = m.start() -5
-                     x2 = m.end() + 5
-                     #print(str(x1))
-                     print(path_in_str + " " + str(num) + " `" + outlined_term_re['term'] + "` " + line[x1:
-                     x2])
+             if not line.startswith("   "):
+                 for outlined_term_re in outlined_terms_re:
+                     m = outlined_term_re['term_re'].search(line)
+                     #if m is not None:
+                         #print(str(m))
+                     m2 = outlined_term_re['outlined_term_re'].search(line)
+                     m2b = outlined_term_re['outlined_term_reB'].search(line)
+                     if m and not m2 and not m2b:
+                         x1 = m.start() -5
+                         x2 = m.end() + 5
+                         #print(str(x1))
+                         print(path_in_str + " " + str(num) + " `" + outlined_term_re['term'] + "` " + line[x1:
+                         x2])

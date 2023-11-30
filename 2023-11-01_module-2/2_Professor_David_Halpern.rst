@@ -643,7 +643,7 @@ That's your words which you set out in this report and sent to government. Is th
 
 **Professor David Halpern**: Yes, I did feel that was true. So the report, behavioural government, looks at this, it shows, for example, generally, as people become more senior their overconfidence generally gets bigger rather than less. I did feel it characterised a lot of what was happening from early on, so those very early comparisons to other countries, Japan, Germany, and it made us slower to look really carefully at what they did and learn the lessons from them.
 
-It also had many other manifestations. I mean, masks would be an example. We felt that the evidence became very compelling certainly by late March, early April, for masks, and there was a strong anchoring in and scepticism in many of the medical community.
+It also had many other manifestations. I mean, :outline:`masks` would be an example. We felt that the evidence became very compelling certainly by late March, early April, for :outline:`masks`, and there was a strong anchoring in and scepticism in many of the medical community.
 
 **Counsel Inquiry**: And linked to what you say in your report, and the final point from me, is you say in your statements that there was a touch of hubris, that at paragraph 167.
 

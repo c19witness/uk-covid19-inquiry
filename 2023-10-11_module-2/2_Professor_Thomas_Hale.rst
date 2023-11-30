@@ -169,9 +169,9 @@ But on account of the way in which a viral outbreak or a virus disease will spre
 
 **Professor Thomas Hale**: Yes. So as was mentioned, the exact impact of any single measure in a given instance is always going to be difficult to say, because they tend to come in packages. But on balance, the literature shows, as you would expect, policies that are more effective at presenting people from meeting each other are going to be the ones that have the greatest impact on cases, hospitalisations, and eventually deaths. So stay at home measures were obviously one of the most strong -- we observed, one of the strongest overall tendencies to do. But school closures, workplace closures, also seemed to have this effect.
 
-**Lead Inquiry**: What about mask wearing?
+**Lead Inquiry**: What about :outline:`mask wearing`?
 
-**Professor Thomas Hale**: Mask wearing is indeed one of the factors that has been shown. I think I would -- I note the Royal Society's report on this fact, showing quite a clear balance of evidence that the right kind of mask wearing in particular has reduced transmission.
+**Professor Thomas Hale**: :outline:`Mask wearing` is indeed one of the factors that has been shown. I think I would -- I note the Royal Society's report on this fact, showing quite a clear balance of evidence that the right kind of :outline:`mask wearing` in particular has reduced transmission.
 
 **Lead Inquiry**: When you say the "right" type of mask, do you mean :outline:`medical masks`, :outline:`respirators`, as opposed to :outline:`cloth masks`?
 

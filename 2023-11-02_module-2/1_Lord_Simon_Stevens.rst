@@ -615,7 +615,7 @@ So I think the Cabinet Office's own records show that what is attributed to me s
 
 **Counsel Inquiry**: What we know, and we can see in other evidence, is that in fact this issue of misfitting PPE continued to be a problem for weeks, months, even years afterwards, didn't it, Lord Stevens?
 
-**Lord Simon Stevens**: I don't know about years, but it definitely was a problem as a result of the short supply of PPE overall, with the result that it was often very difficult for DHSC to get sufficient range of masks in different locations at the right time. There's no doubt about that.
+**Lord Simon Stevens**: I don't know about years, but it definitely was a problem as a result of the short supply of PPE overall, with the result that it was often very difficult for DHSC to get sufficient range of :outline:`masks` in different locations at the right time. There's no doubt about that.
 
 **Counsel Inquiry**: Well, just finally let's look at one last document, which is INQ000097875.
 
@@ -803,7 +803,7 @@ Okay? Does that help you in terms of the knowledge about this?
 
 **Mr Weatherby KC**: Yes, okay --
 
-**Lord Simon Stevens**: Masks and I think it's the :outline:`FFP3 masks` that you're referring to specifically here.
+**Lord Simon Stevens**: :outline:`Masks` and I think it's the :outline:`FFP3 masks` that you're referring to specifically here.
 
 **Mr Weatherby KC**: Well, I think that's something that possibly we'll leave to a different module, the granular detail of it.
 

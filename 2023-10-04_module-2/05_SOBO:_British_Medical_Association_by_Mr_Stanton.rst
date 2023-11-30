@@ -9,7 +9,7 @@ This statement highlights the BMA's key concerns regarding matters within the sc
 
 The UK Government's actions to reduce the spread of Covid-19 were too slow, with non-pharmaceutical interventions, NPIs, implemented too late and lifted too early. Examples include the failure to cancel mass gatherings and large sporting events in March 2020, which undoubtedly led to higher cases, hospitalisations and, very likely, deaths, and the first UK wide lockdown, which only began on 23 March 2020, 11 days after contact tracing was abandoned.
 
-The mandating of face masks for the general public was also introduced far too late, and much later than in many other countries. Since 25 April the BMA had been calling for the introduction of face coverings for the public. However, in England they only became mandatory on public transport and for outpatients and hospital visitors from 15 June, and it was not until 24 July that they were required in shops and supermarkets.
+The mandating of :outline:`face masks` for the general public was also introduced far too late, and much later than in many other countries. Since 25 April the BMA had been calling for the introduction of face coverings for the public. However, in England they only became mandatory on public transport and for outpatients and hospital visitors from 15 June, and it was not until 24 July that they were required in shops and supermarkets.
 
 From June 2020 the BMA published its position on what was needed for the safe easing of restrictions, including an effective test and trace system, ongoing surveillance of Covid-19, the use of certain NPIs, including mask wearing, reduced household mixing and better ventilation, and the need for greater support for vulnerable groups and action to reduce health inequalities.
 
@@ -35,9 +35,9 @@ There can be no doubt that the provision of PPE to healthcare workers during the
 
 The Inquiry was told by several witnesses in Module 1 that the UK never ran out of PPE nationally, but the fact is that doctors and other healthcare staff did not have the PPE they needed. This not only put them at physical risk from Covid-19, but also affected their mental health and wellbeing. In correspondence to the Prime Minister, Public Health England and NHS England, the BMA highlighted the discrepancy between levels of PPE recommended by the World Health Organisation and other nations, with the inadequate provision in the UK.
 
-A key failure of government decision-making was and continues to be the failure to properly consider and acknowledge that Covid-19 is an :outline:`airborne` virus. This impacted on the protections available to healthcare workers. Deficiencies in IPC guidance meant that respiratory protective equipment, or RPE, which provides the greatest protection against :outline:`aerosols`, was not always provided to staff who were treating patients with confirmed or suspected Covid-19, and that fluid-resistant surgical masks were wrongly deemed to be suitable protection.
+A key failure of government decision-making was and continues to be the failure to properly consider and acknowledge that Covid-19 is an :outline:`airborne` virus. This impacted on the protections available to healthcare workers. Deficiencies in IPC guidance meant that respiratory protective equipment, or RPE, which provides the greatest protection against :outline:`aerosols`, was not always provided to staff who were treating patients with confirmed or suspected Covid-19, and that fluid-resistant :outline:`surgical masks` were wrongly deemed to be suitable protection.
 
-There is also evidence before the Inquiry that the lack of availability of respirators was because cost considerations were prioritised ahead of safety.
+There is also evidence before the Inquiry that the lack of availability of :outline:`respirators` was because cost considerations were prioritised ahead of safety.
 
 The failure to provide healthcare workers with the right level of protection has caused serious harm to many BMA members and the wider healthcare workforce, many of whom are still suffering today with long Covid acquired in their workplace.
 

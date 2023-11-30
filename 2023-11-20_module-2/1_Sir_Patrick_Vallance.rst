@@ -1875,7 +1875,7 @@ Now, in your statement you speak of borders and you're discussing them in relati
 
 **Sir Patrick Vallance**: I never heard that suggestion.
 
-**Ms Mitchell KC**: Moving on to my final issue, and that is in relation to the issue of masks in schools. You made a call, Sir Patrick, that the Scottish Government decided masks would be used in schools and thereafter England followed suit at some point in August of 2020; do you recall that?
+**Ms Mitchell KC**: Moving on to my final issue, and that is in relation to the issue of :outline:`masks` in schools. You made a call, Sir Patrick, that the Scottish Government decided :outline:`masks` would be used in schools and thereafter England followed suit at some point in August of 2020; do you recall that?
 
 **Sir Patrick Vallance**: I recall that happened, yes.
 

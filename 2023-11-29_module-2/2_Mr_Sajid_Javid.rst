@@ -927,7 +927,7 @@ If I can then take you, please, to the discussions that were then going on in Ju
 
 **Mr Sajid Javid**: Yeah.
 
-**Counsel Inquiry**: 2 July 2021: it's page 614, the same document, please. It's a further meeting, and what we see in this meeting is a difference of views between the Prime Minister and the Chancellor and Michael Gove and you in relation to what should you be doing and the return to work. Mask wearing, effectively what NPIs should be put in place.
+**Counsel Inquiry**: 2 July 2021: it's page 614, the same document, please. It's a further meeting, and what we see in this meeting is a difference of views between the Prime Minister and the Chancellor and Michael Gove and you in relation to what should you be doing and the return to work. :outline:`Mask wearing`, effectively what NPIs should be put in place.
 
 We see a more cautious approach --
 
@@ -957,7 +957,7 @@ What we see here is in terms of the situation update: cases are up, hospital adm
 
 **Mr Sajid Javid**: Yeah.
 
-**Counsel Inquiry**: And it continues to record some further discussion about making masks voluntary; what will ministers say; they will do sometimes: I will, sometimes I won't wear one?
+**Counsel Inquiry**: And it continues to record some further discussion about making :outline:`masks` voluntary; what will ministers say; they will do sometimes: I will, sometimes I won't wear one?
 
 **Mr Sajid Javid**: Yeah.
 
@@ -965,7 +965,7 @@ What we see here is in terms of the situation update: cases are up, hospital adm
 
 **Mr Sajid Javid**: Yeah.
 
-**Counsel Inquiry**: "Are we going to encourage people to wear masks? Are we going to continue with this bollocks? It says he wants everyone back at work. We can't have the bollocks of consulting with employees and trade unions. They all need to come back to work, all the malingering, work-shy people."
+**Counsel Inquiry**: "Are we going to encourage people to wear :outline:`masks`? Are we going to continue with this bollocks? It says he wants everyone back at work. We can't have the bollocks of consulting with employees and trade unions. They all need to come back to work, all the malingering, work-shy people."
 
 And then goes on to ask or say:
 

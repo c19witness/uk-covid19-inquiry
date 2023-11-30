@@ -53,7 +53,7 @@ They've been joined by 6,500 others from all corners of the United Kingdom. Amon
 
 During this period in December 2020, sadly, Saleyha's father, Ahsan-ul-Haq Chaudry, caught Covid and died. Saleyha has produced and reported on a very powerful Channel 4 Dispatches documentary for which she filmed for four months during the pandemic between October 2020 and January 2021 within her own intensive care unit. It's available on Channel 4 and open source.
 
-Before training to be a doctor, Saleyha served with the Royal Army Medical Corps. She contrasts the state of preparedness in the British Army -- which incorporates robust regular training, the putting on, taking off and being operational in protective suits, including respirators -- with the state of preparedness she experienced in the NHS where no such training in PPE took place throughout her years at medical school and during her subsequent 14 years as an A&E doctor.
+Before training to be a doctor, Saleyha served with the Royal Army Medical Corps. She contrasts the state of preparedness in the British Army -- which incorporates robust regular training, the putting on, taking off and being operational in protective suits, including :outline:`respirators` -- with the state of preparedness she experienced in the NHS where no such training in PPE took place throughout her years at medical school and during her subsequent 14 years as an A&E doctor.
 
 Saleyha is one of five siblings, five doctors and a pharmacist. They work in different parts of the UK. In all their individual years of practice, none of them has had any such training in PPE.
 

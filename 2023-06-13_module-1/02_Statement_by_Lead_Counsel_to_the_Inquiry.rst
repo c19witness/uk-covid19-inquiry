@@ -41,7 +41,7 @@ Of course, that is why Module 1, in terms of preparedness, in terms of the respo
 
 Even at this stage, before hearing the evidence, it is apparent that we might not have been very well prepared at all.
 
-On 4 March the DHSC in England announced a campaign focusing on the importance of washing hands, and washing hands for 20 seconds, using soap and water or hand sanitiser. On 6 March the United Kingdom Government announced significant additional funding for rapid diagnostic tests and for the international fund into vaccine research.
+On 4 March the DHSC in England announced a campaign focusing on the importance of :outline:`washing hands`, and :outline:`washing hands for 20 seconds`, using :outline:`soap and water` or :outline:`hand sanitiser`. On 6 March the United Kingdom Government announced significant additional funding for rapid diagnostic tests and for the international fund into vaccine research.
 
 On 11 March the then Chancellor of the Exchequer, Rishi Sunak MP, announced a package of support, including the establishment of a £5 billion emergency fund to support the NHS and other public services in England and additional NHS funding, measures for additional access to statutory sick pay, contributory employment support allowance, a hardship fund for local councils, and business interruption loans.
 

@@ -405,7 +405,7 @@ So it was, you will have seen, I think, in the evidence, I think it's about this
 
 **Dame Harries**: Yes.
 
-**Counsel Inquiry**: What we are seeing here is draft guidance on making a mask, which will of course make people feel more confident to go out, go on public transport, whatever, which you are saying is ineffective. Wasn't that a reason to say, "No, we shouldn't be encouraging people to use these ineffective masks"?
+**Counsel Inquiry**: What we are seeing here is draft guidance on making a mask, which will of course make people feel more confident to go out, go on public transport, whatever, which you are saying is ineffective. Wasn't that a reason to say, "No, we shouldn't be encouraging people to use these :outline:`ineffective masks`"?
 
 **Dame Harries**: That's a very difficult balance, for the point we've just come back to, because the first question was: shouldn't you be encouraging this, there's no harm? And the issue for me at that time, and I think Professor Van-Tam shared it, was we definitely shouldn't be supporting something which was not evidence-based if it was going to promote a risk compensation. And there were a number of different driving factors here and of course face coverings, as I know you'll be aware, is a wholly polarised debate and it's quite difficult to maintain a central position.
 
@@ -419,7 +419,7 @@ I -- you know, if you -- if I'd said, "Don't do any of this", somebody would hav
 
 Professor, lastly I want to ask you about a different matter altogether, and it relates to your current role with the UKHSA and some evidence that Sir Patrick Vallance gave, Sir Patrick Vallance, when he was in the box last week.
 
-He was talking about how the country might best prepare for a future pandemic, and he talked about his idea of a need for something that he described as an academic centre for pandemic preparedness, in terms of trying to bring together, in one or more academic institution, all the different fields of expertise that might be relevant to preparing for a pandemic, whether it's modelling or testing masks or the whole range of expertise.
+He was talking about how the country might best prepare for a future pandemic, and he talked about his idea of a need for something that he described as an academic centre for pandemic preparedness, in terms of trying to bring together, in one or more academic institution, all the different fields of expertise that might be relevant to preparing for a pandemic, whether it's modelling or testing :outline:`masks` or the whole range of expertise.
 
 When I asked him whether that was something that the government should be involved in, he said yes, he thought it should have government funding, and indeed that he thought the UKHSA, your organisation, should be involved in that enterprise.
 

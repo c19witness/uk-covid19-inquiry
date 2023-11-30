@@ -273,7 +273,7 @@ And it said this:
 
 And then elsewhere in the minutes:
 
-"The wearing of facemasks by the general population is unlikely to meaningfully reduce transmission."
+"The wearing of :outline:`facemasks` by the general population is unlikely to meaningfully reduce transmission."
 
 On 3 February the Prime Minister receives a briefing from the Chief Medical Officer as part of a wider NHS briefing on the potential risks of Covid. Sir Chris Whitty expresses the view that if Covid-19 spreads internationally and becomes a pandemic, there was a reasonable chance there would be between 100,000 and 300,000 deaths in the United Kingdom. The minutes of the SAGE meeting on 4 February record:
 

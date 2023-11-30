@@ -369,7 +369,7 @@ Then there was a second stage between 16 and 21 February which followed up the d
 
 Now, if we move, please, to page 5 and paragraph 5, we can see that -- thank you.
 
-"The Exercise also highlighted the need for better engagement with the public and communities and particularly community responsibility for vulnerable people. There was a need for clearer advice to the public on the use of antiviral drugs, facemasks and other measures and on the stocking of home supplies."
+"The Exercise also highlighted the need for better engagement with the public and communities and particularly community responsibility for vulnerable people. There was a need for clearer advice to the public on the use of antiviral drugs, :outline:`facemasks` and other measures and on the stocking of home supplies."
 
 If we can move to page 11, please, and look at the fifth bullet point. Thank you.
 

@@ -25,19 +25,19 @@ First, there was a failure to prepare adequately for a range of pandemic threats
 
 One consequence of the predominant focus on an influenza-style pandemic was that the UK's response to Covid-19 failed to properly consider the potential for :outline:`aerosol` transmission of the virus.
 
-This in turn impacted the public health measures put in place, including the focus on hand washing and the delay in mandating mask wearing for the public.
+This in turn impacted the public health measures put in place, including the focus on :outline:`hand washing` and the delay in mandating mask wearing for the public.
 
 For doctors and other healthcare workers, the failure in considering :outline:`aerosol` transmission resulted in insufficient stocks of appropriate PPE and inadequate infection prevention and control in healthcare settings. As one doctor in Scotland said:
 
 "The PPE guidance was based not on safety, but rather the lack of preparedness."
 
-Shockingly, this is the case even now. The current IPC guidance continues to put staff and patients at risk by erroneously stating that fluid-resistant surgical masks are adequate protection for healthcare workers carrying out routine care for Covid positive patients, rather than specifying respirators such as filtering facepiece respirators, often referred to as :outline:`FFP2` and :outline:`FFP3` masks, which are recommended by international guidance and by the BMA.
+Shockingly, this is the case even now. The current IPC guidance continues to put staff and patients at risk by erroneously stating that :outline:`fluid-resistant surgical masks` are adequate protection for healthcare workers carrying out routine care for Covid positive patients, rather than specifying respirators such as filtering facepiece respirators, often referred to as :outline:`FFP2` and :outline:`FFP3` masks, which are recommended by international guidance and by the BMA.
 
-The limitations of surgical masks were well known prior to the pandemic, highlighted, for example, in a research report by the Health and Safety Executive in 2008. The HSE report noted that whilst surgical masks may reduce residual :outline:`aerosol` risk to some degree, they might not sufficiently reduce the likelihood of transmission, and consequently surgical masks should not be used in situations where close exposure to infectious :outline:`aerosols` is likely.
+The limitations of :outline:`surgical masks` were well known prior to the pandemic, highlighted, for example, in a research report by the Health and Safety Executive in 2008. The HSE report noted that whilst :outline:`surgical masks` may reduce residual :outline:`aerosol` risk to some degree, they might not sufficiently reduce the likelihood of transmission, and consequently :outline:`surgical masks` should not be used in situations where close exposure to infectious :outline:`aerosols` is likely.
 
 This same 2008 report also predicted the crisis of PPE supply, including the following statement:
 
-"The widespread use of respirators might be difficult to sustain during a pandemic unless provision is made for their use in advance."
+"The widespread use of :outline:`respirators` might be difficult to sustain during a pandemic unless provision is made for their use in advance."
 
 As the regulator entrusted with the protection of worker health, the Health and Safety Executive will be in a position to help the Inquiry understand what more should have been done to mitigate the risks to workers of an :outline:`airborne` virus.
 

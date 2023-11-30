@@ -249,7 +249,7 @@ And I think I note in my statement as well that it's possible there may be a fea
 
 **Professor Catherine Noakes**: Yes, so in hospital infection control, you know -- which is a very good field and there are a lot of really expert people who do hospital infection control, but conventionally if something is deemed :outline:`droplet` transmission, then you have relatively simple precautions: you perhaps put somebody in a side room, you maintain a distance, and you would wear relatively straightforward PPE, a simple :outline:`surgical mask`, maybe a visor.
 
-If something is deemed :outline:`airborne`, then, providing you've got the capacity to do it, ideally you put that person into a negative pressure isolation room and you wear full respiratory protective equipment to manage that person.
+If something is deemed :outline:`airborne`, then, providing you've got the capacity to do it, ideally you put that person into a negative pressure isolation room and you wear full :outline:`respiratory protective equipment` to manage that person.
 
 **Counsel Inquiry**: Certainly at the very outset of the pandemic, we'll all recall those images of people in --
 

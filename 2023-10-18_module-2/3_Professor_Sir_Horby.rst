@@ -621,7 +621,7 @@ Were there a number of meetings of SAGE and NERVTAG through February, April -- 7
 
 **Professor Sir Horby**: Yes, that's right, and this is one of the issues I said I think rightly came back round again.
 
-**Lead Inquiry**: On 7 April, the SAGE minutes show that NERVTAG had concluded that the increased use of masks would have minimal effect.
+**Lead Inquiry**: On 7 April, the SAGE minutes show that NERVTAG had concluded that the increased use of :outline:`masks` would have minimal effect.
 
 On 9 April, the NERVTAG minutes from that day, NERVTAG 13, showed that Sir Jonathan Van-Tam had asked you to return to the issue of :outline:`face masks` because other countries had introduced what's known as soft advisory positions in relation to the use of :outline:`face masks`, and he was concerned that NERVTAG and SAGE should re-examine the issue; is that correct?
 
@@ -651,15 +651,15 @@ The second downside is that you are making a population-wide recommendation base
 
 I don't know whether we have this in the system, INQ000102697, page 33. This is a page from a WhatsApp group including Mr Hancock, and you can see at about the tenth or eleventh entry, 16.04 -- 16 April 2020, 22.03.53, Matt Hancock MP:
 
-"WE DO NOT HAVE ENOUGH MASKS TO SAY THESE THINGS."
+"WE DO NOT HAVE ENOUGH :outline:`MASKS` TO SAY THESE THINGS."
 
 Then:
 
-"Talking about this before we are ready risks taking masks from nurses and social care workers who really need them. It is self-indulgent and dangerous."
+"Talking about this before we are ready risks taking :outline:`masks` from nurses and social care workers who really need them. It is self-indulgent and dangerous."
 
 Now, that wasn't a remark made specifically in relation to the NERVTAG consideration but it shows, doesn't it, that the government was concerned about the practicalities?
 
-**Professor Sir Horby**: Yes, I mean, it's the first time I've seen that, and it -- we were not -- in no way were we pressured by anyone from government to make any advice based on the availability of masks but, as we had healthcare workers on the committee, it was a clear issue about the availability of PPE for healthcare workers, and raised by committee members that it could divert stocks away from places where they're more effective.
+**Professor Sir Horby**: Yes, I mean, it's the first time I've seen that, and it -- we were not -- in no way were we pressured by anyone from government to make any advice based on the availability of :outline:`masks` but, as we had healthcare workers on the committee, it was a clear issue about the availability of PPE for healthcare workers, and raised by committee members that it could divert stocks away from places where they're more effective.
 
 **Lead Inquiry**: In the event, Professor, following the advice given by NERVTAG and adopted by SAGE, the government advised on 11 May the public to consider wearing face coverings, and then in June they became mandatory in public transport, and then in July in shops?
 

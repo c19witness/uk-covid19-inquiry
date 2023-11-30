@@ -331,7 +331,7 @@ At paragraph 21 in your report you say that there was "substandard infection pre
 
 **Professor David Heymann**: Well, all we know is that the graph that the Chinese finally produced for this outbreak shows that health workers became infected very early in the outbreak, and those health workers then continued to become infected, and it's assumed that they infected their family members and other patients. One of those health workers actually came out of Guangdong Province into Hong Kong in February of 2003, and from him the virus was spread to people staying in the same hotel and it spread around the world. So health workers are very important, always, in emerging infections, because they don't recognise that they're a new disease oftentimes.
 
-**Counsel Inquiry**: Yes. Do you know, for instance, Professor, whether or not those health workers were routinely wearing PPE such as face masks or shields?
+**Counsel Inquiry**: Yes. Do you know, for instance, Professor, whether or not those health workers were routinely wearing PPE such as :outline:`face masks` or shields?
 
 **Professor David Heymann**: I think it can be assumed that early on they weren't, because what the Chinese indicated, when they finally opened up to providing information, is they thought that this was influenza --
 
@@ -848,7 +848,7 @@ But returning for a moment, please, to the initial outbreak, what reports and re
 
 **Counsel Inquiry**: Do you have any comment to make about that advice that was provided on 29 January?
 
-**Professor David Heymann**: That was solid advice to prevent transmission in care settings, and it was very important, and medical masks have been recommended -- were recommended for health workers.
+**Professor David Heymann**: That was solid advice to prevent transmission in care settings, and it was very important, and :outline:`medical masks` have been recommended -- were recommended for health workers.
 
 **Counsel Inquiry**: But it wasn't until much later, I think, in 2022, that the World Health Organisation unreservedly recommended mask wearing for the general public whenever there was a need to decrease community spread, but you would say, I presume, Professor, that by that time there was so much more evidence available?
 
@@ -1096,7 +1096,7 @@ So the lesson that I think we've all learned, and I think many of us knew before
 
 **Counsel Inquiry**: All right. What about the lack of surge capacity?
 
-**Professor David Heymann**: The lack of surge capacity, after the influenza pandemic there was an increase in hospital respirators, as far as I understand, and there had been practice in activities related to influenza, but they were just not activities that were with the current pandemic, and I'm not sure whether or not -- I can't say whether or not they included what might happen if capacity in hospitals was overwhelmed, although the UK responded rapidly with its units that they did set up.
+**Professor David Heymann**: The lack of surge capacity, after the influenza pandemic there was an increase in hospital :outline:`respirators`, as far as I understand, and there had been practice in activities related to influenza, but they were just not activities that were with the current pandemic, and I'm not sure whether or not -- I can't say whether or not they included what might happen if capacity in hospitals was overwhelmed, although the UK responded rapidly with its units that they did set up.
 
 **Counsel Inquiry**: All right.
 
@@ -1256,7 +1256,7 @@ In Asia, masks have been worn as a courtesy when people are infected for many, m
 
 **Counsel Inquiry**: Would there have been any downside to the World Health Organisation as a precaution, once Covid-19 was beginning to spread, advising that masks should be worn?
 
-**Professor David Heymann**: There would have been one downside and that is the fact that medical masks were in very short supply, and if the general public were trying to get these masks as well as the health community, it might cause a very serious problem. So I know in the US, after an outbreak of a choir in March of 2020, they recommended cloth face coverings to prevent transmission from a person infected to others. So there was concern, I believe, in many circles, including at WHO, that by making a recommendation to wear masks, this would compound the shortage which was occurring of medical masks.
+**Professor David Heymann**: There would have been one downside and that is the fact that :outline:`medical masks` were in very short supply, and if the general public were trying to get these masks as well as the health community, it might cause a very serious problem. So I know in the US, after an outbreak of a choir in March of 2020, they recommended :outline:`cloth face coverings` to prevent transmission from a person infected to others. So there was concern, I believe, in many circles, including at WHO, that by making a recommendation to wear :outline:`masks`, this would compound the shortage which was occurring of :outline:`medical masks`.
 
 **Ms Blackwell**: Right, thank you very much. That's very clear.
 

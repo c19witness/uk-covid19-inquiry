@@ -27,7 +27,7 @@ We say there is still more to do to make the hearings truly accessible, inclusiv
 
 The Inquiry staff have helpfully provided a HEPA filter, which was part of the mitigation measures we proposed. However, it's had to be turned to low because of the noise it was making. So that again is certainly something we can assist with and that we have been advising on, and we want to be able to continue working with the Inquiry team on that.
 
-We have also pointed out, picking up on a similar point to what's been made by my colleagues earlier, it would be extremely useful for a room to be available in the hearing centre for the immunosuppressed, the immune suppressed. To explain what this means in practice, without such a room, our lay clients are unable to eat and drink safely because they cannot remove their face masks.
+We have also pointed out, picking up on a similar point to what's been made by my colleagues earlier, it would be extremely useful for a room to be available in the hearing centre for the immunosuppressed, the immune suppressed. To explain what this means in practice, without such a room, our lay clients are unable to eat and drink safely because they cannot remove their :outline:`face masks`.
 
 We entirely appreciate that space is tight, however there is a prayer room, a support room and various core participant break-out rooms, and we would ask that consideration is given to making this reasonable adjustment in future.
 

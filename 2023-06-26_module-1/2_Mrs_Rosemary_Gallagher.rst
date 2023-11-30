@@ -243,7 +243,7 @@ PPE is designed to protect the wearer from a hazard, so in the case of a pandemi
 
 **Counsel Inquiry**: Are there lessons that you believe could have been learned from countries dealing with MERS CoV regarding the stockpiling and use of RPE?
 
-**Mrs Rosemary Gallagher**: Yes. To -- when you're -- in my view, if you are planning for a pandemic, we need to consider all eventualities. So we need to consider both potentially the use of surgical masks, but they are not personal protective equipment, and consider the need for respiratory protective equipment for an infection that is spread through the respiratory route predominantly. Not exclusively but predominantly.
+**Mrs Rosemary Gallagher**: Yes. To -- when you're -- in my view, if you are planning for a pandemic, we need to consider all eventualities. So we need to consider both potentially the use of :outline:`surgical masks`, but they are not personal protective equipment, and consider the need for :outline:`respiratory protective equipment` for an infection that is spread through the respiratory route predominantly. Not exclusively but predominantly.
 
 It's my view that there was inadequate consideration given to not just the use of respiratory protective equipment for a prolonged period of time but exactly which elements of the health and care system would need to use respiratory protective equipment if we had widespread infection.
 
@@ -631,7 +631,7 @@ The essential expectations around having good policies and procedures and educat
 
 **Counsel Inquiry**: Right, thank you.
 
-We've touched upon PPE and RPE, and you tell us in your witness statement that, as far as the RCN is concerned, there was a lack of -- or insufficient stockpiling of RPE that was needed. That's also a reference, is it not, to FFP-3 face masks, which I think you've already described to us, the critical nature of those?
+We've touched upon PPE and RPE, and you tell us in your witness statement that, as far as the RCN is concerned, there was a lack of -- or insufficient stockpiling of RPE that was needed. That's also a reference, is it not, to :outline:`FFP3 face masks`, which I think you've already described to us, the critical nature of those?
 
 You say that without a sufficient stockpile of that equipment, not only for hospital settings but also for community nursing, nursing staff are putting their own lives and the lives of their families and patients at risk.
 
@@ -647,7 +647,7 @@ From an RCN perspective, is there or indeed was there at the onset of the pandem
 
 **Counsel Inquiry**: Certainly.
 
-**Mrs Rosemary Gallagher**: -- briefly. The failure to consider a pathogen that had pandemic potential that would require the extended use of respiratory protective equipment was not duly considered, and it is my view that that had an effect on how large the stockpile was of respiratory protective equipment as opposed to face masks.
+**Mrs Rosemary Gallagher**: -- briefly. The failure to consider a pathogen that had pandemic potential that would require the extended use of :outline:`respiratory protective equipment` was not duly considered, and it is my view that that had an effect on how large the stockpile was of :outline:`respiratory protective equipment` as opposed to :outline:`face masks`.
 
 If you take that to the next degree, then I would have expected consideration of the need to cascade fit testing to be in place as part of pandemic preparedness.
 

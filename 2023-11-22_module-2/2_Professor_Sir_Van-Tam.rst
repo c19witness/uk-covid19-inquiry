@@ -1091,7 +1091,7 @@ And then there is the example of ambulances; yes?
 
 **Professor Sir Van-Tam**: Yes.
 
-**Mr Weatherby KC**: Then if we move on to 2.9, please, the new guidance that's been proposed is then stepping down from :outline:`FFP3 proper respirators` to the kind of blue :outline:`surgical` masks that many of us are familiar with --
+**Mr Weatherby KC**: Then if we move on to 2.9, please, the new guidance that's been proposed is then stepping down from :outline:`FFP3 proper respirators` to the kind of blue :outline:`surgical masks` that many of us are familiar with --
 
 **Professor Sir Van-Tam**: Yes.
 

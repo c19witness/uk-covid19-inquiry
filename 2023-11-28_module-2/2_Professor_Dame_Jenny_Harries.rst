@@ -341,11 +341,11 @@ I would have to check on that but I think that was it. So my sense at the time w
 
 The answer you gave:
 
-"The country has a perfectly adequate supply of PPE at the moment. That encompasses quite a wide range of different gowns, masks, gloves, all sorts of things. There have been, I think, some differential deliveries, if you like, in some areas, which has caused a degree of concern recently. That is completely resolved now", and then you go on.
+"The country has a perfectly adequate supply of PPE at the moment. That encompasses quite a wide range of different gowns, :outline:`masks`, gloves, all sorts of things. There have been, I think, some differential deliveries, if you like, in some areas, which has caused a degree of concern recently. That is completely resolved now", and then you go on.
 
 It wasn't right, was it, that the problems with PPE had been completely resolved as of 20 March?
 
-**Professor Dame Harries**: So the first statement that -- sorry, this is one of these areas where I need to clarify what my responsibility was. I had no direct responsibility for PPE at all and when I go into these conferences I had to rely on information that was provided to me. So on this one, my understanding was -- and I think that is actually still correct -- that we did have a national supply of gowns, masks, gloves and other things. The difficulty was I had been told that a new supply system for getting them around the country, so there wasn't differential distribution, was resolved and that turned out to be not the case.
+**Professor Dame Harries**: So the first statement that -- sorry, this is one of these areas where I need to clarify what my responsibility was. I had no direct responsibility for PPE at all and when I go into these conferences I had to rely on information that was provided to me. So on this one, my understanding was -- and I think that is actually still correct -- that we did have a national supply of gowns, :outline:`masks`, gloves and other things. The difficulty was I had been told that a new supply system for getting them around the country, so there wasn't differential distribution, was resolved and that turned out to be not the case.
 
 In fact, I apologised as soon as I could when I was next on the stand, which I think was probably not until about ten days later, which is a relatively unusual thing to do from a political stand but it was something I felt I needed to do.
 

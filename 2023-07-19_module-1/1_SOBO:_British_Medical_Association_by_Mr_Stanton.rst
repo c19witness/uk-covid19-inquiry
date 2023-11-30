@@ -23,25 +23,25 @@ And, fourth, the government structures and processes in place for civil continge
 
 Dealing first with the issue of the provision of PPE to doctors and other healthcare workers. The Inquiry has heard repeatedly in this module that the planning for PPE including stockpile was inadequate for a pandemic event. This, coupled with the distressing accounts of healthcare workers about the circumstances in which they were required to work without adequate protection while exposed to a deadly disease, is damning evidence.
 
-Right from the outset of the pandemic, there was a huge concern within the BMA's membership about this issue, with doctors describing how they were instructed to remove their masks, accused of scaremongering, and others expressing concern at the absence of FFP3 respirators and the inadequate consideration given to the risks of :outline:`aerosol` transmission.
+Right from the outset of the pandemic, there was a huge concern within the BMA's membership about this issue, with doctors describing how they were instructed to remove their masks, accused of scaremongering, and others expressing concern at the absence of :outline:`FFP3 respirators` and the inadequate consideration given to the risks of :outline:`aerosol` transmission.
 
 One GP from England told the BMA that:
 
-"We were seeing patients who had Covid, but because of the advice that was behind the curve they were deemed to be low risk. We needed proper protection with FFP3 masks, but these were not considered necessary and were not provided. It was in April 2020, whilst wearing inadequate PPE, that I caught coronavirus from a patient."
+"We were seeing patients who had Covid, but because of the advice that was behind the curve they were deemed to be low risk. We needed proper protection with :outline:`FFP3 masks`, but these were not considered necessary and were not provided. It was in April 2020, whilst wearing inadequate PPE, that I caught coronavirus from a patient."
 
 Tragically, there are doctors and healthcare workers who died because of Covid-19 infection acquired in their workplace, and significant numbers are suffering from long Covid. The BMA has very recently, on 4 July 2023, published a report about the impact of long Covid titled Over-exposed and under-protected: the long-term impact of COVID-19 on doctors, which is informed by a survey of over 600 doctors suffering from long Covid.
 
 The report establishes that lack of preparedness for a pandemic and poor risk management in health services contributed to many doctors contracting Covid-19 at work.
 
-A key finding of this report is the lack of access by staff to FFP3 respirators, which are the type of filtering face piece respirators that provide maximum protection from infection transmitted by :outline:`aerosol`.
+A key finding of this report is the lack of access by staff to :outline:`FFP3 respirators`, which are the type of filtering face piece respirators that provide maximum protection from infection transmitted by :outline:`aerosol`.
 
-77% of the respondents to the BMA survey who acquired a Covid-19 infection in the first wave of the pandemic believe that they were infected while at work, and only 16% of respondents had access to these more protective FFP3 respirators at the time they were infected.
+77% of the respondents to the BMA survey who acquired a Covid-19 infection in the first wave of the pandemic believe that they were infected while at work, and only 16% of respondents had access to these more protective :outline:`FFP3 respirators` at the time they were infected.
 
-There is evidence before the Inquiry that this lack of availability of FFP3 respirators was because cost considerations were prioritised ahead of safety, leaving doctors and healthcare workers inadequately protected while delivering healthcare.
+There is evidence before the Inquiry that this lack of availability of :outline:`FFP3 respirators` was because cost considerations were prioritised ahead of safety, leaving doctors and healthcare workers inadequately protected while delivering healthcare.
 
 It's not just a question of volumes of PPE. There was also a failure to ensure that there was PPE available to suit a diverse range of facial features, including for smaller, often female, face shapes, for staff from some ethnic minority backgrounds and for staff who wear a beard or hair covering for religious reasons.
 
-Respondents to BMA surveys during the pandemic were more likely to report failed fit testing of respirators if they were from ethnic minority backgrounds, as these were usually manufactured for white male face types.
+Respondents to BMA surveys during the pandemic were more likely to report failed fit testing of :outline:`respirators` if they were from ethnic minority backgrounds, as these were usually manufactured for white male face types.
 
 Clara Swinson, director general at the Department of Health and Social Care, accepted that these issues were not adequately considered as part of pandemic planning prior to Covid-19.
 
@@ -67,7 +67,7 @@ These have included Professor Heymann, who noted that preparedness is not just a
 
 Dr Marmot and Professor Bambra talked about how the funding of healthcare has been inadequate since 2010, and waiting times have doubled.
 
-Dame Sally Davies commented that there was no resilience in the NHS and that, compared to similar countries, the UK was bottom of the table on numbers of doctors, nurses, beds, intensive care units, respirators and ventilators.
+Dame Sally Davies commented that there was no resilience in the NHS and that, compared to similar countries, the UK was bottom of the table on numbers of doctors, nurses, beds, intensive care units, :outline:`respirators` and ventilators.
 
 Jeremy Hunt, the former Secretary of State of Health, told the Inquiry that he had become convinced at Health Secretary that the NHS needed more capacity.
 

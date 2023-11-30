@@ -445,7 +445,7 @@ Can we highlight, please, the table in the middle of the page.
 
 **Mr Vaughan Gething**: Yeah.
 
-**Counsel Inquiry**: This is the quantity of items in the PIPP stockpile, as we've just established, in March 2020, and how long it lasted: aprons, six weeks; eye protectors, ten weeks; type IIR masks, which are of particular use for care homes and hospitals, 5.5 weeks; FFP3 respirators; 10.9 weeks; gloves, singles, 1.5 weeks; hand sanitiser, 4.3 weeks.
+**Counsel Inquiry**: This is the quantity of items in the PIPP stockpile, as we've just established, in March 2020, and how long it lasted: aprons, six weeks; eye protectors, ten weeks; type IIR masks, which are of particular use for care homes and hospitals, 5.5 weeks; :outline:`FFP3 respirators`; 10.9 weeks; gloves, singles, 1.5 weeks; :outline:`hand sanitiser`, 4.3 weeks.
 
 Even if we acknowledge that the assumptions that the Welsh and UK Government were planning for were not strictly adhered to by the Covid-19 pandemic, in fact in some senses they were worse, weren't they? Do you agree that the PPE stockpile in Wales was woefully inadequate to deal with the pandemic that was being planned for?
 

@@ -75,7 +75,7 @@ It also brings together the UK's innovation agency, Innovate UK, and also, in th
 
 "Any measure that is implemented during an infectious disease outbreak to attempt to reduce transmission that is not a vaccine or drug. NPIs can be behavioural, social, physical or regulatory in nature ..."
 
-And they can of course be encouraged to be adopted or applied through a variety of approaches from advice and guidance to the force of law. And they comprise masks and face coverings, social distancing and lockdowns, and over the page, test, trace and isolate, travel restrictions and controls, environmental controls, and communications, which, although not a measure, form an essential part of the debate about the efficacy of non-pharmaceutical interventions?
+And they can of course be encouraged to be adopted or applied through a variety of approaches from advice and guidance to the force of law. And they comprise :outline:`masks` and :outline:`face coverings`, social distancing and lockdowns, and over the page, test, trace and isolate, travel restrictions and controls, environmental controls, and communications, which, although not a measure, form an essential part of the debate about the efficacy of non-pharmaceutical interventions?
 
 **Sir Mark Walport**: That's correct. And of course they all have in common that they're intended to reduce the transmission of an infectious disease, in this case a virus, by acting to reduce the exposure of people to the hazard which is, in this case, SARS-CoV-2 virus.
 
@@ -139,7 +139,7 @@ But it's important to recognise that not only do different viruses vary, but the
 
 **Lead Inquiry**: The study which the Royal Society has therefore carried out is an observational study, is it not?
 
-**Sir Mark Walport**: It's a systematic review of the evidence. In other words, it's to look at all types of evidence. And in some cases there were trials which were deductive, in other words you could compare a group using masks and a group not using masks, but by and large, because non-pharmaceutical interventions were introduced in combination, it was extremely difficult to dissect the relative effects of one non-pharmaceutical intervention against another.
+**Sir Mark Walport**: It's a systematic review of the evidence. In other words, it's to look at all types of evidence. And in some cases there were trials which were deductive, in other words you could compare a group using :outline:`masks` and a group not using masks, but by and large, because non-pharmaceutical interventions were introduced in combination, it was extremely difficult to dissect the relative effects of one non-pharmaceutical intervention against another.
 
 So, to give you a concrete example, when strong social distancing measures are applied, then is the effect due to wearing a mask or to the social distancing? And so the groups reviewed an enormous amount of evidence and came down to a relatively small number of studies, in the hundreds, where it was possible to achieve some deductive information about the effectiveness or otherwise of the non-pharmaceutical interventions. But for those systematic reviewers who are used to working with placebo-controlled clinical trials, they would view the evidence as being far weaker, but on the other hand observational research is important, and indeed, going back through the history of the Royal Society, it's the way we have learnt about all sorts of things. You can't always do an experiment, you have to rely on observational data.
 
@@ -173,9 +173,9 @@ Could we now then turn, please, to the general findings --
 
 **Sir Mark Walport**: Yep.
 
-**Lead Inquiry**: -- the conclusions reached by the research done by the Royal Society in relation to each of the NPIs, and we'll pick up the thread, if we may, at page 28 of the Royal Society report under the heading of "Masks and face coverings".
+**Lead Inquiry**: -- the conclusions reached by the research done by the Royal Society in relation to each of the NPIs, and we'll pick up the thread, if we may, at page 28 of the Royal Society report under the heading of ":outline:`Masks and face coverings`".
 
-In general terms, prior to the Royal Society's report, there was very little material by way of previous systematic reviews into the effectiveness of the wearing of masks, and by masks I mean cloth and medical and respiratory and the whole range of masks; is that correct?
+In general terms, prior to the Royal Society's report, there was very little material by way of previous systematic reviews into the effectiveness of the wearing of masks, and by :outline:`masks` I mean cloth and medical and respiratory and the whole range of masks; is that correct?
 
 **Sir Mark Walport**: That's correct, yes.
 
@@ -183,7 +183,7 @@ In general terms, prior to the Royal Society's report, there was very little mat
 
 **Sir Mark Walport**: Yes.
 
-**Lead Inquiry**: There were a number of -- 35 observational studies, in fact, which were looked at. And in relation to the effectiveness of masks in reducing SARS-CoV-2 transmission, if we go over the page, did the majority of the studies themselves conclude that masks and mask mandates, by which I presume you mean mandatory orders --
+**Lead Inquiry**: There were a number of -- 35 observational studies, in fact, which were looked at. And in relation to the effectiveness of :outline:`masks` in reducing SARS-CoV-2 transmission, if we go over the page, did the majority of the studies themselves conclude that :outline:`masks` and :outline:`mask mandates`, by which I presume you mean mandatory orders --
 
 **Sir Mark Walport**: Yes.
 
@@ -191,19 +191,19 @@ In general terms, prior to the Royal Society's report, there was very little mat
 
 **Sir Mark Walport**: Yes. So there were 35 studies in community settings. Three of them were in fact randomised controlled trials, and there were 32 observational studies, and then were a further 40 studies in healthcare settings, one of which was a randomised control trial, and 39 observations.
 
-The majority of those studies, the large majority, showed that the masks were effective. And importantly there was a gradient. In other words, :outline:`respirator` masks were more effective than :outline:`surgical masks`, and mask wearing in the context of a mandate, in other words an instruction with more or less legal force behind it to wear masks, was also more effective.
+The majority of those studies, the large majority, showed that the :outline:`masks` were effective. And importantly there was a gradient. In other words, :outline:`respirator masks` were more effective than :outline:`surgical masks`, and :outline:`mask wearing` in the context of a mandate, in other words an instruction with more or less legal force behind it to wear :outline:`masks`, was also more effective.
 
-So, if you like, the plausibility of the results was emphasised by that gradient of effect. In other words, you might expect that a very -- you know, the sort of masks that you'd wear in a -- if you're exposed to a dangerous toxin is much more likely to be effective than a loosely fitting mask.
+So, if you like, the plausibility of the results was emphasised by that gradient of effect. In other words, you might expect that a very -- you know, the sort of :outline:`masks` that you'd wear in a -- if you're exposed to a dangerous toxin is much more likely to be effective than a loosely fitting mask.
 
-I should qualify it by saying that there was information about mask wearing in other infections, and in fact there were evidence syntheses, and we've learned about flu as well. So it's not that there was no evidence, but there was no evidence in relation to masks in coronavirus.
+I should qualify it by saying that there was information about :outline:`mask wearing` in other infections, and in fact there were evidence syntheses, and we've learned about flu as well. So it's not that there was no evidence, but there was no evidence in relation to :outline:`masks` in coronavirus.
 
-**Lead Inquiry**: The issue of mask wearing is a particularly vexed one in the context of the general population. To what extent did the research indicate a level of efficacy for :outline:`cloth masks` of the type that the government might order or mandate a population to wear, so non-medical?
+**Lead Inquiry**: The issue of :outline:`mask wearing` is a particularly vexed one in the context of the general population. To what extent did the research indicate a level of efficacy for :outline:`cloth masks` of the type that the government might order or mandate a population to wear, so non-medical?
 
 **Sir Mark Walport**: I don't think there were any of the systematic reviews that could distinguish between, say, :outline:`cloth masks` and :outline:`surgical masks`, so I don't think we have information to answer that.
 
 **Lady Hallett**: Was there also, do I remember, conflicting advice about mask wearing and its effectiveness and whether it engendered complacency?
 
-**Sir Mark Walport**: There are lots of interpretations of the evidence, and, you know, this is one of the challenges with observational data. It could be that those who avidly wore masks of any sort were more likely to socially distance themselves. So there are other interpretations. But nevertheless, and particularly, I think, in the healthcare setting, where people are more likely to wear the masks correctly as well -- because anyone who saw mask wearing, a lot of masks were worn underneath the nose where they would do no effect or weren't fitting properly. So it's another case where the fact that actually they were shown to be effective in healthcare settings suggests that there were -- you know, there was, if you like, a causal relationship between the mask wearing and the protection.
+**Sir Mark Walport**: There are lots of interpretations of the evidence, and, you know, this is one of the challenges with observational data. It could be that those who avidly wore :outline:`masks` of any sort were more likely to socially distance themselves. So there are other interpretations. But nevertheless, and particularly, I think, in the healthcare setting, where people are more likely to wear the :outline:`masks` correctly as well -- because anyone who saw mask wearing, a lot of :outline:`masks` were worn underneath the nose where they would do no effect or weren't fitting properly. So it's another case where the fact that actually they were shown to be effective in healthcare settings suggests that there were -- you know, there was, if you like, a causal relationship between the mask wearing and the protection.
 
 **Mr Keith**: The next broad group of NPIs that the research addresses is the social distancing and lockdowns on page 31. Under that heading, does the report include recommendations for people to stay separated from other individuals, as well as legal mandates to stay at home?
 
