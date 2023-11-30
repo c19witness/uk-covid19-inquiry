@@ -315,11 +315,11 @@ So I think the care workers were given strong advice, they were encouraged to st
 
 So the problem was recognised and it was dealt with, but the precarious state of the care workforce was a problem through the pandemic.
 
-**Counsel Inquiry**: I'm going to leave it there, Professor, and move on and ask you about another issue, equally hotly debated, and that's of face coverings.
+**Counsel Inquiry**: I'm going to leave it there, Professor, and move on and ask you about another issue, equally hotly debated, and that's of :outline:`face coverings`.
 
 Can we start, please, by going to your witness statement at paragraph 8.125.
 
-We will note here, paragraph 8.125, and then we'll look at the next paragraph as well, and the Inquiry has heard a fair amount of evidence about this, that the advice provided by the Office of the Chief Medical Officer on the use of face coverings -- which developed during the pandemic, did it not?
+We will note here, paragraph 8.125, and then we'll look at the next paragraph as well, and the Inquiry has heard a fair amount of evidence about this, that the advice provided by the Office of the Chief Medical Officer on the use of :outline:`face coverings` -- which developed during the pandemic, did it not?
 
 **Dame Harries**: Yes.
 
@@ -337,7 +337,7 @@ In the next sentence you say:
 
 "The evidence base for their use in community settings was, and still is to some degree, uncertain."
 
-Professor, is it fair to say that your own personal view in fact remained that there wasn't any convincing evidence that face coverings, that is not sort of PPE used in healthcare settings, but the sort of home-made, if you like, fabric face coverings used in community settings, that there wasn't any convincing evidence that they were helpful?
+Professor, is it fair to say that your own personal view in fact remained that there wasn't any convincing evidence that :outline:`face coverings`. that is not sort of PPE used in healthcare settings, but the sort of home-made, if you like, fabric :outline:`face coverings` used in community settings, that there wasn't any convincing evidence that they were helpful?
 
 **Dame Harries**: Not all the way through, no, and depending on what sort of face covering you had -- and this is the problem with the evidence, because much of the evidence -- there was a Lancet paper that was very heavily awaited during the pandemic -- was predominantly papers not in community settings or -- it was very difficult to dissociate the effectiveness of the face covering from other infection prevention control or NPIs. So I think that's why we have a difficult evidence base.
 
@@ -371,11 +371,11 @@ So there you are in May expressing a view that, frankly, these home made :outlin
 
 So I've said, "I don't think this is effective, I think the public -- it doesn't feel logical as a communication to me, and if that's therefore what you want to do, work through it".
 
-I think people would have known, probably, at the time what the evidence was. PHE were continuously providing -- reviewing the evidence on the use of face coverings. In fact predominantly at the time I think it was my colleague Jonathan Van-Tam.
+I think people would have known, probably, at the time what the evidence was. PHE were continuously providing -- reviewing the evidence on the use of :outline:`face coverings`. In fact predominantly at the time I think it was my colleague Jonathan Van-Tam.
 
 **Counsel Inquiry**: Let me just --
 
-**Dame Harries**: But can I just go back on that? Because actually this was May and I think this was probably the period -- it was coming just after, certainly in the UK, where we'd had the Easter 6 studies and various other things, and it was still not at this point -- I mean, WHO was still not recommending face coverings.
+**Dame Harries**: But can I just go back on that? Because actually this was May and I think this was probably the period -- it was coming just after, certainly in the UK, where we'd had the Easter 6 studies and various other things, and it was still not at this point -- I mean, WHO was still not recommending :outline:`face coverings`.
 
 So we'd got a position here -- I mean, maybe I was a little bit annoyed, you know, I can see it in the tone there, but where there wasn't a clear policy and yet I was being sent a document to sign off something which I didn't think was very evidence-based. But that was not an infrequent occurrence.
 
@@ -389,7 +389,7 @@ So we'd got a position here -- I mean, maybe I was a little bit annoyed, you kno
 
 So I think where you've got a very low evidence base, it hadn't, I don't think, shifted at that point, we didn't have the evidence, and still don't, about asymptomatic transmission. The evidence is definitely there, is strong now, but the quantification of it is quite poor, and therefore understanding the size of effect of this is quite tricky, and this will be a government document effectively. Again, not for me to decide, but there's quite a difference between mandating, recommending -- if a government recommends something that's quite a strong position -- encouraging -- and actually if you encourage or support and you're in a government position, that's almost taken as recommending, and it's quite difficult to do that when the evidence is not strong because you will then end up with people challenging other ones.
 
-So you tend to see where it moves to and there -- but the other issue here is, if I just point out, you said: are there any other things? We've got all sorts of safety issues here as well, and one of the problems in May, and this might be related to this as well, was when -- it might show my irritation -- was when there were a lot of discussions about coming out of lockdown, opening up the economy and various other things, and the 2-metre/1-metre. I think this was landing just about the same time as the 1 metre plus issue, and the problem we had there was that there appeared to be a view permeating through and a real concern and risk that it was being conceived that if you did 1 metre and you wore a face covering flung round your cheek or whatever it might be, that was fine. And so there was a risk that in encouraging face coverings people would stop doing the thing which was really important, which was distancing and all the other things. So this may have been coming on the back of that. I suspect it was.
+So you tend to see where it moves to and there -- but the other issue here is, if I just point out, you said: are there any other things? We've got all sorts of safety issues here as well, and one of the problems in May, and this might be related to this as well, was when -- it might show my irritation -- was when there were a lot of discussions about coming out of lockdown, opening up the economy and various other things, and the 2-metre/1-metre. I think this was landing just about the same time as the 1 metre plus issue, and the problem we had there was that there appeared to be a view permeating through and a real concern and risk that it was being conceived that if you did 1 metre and you wore a face covering flung round your cheek or whatever it might be, that was fine. And so there was a risk that in encouraging :outline:`face coverings` people would stop doing the thing which was really important, which was distancing and all the other things. So this may have been coming on the back of that. I suspect it was.
 
 **Lady Hallett**: So the risk of there being a false sense of security?
 
@@ -407,7 +407,7 @@ So it was, you will have seen, I think, in the evidence, I think it's about this
 
 **Counsel Inquiry**: What we are seeing here is draft guidance on making a mask, which will of course make people feel more confident to go out, go on public transport, whatever, which you are saying is ineffective. Wasn't that a reason to say, "No, we shouldn't be encouraging people to use these :outline:`ineffective masks`"?
 
-**Dame Harries**: That's a very difficult balance, for the point we've just come back to, because the first question was: shouldn't you be encouraging this, there's no harm? And the issue for me at that time, and I think Professor Van-Tam shared it, was we definitely shouldn't be supporting something which was not evidence-based if it was going to promote a risk compensation. And there were a number of different driving factors here and of course face coverings, as I know you'll be aware, is a wholly polarised debate and it's quite difficult to maintain a central position.
+**Dame Harries**: That's a very difficult balance, for the point we've just come back to, because the first question was: shouldn't you be encouraging this, there's no harm? And the issue for me at that time, and I think Professor Van-Tam shared it, was we definitely shouldn't be supporting something which was not evidence-based if it was going to promote a risk compensation. And there were a number of different driving factors here and of course :outline:`face coverings`. as I know you'll be aware, is a wholly polarised debate and it's quite difficult to maintain a central position.
 
 I -- you know, if you -- if I'd said, "Don't do any of this", somebody would have challenged back and said, "Well, you know, surely there's no harm", my main concern was it was being put in -- it would have been conceived as a safer way of moving about, just when we've got through the first tragic wave of the pandemic.
 

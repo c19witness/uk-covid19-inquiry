@@ -901,7 +901,7 @@ the Prime Minister, to use the words of the proponents
 
 of one side of the argument, "let it rip - they have had
 
-a good innings", and the contrary argument was put that pm, extended requirements on face coverings and                       10      a democratically elected government's primary obligation
+a good innings", and the contrary argument was put that pm, extended requirements on :outline:`face coverings` and                       10      a democratically elected government's primary obligation
 
 was to save lives. The Prime Minister acknowledged that
 

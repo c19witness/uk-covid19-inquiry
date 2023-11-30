@@ -193,7 +193,7 @@ Certainly in relation to that if I can just take you back to the initial stages 
 
 **Counsel Inquiry**: We're going to deal with some of those challenges later when it comes to looking at tiers, but were there also any logistical challenges for the authority?
 
-**Mr Steve Rotheram**: Yeah. There was -- I'll give you an example. Both the Mayor of London, Sadiq Khan, and myself were asking I think in the April around face coverings, and I wanted the government to introduce this and I wanted to do it locally.. And believe it or not I would have had to change the bylaws locally and get that through the legislative process to do that before we could enforce face coverings.
+**Mr Steve Rotheram**: Yeah. There was -- I'll give you an example. Both the Mayor of London, Sadiq Khan, and myself were asking I think in the April around :outline:`face coverings`. and I wanted the government to introduce this and I wanted to do it locally.. And believe it or not I would have had to change the bylaws locally and get that through the legislative process to do that before we could enforce :outline:`face coverings`.
 
 So there were lots of things that happened where if it had have come from central government that would have alleviated the local problems that we were facing.
 
@@ -375,7 +375,7 @@ You lobbied the government on various issues, one being access to PPE.
 
 **Mr Steve Rotheram**: Mm-hm.
 
-**Counsel Inquiry**: You've already mentioned face coverings. A third being the financial support that you've touched upon already, and indeed we've heard evidence earlier today, and there will be some questions on that in due course so I'm not going to deal with that in any great detail now but simply in relation to potential financial support packages to enable individuals to self-isolate. That was your concern in relation to the test and trace programme; is that right?
+**Counsel Inquiry**: You've already mentioned :outline:`face coverings`. A third being the financial support that you've touched upon already, and indeed we've heard evidence earlier today, and there will be some questions on that in due course so I'm not going to deal with that in any great detail now but simply in relation to potential financial support packages to enable individuals to self-isolate. That was your concern in relation to the test and trace programme; is that right?
 
 **Mr Steve Rotheram**: This was fundamental really to why I believe that the R rate had spiked, because there were far too many people -- certainly low paid jobs in the Liverpool City Region where them people were faced with the sword of Damocles decision, and that was if they felt that they had symptoms they were choosing whether to stay home and get no pounds, no pence, or to take the chance that they didn't have Covid and go to work, and I think that it was an intolerable position to put anybody in.
 

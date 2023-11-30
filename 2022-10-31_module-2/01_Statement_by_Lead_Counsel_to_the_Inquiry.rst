@@ -153,7 +153,7 @@ Later modules, details of which will be published in due course, will address, p
 
 The request from one of the core participants for yet more detail can be answered, I'm afraid, only in this way: that is as much detail as can sensibly be decided and set out at the moment.
 
-I then turn to this module. The documents setting out the provisional outline of scope for Module 2 has been published and I don't propose to read it out. The focus is on the really significant decisions that formed the response to the pandemic: the non-pharmaceutical interventions, the lockdowns, working from home, the reduction of person-to-person contact, social distancing and the use of face coverings.
+I then turn to this module. The documents setting out the provisional outline of scope for Module 2 has been published and I don't propose to read it out. The focus is on the really significant decisions that formed the response to the pandemic: the non-pharmaceutical interventions, the lockdowns, working from home, the reduction of person-to-person contact, social distancing and the use of :outline:`face coverings`.
 
 You intend to investigate how and why the major decisions were made; what factors were taken into account in making those key decisions; what was the scientific and medical evidence upon which those decisions were based; were they the right decisions insofar as we can tell?
 

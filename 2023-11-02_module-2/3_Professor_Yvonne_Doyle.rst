@@ -527,7 +527,7 @@ Professor, so the first question I have for you is: appreciating that there was 
 
 Professor Noakes is part of a number of scientists who wrote to WHO and asked them to change their advice on this as well.
 
-But in the early months, we had certainly provided guidance for those who were in the context of what were known to be :outline:`aerosol-generating procedures`, and certainly a precaution around the importance of social -- of distancing, and, where at all feasible, the use of face coverings.
+But in the early months, we had certainly provided guidance for those who were in the context of what were known to be :outline:`aerosol-generating procedures`, and certainly a precaution around the importance of social -- of distancing, and, where at all feasible, the use of :outline:`face coverings`.
 
 Now, that came again to a discussion later in 2020, and I am aware of this letter in 2021 which Mr Brodie received. He did ask for -- the guidance that had been produced around this letter was a four-country guidance and it was also NHS and DHSC, so it was the infection prevention and control group who had produced the guidance on what protective equipment was needed and :outline:`aerosol` procedures.
 

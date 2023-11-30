@@ -2159,7 +2159,7 @@ I think the overall question is: was it the case there was frequent and sufficie
 
 If we look back at that letter, please, he is also raising another concern, isn't he, and that's "very significant announcements this week with minimal or no prior communication", and bearing in mind we're on 11 June here so we're a month after that letter where you promised, effectively, effective communication, and he references:
 
-"... 4 June mandatory face coverings on public transport
+"... 4 June mandatory :outline:`face coverings` on public transport
 
 "... 5 June ... :outline:`face masks` in NHS facilities."
 

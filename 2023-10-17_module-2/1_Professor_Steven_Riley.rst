@@ -1179,11 +1179,11 @@ Was this a report that was commissioned by SAGE?
 
 **Professor Steven Riley**: Yes. So, Professor -- the co-chairs of SPI-M-O asked me to write a report.
 
-**Ms Morris KC**: Thank you. I think we can see from the minutes of SAGE on 21 April, that's SAGE 27 -- again, I'm not going to ask you to look at it, but it's INQ000062295 -- that they did in fact discuss the impact of face coverings, and Graham Medley from SPI-M-O was at that meeting.
+**Ms Morris KC**: Thank you. I think we can see from the minutes of SAGE on 21 April, that's SAGE 27 -- again, I'm not going to ask you to look at it, but it's INQ000062295 -- that they did in fact discuss the impact of :outline:`face coverings`. and Graham Medley from SPI-M-O was at that meeting.
 
 Thank you.
 
-So you've produced a paper in April 2020 on the use of  :outline:`face masks` in the community for asymptomatic members of the public. Is it a fair summary to say that there was no obvious reason why  :outline:`surgical face masks` couldn't be used in closed community settings, for example buses, public transport and shops, based on the limitations you'd observed from the widespread use of face coverings in other countries which had been considered useful and successful in containing Covid-19?
+So you've produced a paper in April 2020 on the use of  :outline:`face masks` in the community for asymptomatic members of the public. Is it a fair summary to say that there was no obvious reason why  :outline:`surgical face masks` couldn't be used in closed community settings, for example buses, public transport and shops, based on the limitations you'd observed from the widespread use of :outline:`face coverings` in other countries which had been considered useful and successful in containing Covid-19?
 
 **Professor Steven Riley**: So I just want to give what I perceive to be the key points of the report, because there was a reason I was asked to do that and it's because I had looked at some of the evidence from influenza, studies of influenza.
 

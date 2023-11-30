@@ -669,11 +669,11 @@ It's the first paragraph underneath the heading "PPE", where you refer to what y
 
 **Mr Sadiq Khan**: They carried on for some time. At some stage later on we offered the London Fire Brigade to take responsibility for logistics, so they would be sent a lot of the PPE, be told where it needs to go and the LFB would organise, in Croydon, from where the PPE should go. But that happened some time later though.
 
-**Counsel Inquiry**: One more topic, it's related, which is the question of face coverings. Can we look, please, at paragraph 170 of your statement on page 38.
+**Counsel Inquiry**: One more topic, it's related, which is the question of :outline:`face coverings`. Can we look, please, at paragraph 170 of your statement on page 38.
 
-Just to be clear, Mr Khan, in broad terms, when we speak of PPE, we are talking about specialist kit provided to emergency services, healthcare staff and so on. In contrast, this debate that you engage with about face coverings was really focused on people, ordinary people not necessarily at all associated with the emergency services or health staff, whether they should wear, as we will see, in some -- many cases, home-made or simple fabric face coverings.
+Just to be clear, Mr Khan, in broad terms, when we speak of PPE, we are talking about specialist kit provided to emergency services, healthcare staff and so on. In contrast, this debate that you engage with about :outline:`face coverings` was really focused on people, ordinary people not necessarily at all associated with the emergency services or health staff, whether they should wear, as we will see, in some -- many cases, home-made or simple fabric :outline:`face coverings`.
 
-**Mr Sadiq Khan**: Your question raises a really important point, which is there was an understandable concern about finite PPE. It was being rationed as a consequence. So I deliberately didn't use the word ":outline:`face mask`" where I could avoid it, because that would conflate a finite rationed resource with something that's available infinite, which is face coverings which you can make at home and all the rest of it, which in itself, we'll come to later on I hope, can be really helpful in stopping the virus spreading.
+**Mr Sadiq Khan**: Your question raises a really important point, which is there was an understandable concern about finite PPE. It was being rationed as a consequence. So I deliberately didn't use the word ":outline:`face mask`" where I could avoid it, because that would conflate a finite rationed resource with something that's available infinite, which is :outline:`face coverings` which you can make at home and all the rest of it, which in itself, we'll come to later on I hope, can be really helpful in stopping the virus spreading.
 
 **Counsel Inquiry**: Yes, so there is that distinction and we're on the right ground. As you say, this is something that you advocated for over some time, was it not, during the pan?
 
@@ -685,9 +685,9 @@ Just the starting point, Mr Khan, you say here at paragraph 170 that:
 
 "In the very early stages of the pandemic, particularly before the first national lockdown ... the effectiveness of wearing a face covering as a general public health measure was unclear."
 
-I just want to ask you whether it was at that stage particularly unclear, because in fact in this paragraph and, in fact, the paragraph that follows, you then recite a series of views or judgements made by individual scientists, scientific bodies, the World Health Organisation, who were all in fact unanimous in the early stages that :outline:`face masks` were not going to be a helpful tool -- face coverings were not going to be helpful or useful in the context of this pandemic. That's right, isn't it?
+I just want to ask you whether it was at that stage particularly unclear, because in fact in this paragraph and, in fact, the paragraph that follows, you then recite a series of views or judgements made by individual scientists, scientific bodies, the World Health Organisation, who were all in fact unanimous in the early stages that :outline:`face masks` were not going to be a helpful tool -- :outline:`face coverings` were not going to be helpful or useful in the context of this pandemic. That's right, isn't it?
 
-**Mr Sadiq Khan**: That's very fair. And this is the point about, as the scientific knowledge evolves, as we discover more, because we're -- because, thankfully, we got the various after others, we can see what's working elsewhere and then learn from it. And this is a really good example of initially the view being face coverings don't really make much of a difference, very soon though, across the globe and including in our own very SAGE on 21 April, the evidence of the conclusions changed, yet the decisions taken by our government didn't.
+**Mr Sadiq Khan**: That's very fair. And this is the point about, as the scientific knowledge evolves, as we discover more, because we're -- because, thankfully, we got the various after others, we can see what's working elsewhere and then learn from it. And this is a really good example of initially the view being :outline:`face coverings` don't really make much of a difference, very soon though, across the globe and including in our own very SAGE on 21 April, the evidence of the conclusions changed, yet the decisions taken by our government didn't.
 
 **Counsel Inquiry**: Surrounding ourselves on this very early stage, as you recite, there was really, certainly within the UK scientific community, a consensus that they weren't helpful.
 
@@ -697,7 +697,7 @@ I just want to ask you whether it was at that stage particularly unclear, becaus
 
 **Mr Sadiq Khan**: That's a very fair summarily.
 
-**Counsel Inquiry**: So you in fact asked them about face coverings, having seen what SAGE had said. And they agreed, we can see here, they provided a briefing note suggesting that the disadvantages would outweigh the benefits?
+**Counsel Inquiry**: So you in fact asked them about :outline:`face coverings`. having seen what SAGE had said. And they agreed, we can see here, they provided a briefing note suggesting that the disadvantages would outweigh the benefits?
 
 **Mr Sadiq Khan**: That's fair.
 
@@ -711,7 +711,7 @@ I think you said this was the first letter you wrote on this issue, Mr Khan?
 
 **Counsel Inquiry**: Indeed. So we will -- this is something we've already heard evidence about, that by 8 April Dominic Raab was taking the place of the Prime Minister because of his illness.
 
-Now, in the first line of this letter you refer there to the use of non-medical face coverings, and does this pick up on the point you've already made, which is that you were wanting to distinguish what we have been describing as face coverings from the sort of PPE-style specialist equipment?
+Now, in the first line of this letter you refer there to the use of non-medical :outline:`face coverings`. and does this pick up on the point you've already made, which is that you were wanting to distinguish what we have been describing as :outline:`face coverings` from the sort of PPE-style specialist equipment?
 
 **Mr Sadiq Khan**: Spot on. The other key word in that first line is "reviews". To your point, I appreciate the initial view may have been not a sensible use but I'm saying to the government: review that in light of -- what I go on to say.
 
@@ -719,11 +719,11 @@ Now, in the first line of this letter you refer there to the use of non-medical 
 
 **Mr Sadiq Khan**: Exactly, exactly.
 
-**Counsel Inquiry**: -- for these face coverings.
+**Counsel Inquiry**: -- for these :outline:`face coverings`.
 
-But then if we can just go back to the first page, please, most of this letter is taken up with you referring to other countries where the practice is different and countries where, in one way or another, face coverings among the general population have been encouraged, some in different settings than others?
+But then if we can just go back to the first page, please, most of this letter is taken up with you referring to other countries where the practice is different and countries where, in one way or another, :outline:`face coverings` among the general population have been encouraged, some in different settings than others?
 
-**Mr Sadiq Khan**: That's right. Our own research had shown, from the Centers for Disease Control in the USA, to the chief medical officer in Canada, to these other mayors from cities we were speaking to, that they were using face coverings to -- if you've got the virus, it could be asymptomatic, it prevents the :outline:`droplets` spreading to somebody else who may catch it. And also in April read articles in the BMJ and Lancet which were also talking about how useful face coverings can be.
+**Mr Sadiq Khan**: That's right. Our own research had shown, from the Centers for Disease Control in the USA, to the chief medical officer in Canada, to these other mayors from cities we were speaking to, that they were using :outline:`face coverings` to -- if you've got the virus, it could be asymptomatic, it prevents the :outline:`droplets` spreading to somebody else who may catch it. And also in April read articles in the BMJ and Lancet which were also talking about how useful :outline:`face coverings` can be.
 
 **Counsel Inquiry**: So if we just scroll down, we can see you refer to the Austrian government, then there are a series of examples taken from the United States, a little bit further down, I think for the last one, Canada?
 
@@ -747,7 +747,7 @@ But then if we can just go back to the first page, please, most of this letter i
 
 **Mr O'Connor**: I'm close to the time. Just a couple of final points to finish off this point, Mr Khan, if I may.
 
-Your witness statement addressing this issue then takes us through the following months where, bit by bit, as you've, said the scientific advice changed and, stage by stage, the UK Government changed its advice and then its mandatory -- it imposed various mandatory conditions about where face coverings had to be worn, different places, transport networks, and so on.
+Your witness statement addressing this issue then takes us through the following months where, bit by bit, as you've, said the scientific advice changed and, stage by stage, the UK Government changed its advice and then its mandatory -- it imposed various mandatory conditions about where :outline:`face coverings` had to be worn, different places, transport networks, and so on.
 
 Just with that in mind, I'd like to take you to look at paragraphs 184 and 185 of your witness statement. On page 41.
 
@@ -755,15 +755,15 @@ Just with that in mind, I'd like to take you to look at paragraphs 184 and 185 o
 
 Then you say this:
 
-"I was disappointed by this response, which I felt gave short shrift to the legitimate concerns I had repeatedly raised on face coverings. Notwithstanding the science" --
+"I was disappointed by this response, which I felt gave short shrift to the legitimate concerns I had repeatedly raised on :outline:`face coverings`. Notwithstanding the science" --
 
 **Lady Hallett**: I think this is going too political, the second part.
 
 **Mr O'Connor**: Well, can I just ask you a general question, Mr Khan.
 
-We've heard a lot in this Inquiry about following the science. Is it fair to say that on this issue of face coverings, the UK government did in fact follow the science, in the sense of repeatedly asking expert bodies to review the position and, when the scientific understanding changed, more or less, changing the guidance, in some cases making mandatory requirements? So in that context, at a high level, were they not, in fact, on one view, acting appropriately?
+We've heard a lot in this Inquiry about following the science. Is it fair to say that on this issue of :outline:`face coverings`. the UK government did in fact follow the science, in the sense of repeatedly asking expert bodies to review the position and, when the scientific understanding changed, more or less, changing the guidance, in some cases making mandatory requirements? So in that context, at a high level, were they not, in fact, on one view, acting appropriately?
 
-**Mr Sadiq Khan**: No, because the SAGE group of experts who met -- who concluded face coverings would make a difference concluded that on April 21st. The use of face coverings only on public transport became mandatory some months later, in June. The use of face coverings in shops only became mandatory in late July. The use of face coverings in museums, galleries and so forth only became mandatory in August. Had the government been following this scientific evidence after that SAGE meeting on April 21st, they would have advised people, in fact made it mandatory, to wear face coverings on public transport, shops, museums and galleries from the end of April rather than, eventually, August.
+**Mr Sadiq Khan**: No, because the SAGE group of experts who met -- who concluded :outline:`face coverings` would make a difference concluded that on April 21st. The use of :outline:`face coverings` only on public transport became mandatory some months later, in June. The use of :outline:`face coverings` in shops only became mandatory in late July. The use of :outline:`face coverings` in museums, galleries and so forth only became mandatory in August. Had the government been following this scientific evidence after that SAGE meeting on April 21st, they would have advised people, in fact made it mandatory, to wear :outline:`face coverings` on public transport, shops, museums and galleries from the end of April rather than, eventually, August.
 
 **Mr O'Connor**: Right, Mr Khan, I'm not going to ask you any more about that issue. My Lady, I wonder if that's a convenient moment.
 
@@ -1093,7 +1093,7 @@ I saw the value I added in Grenfell. I saw the value I added as Mayor of London 
 
 **Professor Thomas KC**: Well, it comes to this, does it not: lives -- more lives could have been saved, surely?
 
-**Mr Sadiq Khan**: That was the conclusion of the UCL report when it came to our bus drivers. And it upsets me as the chair of TfL. It upsets me bearing in mind who my dad was, that the conclusion of UCL was that, actually, had we gone into lockdown sooner, there would have been less social transmission, less community transmission. Had we brought in the changes we brought in in our bus garages, in our depots, in our buses, in our Tube stations, fewer people would have lost their lives. Had we brought in the lockdown sooner, there could have been social distancing, less transmission of the disease. Had face coverings been brought in sooner, those with the illness asymptomatic may not have been passing it on. Without a doubt, the premise of your question is right: had action been taken sooner, less lives would have been lost.
+**Mr Sadiq Khan**: That was the conclusion of the UCL report when it came to our bus drivers. And it upsets me as the chair of TfL. It upsets me bearing in mind who my dad was, that the conclusion of UCL was that, actually, had we gone into lockdown sooner, there would have been less social transmission, less community transmission. Had we brought in the changes we brought in in our bus garages, in our depots, in our buses, in our Tube stations, fewer people would have lost their lives. Had we brought in the lockdown sooner, there could have been social distancing, less transmission of the disease. Had :outline:`face coverings` been brought in sooner, those with the illness asymptomatic may not have been passing it on. Without a doubt, the premise of your question is right: had action been taken sooner, less lives would have been lost.
 
 **Professor Thomas KC**: And forgive me for putting this, on behalf of those who I represent, it would have had -- it would have been less impact on healthcare and hospitals.
 

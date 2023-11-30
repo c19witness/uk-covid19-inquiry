@@ -279,7 +279,7 @@ By that time, the First Few 100 dataset, the analysis of index cases and the pur
 
 **Professor Philip Banfield**: Yes, indeed.
 
-**Lead Inquiry**: So could you turn, please, to page 34, paragraph 139. You were obviously trying to influence the government on multiple issues at any one time, but going over the page, to page 35, in relation to the wearing of face coverings, later systems for testing and contact tracing, and the exiting of lockdowns safely, did your lobbying meet with some, if not always completely unalloyed, success?
+**Lead Inquiry**: So could you turn, please, to page 34, paragraph 139. You were obviously trying to influence the government on multiple issues at any one time, but going over the page, to page 35, in relation to the wearing of :outline:`face coverings`. later systems for testing and contact tracing, and the exiting of lockdowns safely, did your lobbying meet with some, if not always completely unalloyed, success?
 
 **Professor Philip Banfield**: Indeed, yes. It's difficult to actually put a cause and effect onto that, but eventually the measures that we were calling for came into play.
 

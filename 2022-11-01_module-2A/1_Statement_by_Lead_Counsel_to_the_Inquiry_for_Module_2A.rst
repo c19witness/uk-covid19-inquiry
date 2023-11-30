@@ -213,7 +213,7 @@ The response to the initial outbreaks of the disease such as the Nike conference
 
 The outline scope continues.
 
-Decision-making by the Scottish Government relating to the imposition or non-imposition of non-pharmaceutical interventions (NPIs), including lockdowns, local restrictions, working from home, reduction of person-to-person contact, social distancing, of the use of face coverings, border controls, the initial development of "Test and Protect", as well as the certification and app systems rolled out by the Scottish Government.
+Decision-making by the Scottish Government relating to the imposition or non-imposition of non-pharmaceutical interventions (NPIs), including lockdowns, local restrictions, working from home, reduction of person-to-person contact, social distancing, of the use of :outline:`face coverings`. border controls, the initial development of "Test and Protect", as well as the certification and app systems rolled out by the Scottish Government.
 
 The degree of and rationale behind differences in approach between the Scottish Government and other governments in the UK, the timeliness and reasonableness of such NPIs, including the likely effects had decisions to intervene been taken earlier or differently.
 

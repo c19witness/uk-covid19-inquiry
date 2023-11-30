@@ -1256,7 +1256,7 @@ In Asia, masks have been worn as a courtesy when people are infected for many, m
 
 **Counsel Inquiry**: Would there have been any downside to the World Health Organisation as a precaution, once Covid-19 was beginning to spread, advising that masks should be worn?
 
-**Professor David Heymann**: There would have been one downside and that is the fact that :outline:`medical masks` were in very short supply, and if the general public were trying to get these masks as well as the health community, it might cause a very serious problem. So I know in the US, after an outbreak of a choir in March of 2020, they recommended :outline:`cloth face coverings` to prevent transmission from a person infected to others. So there was concern, I believe, in many circles, including at WHO, that by making a recommendation to wear :outline:`masks`, this would compound the shortage which was occurring of :outline:`medical masks`.
+**Professor David Heymann**: There would have been one downside and that is the fact that :outline:`medical masks` were in very short supply, and if the general public were trying to get these masks as well as the health community, it might cause a very serious problem. So I know in the US, after an outbreak of a choir in March of 2020, they recommended :outline:`cloth :outline:`face coverings`. to prevent transmission from a person infected to others. So there was concern, I believe, in many circles, including at WHO, that by making a recommendation to wear :outline:`masks`, this would compound the shortage which was occurring of :outline:`medical masks`.
 
 **Ms Blackwell**: Right, thank you very much. That's very clear.
 

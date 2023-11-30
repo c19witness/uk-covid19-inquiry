@@ -407,7 +407,7 @@ Was that an appropriate use of that line from your report?
 
 **Counsel Inquiry**: Just to round off the 2-metre rule, you've already explained why it's not a hard and fast rule, lots of variables apply to that, but it's still your view that that was not over-precautionary at the time?
 
-**Professor Catherine Noakes**: That's correct, and indeed many other countries who did have shorter distances had implemented other measures to allow them to go shorter distances, particularly face coverings, which we didn't have at the time in the UK.
+**Professor Catherine Noakes**: That's correct, and indeed many other countries who did have shorter distances had implemented other measures to allow them to go shorter distances, particularly :outline:`face coverings`. which we didn't have at the time in the UK.
 
 **Counsel Inquiry**: Thank you.
 

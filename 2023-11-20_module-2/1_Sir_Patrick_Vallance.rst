@@ -1881,7 +1881,7 @@ Now, in your statement you speak of borders and you're discussing them in relati
 
 **Ms Mitchell KC**: I wonder if we can have up INQ000273901, pages 148, do we see your entry records:
 
-"Scotland breaks ranks over face coverings and schools despite CMO having worked hard to get all CMOs aligned to a very good statement released the day before."
+"Scotland breaks ranks over :outline:`face coverings` and schools despite CMO having worked hard to get all CMOs aligned to a very good statement released the day before."
 
 Now, I just want to check, that's your personal observation, I take it, and not anyone that you're recording?
 

@@ -173,13 +173,13 @@ Could we now then turn, please, to the general findings --
 
 **Sir Mark Walport**: Yep.
 
-**Lead Inquiry**: -- the conclusions reached by the research done by the Royal Society in relation to each of the NPIs, and we'll pick up the thread, if we may, at page 28 of the Royal Society report under the heading of ":outline:`Masks and face coverings`".
+**Lead Inquiry**: -- the conclusions reached by the research done by the Royal Society in relation to each of the NPIs, and we'll pick up the thread, if we may, at page 28 of the Royal Society report under the heading of ":outline:`Masks and :outline:`face coverings`.".
 
 In general terms, prior to the Royal Society's report, there was very little material by way of previous systematic reviews into the effectiveness of the wearing of masks, and by :outline:`masks` I mean cloth and medical and respiratory and the whole range of masks; is that correct?
 
 **Sir Mark Walport**: That's correct, yes.
 
-**Lead Inquiry**: The research looked at available evidence in relation to the efficacy of all masks, as I've suggested, :outline:`respirators`, :outline:`surgical masks` and face coverings such as :outline:`cloth masks`; is that correct?
+**Lead Inquiry**: The research looked at available evidence in relation to the efficacy of all masks, as I've suggested, :outline:`respirators`, :outline:`surgical masks` and :outline:`face coverings` such as :outline:`cloth masks`; is that correct?
 
 **Sir Mark Walport**: Yes.
 

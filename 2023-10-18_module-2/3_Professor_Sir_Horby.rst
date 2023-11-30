@@ -385,7 +385,7 @@ So is this a good example of the constant steps that SAGE took to try to accumul
 
 **Professor Sir Horby**: On the second issue, yes. I think particularly, you know, my experience with NERVTAG, we were asked sort of technical operational questions that weren't really requiring, you know, heavy scientific inputs.
 
-On the first question, we were asked to revisit items, but I think often quite sensibly. And we come to this later, but the use of face coverings is one where it came back to NERVTAG, I think for good reasons.
+On the first question, we were asked to revisit items, but I think often quite sensibly. And we come to this later, but the use of :outline:`face coverings` is one where it came back to NERVTAG, I think for good reasons.
 
 **Lead Inquiry**: Do you believe that your learning, your meetings, your consultation was sufficiently transparent and known to the public?
 
@@ -661,7 +661,7 @@ Now, that wasn't a remark made specifically in relation to the NERVTAG considera
 
 **Professor Sir Horby**: Yes, I mean, it's the first time I've seen that, and it -- we were not -- in no way were we pressured by anyone from government to make any advice based on the availability of :outline:`masks` but, as we had healthcare workers on the committee, it was a clear issue about the availability of PPE for healthcare workers, and raised by committee members that it could divert stocks away from places where they're more effective.
 
-**Lead Inquiry**: In the event, Professor, following the advice given by NERVTAG and adopted by SAGE, the government advised on 11 May the public to consider wearing face coverings, and then in June they became mandatory in public transport, and then in July in shops?
+**Lead Inquiry**: In the event, Professor, following the advice given by NERVTAG and adopted by SAGE, the government advised on 11 May the public to consider wearing :outline:`face coverings`. and then in June they became mandatory in public transport, and then in July in shops?
 
 **Professor Sir Horby**: Well, I would say it wasn't just on the basis of NERVTAG, and I think this was -- you know, this is an example of effective challenge where DH or SAGE commissioned other expert groups to look at the data. The Royal Society and the DELVE group produced a paper, and also there were some other groups that looked at the data. So there was an attempt to get differing scientific views of the value of it, and it was those, all of those inputs I think that changed the position, not just NERVTAG.
 

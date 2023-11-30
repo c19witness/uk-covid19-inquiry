@@ -1305,7 +1305,7 @@ On Monday I asked Sir Patrick Vallance about an entry in his notes, that entry i
 
 The extract from Sir Patrick Vallance's notebooks on 24/8/2020 says:
 
-"Scotland breaks ranks over face coverings and schools despite CMO having worked hard to get all CMOs aligned to a very good statement released the day before."
+"Scotland breaks ranks over :outline:`face coverings` and schools despite CMO having worked hard to get all CMOs aligned to a very good statement released the day before."
 
 Now, I'd like to ask you in particular about this. What I would like to establish with you, first of all, was: what was the agreement that was come to the day before it is said Scotland broke ranks?
 
@@ -1325,7 +1325,7 @@ So I think his point that there was hard work reflects just that, hard work. It 
 
 **Ms Mitchell KC**: So the date of -- the date -- hang on a second. The date is 24/8/2020. So just before schools were going back in Scotland, which I think --
 
-**Professor Sir Whitty**: So I think Sir Gregor was -- by this stage, was the CMO, from memory. Honestly, I can't recall exactly what our debates would have been. My view on this one would have been that the general principles of face coverings and their impact on the epidemic were a shared view for SAGE. It was a difficult area on which a lot of people had strong views actually in both directions and then the issues around their specific use in schools and then, within that, divided into communal areas and classrooms were quite highly debated. I cannot recall exactly at that point in time where different people were on their relative balance between the benefits of face-masks and the potential disadvantages of using them in an educational setting and I think it would be a mistake for me to try and speculate what either my view or Sir Gregor's view over that were at that point.
+**Professor Sir Whitty**: So I think Sir Gregor was -- by this stage, was the CMO, from memory. Honestly, I can't recall exactly what our debates would have been. My view on this one would have been that the general principles of :outline:`face coverings` and their impact on the epidemic were a shared view for SAGE. It was a difficult area on which a lot of people had strong views actually in both directions and then the issues around their specific use in schools and then, within that, divided into communal areas and classrooms were quite highly debated. I cannot recall exactly at that point in time where different people were on their relative balance between the benefits of face-masks and the potential disadvantages of using them in an educational setting and I think it would be a mistake for me to try and speculate what either my view or Sir Gregor's view over that were at that point.
 
 **Ms Mitchell KC**: Yes, you've made that clear, but my question to you was: did you speak to the Scottish CMO about the change, and if so what was said?
 
