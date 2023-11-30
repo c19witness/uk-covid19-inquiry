@@ -77,7 +77,7 @@ Did your mother and father go to hospital together?
 
 **Lead Inquiry**: They were together?
 
-**Ms Joanna Goodman**: They were together. And they spent the day in crowded waiting rooms with no mitigations in place, no face masks, no social distancing, no ventilation.
+**Ms Joanna Goodman**: They were together. And they spent the day in crowded waiting rooms with no mitigations in place, no :outline:`face masks`, no social distancing, no ventilation.
 
 **Lead Inquiry**: Just pause there. They recounted this to you, presumably?
 
@@ -113,7 +113,7 @@ And it's worth saying, actually, that I landed at Heathrow on the morning of, I 
 
 **Lead Inquiry**: No measures in place.
 
-**Ms Joanna Goodman**: -- proper guidance, no distancing. I was actually told by a flight attendant on my flight, because I was wearing a face mask at the time, I was told, "Oh, you haven't been taken in by all this, have you?" And that was very much the -- the mood, it felt, at the time.
+**Ms Joanna Goodman**: -- proper guidance, no distancing. I was actually told by a flight attendant on my flight, because I was wearing a :outline:`face mask` at the time, I was told, "Oh, you haven't been taken in by all this, have you?" And that was very much the -- the mood, it felt, at the time.
 
 **Lead Inquiry**: Your father started the chemotherapy on the first day of lockdown. Did he go back to the same hospital for the chemotherapy where he had received his diagnosis?
 

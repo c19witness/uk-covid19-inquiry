@@ -517,7 +517,7 @@ So one of my recommendations is that there needs to be a much more refined appro
 
 "The current Public Health England travel advice was presented:
 
-"Travellers should practice good general hygiene measures such as hand washing ... travellers are advised to avoid consumption of any food ... and follow the advice of local health authorities ... there are no travel restrictions to or from Wuhan City ... travellers developing a fever and cough within 14 days of travelling from Wuhan should seek medical advice."
+"Travellers should practice good general hygiene measures such as :outline:`hand washing` ... travellers are advised to avoid consumption of any food ... and follow the advice of local health authorities ... there are no travel restrictions to or from Wuhan City ... travellers developing a fever and cough within 14 days of travelling from Wuhan should seek medical advice."
 
 Then over the page on page 9, we can see action 2, DHSC to endeavour to establish if exit screening is taking place in Wuhan. DHSC, action 3, to raise the issue of advice posters at port of entry.
 

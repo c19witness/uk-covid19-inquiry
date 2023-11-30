@@ -99,7 +99,7 @@ We've heard already what NERVTAG is but briefly, as set out there, it was origin
 
 **Professor Andrew Hayward**: That's right.
 
-**Counsel Inquiry**: You've set out in your statement a number of examples of the type of work NERVTAG was involved in, and that included advice on border control measures, hand washing, PPE guidance, face masks, transmission of new variants; a number of different areas which I'm not going to touch upon. I'm grateful for that information.
+**Counsel Inquiry**: You've set out in your statement a number of examples of the type of work NERVTAG was involved in, and that included advice on border control measures, :outline:`hand washing`, PPE guidance, :outline:`face masks`, transmission of new variants; a number of different areas which I'm not going to touch upon. I'm grateful for that information.
 
 But in relation to that, there was one area which you do touch upon at paragraph 5.6, which is social distancing. Do you think this is an area where NERVTAG should have been utilised more upon?
 
@@ -123,7 +123,7 @@ But in relation to that, there was one area which you do touch upon at paragraph
 
 **Counsel Inquiry**: Correct, so you were on a subgroup to the original SAGE subgroup. When were you involved in the transmission subgroup?
 
-**Professor Andrew Hayward**: Well, initially that started as what was called the Public Health England transmission group which was convened, I think, if I remember rightly, in October, and then it was transposed into a subgroup of a subgroup of SAGE, and its remit was really -- rather than the main EMG group, which was looking at sort of theoretical considerations as to how Covid would spread in different environments, understanding things like viral excretion, how it ends up on surfaces, et cetera -- this group was really convened to look at the epidemiological evidence, ie more studies of -- that had measured how Covid was being transmitted in different populations in different settings, et cetera, and to advise on that.
+**Professor Andrew Hayward**: Well, initially that started as what was called the Public Health England transmission group which was convened, I think, if I remember rightly, in October, and then it was transposed into a subgroup of a subgroup of SAGE, and its remit was really -- rather than the main EMG group, which was looking at sort of theoretical considerations as to how Covid would spread in different environments, understanding things like viral excretion, how it ends up on :outline:`surfaces`, et cetera -- this group was really convened to look at the epidemiological evidence, ie more studies of -- that had measured how Covid was being transmitted in different populations in different settings, et cetera, and to advise on that.
 
 **Counsel Inquiry**: I think we may come back to the work of the transmission group in due course, which is probably related to some of your studies. But in relation to your involvement, that transmission subgroup and NERVTAG, you weren't on the full SAGE group; is that correct?
 

@@ -259,7 +259,7 @@ Should consideration have been given, even at this relatively early stage, not j
 
 February.
 
-On 2 February, a public information campaign was launched by the DHSC advising the population to adopt respiratory and hand hygiene behaviours. The Prime Minister receives an update on the evacuation of UK nationals and at SAGE, two days later, the CMO, the DCMO and the Chief Scientific Adviser and a number of other scientists from universities, from research institutes such as Imperial and the London School of Hygiene & Tropical Medicine agreed that United Kingdom-only China-focused measures would likely only achieve minor delays in slowing United Kingdom transmission, but that transmission could be slowed if multiple countries took concerted action. But of course as is well known no such concerted action took place.
+On 2 February, a public information campaign was launched by the DHSC advising the population to adopt respiratory and :outline:`hand hygiene` behaviours. The Prime Minister receives an update on the evacuation of UK nationals and at SAGE, two days later, the CMO, the DCMO and the Chief Scientific Adviser and a number of other scientists from universities, from research institutes such as Imperial and the London School of Hygiene & Tropical Medicine agreed that United Kingdom-only China-focused measures would likely only achieve minor delays in slowing United Kingdom transmission, but that transmission could be slowed if multiple countries took concerted action. But of course as is well known no such concerted action took place.
 
 A "consensus statement" -- I've referred already to the process by which the scientific committees produced a statement concluding and summarising their views -- a "consensus statement" from the modelling scientific committee, SPI-M-O, dated 3 February concludes:
 
@@ -409,7 +409,7 @@ Forecasting essentially concerns asking the question: what do we think will happ
 
 That difference between forecasting and model-based scenarios was crucial, because scenarios were often wrongly treated by many as forecasts, so that when a particular scenario didn't come to pass, for example the number of deaths that were estimated in that scenario did not come, and, for example, the number of deaths did not go up to the particular levels estimated on the closing of schools, or one of the other social restrictions that was imposed or could be imposed, this was treated as a failure of modelling or as the deliberate propagation of a climate of fear. It wasn't.
 
-The models were extremely complex, because there were a significant number of measures that had to be considered, mask wearing, hand hygiene, social distancing, closing schools, stay at home orders and so on, and it was simply no possible to know how society might react to such measures.
+The models were extremely complex, because there were a significant number of measures that had to be considered, :outline:`mask wearing`, :outline:`hand hygiene`, social distancing, closing schools, stay at home orders and so on, and it was simply no possible to know how society might react to such measures.
 
 So for you, my Lady, in this Inquiry a number of related questions arise: were the limitations of that modelling properly understood by decision-makers, particularly at the beginning, when many of the assumptions upon which the models were based were not yet supported by data?
 

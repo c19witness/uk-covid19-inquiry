@@ -383,7 +383,7 @@ So we'd got a position here -- I mean, maybe I was a little bit annoyed, you kno
 
 **Dame Harries**: Well, the evidence with three layers was not very strong.
 
-**Lady Hallett**: Right, well, okay, let's forget about how many layers. Is there any harm in -- I appreciate buying masks may interfere with supply to care home workers and people working in hospitals -- is there any harm in encouraging members of the public to use :outline:`home-made face masks`?
+**Lady Hallett**: Right, well, okay, let's forget about how many layers. Is there any harm in -- I appreciate buying :outline:`masks` may interfere with supply to care home workers and people working in hospitals -- is there any harm in encouraging members of the public to use :outline:`home-made face masks`?
 
 **Dame Harries**: I mean, this is where it gets, I think -- because the evidence at this point is quite tricky, I think once we got past -- I mean, as I say, I think WHO changed their guidance in July. They were not -- we haven't got the date of this document.
 
@@ -787,7 +787,7 @@ Thinking about the measures in place within healthcare settings, what prevented 
 
 **Dame Harries**: So I -- the guidance, as you will know, I'm sure, was reviewed multiple times, and continues to be as we have gone through. It's set by a four nations IPC cell, not by myself, not by Public Health England in those days, now UKHSA, and the operational implementation of that sits with NHS England.
 
-So I can't -- I mean, there's a very, very complex review through that. It goes back to the risk and the evidence. So FFP3s were provided for :outline:`aerosol-generating procedures` right from the outset. That has always been there and it remains. We are back then to the balance of risks around appropriate PPE.
+So I can't -- I mean, there's a very, very complex review through that. It goes back to the risk and the evidence. So :outline:`FFP3s` were provided for :outline:`aerosol-generating procedures` right from the outset. That has always been there and it remains. We are back then to the balance of risks around appropriate PPE.
 
 But I would just like to say that at all times when those reviews have happened they have linked across to see what WHO's recommending and have stayed consistent, I'm pretty confident on that. So I don't think -- I think one of the interesting things was :outline:`FFP3s` and :outline:`FFP2s` are used differentially in different countries. So, in fact, the :outline:`FFP3` that was in play right at the start of the pandemic is, if you like, in simplistic terms, a stronger recommendation than in many other countries and I think for some of the WHO guidance.
 
@@ -802,7 +802,7 @@ That said, as I discussed yesterday, certainly early on we did have a very good 
 Lastly and very quickly, just picking up on some of the comments you made about the effectiveness of masks used in the general population, can I ask you your view of the effectiveness of fluid-resistant
  :outline:`surgical masks` for combating  :outline:`aerosol transmission`?
 
-**Dame Harries**: So, I mean, that's quite a detailed technical question which is probably not for answering here and I'm happy to provide a written one on that. I mean, usually there is -- when you're working in a healthcare environment, often the fluid-resistance is therefore splash protection but obviously if the splash protection is critical, then you will actually have a shield as well. So, you know, that is quite a detailed answer. I'm very happy to provide one in writing.
+**Dame Harries**: So, I mean, that's quite a detailed technical question which is probably not for answering here and I'm happy to provide a written one on that. I mean, usually there is -- when you're working in a healthcare environment, often the fluid-resistance is therefore :outline:`splash protection` but obviously if the :outline:`splash protection` is critical, then you will actually have a shield as well. So, you know, that is quite a detailed answer. I'm very happy to provide one in writing.
 
 **Mr Stanton**: Thank you, Professor.
 

@@ -1221,7 +1221,7 @@ So was it your conclusion that now would be quite a good time to gather more evi
 
 **Professor Steven Riley**: Yep.
 
-**Ms Morris KC**: There may be utility to using surgical :outline:`face masks` in closed community settings?
+**Ms Morris KC**: There may be utility to using :outline:`surgical face masks` in closed community settings?
 
 **Professor Steven Riley**: Yes.
 

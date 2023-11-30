@@ -707,7 +707,7 @@ It's right, isn't it, that the article makes several recommendations in respect 
 
 Secondly, it emphasises the need for early recognition, including by way of testing.
 
-And, thirdly, it makes recommendations for outbreak control measures comprising respiratory etiquette, appropriate use of PPE, isolation of infected residents, and the minimisation of transmission opportunities, closure of care homes to new admissions, limitation of visitors, rostering vaccinated staff to care for residents, and hand hygiene and enhanced environmental cleaning.
+And, thirdly, it makes recommendations for outbreak control measures comprising respiratory etiquette, appropriate use of PPE, isolation of infected residents, and the minimisation of transmission opportunities, closure of care homes to new admissions, limitation of visitors, rostering vaccinated staff to care for residents, and :outline:`hand hygiene` and enhanced environmental cleaning.
 
 Do you agree that those represent a summary of the primary recommendations made in that article?
 

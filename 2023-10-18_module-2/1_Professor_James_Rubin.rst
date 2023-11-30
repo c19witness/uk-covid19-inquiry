@@ -1381,7 +1381,7 @@ It says:
 
 First bullet point:
 
-"- We've had a steer from Peter Heneghan (Deputy Director of Digital at No 10 ...) via ... (PHE ...), NOT to pursue the 'fist-bump' work, as it may distract from the hand washing messaging. There was concern that even carrying out the demo was a risk."
+"- We've had a steer from Peter Heneghan (Deputy Director of Digital at No 10 ...) via ... (PHE ...), NOT to pursue the 'fist-bump' work, as it may distract from the :outline:`hand washing` messaging. There was concern that even carrying out the demo was a risk."
 
 So my question was whether you were aware of this steer or the suggestion that the so-called fist bump work should stop?
 

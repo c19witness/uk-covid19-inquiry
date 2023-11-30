@@ -1688,7 +1688,7 @@ There was a paper produced, I think, by the London School of Hygiene and Tropica
 .. raw:: html
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
-   Like Pat Vallance, Chris Whitty uses "contacts" in conjuction with "reduction of"
+   Like Pat Vallance, Chris Whitty uses "contacts" in conjunction with "reduction of"
    which is allusion to a mechanism of transmission. Like Pat Vallance, he's not
    been questioned about that specifically. So far no questions
    to him around mechanisms of transmission (airborne vs droplets/fomites) generally.

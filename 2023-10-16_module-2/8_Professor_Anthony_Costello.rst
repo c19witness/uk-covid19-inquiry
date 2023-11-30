@@ -309,7 +309,7 @@ At the bottom of the page, as my Lady has noted, there is an action. You describ
 
 **Lead Inquiry**: -- SPI-M as a group of expert, well intentioned scientists, albeit modellers, advising on actions that the United Kingdom could take?
 
-**Professor Anthony Costello**: Because they were asked to model slowing down the spread, but they were not asked to model the impact of test, trace and isolate, and they did not do that. They basically looked at a whole number of other measures like school closures, like large events, like face masks, you know, whatever, all the various so-called NPIs, but they didn't model what all the East Asian states were doing and what WHO was recommending.
+**Professor Anthony Costello**: Because they were asked to model slowing down the spread, but they were not asked to model the impact of test, trace and isolate, and they did not do that. They basically looked at a whole number of other measures like school closures, like large events, like :outline:`face masks`, you know, whatever, all the various so-called NPIs, but they didn't model what all the East Asian states were doing and what WHO was recommending.
 
 **Lead Inquiry**: Because those measures were measures more usually associated with flu pandemics and they were the measures which in fact were reflected in the 2011 strategy?
 

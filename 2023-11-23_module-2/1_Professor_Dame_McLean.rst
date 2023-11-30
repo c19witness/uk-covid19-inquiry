@@ -1201,7 +1201,7 @@ Or vaccines, and so on.
 
 Just to be clear, Covid security; effectively, NPIs?
 
-**Professor Dame McLean**: Covid security is more things like everybody washing their hands very carefully, maybe wearing masks, do you remember there were all those screens that went everywhere, restrictions on how many people were in a room. So it was more the -- yes, those sorts of NPIs, yes.
+**Professor Dame McLean**: Covid security is more things like everybody :outline:`washing their hands` very carefully, maybe wearing :outline:`masks`, do you remember there were all those screens that went everywhere, restrictions on how many people were in a room. So it was more the -- yes, those sorts of NPIs, yes.
 
 **Counsel Inquiry**: If we continue at paragraph 5, it states:
 
