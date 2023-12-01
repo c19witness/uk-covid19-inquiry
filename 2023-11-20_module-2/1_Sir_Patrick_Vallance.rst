@@ -655,7 +655,7 @@ We've talked already about the caution that Sir Chris had in March. It looks as 
 
 And Chris and I discussed this sort of thing often. I still think that he, as the Chief Medical Officer with a public health accountability, was right to raise the problems associated with the measures being taken, and that appropriate caution I think was useful and it was very helpful for the two of us to be able to discuss that and understand why we were in positions of either greater or slower pace on some of these things. I think it's appropriate.
 
-**Counsel Inquiry**: One more of these references, please, page 190. So we're at very much the same time, September of 2020. You record that the Prime Minister had come back from a Battle of Britain memorial service distressed by seeing everyone in masks, and then this:
+**Counsel Inquiry**: One more of these references, please, page 190. So we're at very much the same time, September of 2020. You record that the Prime Minister had come back from a Battle of Britain memorial service distressed by seeing everyone in :outline:`masks`, and then this:
 
 "Starts challenging numbers and questioning whether they really translate into deaths. Says it is not exponential etc etc. Looked broken -- head in hands a lot. 'Is it because of the great libertarian nation we are that it spreads so much." 'Maybe we are licked as a species' ... 'We are too shit to get our act together'.
 

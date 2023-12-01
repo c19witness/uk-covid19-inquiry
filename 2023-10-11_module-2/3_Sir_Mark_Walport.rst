@@ -201,7 +201,7 @@ I should qualify it by saying that there was information about :outline:`mask we
 
 **Sir Mark Walport**: I don't think there were any of the systematic reviews that could distinguish between, say, :outline:`cloth masks` and :outline:`surgical masks`, so I don't think we have information to answer that.
 
-**Lady Hallett**: Was there also, do I remember, conflicting advice about mask wearing and its effectiveness and whether it engendered complacency?
+**Lady Hallett**: Was there also, do I remember, conflicting advice about :outline:`mask wearing` and its effectiveness and whether it engendered complacency?
 
 **Sir Mark Walport**: There are lots of interpretations of the evidence, and, you know, this is one of the challenges with observational data. It could be that those who avidly wore :outline:`masks` of any sort were more likely to socially distance themselves. So there are other interpretations. But nevertheless, and particularly, I think, in the healthcare setting, where people are more likely to wear the :outline:`masks` correctly as well -- because anyone who saw mask wearing, a lot of :outline:`masks` were worn underneath the nose where they would do no effect or weren't fitting properly. So it's another case where the fact that actually they were shown to be effective in healthcare settings suggests that there were -- you know, there was, if you like, a causal relationship between the mask wearing and the protection.
 

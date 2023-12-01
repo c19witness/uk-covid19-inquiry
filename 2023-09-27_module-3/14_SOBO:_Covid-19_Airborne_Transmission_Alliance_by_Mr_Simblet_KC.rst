@@ -29,11 +29,11 @@ At the last preliminary Module 3 hearing, CATA drew attention to the contention 
 
 In fact there was no clear or sufficient scientific evidence for it to be asserted at the start of the pandemic that SARS-CoV-2 was not spread by the :outline:`airborne` route, nor sufficient scientific justification to make some of the other consequential decisions.
 
-In that context, it was therefore wrong, we say, in March 2020 to remove SARS-CoV-2's status as a high-consequence infectious disease and, on the very same day, to downgrade protective equipment for healthcare workers from effective respiratory protective equipment, or RPE, to FRSMs, save in relation to some particular specific medical procedures which were arbitrarily classified as :outline:`aerosol generating procedures`.
+In that context, it was therefore wrong, we say, in March 2020 to remove SARS-CoV-2's status as a high-consequence infectious disease and, on the very same day, to downgrade protective equipment for healthcare workers from effective :outline:`respiratory protective equipment`, or :outline:`RPE`, to :outline:`FRSMs`, save in relation to some particular specific medical procedures which were arbitrarily classified as :outline:`aerosol generating procedures`.
 
 Essentially, my Lady, the failure either to recognise the :outline:`airborne` route or to apply the precautionary principle in the formulation of infection prevention and control guidance had profound implications for the safety of patients and healthcare workers and the future of the NHS more generally.
 
-This failure is most stark in the context of IPC cell guidance which, contrary to other government and public health bodies' eventual recognition of the :outline:`airborne` route of transmission, has never recognised this route of transmission nor recommended appropriate RPE for healthcare workers caring for infectious patients.
+This failure is most stark in the context of IPC cell guidance which, contrary to other government and public health bodies' eventual recognition of the :outline:`airborne` route of transmission, has never recognised this route of transmission nor recommended :outline:`appropriate RPE` for healthcare workers caring for infectious patients.
 
 It seems to CATA that all of this likely arose from a lack of resources. CATA's very concerned about this, as is a large percentage of those who worked in the healthcare centre during the pandemic, and CATA asks that this issue is fully, rigorously and courageously explored.
 
@@ -41,9 +41,9 @@ CATA repeatedly tried to engage with governmental institutions and public bodies
 
 So CATA therefore asks the Inquiry to uncover the manner in which the IPC cell guidance was produced. It's a process that until now remains shrouded in secrecy, and the relevant minutes of meetings and so on remain unpublished.
 
-So on the topic, you've heard other submissions today which are welcomed by CATA from, for instance, the Royal College of Nursing, the TUC, FEHMO and others, about RPE and its suitability, and of course CATA agrees with Mind, FEHMO and the Frontline Migrant Health Workers Group that Covid and measures to combat it impacted different racial groups differentially.
+So on the topic, you've heard other submissions today which are welcomed by CATA from, for instance, the Royal College of Nursing, the TUC, FEHMO and others, about :outline:`RPE` and its suitability, and of course CATA agrees with Mind, FEHMO and the Frontline Migrant Health Workers Group that Covid and measures to combat it impacted different racial groups differentially.
 
-One key issue which we say will need to be looked at carefully was the failure to provide RPE suitable for all persons irrespective of their ethnicity, gender or other characteristics. We've made some submissions in our written submissions at around paragraph 21 in relation to things such as different types of faces and sizes and so on, but essentially CATA's submission is that the procurement and provision of suitable RPE was not properly managed with regard to the diversity of the healthcare workforce.
+One key issue which we say will need to be looked at carefully was the failure to provide :outline:`RPE` suitable for all persons irrespective of their ethnicity, gender or other characteristics. We've made some submissions in our written submissions at around paragraph 21 in relation to things such as different types of faces and sizes and so on, but essentially CATA's submission is that the procurement and provision of :outline:`suitable RPE` was not properly managed with regard to the diversity of the healthcare workforce.
 
 The inadequacy of protective equipment features along another central concern of CATA, namely the reporting by healthcare workers -- or the non-reporting, as it may be more appropriately described -- under the Reporting of Injuries, Diseases and Dangerous Occurrence Regulations 2013, or RIDDOR.
 

@@ -61,7 +61,7 @@ The evidence before the Inquiry, even at this early stage, reveals that the Wels
 
 I'll just touch upon a few examples. Whilst Wales held its own formal planning exercises, so that's Taliesin 2009, Cygnus 2014, and Public Health Wales Dromedary 2015, these exercises appear bureaucratic and merely designed to satisfy administrative requirements rather than address the substance of pandemic planning.
 
-In terms of the adequacy of that planning, Exercise Cygnus in 2014 tested the pan-Wales response plan in Wales. However, the outcome document is extremely brief and makes no mention of testing for NHS Wales surge capacity, for example, PPE or RPE demands and stockpiling. There is no mention of the impact of restrictions on free movement. There is no mention of workforce resilience. Just to pick out a few examples.
+In terms of the adequacy of that planning, Exercise Cygnus in 2014 tested the pan-Wales response plan in Wales. However, the outcome document is extremely brief and makes no mention of testing for NHS Wales surge capacity, for example, PPE or :outline:`RPE` demands and stockpiling. There is no mention of the impact of restrictions on free movement. There is no mention of workforce resilience. Just to pick out a few examples.
 
 Wales did not formally plan for the impact of any lockdown measures, but tested them only after Covid-19 had arrived in the United Kingdom. Whereas England tested for surge capacity, it appears that Wales did not.
 
@@ -79,7 +79,7 @@ Welsh hospitals continued with poor ventilation. There was no planning and prepa
 
 In other words, there appears to have been inadequate implementation even for a serious and catastrophic flu pandemic, let alone a pandemic such as Covid-19.
 
-The Welsh Government knew that they needed to improve infection control and the design and ventilation of Welsh hospitals and care homes to reduce infection. It appears in many of their very early documents that you have before you. The Welsh Government knew that they had to stockpile PPE/RPE but when the Covid-19 pandemic hit there was a shortage particularly of FFP3 respiratory masks and, of course, of PPE.
+The Welsh Government knew that they needed to improve infection control and the design and ventilation of Welsh hospitals and care homes to reduce infection. It appears in many of their very early documents that you have before you. The Welsh Government knew that they had to stockpile PPE/:outline:`RPE` but when the Covid-19 pandemic hit there was a shortage particularly of FFP3 respiratory masks and, of course, of PPE.
 
 The Welsh Government knew they had to plan for excess deaths from a pandemic, including the worst case scenario, and the figures in the documents are 210 to 315,000 excess deaths nationally in 15 weeks. There is no evidence of a plan or a strategy to deal with excess deaths or the consequences.
 

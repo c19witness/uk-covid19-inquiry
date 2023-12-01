@@ -519,7 +519,7 @@ At the fourth paragraph, I'll just read -- I beg your pardon, I should say the l
 
 The fourth paragraph reads:
 
-"There are significant and growing concerns about the role of :outline:`aerosol` transmission of COVID-19 in healthcare settings, and the need for wider use of RPE (for example, :outline:`FFP3 respirators`) outside of those procedures designated as :outline:`aerosol generating`. We are therefore calling on [Public Health England] to support the wider use of RPE in other high-risk settings across primary and secondary care."
+"There are significant and growing concerns about the role of :outline:`aerosol` transmission of COVID-19 in healthcare settings, and the need for wider use of :outline:`RPE` (for example, :outline:`FFP3 respirators`) outside of those procedures designated as :outline:`aerosol generating`. We are therefore calling on [Public Health England] to support the wider use of :outline:`RPE` in other high-risk settings across primary and secondary care."
 
 Professor, so the first question I have for you is: appreciating that there was considerable uncertainty in the early stages of the pandemic, when did Public Health England first become aware that :outline:`aerosol transmission` was a significant transmission route of Covid-19, including through daily actions such as `coughing`, `talking`, et cetera?
 

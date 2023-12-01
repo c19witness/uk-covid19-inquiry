@@ -119,15 +119,15 @@ The BMA's position in this regard, my Lady, is that the absence of timely and ad
 
 My Lady, the final point I'd like to make is in respect of the stockpile of respiratory protective equipment.
 
-Regarding the failure to adequately stockpile respiratory protective equipment, RPE, the BMA welcomes the Inquiry's intention to examine the availability and adequacy of protective equipment within issue 8, and is pleased to note the clear distinction drawn within the provisional list of issues between personal protective equipment and respiratory protective equipment.
+Regarding the failure to adequately stockpile respiratory protective equipment, :outline:`RPE`, the BMA welcomes the Inquiry's intention to examine the availability and adequacy of protective equipment within issue 8, and is pleased to note the clear distinction drawn within the provisional list of issues between personal protective equipment and respiratory protective equipment.
 
-The BMA also welcomes the indication that the list of issues will continue to develop as the Inquiry's evidence base grows, and in line with this approach we raise now for consideration of express inclusion in the next version of the list of issues the important question of why the stockpile of RPE was so lacking prior to the pandemic.
+The BMA also welcomes the indication that the list of issues will continue to develop as the Inquiry's evidence base grows, and in line with this approach we raise now for consideration of express inclusion in the next version of the list of issues the important question of why the stockpile of :outline:`RPE` was so lacking prior to the pandemic.
 
 My Lady, we recognise that this is an issue of preparedness. However, there was not sufficient time within Module 1 to address it, and you may recall within the BMA's closing statement to Module 1 we referred to the need to give further consideration.
 
-Expressly included already within issue 8, at 8B3, is whether the standard of RPE and PPE provided to healthcare workers followed the scientific understanding as the pandemic progressed. However, we ask you to extend this issue to include the scientific understanding of :outline:`aerosol` transmission of viruses prior to the pandemic.
+Expressly included already within issue 8, at 8B3, is whether the standard of :outline:`RPE` and PPE provided to healthcare workers followed the scientific understanding as the pandemic progressed. However, we ask you to extend this issue to include the scientific understanding of :outline:`aerosol` transmission of viruses prior to the pandemic.
 
-This is because it's the BMA's position that the stockpile of RPE and the supplies that healthcare workers relied upon were not properly constituted in accordance with scientific understanding from at least 2008. That is, we started off from a point that was not in accordance with the scientific understanding about how healthcare workers should be protected from :outline:`aerosol` transmission.
+This is because it's the BMA's position that the stockpile of :outline:`RPE` and the supplies that healthcare workers relied upon were not properly constituted in accordance with scientific understanding from at least 2008. That is, we started off from a point that was not in accordance with the scientific understanding about how healthcare workers should be protected from :outline:`aerosol` transmission.
 
 We set this position out more fully within the BMA's written submissions to Module 1, but, very briefly, in 2008 the Health and Safety Laboratory produced a report for the Health and Safety Executive that evaluated the relative levels of protection afforded by :outline:`surgical masks` and :outline:`respirators` against an :outline:`airborne` virus, and concluded that :outline:`surgical masks` should not be used in situations where close exposure to infectious :outline:`aerosols` is likely.
 
