@@ -83,7 +83,7 @@ A Wales audit report of December 2012 on civil emergencies in Wales noted that "
 
 This structure did not significantly change prior to the Transfer of Functions Order under the Civil Contingencies Act 2004 in 2018. Mr Drakeford accepted in oral evidence that a review of civil contingencies arrangements remained outstanding going into the pandemic. This was yet another indefensible failure on the part of the Welsh Government.
 
-Now, a matter of real significance to the Cymru group is hospital-acquired Covid-19. Many people in Wales died because they caught Covid-19 in Welsh hospitals with inadequate ventilation and poor infection control.
+Now, a matter of real significance to the Cymru group is hospital-acquired Covid-19. Many people in Wales died because they caught Covid-19 in Welsh hospitals with inadequate :outline:`ventilation` and poor infection control.
 
 It has been deeply concerning and upsetting to learn about the extent to which this issue was simply not a priority for the Welsh Government and NHS Wales.
 

@@ -267,7 +267,7 @@ What do you mean by that in practice? Do you mean that planning documents, plann
 
 **Professor Philip Banfield**: I mean, that's partially true, but when it comes to, for example, inequalities within our healthcare and social care workforce, we are still in a situation where the recommendation is for fluid-resistant :outline:`surgical masks`, which of course are not protective against :outline:`aerosols` at all. So that advice is affecting disproportionately those with inequalities.
 
-And ventilation within our NHS estate and social care isn't -- hasn't been addressed either.
+And :outline:`ventilation` within our NHS estate and social care isn't -- hasn't been addressed either.
 
 So the risk assessments and the assessment of hazards is still being poorly done, and it affects certain members of both our patients and our staff disproportionately.
 

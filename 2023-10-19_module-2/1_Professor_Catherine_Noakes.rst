@@ -263,7 +263,7 @@ In terms of EMG, it was obviously not established until April 2020, but in your 
 
 **Counsel Inquiry**: To your knowledge were there any reasons not to take steps to guard against :outline:`airborne` transmission?
 
-**Professor Catherine Noakes**: I don't see that there were, no. I think there was -- although the evidence at the outset was weak, in truth it was weak for all transmission routes. I think there was just a tendency to assume the other transmission routes, and then require the evidence for :outline:`airborne` transmission. So I think from a precautionary basis, it would have been appropriate to indicate that aspects like ventilation mattered, early on, and as that evidence base built, it was important that that -- those mitigations were more readily applied and people became more -- should have been made more aware of them.
+**Professor Catherine Noakes**: I don't see that there were, no. I think there was -- although the evidence at the outset was weak, in truth it was weak for all transmission routes. I think there was just a tendency to assume the other transmission routes, and then require the evidence for :outline:`airborne` transmission. So I think from a precautionary basis, it would have been appropriate to indicate that aspects like :outline:`ventilation` mattered, early on, and as that evidence base built, it was important that that -- those mitigations were more readily applied and people became more -- should have been made more aware of them.
 
 **Counsel Inquiry**: If I may move now through spring/summer of 2020, in short there were a number of papers that were published and you were still gathering the evidence; is that a fair summary?
 
@@ -465,7 +465,7 @@ So firstly, did you and your colleagues on the Environmental Modelling Group fee
 
 **Ms Shepherd**: Did you and your colleagues consider that you had a clear understanding of where the dividing line was in terms of your responsibility to provide advice to the whole of the UK, and the responsibility of the scientific advisers to the devolved administrations to provide advice which concerned their nation specifically?
 
-**Professor Catherine Noakes**: I think we ... most of the advice we gave was, I guess, agnostic to a particular nation, so we were giving advice around things like, you know, ventilation or distancing, and therefore really how that advice is acted on is the -- is up to the policymakers in those nations to take on and use.
+**Professor Catherine Noakes**: I think we ... most of the advice we gave was, I guess, agnostic to a particular nation, so we were giving advice around things like, you know, :outline:`ventilation` or distancing, and therefore really how that advice is acted on is the -- is up to the policymakers in those nations to take on and use.
 
 **Ms Shepherd**: Thank you, Professor Noakes, and thank you, my Lady.
 

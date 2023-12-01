@@ -75,7 +75,7 @@ Relatedley on pen portraits or illustrative cases, we are very grateful for the 
 
 My final submission relates to adjustments for the upcoming Module 3 hearings. An inquiry into Covid-19, with Core Participants and witnesses who are extremely clinically vulnerable, should in our submission ensure that the final venue has robust Covid-19 safety measures in place. I have no doubt that's in your Ladyship's mind.
 
-We agree, of course, with the Long Covid groups' submissions at paragraphs 53 to 55 of their written submissions on safety measures. We emphasise that for higher risk of Covid individuals, it is imperative that the venue takes due regard of any risk assessment for Covid-19 that includes its :outline:`airborne` nature and adjust the venue and requirements accordingly. In particular, CVF asks for air filtration using HEPA filters or ventilation measured by CO2 proxy, and ensuring high quality masks are available (such as :outline:`FFP2 or 3`), as well as lateral flow test requirements for all participants at the in-person inquiry.
+We agree, of course, with the Long Covid groups' submissions at paragraphs 53 to 55 of their written submissions on safety measures. We emphasise that for higher risk of Covid individuals, it is imperative that the venue takes due regard of any risk assessment for Covid-19 that includes its :outline:`airborne` nature and adjust the venue and requirements accordingly. In particular, CVF asks for air :outline:`filtration` using HEPA filters or :outline:`ventilation` measured by CO2 proxy, and ensuring high quality masks are available (such as :outline:`FFP2 or 3`), as well as lateral flow test requirements for all participants at the in-person inquiry.
 
 We note, just as a relatively small point, that the guidance for those who were in the alternative room for today was not as clear as it was for the people in this room that they should take Covid-19 tests.
 
@@ -95,7 +95,7 @@ So thank you very much and I shall see you after lunch. We shall return please a
 
 *(2.03 pm)*
 
-**Mr Wagner**: My Lady, just on the topic of safety measures, I've been told by my clients that they brought a CO2 monitor today along with a number of other air filtration machines and they said that the level in this room is very good; so that's -- they're very pleased with that. I am pleased to say also they have already begun conversations with the Inquiry team, who have been very receptive to all of the different issues that might arise. So we're grateful for that.
+**Mr Wagner**: My Lady, just on the topic of safety measures, I've been told by my clients that they brought a CO2 monitor today along with a number of other air :outline:`filtration` machines and they said that the level in this room is very good; so that's -- they're very pleased with that. I am pleased to say also they have already begun conversations with the Inquiry team, who have been very receptive to all of the different issues that might arise. So we're grateful for that.
 
 **Lady Hallett**: You frightened me there for a minute, Mr Wagner, so thank you for that.
 

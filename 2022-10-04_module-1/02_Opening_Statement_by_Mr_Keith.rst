@@ -35,7 +35,7 @@ Turning to the written arguments which have been produced for this morning, my L
 
 The Inquiry has received eight written submissions in response, one of which is a joint note submitted on behalf of Covid-19 Bereaved Families for Justice and Northern Ireland Covid-19 Bereaved Families for Justice. The majority of the remainder of Core Participants have kindly indicated that they don't wish to make oral submissions and have not filed written submissions.
 
-The written submissions have, obviously, all been circulated around the Core Participants. So, my Lady, what I propose to do is to say something about the background to the Inquiry, its commencement and procedures so as to illuminate and highlight the issues which arise for ventilation today.
+The written submissions have, obviously, all been circulated around the Core Participants. So, my Lady, what I propose to do is to say something about the background to the Inquiry, its commencement and procedures so as to illuminate and highlight the issues which arise for :outline:`ventilation` today.
 
 I don't propose to answer all the points made in the written submissions. I will reserve my position in respect of some or all of them until they have been developed by the Core Participants in their oral submissions.
 
@@ -201,7 +201,7 @@ A significant number of qualified experts and persons with recognised expertise 
 
 They will naturally have the appropriate expertise and experience for the particular instruction, and they will be selected on the grounds of their independence and objectivity.
 
-The identification, however, of suitable experts is not at all straightforward, given the public ventilation by many of them of the areas of expertise in which they practice, the fact that many of them were themselves involved in the events under investigation, and the fact that there is a distinct lack of unanimity on many matters. But we have already compiled a list of provisionally suitable experts for Module 1. Their reports when prepared will naturally be shared with the Core Participants, and they will be published on the Inquiry's website.
+The identification, however, of suitable experts is not at all straightforward, given the public :outline:`ventilation` by many of them of the areas of expertise in which they practice, the fact that many of them were themselves involved in the events under investigation, and the fact that there is a distinct lack of unanimity on many matters. But we have already compiled a list of provisionally suitable experts for Module 1. Their reports when prepared will naturally be shared with the Core Participants, and they will be published on the Inquiry's website.
 
 Where there are significant differences of view or emphasis among members of a group, they will be made clear on the face of the reports and of course can be tested during the public hearing.
 

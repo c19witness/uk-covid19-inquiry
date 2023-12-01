@@ -629,7 +629,7 @@ Firstly, do you set out in the report the need for therefore systems of accumula
 
 In the same way, if we had very good continuous evidence collection during the pandemic, we might learn more in real time about the effectiveness of different measures at different times.
 
-As I've described, however, in relation to environmental measures, there are some things one can learn from experimental studies between pandemics. So it's perfectly possible to understand the distribution of particles of viral size in closed spaces, what ventilation might do. Some of that work is already done.
+As I've described, however, in relation to environmental measures, there are some things one can learn from experimental studies between pandemics. So it's perfectly possible to understand the distribution of particles of viral size in closed spaces, what :outline:`ventilation` might do. Some of that work is already done.
 
 But at the start we didn't really know the balance of -- the importance of :outline:`washing hands` and :outline:`cleaning surfaces`. We do know that actually enteric infections -- so infections of the gut -- decreased, and we also know about the effectiveness, to some extent, of the non-pharmaceutical interventions from the fact that influenza and respiratory syncytial virus infections dropped during the pandemic.
 

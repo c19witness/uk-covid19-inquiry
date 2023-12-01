@@ -799,7 +799,7 @@ Finally, communications. In your statement you refer to the fact that there was 
 
 **Lead Inquiry**: Why did you send a copy of that poster to the Cabinet Office in mid-June?
 
-**Professor Sir Van-Tam**: Well, I can't remember when I first discovered the existence of the Japanese "Three Cs" concept, but it immediately resonated with me. And, you know, all I can say is it resonated with me personally because I felt it would be a way, if we did it right, by which we could coach the public to look at any situation and just, you know, remember three Cs. It's pretty simple. Literally, is it closed? Corollary: and what's the ventilation like? Is it crowded? Are you putting a lot of people into that closed space? And is the purpose of them being there to have :outline:`close contact` with each other?
+**Professor Sir Van-Tam**: Well, I can't remember when I first discovered the existence of the Japanese "Three Cs" concept, but it immediately resonated with me. And, you know, all I can say is it resonated with me personally because I felt it would be a way, if we did it right, by which we could coach the public to look at any situation and just, you know, remember three Cs. It's pretty simple. Literally, is it closed? Corollary: and what's the :outline:`ventilation` like? Is it crowded? Are you putting a lot of people into that closed space? And is the purpose of them being there to have :outline:`close contact` with each other?
 
 And I felt that you could teach people to self-regulate almost and risk manage their own behaviours, their own exposures, if we could kind of make that concept work in the UK. And I --
 

@@ -43,7 +43,7 @@ We therefore ask the Inquiry to scrutinise the issue of :outline:`airborne` tran
 
 The failure to properly acknowledge that Covid-19 is spread by :outline:`aerosol` transmission and to adapt public messaging, guidance and non-pharmaceutical interventions, or NPIs, has important implications for infection prevention and control guidance, including the requirement for healthcare workers to wear :outline:`FFP3 masks` for the routine treatment of Covid-19 patients, as well as wider implications for decisions about what NPIs were implemented.
 
-Given what was known, measures should have been considered at an earlier stage to mitigate against the risk of :outline:`airborne` transmission. For example, there should have been a greater focus on indoor ventilation and air quality monitoring, alongside the recommendation to meet outside where possible. CBFJ Cymru ask the Inquiry to ascertain whether decision-making and public messaging as it unfolded accurately reflected the scientific understanding on the possible routes of transmission of Covid-19.
+Given what was known, measures should have been considered at an earlier stage to mitigate against the risk of :outline:`airborne` transmission. For example, there should have been a greater focus on indoor :outline:`ventilation` and air quality monitoring, alongside the recommendation to meet outside where possible. CBFJ Cymru ask the Inquiry to ascertain whether decision-making and public messaging as it unfolded accurately reflected the scientific understanding on the possible routes of transmission of Covid-19.
 
 One of the decisions which led to a change in the NPIs which were implemented was the declassification of Covid-19 as a high-consequence infectious disease.
 

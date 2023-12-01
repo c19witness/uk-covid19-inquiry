@@ -27,7 +27,7 @@ Within the hospital setting, many of the Northern Ireland Covid Bereaved give ac
 
 One of our members recounts how her father reported staff were wearing masks around their chins, with one individual putting the mask on after leaving the ward, or how other patients moved freely in and out of hospital buildings with no masks at all. He and his family continually raised this and enquired about the potential exposure to Covid-19. On 1 October 2021 he tested positive for Covid-19 and died less than three weeks later.
 
-In a similar vein are the concerns about the suitability and availability of the much needed equipment in Northern Ireland. One Northern Ireland Covid Bereaved discovered following the death of her loved one and an investigation that the ventilation system on the ward was faulty and inadequate prior to the outbreak.
+In a similar vein are the concerns about the suitability and availability of the much needed equipment in Northern Ireland. One Northern Ireland Covid Bereaved discovered following the death of her loved one and an investigation that the :outline:`ventilation` system on the ward was faulty and inadequate prior to the outbreak.
 
 Other Northern Ireland group members have expressed anxiety regarding the perceived use or misuse of palliative care in hospital. This includes use such as midazolam and/or morphine in end of life care, and the use of risperidone to sedate patients, as well as issues around withholding of water. Many members have painted very distressing portraits of coming upon their loved ones in a state of dehydration.
 

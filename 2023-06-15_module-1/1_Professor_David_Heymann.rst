@@ -321,7 +321,7 @@ At paragraph 21 in your report you tell us that SARS is thought to have emerged 
 
 **Professor David Heymann**: If it dries out, the virus can no longer infect.
 
-**Counsel Inquiry**: So is that why ventilation assists in preventing transmission, because the air flow will assist in drying out the particles?
+**Counsel Inquiry**: So is that why :outline:`ventilation` assists in preventing transmission, because the air flow will assist in drying out the particles?
 
 **Professor David Heymann**: That's correct.
 
@@ -657,7 +657,7 @@ But it was rapidly contained, was it not, Professor Heymann, within a couple of 
 
 **Counsel Inquiry**: Was that containment down to a change in policies in the hospital setting and an improvement in the infection controls?
 
-**Professor David Heymann**: That's correct. There was an improvement in infection control after retraining of hospital staff. There was also an increase in ventilation in hospitals, which dried out those virus particles.
+**Professor David Heymann**: That's correct. There was an improvement in infection control after retraining of hospital staff. There was also an increase in :outline:`ventilation` in hospitals, which dried out those virus particles.
 
 **Counsel Inquiry**: As we've already discussed?
 

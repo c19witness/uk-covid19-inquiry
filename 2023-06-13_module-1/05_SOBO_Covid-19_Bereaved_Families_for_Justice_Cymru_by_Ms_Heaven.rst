@@ -79,7 +79,7 @@ Welsh hospitals continued with poor ventilation. There was no planning and prepa
 
 In other words, there appears to have been inadequate implementation even for a serious and catastrophic flu pandemic, let alone a pandemic such as Covid-19.
 
-The Welsh Government knew that they needed to improve infection control and the design and ventilation of Welsh hospitals and care homes to reduce infection. It appears in many of their very early documents that you have before you. The Welsh Government knew that they had to stockpile PPE/:outline:`RPE` but when the Covid-19 pandemic hit there was a shortage particularly of FFP3 respiratory masks and, of course, of PPE.
+The Welsh Government knew that they needed to improve infection control and the design and :outline:`ventilation` of Welsh hospitals and care homes to reduce infection. It appears in many of their very early documents that you have before you. The Welsh Government knew that they had to stockpile PPE/:outline:`RPE` but when the Covid-19 pandemic hit there was a shortage particularly of FFP3 respiratory masks and, of course, of PPE.
 
 The Welsh Government knew they had to plan for excess deaths from a pandemic, including the worst case scenario, and the figures in the documents are 210 to 315,000 excess deaths nationally in 15 weeks. There is no evidence of a plan or a strategy to deal with excess deaths or the consequences.
 
