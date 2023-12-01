@@ -27,7 +27,7 @@ The people CVF represent are at a higher risk of severe outcomes from the Covid-
 
 For many vulnerable individuals, the pandemic is by no means over. Many continue to shield to this day. Indeed, they still face as significant a risk from contracting Covid-19 as they did in early 2020. The clinically vulnerable are, for this reason, the forgotten half million.
 
-Life has moved on for the vast majority of the population and yet the clinically vulnerable continue to have to shield. They are denied free treatments, such as Evusheld, and timely antivirals. They are also denied basic public health protections, such as HEPA filters in public buildings and reasonable adjustments at work, which would make them able to live more fulfilling lives out and about rather than locked in their homes.
+Life has moved on for the vast majority of the population and yet the clinically vulnerable continue to have to shield. They are denied free treatments, such as Evusheld, and timely antivirals. They are also denied basic public health protections, such as :outline:`HEPA filters` in public buildings and reasonable adjustments at work, which would make them able to live more fulfilling lives out and about rather than locked in their homes.
 
 CVF agree with the Covid Bereaved Families for Justice that society is judged on how it treat its most vulnerable and marginalised. Clinically vulnerable people are in both of these groups.
 
@@ -75,7 +75,7 @@ Relatedley on pen portraits or illustrative cases, we are very grateful for the 
 
 My final submission relates to adjustments for the upcoming Module 3 hearings. An inquiry into Covid-19, with Core Participants and witnesses who are extremely clinically vulnerable, should in our submission ensure that the final venue has robust Covid-19 safety measures in place. I have no doubt that's in your Ladyship's mind.
 
-We agree, of course, with the Long Covid groups' submissions at paragraphs 53 to 55 of their written submissions on safety measures. We emphasise that for higher risk of Covid individuals, it is imperative that the venue takes due regard of any risk assessment for Covid-19 that includes its :outline:`airborne` nature and adjust the venue and requirements accordingly. In particular, CVF asks for air :outline:`filtration` using HEPA filters or :outline:`ventilation` measured by CO2 proxy, and ensuring high quality masks are available (such as :outline:`FFP2 or 3`), as well as lateral flow test requirements for all participants at the in-person inquiry.
+We agree, of course, with the Long Covid groups' submissions at paragraphs 53 to 55 of their written submissions on safety measures. We emphasise that for higher risk of Covid individuals, it is imperative that the venue takes due regard of any risk assessment for Covid-19 that includes its :outline:`airborne` nature and adjust the venue and requirements accordingly. In particular, CVF asks for air :outline:`filtration` using :outline:`HEPA filters` or :outline:`ventilation` measured by :outline:`CO2 proxy`, and ensuring high quality masks are available (such as :outline:`FFP2 or 3`), as well as lateral flow test requirements for all participants at the in-person inquiry.
 
 We note, just as a relatively small point, that the guidance for those who were in the alternative room for today was not as clear as it was for the people in this room that they should take Covid-19 tests.
 

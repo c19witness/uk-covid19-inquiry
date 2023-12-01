@@ -43,7 +43,7 @@ As the regulator entrusted with the protection of worker health, the Health and 
 
 The BMA has heard from countless doctors who are concerned about the failure to provide adequate protection, including a GP in Northern Ireland who complained that there was:
 
-"... no attempt by the health and social care board to follow the science on :outline:`airborne` transmission and the need for staff to have FFP3 masks and HEPA air filters."
+"... no attempt by the health and social care board to follow the science on :outline:`airborne transmission` and the need for staff to have :outline:`FFP3 masks` and :outline:`HEPA air filters`."
 
 Governments could and should have been better prepared for the foreseeable risks to doctors and healthcare staff. This would have reduced the serious harm that affected so many of the BMA's members and the wider healthcare workforce, many of whom are today still suffering with long Covid acquired in their workplace.
 
