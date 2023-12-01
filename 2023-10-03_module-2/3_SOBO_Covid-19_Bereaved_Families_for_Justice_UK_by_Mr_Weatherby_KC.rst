@@ -79,7 +79,7 @@ In a different entry, in April, Professor Vallance quotes Matt Hancock admonishi
 
 "Science advice we can't do because of supplies, is worse than useless."
 
-The clear inference is that certain ministers were not so much following the science as wanting cover from scientific advisers for shortcomings in provisions. Here it was masks.
+The clear inference is that certain ministers were not so much following the science as wanting cover from scientific advisers for shortcomings in provisions. Here it was :outline:`masks`.
 
 The theme continued with the change of designation of Covid as being a high-consequence infectious disease; as we know it was designated as such on 16 January, given that it had the potential to spread widely and with large scale fatal consequences.
 
@@ -113,7 +113,7 @@ Inaction had consequences.
 
 No doubt the government did receive differing advice, some against taking certain measures. It seized upon that to explain its indecision, its dithering and its delay. The families I represent count that decision, that incompetence, in the numbers of their loved ones who died, and their stories show how these failures really impacted.
 
-Jo Goodman's dad Stuart died on 2 April. You will hear from her tomorrow as the Covid Bereaved Families for Justice UK group witness. She believes that Stuart contracted Covid in a crowded hospital waiting room at an outpatient appointment on 18 March a week before lockdown. He was vulnerable as he was due to begin cancer treatment and had taken his own sensible precautions. But without lockdown, without apparent infection control in public spaces, without general mask wearing, restrictions on transport and mass assemblies, he was left extremely vulnerable when he had to travel and attend the hospital appointment.
+Jo Goodman's dad Stuart died on 2 April. You will hear from her tomorrow as the Covid Bereaved Families for Justice UK group witness. She believes that Stuart contracted Covid in a crowded hospital waiting room at an outpatient appointment on 18 March a week before lockdown. He was vulnerable as he was due to begin cancer treatment and had taken his own sensible precautions. But without lockdown, without apparent infection control in public spaces, without general :outline:`mask wearing`, restrictions on transport and mass assemblies, he was left extremely vulnerable when he had to travel and attend the hospital appointment.
 
 The early decisions, the lack of action, are therefore of acute concern to Jo. Indeed, Jo was in India in early March, and she was present there when many of the events of the important religious festival of Holi on 10 March were cancelled. She comments, in contrast at that time the UK was allowing large sporting events to continue and, worse, thereby promoting mass international travel from hotspots such as Madrid.
 
@@ -127,7 +127,7 @@ Mr Johnson would have it that his government involved the devolved administratio
 
 Mr Johnson has commented that he put Mr Gove in charge of the relationship with the devolved administrations because he didn't want there to be a "mini EU" of four nations. That will be an issue which will need some explaining and unpicking.
 
-Ranjith Chandrapala was a London bus driver on the No 92 route, which started at Ealing Hospital, where subsequently he sadly died. His family believe he contracted Covid at work around 20 April. A number of his colleagues had Covid at the time. There was no testing for drivers. He had not been provided with PPE. There were no Covid safeguards on the buses and those being carried were not required to wear masks.
+Ranjith Chandrapala was a London bus driver on the No 92 route, which started at Ealing Hospital, where subsequently he sadly died. His family believe he contracted Covid at work around 20 April. A number of his colleagues had Covid at the time. There was no testing for drivers. He had not been provided with PPE. There were no Covid safeguards on the buses and those being carried were not required to :outline:`wear masks`.
 
 The family comment that Ranjith was a frontline worker left without proper protection, and his death illustrates not only the likely effects of delay and lack of early measures, but also the disproportionate impact of the pandemic on transport workers generally, and black and brown emergency and key workers in particular, given that a third of Transport for London employees are from minority ethnic communities.
 
@@ -143,7 +143,7 @@ The Inquiry will have to consider whether the government really was following th
 
 Furthermore, did Mr Johnson, as in March, unduly delay the second lockdown leading to greater loss of life and longer economic and social disruption? What is clear, in our submission, is that lessons were not being learned as the government went along.
 
-Christina Fulop died of Covid on 8 January 2021. She lived at home and was assisted by domiciliary care workers. Her daughter Naomi, herself a professor of health care organisation and management, notes that the care workers were provided with no masks during March and April 2020. At the beginning of May 2020 her mother was sent 21 masks for one week to give each carer when they visited her. She had three per day. At the end of that week, Christina received a letter from the care agency saying that the policy as set out by Public Health England had changed and that carers would have one mask per eight-hour shift.
+Christina Fulop died of Covid on 8 January 2021. She lived at home and was assisted by domiciliary care workers. Her daughter Naomi, herself a professor of health care organisation and management, notes that the care workers were provided with no :outline:`masks` during March and April 2020. At the beginning of May 2020 her mother was sent 21 :outline:`masks` for one week to give each carer when they visited her. She had three per day. At the end of that week, Christina received a letter from the care agency saying that the policy as set out by Public Health England had changed and that carers would have one :outline:`mask` per eight-hour shift.
 
 Although Christina survived the first wave, she contracted Covid during the winter and died during the subsequent lockdown. Naomi believes that insufficient PPE for care workers, the late imposition of the second lockdown, and the ineffectiveness of NHS Test and Trace led to her mother's death. She further notes that she had been unable to see her mother for some weeks because of the lockdown, was unable to visit her in hospital when she was dying, and could only have a very restricted funeral. This hugely distressing experience was greatly exacerbated as it coincided with some of the illegal drinks parties at Number 10.
 

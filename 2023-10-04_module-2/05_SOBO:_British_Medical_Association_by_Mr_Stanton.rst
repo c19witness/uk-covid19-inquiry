@@ -11,7 +11,7 @@ The UK Government's actions to reduce the spread of Covid-19 were too slow, with
 
 The mandating of :outline:`face masks` for the general public was also introduced far too late, and much later than in many other countries. Since 25 April the BMA had been calling for the introduction of :outline:`face coverings` for the public. However, in England they only became mandatory on public transport and for outpatients and hospital visitors from 15 June, and it was not until 24 July that they were required in shops and supermarkets.
 
-From June 2020 the BMA published its position on what was needed for the safe easing of restrictions, including an effective test and trace system, ongoing surveillance of Covid-19, the use of certain NPIs, including mask wearing, reduced household mixing and better ventilation, and the need for greater support for vulnerable groups and action to reduce health inequalities.
+From June 2020 the BMA published its position on what was needed for the safe easing of restrictions, including an effective test and trace system, ongoing surveillance of Covid-19, the use of certain NPIs, including :outline:`mask wearing`, reduced household mixing and :outline:`better ventilation`, and the need for greater support for vulnerable groups and action to reduce health inequalities.
 
 In the same period, the BMA also highlighted the need to prepare for the coming winter and to learn lessons from the first wave. However, in its determination to ease restrictions, the UK Government missed a key opportunity in the summer of 2020 to better prepare for the second wave of Covid-19.
 

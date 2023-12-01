@@ -117,9 +117,9 @@ This legal obligation to undertake risk assessment rests with employers. However
 
 The BMA's position in this regard, my Lady, is that the absence of timely and adequate risk assessments in response to a new and deadly disease to which healthcare workers were directly exposed, often without adequate protection, requires specific consideration as part of the work of the Inquiry in understanding the impact of the pandemic on the physical and mental health and wellbeing of doctors and other healthcare workers, and the BMA asks that you give careful consideration to its express inclusion within issue 7.
 
-My Lady, the final point I'd like to make is in respect of the stockpile of respiratory protective equipment.
+My Lady, the final point I'd like to make is in respect of the stockpile of :outline:`respiratory protective equipment`.
 
-Regarding the failure to adequately stockpile respiratory protective equipment, :outline:`RPE`, the BMA welcomes the Inquiry's intention to examine the availability and adequacy of protective equipment within issue 8, and is pleased to note the clear distinction drawn within the provisional list of issues between personal protective equipment and respiratory protective equipment.
+Regarding the failure to adequately stockpile :outline:`respiratory protective equipment`, :outline:`RPE`, the BMA welcomes the Inquiry's intention to examine the availability and adequacy of protective equipment within issue 8, and is pleased to note the clear distinction drawn within the provisional list of issues between personal protective equipment and :outline:`respiratory protective equipment`.
 
 The BMA also welcomes the indication that the list of issues will continue to develop as the Inquiry's evidence base grows, and in line with this approach we raise now for consideration of express inclusion in the next version of the list of issues the important question of why the stockpile of :outline:`RPE` was so lacking prior to the pandemic.
 

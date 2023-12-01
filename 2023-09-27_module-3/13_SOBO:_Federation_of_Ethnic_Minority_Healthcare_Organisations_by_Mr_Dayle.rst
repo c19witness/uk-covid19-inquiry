@@ -51,7 +51,7 @@ As some examples, publication of translated guidance was slow and less accessibl
 
 FEHMO members, along with other voluntary and community sector organisations, and faith leaders, were forced to fill these gaps in leadership to engage with those from ethnic minority groups and ensure that important public health messaging and information was communicated in culturally sensitive and language-appropriate ways.
 
-Finally, my Lady, and this is on some procedural points, and I have three to make, the decision to downgrade Covid-19 from high-consequence infectious disease, or HCID, status on 19 March 2020, thereby permitting the use of PPE and not respiratory protective equipment, or RPE, appears to have been a grave error. My Lady, we thank you for confirming that this will be explored and ask that its impact on loss of life be examined thoroughly.
+Finally, my Lady, and this is on some procedural points, and I have three to make, the decision to downgrade Covid-19 from high-consequence infectious disease, or HCID, status on 19 March 2020, thereby permitting the use of PPE and not :outline:`respiratory protective equipment`, or :outline:`RPE`, appears to have been a grave error. My Lady, we thank you for confirming that this will be explored and ask that its impact on loss of life be examined thoroughly.
 
 Secondly, we repeat our calls for the instructed experts on structural racism for Module 2, Professors James Nazroo and Ms Laia Bécares, to be further instructed in Module 3, and for them to be invited to give oral as well as written evidence, affording you, my Lady, the opportunity for a more dynamic exploration of the subject matter.
 

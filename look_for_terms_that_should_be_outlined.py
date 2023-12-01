@@ -5,7 +5,8 @@ outlined_terms = []
 outlined_terms_re = []
 
 with open("outlined.csv") as file:
-    outlined_terms = [line.rstrip() for line in file]
+    for line in file:
+       outlined_terms.append(line.split(",")[0])
 for outlined_term in outlined_terms:
     outlined_terms_re.append({ "term": outlined_term,
                               "term_re": re.compile(r'\b%s\b' % outlined_term, re.I),

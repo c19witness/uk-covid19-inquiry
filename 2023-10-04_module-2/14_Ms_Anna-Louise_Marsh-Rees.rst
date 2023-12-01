@@ -121,7 +121,7 @@ Hospitals obviously are at the forefront of any pandemic response, and appear to
 
 **Lead Inquiry**: You mean the infection control in hospitals?
 
-**Ms Anna-Louise Marsh-Rees**: Yeah, in the broader sense infection control in general but within that, you know, the lack of the right PPE, RPE, the lack of segregation, the lack of testing of both healthcare workers and patients, or having any regular testing. Wales were very late introducing masks, and even then not the right ones, and four months later than England in testing asymptomatic healthcare workers. We'd very much like to understand what the science was driving that.
+**Ms Anna-Louise Marsh-Rees**: Yeah, in the broader sense infection control in general but within that, you know, the lack of the right PPE, :outline:`RPE`, the lack of segregation, the lack of testing of both healthcare workers and patients, or having any regular testing. Wales were very late introducing :outline:`masks`, and even then not the right ones, and four months later than England in testing asymptomatic healthcare workers. We'd very much like to understand what the science was driving that.
 
 **Lead Inquiry**: You are no doubt aware that the figures now show that the levels of nosocomial infection in hospital were, across the United Kingdom, extremely high. The infection was rampant across the healthcare sector.
 
