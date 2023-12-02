@@ -32,6 +32,13 @@ During the pandemic, it was easy for officials to discover that Covid-19 was pri
    description is still required because (say) *touching elbows* is **not** how Covid-19 transmits from one person to another. 
    Nor is standing one foot from each other, if both are in FFP3 (N100) respirators (or holding their breath).
 
+Word cloud of terms mention in testimony that we are interested in:
+
+.. raw:: html
+
+    <object data="wordcloud.svg" type="image/svg+xml"></object>
+
+
 Contents
 --------
 
