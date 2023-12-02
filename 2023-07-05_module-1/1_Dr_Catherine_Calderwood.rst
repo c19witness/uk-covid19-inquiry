@@ -177,7 +177,7 @@ To what extent were the recommendations which came out of Exercise Iris implemen
 
 **Lead Inquiry**: There were 13 actions which came out of Exercise Iris. Do you recall which of them, in broad terms, were the ones that were not ultimately implemented?
 
-**Dr Catherine Calderwood**: The most important ones I believe, if I'm remembering correctly, were the information to boards about PPE and the distribution and also the fitting of :outline:`FFP3 masks`, and the encouragement that health boards would ensure that staff -- that they had not only had supplies of PPE but they also had done FFP mask fitting.
+**Dr Catherine Calderwood**: The most important ones I believe, if I'm remembering correctly, were the information to boards about PPE and the distribution and also the fitting of :outline:`FFP3 masks`, and the encouragement that health boards would ensure that staff -- that they had not only had supplies of PPE but they also had done :outline:`FFP mask fitting`.
 
 **Lead Inquiry**: Exercise Iris was designed to test Scotland's readiness for a MERS coronavirus outbreak. Do you recall whether or not those actions which came out of the exercise which were concerned with the drawing up of guidance for the HCID that is MERS coronavirus were dealt with? Do you recall whether that was an area that was also not fully implemented?
 

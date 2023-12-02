@@ -335,9 +335,9 @@ Again, this is maybe a job for the Inquiry, but we had a pandemic influenza prep
 
 **Professor Mark Woolhouse**: Yes, I am, and my understanding is that is now being built into current cross-government risk assessments, but I haven't seen a final draft of that assessment yet.
 
-**Lead Inquiry**: One separate but related point, in the scientific world there was therefore, we can see from your evidence, extensive debate about possible countermeasures that could be relied upon to meet the particular range of scenarios which might emerge. Was there extensive debate at academic and scientific level of the benefits of wearing masks? Putting aside whether or not they did prove to have significant benefit, was there nevertheless a debate taking place about the degree of benefit pre-Covid?
+**Lead Inquiry**: One separate but related point, in the scientific world there was therefore, we can see from your evidence, extensive debate about possible countermeasures that could be relied upon to meet the particular range of scenarios which might emerge. Was there extensive debate at academic and scientific level of the benefits of :outline:`wearing masks`? Putting aside whether or not they did prove to have significant benefit, was there nevertheless a debate taking place about the degree of benefit pre-Covid?
 
-**Professor Mark Woolhouse**: I am aware of that issue being discussed. It wasn't one that I had personally got particularly involved in, but it has long been an issue as to whether masks are effective or not effective and that has been discussed in scientific and health circles for many years now.
+**Professor Mark Woolhouse**: I am aware of that issue being discussed. It wasn't one that I had personally got particularly involved in, but it has long been an issue as to whether :outline:`masks` are effective or not effective and that has been discussed in scientific and health circles for many years now.
 
 **Lead Inquiry**: A separate topic, please, Professor, data collection.
 

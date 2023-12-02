@@ -179,7 +179,7 @@ In general terms, from late March 2020, within the BMA, did you have daily virtu
 
 Just at this stage, at a very general level, what were the sorts of issues, what were the themes, what were the general areas that the BMA raised with NHS England? PPE?
 
-**Professor Philip Banfield**: So PPE and a lack of testing were the two immediate issues between ourselves and NHS England. We felt that the guidance was inadequate. We had stories very early on about not being able to have PPE, so there was a lack of aprons, a lack of visors. A number of us had -- our local schools were 3D printing visors for us. A number of people had to source masks themselves, especially in general practice, for example.
+**Professor Philip Banfield**: So PPE and a lack of testing were the two immediate issues between ourselves and NHS England. We felt that the guidance was inadequate. We had stories very early on about not being able to have PPE, so there was a lack of aprons, a lack of visors. A number of us had -- our local schools were 3D printing visors for us. A number of people had to :outline:`source masks` themselves, especially in general practice, for example.
 
 **Lead Inquiry**: Just pausing there, can I just delineate the scope of what you've just said. So in relation to PPE, there were in fact three areas of concern, very broadly putting it, as I say: firstly, the shortages; secondly, the guidance in relation to the use of PPE; and then thirdly, the impact of the, in cases, deficient PPE on your members?
 
@@ -191,7 +191,7 @@ Just at this stage, at a very general level, what were the sorts of issues, what
 
 **Lead Inquiry**: Is that the topic of risk assessment? So, because of the impact or because of the consequences of your members having to wear PPE that may not have been adequate or proper, that gave rise to very difficult debates about the extent to which they would have been placed at risk, the need for risk assessments, as well as the objective impact upon them individually of having to wear deficient PPE?
 
-**Professor Philip Banfield**: Yes, because there was a shortage of PPE, the very high-risk areas, like intensive care units, were using respiratory protection throughout the pandemic, but once you got beyond an intensive care unit, with people who were Covid positive, the amount and degree of PPE very rapidly tailed off. So, for example, people were either treating patients with no masks or with fluid-resistant :outline:`surgical masks`, which don't protect from an :outline:`airborne` virus.
+**Professor Philip Banfield**: Yes, because there was a shortage of PPE, the very high-risk areas, like intensive care units, were using respiratory protection throughout the pandemic, but once you got beyond an intensive care unit, with people who were Covid positive, the amount and degree of PPE very rapidly tailed off. So, for example, people were either treating patients with no :outline:`masks` or with :outline:`fluid-resistant surgical masks`, which don't protect from an :outline:`airborne` virus.
 
 **Lead Inquiry**: Was another area of general concern to the BMA the disproportionate impact on ethnic minority communities?
 
@@ -413,7 +413,7 @@ It's difficult if you are in a government environment to stand up and openly cri
 
 At the same time, was concern raised about the over-reliance on behavioural expertise?
 
-**Professor Philip Banfield**: It was. There was a lot of concern about how the necessary measures for public health protection would be received by the public, whether the public would agree to lockdown and, if so, for how long. And, you know, as it turned out, the public responded very well, but that seemed to drive the narrative in, for example, mask wearing. So instead of bringing it in in one go, they staggered it. It seemed to be based on what was a political imperative to engage with the public rather than a public health narrative. The public health narrative seemed lacking, actually all the way across the pandemic.
+**Professor Philip Banfield**: It was. There was a lot of concern about how the necessary measures for public health protection would be received by the public, whether the public would agree to lockdown and, if so, for how long. And, you know, as it turned out, the public responded very well, but that seemed to drive the narrative in, for example, :outline:`mask wearing`. So instead of bringing it in in one go, they staggered it. It seemed to be based on what was a political imperative to engage with the public rather than a public health narrative. The public health narrative seemed lacking, actually all the way across the pandemic.
 
 **Lady Hallett**: Is that fair, Professor? Because if you do have concerns about how the public will respond, it's not necessarily a political imperative so much as an imperative trying to ensure people will comply with the guidance or advice. Is that really fair to accuse it of being a political imperative?
 

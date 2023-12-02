@@ -347,9 +347,9 @@ So my question, Dr Horton, honing in on that, the learning and practising aspect
 
 **Dr Richard Horton**: So let me try and offer two parts -- two answers.
 
-First, may I add to Professor Heymann's list the preparing of the public for a potential pandemic. So what all of those countries did, have done, very effectively is they have prepared the public -- this goes to the point on trust -- they have prepared the public for a potential future pandemic. So if and when one comes, issues around physical distancing, quarantine, mask wearing, travel advisories, the public is aware of these issues, they don't suddenly get dropped on them with surprise. They know in advance that these are potential interventions the government might take.
+First, may I add to Professor Heymann's list the preparing of the public for a potential pandemic. So what all of those countries did, have done, very effectively is they have prepared the public -- this goes to the point on trust -- they have prepared the public for a potential future pandemic. So if and when one comes, issues around physical distancing, quarantine, :outline:`mask wearing`, travel advisories, the public is aware of these issues, they don't suddenly get dropped on them with surprise. They know in advance that these are potential interventions the government might take.
 
-Indeed prior to the pandemic if one travelled widely in Asia one would see people wearing masks, for example, routinely in the streets, busy streets, in shops, on metros.
+Indeed prior to the pandemic if one travelled widely in Asia one would see people :outline:`wearing masks`, for example, routinely in the streets, busy streets, in shops, on metros.
 
 So this became embedded in the public culture. A precautionary approach to the potential danger of a pandemic, which governments were able to ...
 

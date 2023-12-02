@@ -77,7 +77,7 @@ Did your mother and father go to hospital together?
 
 **Lead Inquiry**: They were together?
 
-**Ms Joanna Goodman**: They were together. And they spent the day in crowded waiting rooms with no mitigations in place, no :outline:`face masks`, no social distancing, no ventilation.
+**Ms Joanna Goodman**: They were together. And they spent the day in crowded waiting rooms with no mitigations in place, no :outline:`face masks`, no social distancing, no :outline:`ventilation`.
 
 **Lead Inquiry**: Just pause there. They recounted this to you, presumably?
 
