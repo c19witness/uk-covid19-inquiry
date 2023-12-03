@@ -12,7 +12,13 @@ with open("outlined.csv") as file:
 d = dict(zip(terms, freqs))
 wordcloud = w.WordCloud(collocations=False).generate_from_frequencies(d)
 
-plt.imshow(wordcloud, interpolation = 'bilinear')
-plt.axis("off")
-plt.savefig("_static/wordcloud.png")
-plt.show()
+fig = plt.figure(frameon=False)
+fig.set_size_inches(10.24,7.68)
+
+ax = plt.Axes(fig, [0., 0., 1., 1.])
+ax.set_axis_off()
+fig.add_axes(ax)
+
+ax.imshow(wordcloud, interpolation = 'bilinear', aspect='auto')
+fig.savefig("_static/wordcloud.png")
+#plt.show()
