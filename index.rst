@@ -36,7 +36,7 @@ Word cloud of terms mention in testimony that we are interested in:
 
 .. raw:: html
 
-    <object data="wordcloud.svg" type="image/svg+xml"></object>
+    <object data="/_static/wordcloud.svg" type="image/svg+xml"></object>
 
 
 Contents
