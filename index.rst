@@ -34,7 +34,8 @@ During the pandemic, it was easy for officials to discover that Covid-19 was pri
 
 Word cloud of terms mention in testimony that we are interested in:
 
-.. figure:: /_static/wordcloud.png
+.. image:: /_static/wordcloud.png
+   :width: 100%
 
 Contents
 --------
