@@ -14,5 +14,5 @@ wordcloud = w.WordCloud(collocations=False).generate_from_frequencies(d)
 
 plt.imshow(wordcloud, interpolation = 'bilinear')
 plt.axis("off")
-plt.savefig("_static/wordcloud.svg")
+plt.savefig("_static/wordcloud.png")
 plt.show()
