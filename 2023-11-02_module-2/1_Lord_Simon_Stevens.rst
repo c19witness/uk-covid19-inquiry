@@ -623,7 +623,7 @@ A letter written by the BMA to the chief executive of Public Health England, so 
 
 If we can go to the second page, please, we see the last substantive paragraph:
 
-"We have written separately to DHSC to raise concerns about PPE failing to meet the diverse needs of the medical workforce -- in particular, that many female doctors have reported struggling to find respiratory masks that pass fit testing."
+"We have written separately to DHSC to raise concerns about PPE failing to meet the diverse needs of the medical workforce -- in particular, that many female doctors have reported struggling to find :outline:`respiratory masks that pass fit testing`."
 
 So the message that you had given to the Prime Minister that this was being looked at, I think that's a fair summary of the minutes?
 
@@ -799,7 +799,7 @@ Okay? Does that help you in terms of the knowledge about this?
 
 **Mr Weatherby KC**: -- but it was about respiratory -- :outline:`respirators` and other PPE, which went rather beyond Covid, didn't it?
 
-**Lord Simon Stevens**: Well, as you know, there was a live and indeed ongoing debate, which I was not directly involved with, but a scientific debate as to the circumstances under which it was appropriate to use the type 2R mask as against the :outline:`FFP3` --
+**Lord Simon Stevens**: Well, as you know, there was a live and indeed ongoing debate, which I was not directly involved with, but a scientific debate as to the circumstances under which it was appropriate to use the :outline:`type 2R mask` as against the :outline:`FFP3` --
 
 **Mr Weatherby KC**: Yes, okay --
 
