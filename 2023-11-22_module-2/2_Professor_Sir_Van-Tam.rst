@@ -643,7 +643,7 @@ So it's back to this point that I think there is -- it's always very difficult i
 
 **Lead Inquiry**: All right. Then secondly this, just on the epidemiological side, there is some suggestion in the material that whilst it's clear that outdoor sporting events epidemiologically are insignificant because they're outdoor, there may have been an underestimate of the epidemiological consequences of queuing to get into games or perhaps using public transport or the use of trains, and, as my Lady has observed, that's one way perhaps in which people may be coming together to go to a game and therefore there was an epidemiological risk there which perhaps wasn't fully appreciated at the time this advice was given?
 
-**Professor Sir Van-Tam**: Whenever you get people gathering together in conditions of :outline:`close contact`, low ventilation, with this virus, you're likely to get transmission.
+**Professor Sir Van-Tam**: Whenever you get people gathering together in conditions of :outline:`close contact`, :outline:`low ventilation`, with this virus, you're likely to get transmission.
 
 The ... the however many tens of thousands one could get into a stadium will be dwarfed by the however many millions that are gathering in pubs to watch it on Sky TV. So, you know, there's a broader context here of what the sporting event generates in terms of people coming together, quite often to drink alcohol, which we know reduces social barriers, to observe a sporting event.
 
