@@ -353,7 +353,7 @@ So first of all if we could look at INQ000069151.
 
 So this is a document -- the date of it, it's not on the document, but it's from May of 2020, and it's some draft guidance, as we can see, how to wear and make a cloth face covering.
 
-If we can go to the third page of it, please, I think what we see on the sidelining is that you've commented -- made various comments. No doubt it wasn't you who did the first draft. But what we see on the top comment here, in relation to a -- the draft saying -- talking about putting two squares of fabric on top of each other to make the mask, you say:
+If we can go to the third page of it, please, I think what we see on the sidelining is that you've commented -- made various comments. No doubt it wasn't you who did the first draft. But what we see on the top comment here, in relation to a -- the draft saying -- talking about putting two squares of fabric on top of each other to make the :outline:`mask`, you say:
 
 "Just querying the logic behind needing to have two pieces of cotton fabric stacked on this version but only a single layer of cotton t-shirt in the previous model... I think they are both ineffective so am not unduly worried but someone might want to think of an answer for the Q&As."
 
@@ -799,7 +799,7 @@ That said, as I discussed yesterday, certainly early on we did have a very good 
 
 **Mr Stanton**: Thank you.
 
-Lastly and very quickly, just picking up on some of the comments you made about the effectiveness of masks used in the general population, can I ask you your view of the effectiveness of fluid-resistant
+Lastly and very quickly, just picking up on some of the comments you made about the effectiveness of :outline:`masks` used in the general population, can I ask you your view of the effectiveness of fluid-resistant
  :outline:`surgical masks` for combating  :outline:`aerosol transmission`?
 
 **Dame Harries**: So, I mean, that's quite a detailed technical question which is probably not for answering here and I'm happy to provide a written one on that. I mean, usually there is -- when you're working in a healthcare environment, often the fluid-resistance is therefore :outline:`splash protection` but obviously if the :outline:`splash protection` is critical, then you will actually have a shield as well. So, you know, that is quite a detailed answer. I'm very happy to provide one in writing.
