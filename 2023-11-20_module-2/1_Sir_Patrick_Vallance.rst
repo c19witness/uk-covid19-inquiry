@@ -1897,7 +1897,7 @@ Now, I just want to check, that's your personal observation, I take it, and not 
 
 **Ms Mitchell KC**: I wonder if we could have that same Inquiry document, page 151. Now, this reads:
 
-"Hancock -- praising himself for mask decision. He know that Scotland decision was not based on medical advice (ie it was totally political)."
+"Hancock -- praising himself for :outline:`mask` decision. He know that Scotland decision was not based on medical advice (ie it was totally political)."
 
 Now, can you assist the Inquiry with whether or not you are simply recording what his view was or what your view was?
 
