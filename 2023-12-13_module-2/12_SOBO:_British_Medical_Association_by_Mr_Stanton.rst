@@ -25,6 +25,12 @@ The evidence of Professor Catherine Noakes supports the view that :outline:`aero
 
 It is perplexing that, just at the point when :outline:`airborne transmission` was becoming more widely acknowledged, a stop order was placed on further procurement of :outline:`FFP3 respirators` from 30 June 2020, when a July 2020 survey by the BMA found that :outline:`shortages of respirators` remained.
 
+.. raw:: html
+
+   <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
+   "Key point why was the stop order placed on further procurement of FFP3?" <a href"https://twitter.com/EvonneTCurran/status/1735293825411617029">- Dr Evonne T Curran NursD (one day later)</a>
+   </div></div>
+
 The failure to adequately respond to the risk of :outline:`aerosol transmission` has had a direct impact on the protection of healthcare workers, with 40% of respondents to a BMA survey reporting as late as July 2021 that they were :outline:`not being provided with respirators, despite working with Covid-19 patients`.
 
 In this regard, the BMA invites the Inquiry to consider the extent to which considerations of cost and practicality were prioritised over safety.
