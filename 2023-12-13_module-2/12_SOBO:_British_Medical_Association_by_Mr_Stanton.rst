@@ -176,7 +176,7 @@ Thank you, my Lady.
 .. raw:: html
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
-   "I would also add it MUST INCLUDE THOSE WHO UNDERSTAND AEROSOL TRANSMISSION.
+   I would also add it MUST INCLUDE THOSE WHO UNDERSTAND AEROSOL TRANSMISSION.<br><br>
    & People should not and still should not be exposed to an airborne pathogen with masks from a box marked not PPE
    <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735300671518237062">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
