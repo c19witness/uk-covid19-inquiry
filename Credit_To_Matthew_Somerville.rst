@@ -1,9 +1,9 @@
 Credit to Matthew Somerville
 ============================
 
-**Comments here below pertinent to `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_ on which THIS site is based**. These are also Matthew's own words:
+**Comments here below pertinent to** `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_ **on which THIS site is based**. These are also Matthew's own words:
 
-This site takes a copy of the `official transcripts <https://www.covid19.public-inquiry.uk/hearings>`_, which are available in PDF,
+"This site takes a copy of the `official transcripts <https://www.covid19.public-inquiry.uk/hearings>`_, which are available in PDF,
 parses them into reStructuredText, and uploads them to ReadTheDocs for
 **display and searching**. It also auto-links evidence IDs to the relevant page
 on the official site.
@@ -21,4 +21,4 @@ domain is sadly now a personal injury spam site (it is available from the
 `National Archive
 <https://webarchive.nationalarchives.gov.uk/ukgwa/20090128221550/http://www.the-hutton-inquiry.org.uk/>`_),
 but mine is still running in the same place at `hutton.dracos.co.uk
-<http://hutton.dracos.co.uk/>`_!
+<http://hutton.dracos.co.uk/>`_!"

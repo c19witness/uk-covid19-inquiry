@@ -6,7 +6,7 @@ A Covid-19-is-airborne community view of the UK Covid-19 Inquiry
    The official UK government inquiry site can be found at
    `covid19.public-inquiry.uk <https://covid19.public-inquiry.uk>`_ and the searchable site on which THIS site is based can be
    found at `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_.
-   We should pause to give `credit to Matthew Somerville <./Credit_To_Matthew_Somerville.html>`_ for that work.
+   We should pause to give `credit to Matthew Somerville <./Credit_To_Matthew_Somerville>`_ for that work.
 
 The UK Covid-19 Inquiry was set up to “examine the UK’s response to and impact of the Covid-19 pandemic, and learn lessons for the future”,
 chaired by Baroness Heather Hallett, a former Court of Appeal judge.  
