@@ -22,7 +22,7 @@ Within this system, that was already stretched to breaking point, doctors and he
 .. raw:: html
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
-   "Inadequately protected throughout" <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735292802613862589">- Dr Evonne T Curran NursD (one day later, Twitter/X) acknowledging @Cazzi83</a>
+   "Inadequately protected throughout" <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735292802613862589">- Dr Evonne T Curran NursD (one day later, Twitter/X) acknowledging @Cazzi83</a>
    </div></div>
 
 The failure to provide adequate protection against the risks of :outline:`aerosol transmission` is an issue of serious and ongoing concern and one which the BMA has repeatedly raised before the Inquiry. Despite it being predictable in February that the :outline:`virus would transmit by aerosol`, the requirement of :outline:`FFP3 respirators` when treating patients with Covid-19 was downgraded in March to :outline:`fluid-resistant surgical masks`, which do not protect from :outline:`airborne transmission` and are not PPE. And this remains the position in England today.
@@ -31,7 +31,7 @@ The failure to provide adequate protection against the risks of :outline:`aeroso
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    I would add in the UK (not just England) <br><br>
-   Key point - the failure continues... <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735293328554410467">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   Key point - the failure continues... <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735293328554410467">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 The evidence of Professor Catherine Noakes supports the view that :outline:`aerosol transmission` was overlooked in favour of :outline:`droplet transmission`. Paragraph 10.11 of her witness statement suggests a number of reasons for the reluctance to fully acknowledge this risk, including the significant resource and operational implications for hospital infection and control measures.
@@ -41,7 +41,7 @@ It is perplexing that, just at the point when :outline:`airborne transmission` w
 .. raw:: html
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
-   Key point why was the stop order placed on further procurement of FFP3? <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735293825411617029">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   Key point why was the stop order placed on further procurement of FFP3? <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735293825411617029">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 The failure to adequately respond to the risk of :outline:`aerosol transmission` has had a direct impact on the protection of healthcare workers, with 40% of respondents to a BMA survey reporting as late as July 2021 that they were :outline:`not being provided with respirators, despite working with Covid-19 patients`.
@@ -52,7 +52,7 @@ In this regard, the BMA invites the Inquiry to consider the extent to which cons
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    Why would you not give the most precious resource safe and effective PPE?<br><br><br>
-   NB  it could have been belief (by those in charge of IPC in the unevidenced nonsense that is droplet only respiratory transmission.... <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735294618223157677">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   NB  it could have been belief (by those in charge of IPC in the unevidenced nonsense that is droplet only respiratory transmission.... <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735294618223157677">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 
@@ -64,7 +64,7 @@ There is also little evidence that the potential personal impacts on doctors and
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    Well IPC guidance writers and decision-makers - were the personal impacts on HCWs considered? <br><br>
-   The BMA is asking... <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735295327245078976">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   The BMA is asking... <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735295327245078976">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 This tendency can be seen in an email chain between Number 10 and the Cabinet Office over 13 and 14 April, referred to in the evidence of Simon Ridley and since published by the Inquiry. The emails raised concerns at reports that 20% of infections and 10% of deaths were due to infections acquired in hospitals and that while by this time the R number had been brought below 1 within the community, it was still above 1 in hospitals and care homes.
@@ -74,7 +74,7 @@ This tendency can be seen in an email chain between Number 10 and the Cabinet Of
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    So we did not just need an R for the community - we needed a special R for nosocomial and care homes. <br><br>
    Outrageous.<br><br>
-   [I am sure some VIPs assured me nosocomial was not an issue - late 2021.....] <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735296008702013553">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   [I am sure some VIPs assured me nosocomial was not an issue - late 2021.....] <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735296008702013553">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 Notably, these concerns were not raised in the context of patient and staff safety, but with reference to workforce absences, stories about PPE in the media, and the need to avoid delaying the lifting of social measures. There was no expression of concern for the safety of the people working and being cared for in these environments, and the reported response of the Department of Health and Social Care was that this was not an issue of concern.
@@ -83,7 +83,7 @@ Notably, these concerns were not raised in the context of patient and staff safe
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    Just where were the CNOs CMOs? These were your people.<br><br>
-   You were to keep them safe.  <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735296467139522806">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   You were to keep them safe.  <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735296467139522806">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 Meanwhile, and as described in evidence by Professor Banfield of the BMA, doctors were updating their wills, and making sure their life insurance was up to date.
@@ -92,7 +92,7 @@ Meanwhile, and as described in evidence by Professor Banfield of the BMA, doctor
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    This is a painful read.<br><br>
-   BMA closing statement  <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735296974599938152">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   BMA closing statement  <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735296974599938152">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 The witness statement of Helen MacNamara demonstrates real insight into this issue at paragraph 89(sic) where she states:
@@ -105,7 +105,7 @@ These consequences include historically high levels of waiting lists, a crisis i
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    For the want of RPE staffing was lost and the NHS is itself in ICU
-   Especially BAME... <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735298029773640060">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   Especially BAME... <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735298029773640060">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 Finally, on impact, the Inquiry is aware of the disproportionate impact of the virus on people from ethnic minority backgrounds, and of the shocking statistics in this area, including analysis by the Health Service Journal which found that 94% of doctors who died with Covid up to April 2020 were from ethnic minority backgrounds, even though this group makes up only 44% of NHS medical staff.
@@ -118,7 +118,7 @@ Another key area where a lack of capacity significantly hampered the UK's abilit
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    Not mentioned here but crucial is that we entered the pandemic with a preparedness plan that says actually we don't quite know how it is transmitted!  We were prepared for nothing.<br><br>
-   But they did acknowledge it was  inhaled! <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735298648295027094">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   But they did acknowledge it was  inhaled! <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735298648295027094">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 Public Health England did in fact call for greater capacity and resources from at least 12 February, but these calls do not appear to have been acted upon. Such was the lack of focus in this area that politicians, including Matt Hancock and Boris Johnson, told the Inquiry that they had wrongly assumed that the necessary testing and contact tracing capacity existed, only to find that it needed to be built mid-pandemic.
@@ -141,7 +141,7 @@ For the ultimate decision-maker not to have fully understood the nature of such 
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    I would also add for IPC not to have fully understood the nature of aerosol transmission was and is an ongoing tragedy.
-   <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735299736914055405">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735299736914055405">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 That this was a collective and not just an individual failure is made clear by the widespread shock over the weekend of 13-15 March as the centre, Number 10 and the Cabinet Office, were confronted by the realisation that the reasonable worst-case scenario would materialise much sooner than had been thought, with the very real prospect of the NHS becoming overwhelmed.
@@ -156,7 +156,7 @@ A more precautionary approach, for example through a focus on :outline:`ventilat
 
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    yes, yes, yes
-   <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735300671518237062">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735300671518237062">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 There was little evidence that the UK Government learned from the mistakes of the first wave leading in to the inevitable second wave, despite the wide acknowledgement that it had the potential to be even worse than the first, and at a time when vaccines remained unavailable. Instead, the country opened up too quickly, typified by the reckless Eat Out to Help Out initiative, which was decided without scientific input, despite the obvious risk of adversely impacting Covid transmission rates, and in which respect a study from 2020 suggests it was responsible for between 8% to 17% of new infections.
@@ -178,7 +178,7 @@ Thank you, my Lady.
    <div speech-bubble pleft atop style="--bbColor:#45c5e0"><div class="title">
    "I would also add it MUST INCLUDE THOSE WHO UNDERSTAND AEROSOL TRANSMISSION.
    & People should not and still should not be exposed to an airborne pathogen with masks from a box marked not PPE
-   <a style="--bbColor:black" href"https://twitter.com/EvonneTCurran/status/1735300671518237062">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
+   <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735300671518237062">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
 **Lady Hallett**: Thank you very much, Mr Stanton.
