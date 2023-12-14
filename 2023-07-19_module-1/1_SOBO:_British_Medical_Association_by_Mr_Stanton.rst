@@ -23,7 +23,7 @@ And, fourth, the government structures and processes in place for civil continge
 
 Dealing first with the issue of the provision of PPE to doctors and other healthcare workers. The Inquiry has heard repeatedly in this module that the planning for PPE including stockpile was inadequate for a pandemic event. This, coupled with the distressing accounts of healthcare workers about the circumstances in which they were required to work without adequate protection while exposed to a deadly disease, is damning evidence.
 
-Right from the outset of the pandemic, there was a huge concern within the BMA's membership about this issue, with doctors describing how they were instructed to remove their masks, accused of scaremongering, and others expressing concern at the absence of :outline:`FFP3 respirators` and the inadequate consideration given to the risks of :outline:`aerosol` transmission.
+Right from the outset of the pandemic, there was a huge concern within the BMA's membership about this issue, with doctors describing how they were instructed to remove their masks, accused of scaremongering, and others expressing concern at the absence of :outline:`FFP3 respirators` and the inadequate consideration given to the :outline:`risks of aerosol transmission`.
 
 One GP from England told the BMA that:
 

@@ -25,7 +25,7 @@ Within this system, that was already stretched to breaking point, doctors and he
    "Inadequately protected throughout" <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735292802613862589">- Dr Evonne T Curran NursD (one day later, Twitter/X) acknowledging @Cazzi83</a>
    </div></div>
 
-The failure to provide adequate protection against the risks of :outline:`aerosol transmission` is an issue of serious and ongoing concern and one which the BMA has repeatedly raised before the Inquiry. Despite it being predictable in February that the :outline:`virus would transmit by aerosol`, the requirement of :outline:`FFP3 respirators` when treating patients with Covid-19 was downgraded in March to :outline:`fluid-resistant surgical masks`, which do not protect from :outline:`airborne transmission` and are not PPE. And this remains the position in England today.
+The failure to provide adequate protection against the :outline:`risks of aerosol transmission` is an issue of serious and ongoing concern and one which the BMA has repeatedly raised before the Inquiry. Despite it being predictable in February that the :outline:`virus would transmit by aerosol`, the requirement of :outline:`FFP3 respirators` when treating patients with Covid-19 was downgraded in March to :outline:`fluid-resistant surgical masks`, which do not protect from :outline:`airborne transmission` and are not PPE. And this remains the position in England today.
 
 .. raw:: html
 
@@ -44,7 +44,7 @@ It is perplexing that, just at the point when :outline:`airborne transmission` w
    Key point why was the stop order placed on further procurement of FFP3? <a style="color:white; text-decoration: underline dotted" href"https://twitter.com/EvonneTCurran/status/1735293825411617029">- Dr Evonne T Curran NursD (one day later, Twitter/X)</a>
    </div></div>
 
-The failure to adequately respond to the risk of :outline:`aerosol transmission` has had a direct impact on the protection of healthcare workers, with 40% of respondents to a BMA survey reporting as late as July 2021 that they were :outline:`not being provided with respirators, despite working with Covid-19 patients`.
+The failure to adequately respond to the :outline:`risk of aerosol transmission` has had a direct impact on the protection of healthcare workers, with 40% of respondents to a BMA survey reporting as late as July 2021 that they were :outline:`not being provided with respirators, despite working with Covid-19 patients`.
 
 In this regard, the BMA invites the Inquiry to consider the extent to which considerations of cost and practicality were prioritised over safety.
 
