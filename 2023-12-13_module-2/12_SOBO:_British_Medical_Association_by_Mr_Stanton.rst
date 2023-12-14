@@ -1,5 +1,5 @@
 12. Submissions on Behalf of the British Medical Association by Mr Stanton
-=========================================================================
+==========================================================================
 
 **Mr Stanton**: Thank you, my Lady.
 

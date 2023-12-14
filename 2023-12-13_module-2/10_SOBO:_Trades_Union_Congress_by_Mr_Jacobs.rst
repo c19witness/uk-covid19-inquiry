@@ -1,5 +1,5 @@
 10. Submissions on Behalf of the Trades Union Congress by Mr Jacobs
-==================================================================
+===================================================================
 
 **Mr Jacobs**: Thank you, my Lady. These are the closing submissions on behalf of the Trades Union Congress. I appear with Ms Ruby Peacock and we are instructed by Thompsons Solicitors.
 
