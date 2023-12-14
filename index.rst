@@ -15,7 +15,7 @@ The inquiry should (by may not) conclude that the UK should have identified prim
 mitigated for it. The inquiry may not conclude this, so we're getting that in writing while the inquiry is underway.
 
 There were many questions not asked to witnesses as they testified.
-Some pertain to the predominant transmission mechanism (:outline:`airborne` / :outline:`aerosols`). Like many, the UK government was at times talking up :outline:`droplets`
+Some pertain to the predominant transmission mechanism (:outline:`airborne/aerosols`). Like many, the UK government was at times talking up :outline:`droplets`
 and fomites (and the ambiguous ":outline:`close contact`") mechanism of transmission (likely incorrect). With that a safe distance of two meters, and
 hand-washing and wiping or surfaces. These mitigations were likely unhelpful in stopping transmission. One job of a Covid-19 public inquiry on those topics is to determine where those
 claims came from. THIS site allows us to insert questions we would have asked of witnesses, were we there and had the legal right to pose questions.

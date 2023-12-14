@@ -75,7 +75,7 @@ The ramifications of the no plan B approach were numerous, but they will no doub
 
 The quality of decision-making appears to have been further hampered by a relationship with the sector and unions in particular that not only lacked constructive collaboration but was positively oppositional.
 
-In questions to Mr Johnson, we asked about the policy on face masks in schools, which was obviously considered privately to be a mess, and which had been arrived at further, according to Simon Case, to a no surrender approach of Gavin Williamson to unions, for which he had full backing from the PM.
+In questions to Mr Johnson, we asked about the policy on :outline:`face masks` in schools, which was obviously considered privately to be a mess, and which had been arrived at further, according to Simon Case, to a no surrender approach of Gavin Williamson to unions, for which he had full backing from the PM.
 
 My Lady, we conclude with two more general points, the first being the culture in Westminster.
 

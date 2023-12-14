@@ -541,7 +541,7 @@ Why was the "Stay Alert" programme, very briefly, so bad in your view?
 
 Especially when we're talking about communication, the next programme was Eat Out to Help Out, and again you've done work in relation to that in parallel, and is it the case that the work, the research you did, was that Covid-secure premises was a more evidence-based approach which would encourage behaviours. That probably is a very simple summary for a complex study?
 
-**Professor David Halpern**: That is correct. From memory, I think we did the study for BEIS, again using this experimental approach; so maybe it's helpful to explain it again. So we chose several thousand people and we'd ask them, you know, thinking of a restaurant you liked, would you go back there? But what we're doing is we're showing different people a different variation. So sometimes you'd see, this is your favourite restaurant, and there is a pretty -- a picture of the waiter with nothing on their face, but other groups would see the waiter with a mask or with a Covid-secure -- and we also asked them asked about if we paid you £10 or whatever, would that, you know ...
+**Professor David Halpern**: That is correct. From memory, I think we did the study for BEIS, again using this experimental approach; so maybe it's helpful to explain it again. So we chose several thousand people and we'd ask them, you know, thinking of a restaurant you liked, would you go back there? But what we're doing is we're showing different people a different variation. So sometimes you'd see, this is your favourite restaurant, and there is a pretty -- a picture of the waiter with nothing on their face, but other groups would see the waiter with a :outline:`mask` or with a Covid-secure -- and we also asked them asked about if we paid you £10 or whatever, would that, you know ...
 
 So we're setting up different conditions to try and work out how it would influence someone's intention to go to the restaurant.
 
@@ -551,7 +551,7 @@ So we're setting up different conditions to try and work out how it would influe
 
 **Counsel Inquiry**: Yes?
 
-**Professor David Halpern**: That people were very strongly influenced by anything what you might call Covid-secure, the mask, the safety, this is the rules for the restaurant -- I think 20-odd points more likely, percentage points, to go to the restaurant.
+**Professor David Halpern**: That people were very strongly influenced by anything what you might call Covid-secure, the :outline:`mask`, the safety, this is the rules for the restaurant -- I think 20-odd points more likely, percentage points, to go to the restaurant.
 
 In contrast, paying people was quite a small effect, I think six percentage points, so it was a very powerful result, we thought, because it tells you that if you get a Covid-secure system in place, not only are more people going to be confident to go out, it's also reinforcing good practice of Covid-secure requirement. So you would pay a premium to go to a restaurant with your mother, maybe you do that anyway, but in this case, for Covid, whereas if you were a bunch of 21-year olds, you might not care so much and you would go, as it were, for a less secure environment.
 

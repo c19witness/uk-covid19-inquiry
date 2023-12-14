@@ -19,13 +19,13 @@ This rapidly deteriorating position and the limited available capacity forced th
 
 Within this system, that was already stretched to breaking point, doctors and healthcare workers were vulnerable and exposed. They were described as the canary in the coalmine, because they are the first group to be infected, and their risk of infection was six times greater than in the general population. They are the essential component of the NHS, without which numbers of ICU and hospital beds are meaningless, and yet they were inadequately protected throughout.
 
-The failure to provide adequate protection against the risks of aerosol transmission is an issue of serious and ongoing concern and one which the BMA has repeatedly raised before the Inquiry. Despite it being predictable in February that the virus would transmit by aerosol, the requirement of FFP3 respirators when treating patients with Covid-19 was downgraded in March to fluid-resistant surgical masks, which do not protect from airborne transmission and are not PPE. And this remains the position in England today.
+The failure to provide adequate protection against the risks of :outline:`aerosol transmission` is an issue of serious and ongoing concern and one which the BMA has repeatedly raised before the Inquiry. Despite it being predictable in February that the :outline:`virus would transmit by aerosol`, the requirement of :outline:`FFP3 respirators` when treating patients with Covid-19 was downgraded in March to :outline:`fluid-resistant surgical masks`, which do not protect from :outline:`airborne transmission` and are not PPE. And this remains the position in England today.
 
-The evidence of Professor Catherine Noakes supports the view that aerosol transmission was overlooked in favour of droplet transmission. Paragraph 10.11 of her witness statement suggests a number of reasons for the reluctance to fully acknowledge this risk, including the significant resource and operational implications for hospital infection and control measures.
+The evidence of Professor Catherine Noakes supports the view that :outline:`aerosol transmission` was overlooked in favour of :outline:`droplet transmission`. Paragraph 10.11 of her witness statement suggests a number of reasons for the reluctance to fully acknowledge this risk, including the significant resource and operational implications for hospital infection and control measures.
 
-It is perplexing that, just at the point when airborne transmission was becoming more widely acknowledged, a stop order was placed on further procurement of FFP3 respirators from 30 June 2020, when a July 2020 survey by the BMA found that shortages of respirators remained.
+It is perplexing that, just at the point when :outline:`airborne transmission` was becoming more widely acknowledged, a stop order was placed on further procurement of :outline:`FFP3 respirators` from 30 June 2020, when a July 2020 survey by the BMA found that :outline:`shortages of respirators` remained.
 
-The failure to adequately respond to the risk of aerosol transmission has had a direct impact on the protection of healthcare workers, with 40% of respondents to a BMA survey reporting as late as July 2021 that they were not being provided with respirators, despite working with Covid-19 patients.
+The failure to adequately respond to the risk of :outline:`aerosol transmission` has had a direct impact on the protection of healthcare workers, with 40% of respondents to a BMA survey reporting as late as July 2021 that they were :outline:`not being provided with respirators, despite working with Covid-19 patients`.
 
 In this regard, the BMA invites the Inquiry to consider the extent to which considerations of cost and practicality were prioritised over safety.
 
@@ -69,9 +69,9 @@ That this was a collective and not just an individual failure is made clear by t
 
 This shock was described by Professor Halpern as a bolt from the blue, the penny had dropped. All of this calls for serious consideration of a more refined approach to risk assessment and to the communication of risk as suggested by Professor Horby.
 
-Over the entire period of the pandemic there was a failure to take a sufficiently precautionary approach. This is evident on a range of issues, including asymptomatic and aerosol transmission, the delay in imposing protective measures, and in seeking to open up too soon and too quickly.
+Over the entire period of the pandemic there was a failure to take a sufficiently precautionary approach. This is evident on a range of issues, including asymptomatic and :outline:`aerosol transmission`, the delay in imposing protective measures, and in seeking to open up too soon and too quickly.
 
-A more precautionary approach, for example through a focus on ventilation and mask wearing, could have been taken without significant economic impact, and at key moments of easing throughout the pandemic the BMA called for such an approach, which generally was not heeded.
+A more precautionary approach, for example through a focus on :outline:`ventilation` and :outline:`mask wearing`, could have been taken without significant economic impact, and at key moments of easing throughout the pandemic the BMA called for such an approach, which generally was not heeded.
 
 There was little evidence that the UK Government learned from the mistakes of the first wave leading in to the inevitable second wave, despite the wide acknowledgement that it had the potential to be even worse than the first, and at a time when vaccines remained unavailable. Instead, the country opened up too quickly, typified by the reckless Eat Out to Help Out initiative, which was decided without scientific input, despite the obvious risk of adversely impacting Covid transmission rates, and in which respect a study from 2020 suggests it was responsible for between 8% to 17% of new infections.
 

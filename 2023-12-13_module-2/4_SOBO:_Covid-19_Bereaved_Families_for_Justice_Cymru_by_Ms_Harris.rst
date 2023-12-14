@@ -55,15 +55,15 @@ Lessons must be learnt from the way the system for health and social care failed
 
 The issues will be returned to in the context of Wales in Module 2B, because Wales adopted a similar hospital discharge policy to the one considered in this module, and will have also needed to consider asymptomatic transmission and very vulnerable populations.
 
-I deal very briefly with airborne transmission. In the group's opening statement we invited the Inquiry to consider whether enough was done to consider this factor, the airborne nature of the virus, and in the course of Module 2 the Inquiry has heard evidence from Professor Catherine Noakes, who was convener and chair of the Environmental Modelling Group, which was a subcommittee of SAGE.
+I deal very briefly with :outline:`airborne transmission`. In the group's opening statement we invited the Inquiry to consider whether enough was done to consider this factor, the :outline:`airborne nature of the virus`, and in the course of Module 2 the Inquiry has heard evidence from Professor Catherine Noakes, who was convener and chair of the Environmental Modelling Group, which was a subcommittee of SAGE.
 
-She spoke of this aspect of the virus being overlooked, and the need for mitigations which focused on ventilation, the need for care in relation to appropriate face masks that could guard against the aerosol aspect of the transmission.
+She spoke of this aspect of the virus being overlooked, and the need for mitigations which :outline:`focused on ventilation`, the need for care in relation to :outline:`appropriate face masks` that could guard against the :outline:`aerosol aspect of the transmission`.
 
-She also referred to the fact that information on the websites of Public Health England and the NHS had not provided up-to-date information, and had not referred to the airborne nature of transmission, and that she had needed to contact Professors Whitty and Vallance about this, and indeed the information on the NHS website was not changed until June 2021.
+She also referred to the fact that information on the websites of Public Health England and the NHS had not provided up-to-date information, and had not referred to the :outline:`airborne nature of transmission`, and that she had needed to contact Professors Whitty and Vallance about this, and indeed the information on the NHS website was not changed until June 2021.
 
-The Inquiry has also heard evidence from Dr Banfield from the BMA about the importance of ventilation, about the importance of FFP2 and FFP3 respirators being available for vulnerable people, as offering better protection from infection than ordinary masks, and the need for clearer public health messaging in this area.
+The Inquiry has also heard evidence from Dr Banfield from the BMA about :outline:`the importance of ventilation`, about the importance of :outline:`FFP2 and FFP3 respirators` being available for vulnerable people, as offering better protection from infection than :outline:`ordinary masks`, and the need for clearer public health messaging in this area.
 
-CBFJ Cymru believe that the seriousness of airborne infection is still not appreciated and acted on in Wales. This is relevant in many settings, including hospitals, and a hospital-acquired infection remains a significant concern in Wales. They wish the Inquiry to make recommendations at speed about responding to the airborne nature of the virus.
+CBFJ Cymru believe that the seriousness of airborne infection is still not appreciated and acted on in Wales. This is relevant in many settings, including hospitals, and a hospital-acquired infection remains a significant concern in Wales. They wish the Inquiry to make recommendations at speed about responding to the :outline:`airborne nature of the virus`.
 
 I turn now to the subject of intergovernmental relations. The Welsh Bereaved Families believe that all UK and devolved governments should have worked more closely together with a single aim of providing the most effective response that they could to the pandemic. This was in order to have the best chance of reaching agreement on policies across four nations, and where policies were different, so that they could consider the implications for each other of their different policies and co-ordinate implementation and public announcements. In some, co-ordination between nations would lead to a more effective response and better chance of saving lives.
 
@@ -73,7 +73,7 @@ The Inquiry has heard that at the level of health ministers, that there were mee
 
 There was also evidence of regular close engagement through the pandemic between the four chief medical officers of the four nations. There was much evidence about how positive these engagements were.
 
-The question must be asked, however, when the core science was the same, how were there so many differences between policies in England and Wales that were not avoided, whether in relation to mask wearing or testing or other differences in the plethora of rules after coming out of the first lockdown?
+The question must be asked, however, when the core science was the same, how were there so many differences between policies in England and Wales that were not avoided, whether in relation to :outline:`mask wearing` or testing or other differences in the plethora of rules after coming out of the first lockdown?
 
 These issues will be looked at further in Module 2B, as to whether the differences were because of lack of communication or delay or delay in implementation or whether there were other reasons.
 
