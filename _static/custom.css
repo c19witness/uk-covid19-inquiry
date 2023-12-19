@@ -34,6 +34,11 @@ body, html {
     white-space: normal;
 }
 
+/* Core participants table */
+#index th, #index td {
+    white-space: normal;
+}
+
 /* Hide versions menu, keep hosted/privacy permanently shown */
 div.rst-versions > span.rst-current-version {
     display: none;

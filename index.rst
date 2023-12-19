@@ -49,7 +49,7 @@ Witnesses who have important questions they have yet to be asked
      - Testimony so far
      - Question not asked
    * - Sir Patrick Vallance
-     - `16/10/23 `22/06/23 </2023-06-22_module-1/3_Sir_Patrick_Vallance/>`_, </2023-10-16_module-2/4_SOBO_Sir_Patrick_Vallance_by_Mr_Hill/>`_ & `20/11/23 </2023-11-20_module-2/1_Sir_Patrick_Vallance/>`_
+     - `22/06/23 </2023-06-22_module-1/3_Sir_Patrick_Vallance/>`_, `16/10/23 </2023-10-16_module-2/4_SOBO_Sir_Patrick_Vallance_by_Mr_Hill/>`_ & `20/11/23 </2023-11-20_module-2/1_Sir_Patrick_Vallance/>`_
      - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
    * - Sir Chris Whitty
      - `22/06/23 </2023-06-22_module-1/2_Professor_Sir_Whitty/>`_, `21/11/23 </2023-11-21_module-2/1_Professor_Sir_Whitty/>`_ & `22/11/23 </2023-11-22_module-2/1_Professor_Sir_Whitty/>`_
@@ -57,6 +57,14 @@ Witnesses who have important questions they have yet to be asked
    * - Prof Carl Heneghan
      - `19/10/23 </2023-10-19_module-2/5_Professor_Carl_Heneghan/>`_
      - Why did you ignore updates to your F1000 study in your testimony to this inquiry?
+
+Secondary positions of the authors of this site
+-----------------------------------------------
+
+* Vaccines worked, and thank goodness they were came within a year. Side effects were real, but far less numerous than the consequences of catching Covid-19
+* Long Covid is real, far more numerous than deaths from Covid-19 (within 30 days of infection), should get more recognition and treatment research (but not by psychiatry), and exercise for this group can be a really bad idea.
+* Covid is not mild. It is not the Flu or just a cold, it is far more dangerous to ling term health.
+* "Herd Immunity via infection", and "Immunity Debt" are lies that don't have studies to back them up
 
 Word Cloud
 ----------
