@@ -35,6 +35,9 @@ During the pandemic, it was easy for officials to discover that Covid-19 was pri
    description is still required because (say) *touching elbows* is **not** how Covid-19 transmits from one person to another. 
    Nor is standing one foot from each other, if both are in FFP3 (N100) respirators (or holding their breath).
 
+.. note::
+
+   Dates throughout this site are in the UK format of day / month / year (also used in many other countries, but not the USA)
 
 Witnesses who have important questions they have yet to be asked
 ----------------------------------------------------------------
@@ -43,11 +46,17 @@ Witnesses who have important questions they have yet to be asked
    :header-rows: 1
 
    * - Witness
+     - Testimony so far
      - Question not asked
    * - Sir Patrick Vallance
+     - `16/10/23 `22/06/23 </2023-06-22_module-1/3_Sir_Patrick_Vallance/>`_, </2023-10-16_module-2/4_SOBO_Sir_Patrick_Vallance_by_Mr_Hill/>`_ & `20/11/23 </2023-11-20_module-2/1_Sir_Patrick_Vallance/>`_
      - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
-   * - Sir Chris Witty
+   * - Sir Chris Whitty
+     - `22/06/23 </2023-06-22_module-1/2_Professor_Sir_Whitty/>`_, `21/11/23 </2023-11-21_module-2/1_Professor_Sir_Whitty/>`_ & `22/11/23 </2023-11-22_module-2/1_Professor_Sir_Whitty/>`_
      - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
+   * - Prof Carl Heneghan
+     - `19/10/23 </2023-10-19_module-2/5_Professor_Carl_Heneghan/>`_
+     - Why did you ignore updates to your F1000 study in your testimony to this inquiry?
 
 Word Cloud
 ----------
