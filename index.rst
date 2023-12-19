@@ -49,7 +49,7 @@ Witnesses who have important questions they have yet to be asked
      - Testimony so far
      - Question not asked
    * - Sir Patrick Vallance
-     - `22/06/23 </2023-06-22_module-1/3_Sir_Patrick_Vallance/>`_, `16/10/23 </2023-10-16_module-2/4_SOBO_Sir_Patrick_Vallance_by_Mr_Hill/>`_ & `20/11/23 </2023-11-20_module-2/1_Sir_Patrick_Vallance/>`_
+     - `22/06/23. </2023-06-22_module-1/3_Sir_Patrick_Vallance/>`_, `16/10/23 </2023-10-16_module-2/4_SOBO_Sir_Patrick_Vallance_by_Mr_Hill/>`_ & `20/11/23 </2023-11-20_module-2/1_Sir_Patrick_Vallance/>`_
      - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
    * - Sir Chris Whitty
      - `22/06/23 </2023-06-22_module-1/2_Professor_Sir_Whitty/>`_, `21/11/23 </2023-11-21_module-2/1_Professor_Sir_Whitty/>`_ & `22/11/23 </2023-11-22_module-2/1_Professor_Sir_Whitty/>`_
