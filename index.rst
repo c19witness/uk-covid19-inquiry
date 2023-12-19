@@ -8,6 +8,9 @@ A Covid-19-is-airborne community view of the UK Covid-19 Inquiry
    found at `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_.
    We should pause to give `credit to Matthew Somerville <./Credit_To_Matthew_Somerville>`_ for that work.
 
+Purpose of site
+---------------
+
 The UK Covid-19 Inquiry was set up to “examine the UK’s response to and impact of the Covid-19 pandemic, and learn lessons for the future”,
 chaired by Baroness Heather Hallett, a former Court of Appeal judge.  
 
@@ -31,6 +34,23 @@ During the pandemic, it was easy for officials to discover that Covid-19 was pri
    - the bad descriptions of how it transmits. Lastly, we are highlighting :outline:`close contact` for which a decent 
    description is still required because (say) *touching elbows* is **not** how Covid-19 transmits from one person to another. 
    Nor is standing one foot from each other, if both are in FFP3 (N100) respirators (or holding their breath).
+
+
+Witnesses who have important questions they have yet to be asked
+----------------------------------------------------------------
+
+.. list-table::
+   :header-rows: 1
+
+   * - Witness
+     - Question not asked
+   * - Sir Patrick Vallance
+     - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
+   * - Sir Chris Witty
+     - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
+
+Word Cloud
+----------
 
 Word cloud of terms mentioned in testimony so far (witnesses and KCs) that we are interested in:
 
