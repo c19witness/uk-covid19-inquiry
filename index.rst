@@ -46,17 +46,20 @@ Witnesses who have important questions they have yet to be asked
    :header-rows: 1
 
    * - Witness
-     - Testimony so far
      - Question not asked
+     - Testimony so far
    * - Sir Patrick Vallance
+     - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
      - `22/06/23. </2023-06-22_module-1/3_Sir_Patrick_Vallance/>`_, `16/10/23 </2023-10-16_module-2/4_SOBO_Sir_Patrick_Vallance_by_Mr_Hill/>`_ & `20/11/23 </2023-11-20_module-2/1_Sir_Patrick_Vallance/>`_
-     - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
    * - Sir Chris Whitty
-     - `22/06/23 </2023-06-22_module-1/2_Professor_Sir_Whitty/>`_, `21/11/23 </2023-11-21_module-2/1_Professor_Sir_Whitty/>`_ & `22/11/23 </2023-11-22_module-2/1_Professor_Sir_Whitty/>`_
      - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
+     - `22/06/23 </2023-06-22_module-1/2_Professor_Sir_Whitty/>`_, `21/11/23 </2023-11-21_module-2/1_Professor_Sir_Whitty/>`_ & `22/11/23 </2023-11-22_module-2/1_Professor_Sir_Whitty/>`_
    * - Prof Carl Heneghan
-     - `19/10/23 </2023-10-19_module-2/5_Professor_Carl_Heneghan/>`_
      - Why did you ignore updates to your F1000 study in your testimony to this inquiry?
+     - `19/10/23 </2023-10-19_module-2/5_Professor_Carl_Heneghan/>`_
+   * - Evonne Doyle
+     -  As PHE Medical Director, why did you ever agree to signing the late Mar 2020 declaration circulated to all NHS care organisations & staff, which stated: ‘COVID-19 is not airborne’
+     - `02/11/23 </2023-11-02_module-2/3_Professor_Yvonne_Doyle/>`_
 
 Secondary positions of the authors of this site
 -----------------------------------------------

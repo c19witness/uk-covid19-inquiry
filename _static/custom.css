@@ -35,7 +35,7 @@ body, html {
 }
 
 /* Core participants table */
-#index th, #index td {
+#witnesses-who-have-important-questions-they-have-yet-to-be-asked th, #witnesses-who-have-important-questions-they-have-yet-to-be-asked td {
     white-space: normal;
 }
 
