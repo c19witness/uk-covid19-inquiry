@@ -1,27 +1,10 @@
 A Covid-19-is-airborne community view of the UK Covid-19 Inquiry
 ================================================================
 
-.. note::
-
-   The official UK government inquiry site can be found at
-   `covid19.public-inquiry.uk <https://covid19.public-inquiry.uk>`_ and the searchable site on which THIS site is based can be
-   found at `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_.
-   We should pause to give `credit to Matthew Somerville <./Credit_To_Matthew_Somerville>`_ for that work.
-
 Purpose of site
 ---------------
 
-The UK Covid-19 Inquiry was set up to “examine the UK’s response to and impact of the Covid-19 pandemic, and learn lessons for the future”,
-chaired by Baroness Heather Hallett, a former Court of Appeal judge.  
-
-The inquiry should (by may not) conclude that the UK should have identified primarily airborne transmission then tactically and strategically
-mitigated for it. The inquiry may not conclude this, so we're getting that in writing while the inquiry is underway.
-
-There were many questions not asked to witnesses as they testified.
-Some pertain to the predominant transmission mechanism (:outline:`airborne/aerosols`). Like many, the UK government was at times talking up :outline:`droplets`
-and fomites (and the ambiguous ":outline:`close contact`") mechanism of transmission (likely incorrect). With that a safe distance of two meters, and
-hand-washing and wiping or surfaces. These mitigations were likely unhelpful in stopping transmission. One job of a Covid-19 public inquiry on those topics is to determine where those
-claims came from. THIS site allows us to insert questions we would have asked of witnesses, were we there and had the legal right to pose questions.
+The UK Covid-19 Inquiry was set up to “examine the UK’s response to and impact of the Covid-19 pandemic, and learn lessons for the future”, chaired by Baroness Heather Hallett, a former Court of Appeals judge.  With this site, we have a position that on the transmission mechanism the inquiry should be exploring: The inquiry should conclude that the UK make a grave mistake by not identifing primarily :outline:`airborne` transmission, then picking strategic and tactical mitigations for that.
 
 Before the pandemic, it was easy for officials to discover which diseases were primarily transmitted via :outline:`airborne` routes (not :outline:`droplets` not fomites). See our `its-airborne.org/non-covid19-timeline <https://its-airborne.org/non-covid19-timeline>`_ and `its-airborne.org/non-covid19-list <https://its-airborne.org/non-covid19-list>`_. There are 129 entries here.
 
@@ -29,11 +12,8 @@ During the pandemic, it was easy for officials to discover that Covid-19 was pri
 
 .. note::
 
-   For our entire site, we are yellow-highlighting :outline:`airborne` and :outline:`aerosol`. These are our indicators of correct 
-   understanding of how Covid-19 transmits. We'd also highlighting :outline:`fomites` and :outline:`droplets` throughout 
-   - the bad descriptions of how it transmits. Lastly, we are highlighting :outline:`close contact` for which a decent 
-   description is still required because (say) *touching elbows* is **not** how Covid-19 transmits from one person to another. 
-   Nor is standing one foot from each other, if both are in FFP3 (N100) respirators (or holding their breath).
+   For our entire site, we are yellow-highlighting :outline:`airborne`, :outline:`aerosol` and
+   many other terms that refer to the mechanism of transmission, including the ones that are incorrect.
 
 .. note::
 
@@ -61,21 +41,23 @@ Witnesses who have important questions they have yet to be asked
      -  As PHE Medical Director, why did you ever agree to signing the late Mar 2020 declaration circulated to all NHS care organisations & staff, which stated: ‘COVID-19 is not airborne’
      - `02/11/23 </2023-11-02_module-2/3_Professor_Yvonne_Doyle/>`_
 
-Secondary positions of the authors of this site
+Secondary positions this site holds
 -----------------------------------------------
 
 * Vaccines worked, and thank goodness they were came within a year. Side effects were real, but far less numerous than the consequences of catching Covid-19
 * Long Covid is real, far more numerous than deaths from Covid-19 (within 30 days of infection), should get more recognition and treatment research (but not by psychiatry), and exercise for this group can be a really bad idea.
 * Covid is not mild. It is not the Flu or just a cold, it is far more dangerous to ling term health.
 * "Herd Immunity via infection", and "Immunity Debt" are lies that don't have studies to back them up
+* FFP2 (or N95) respirators do work to stop transmission if well fitting (which is not so hard for ordinary citizens to learn to do)
+* Cloth masks would have worked in early 2020 to slow transmission while local manufacture of FFP2 was spun up.
+* All shared indoor spaces should have their fresh air ventilation enhanced to keep CO2 below 800 parts per million, and utilize free standing air filters to to scrub out any virons that may be carried if aerosols
 
-Word Cloud
-----------
+.. note::
 
-Word cloud of terms mentioned in testimony so far (witnesses and KCs) that we are interested in:
-
-.. image:: /_static/wordcloud.png
-   :width: 100%
+   The official UK government inquiry site can be found at
+   `covid19.public-inquiry.uk <https://covid19.public-inquiry.uk>`_ and the searchable site on which THIS site is based can be
+   found at `ukcovid19inquiry.dracos.co.uk <https://ukcovid19inquiry.dracos.co.uk>`_.
+   We should pause to give `credit to Matthew Somerville <./Credit_To_Matthew_Somerville>`_ for that work.
 
 Contents
 --------
@@ -161,3 +143,4 @@ Contents
    2023-12-12_module-2C/index.rst
    2023-12-13_module-2/index.rst
    2023-12-14_module-2/index.rst
+
