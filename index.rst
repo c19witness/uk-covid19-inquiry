@@ -26,7 +26,7 @@ Witnesses who have important questions they have yet to be asked
    :header-rows: 1
 
    * - Witness
-     - Question not asked
+     - Questions not asked yet
      - Testimony so far
    * - Sir Patrick Vallance
      - Where did the choice of droplets (etc) instead of aerosols for primary transmission mechanism come from?
@@ -37,9 +37,13 @@ Witnesses who have important questions they have yet to be asked
    * - Prof Carl Heneghan
      - Why did you ignore updates to your F1000 study in your testimony to this inquiry?
      - `19/10/23 </2023-10-19_module-2/5_Professor_Carl_Heneghan/>`__
-   * - Evonne Doyle
+   * - Prof Evonne Doyle
      -  As PHE Medical Director, why did you ever agree to signing the late Mar 2020 declaration circulated to all NHS care organisations & staff, which stated: ‘COVID-19 is not airborne’
      - `02/11/23 </2023-11-02_module-2/3_Professor_Yvonne_Doyle/>`__
+   * - Prof Jenny Harries
+     -  Why do you think "More like Sweden" is the right approach for the next pandemic, and has that guided you actions in the current one?
+     - `29/11/23 <2023-11-29_module-2/1_Dame_Jenny_Harries/>`__, `26/06/23 <2023-06-26_module-1/3_Dame_Jenny_Harries/>`__ & `28/11/23 <2023-11-28_module-2/2_Professor_Dame_Jenny_Harries/>`__
+
 
 Secondary positions this site holds
 -----------------------------------------------
