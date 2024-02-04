@@ -71,6 +71,7 @@ Contents
 
    core-participants.rst
    Credit_To_Matthew_Somerville.rst
+
    2022-10-04_module-1/index.rst
    2022-10-31_module-2/index.rst
    2022-11-01_module-2A/index.rst
@@ -147,4 +148,14 @@ Contents
    2023-12-12_module-2C/index.rst
    2023-12-13_module-2/index.rst
    2023-12-14_module-2/index.rst
-
+   2024-01-16_module-2A/index.rst
+   2024-01-17_module-2A/index.rst
+   2024-01-18_module-2A/index.rst
+   2024-01-19_module-2A/index.rst
+   2024-01-23_module-2A/index.rst
+   2024-01-24_module-2A/index.rst
+   2024-01-25_module-2A/index.rst
+   2024-01-29_module-2A/index.rst
+   2024-01-30_module-2A/index.rst
+   2024-01-31_module-2A/index.rst
+   2024-02-01_module-2A/index.rst

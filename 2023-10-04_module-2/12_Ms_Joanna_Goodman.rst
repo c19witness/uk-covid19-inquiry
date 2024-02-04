@@ -295,7 +295,7 @@ Two other areas from your statement appear to be of particular importance and pa
 
 I just want to identify for you, if I may, the sorts of themes and issues which emerge from that list, not to give you -- I'm sorry to say -- an opportunity to describe the ways in which their loved ones died, but to identify that some of the broad themes that you've identified already re-occur in that list of other persons.
 
-So they deal with areas such as: pre-existing health vulnerabilities, the absence of masks, 111 service (which you've addressed already), nosocomial infection (which you've addressed already), the lack of PPE for key workers, the lack of isolation at work from other people who may have become infected, the lack of financial provision for those who were unable to go to work, and also the general way in which you and they believe that the way in which the government sought to impose non-pharmaceutical interventions was an improper and an inadequate way of getting on top of the control of the virus.
+So they deal with areas such as: pre-existing health vulnerabilities, the :outline:`absence of masks`, 111 service (which you've addressed already), nosocomial infection (which you've addressed already), the lack of PPE for key workers, the lack of isolation at work from other people who may have become infected, the lack of financial provision for those who were unable to go to work, and also the general way in which you and they believe that the way in which the government sought to impose non-pharmaceutical interventions was an improper and an inadequate way of getting on top of the control of the virus.
 
 **Ms Joanna Goodman**: Absolutely.
 

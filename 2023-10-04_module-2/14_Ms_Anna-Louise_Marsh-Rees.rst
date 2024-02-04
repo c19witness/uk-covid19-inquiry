@@ -127,7 +127,7 @@ Hospitals obviously are at the forefront of any pandemic response, and appear to
 
 Is it the view of your members that more could have been done by way of infection control to stop the rage of the virus through the places where their loved ones were most vulnerable?
 
-**Ms Anna-Louise Marsh-Rees**: Absolutely, I think you need to go back to, you know, back to Module 1, preparedness and resilience. We've got reports from NHS Wales that identify, even after SARS-1, that hospitals need to be built with looking at ventilation, filtration, looking at South East Asian public healthcare as a blueprint. And then, you know, I guess from a personal perspective I was very surprised that -- you know, my father was infected in the second wave -- it didn't appear that there had been any kind of progress or lessons learnt from that first phase, and yet we'd had, looking back now, almost a sort of Halcyon period of -- you know, on that summer between wave 1 and wave 2 where it felt there could have been, you know, more science, as we keep hearing about, you know, that could have been put in place.
+**Ms Anna-Louise Marsh-Rees**: Absolutely, I think you need to go back to, you know, back to Module 1, preparedness and resilience. We've got reports from NHS Wales that identify, even after SARS-1, that hospitals need to be built with looking at :outline:`ventilation`, :outline:`filtration`, looking at South East Asian public healthcare as a blueprint. And then, you know, I guess from a personal perspective I was very surprised that -- you know, my father was infected in the second wave -- it didn't appear that there had been any kind of progress or lessons learnt from that first phase, and yet we'd had, looking back now, almost a sort of Halcyon period of -- you know, on that summer between wave 1 and wave 2 where it felt there could have been, you know, more science, as we keep hearing about, you know, that could have been put in place.
 
 **Lead Inquiry**: Halcyon unless, as you yourself rightly say in your statement, you happened to be shielding or you suffered from a pre-existing chronic disease or if you suffered from a disability.
 
@@ -209,7 +209,7 @@ Has that been a significant issue in the views of your members?
 
 **Lead Inquiry**: And did it make it extremely hard to adhere to, if there was an unnecessary degree of complexity or confusion?
 
-**Ms Anna-Louise Marsh-Rees**: Absolutely. I mean, I was travelling between England and Wales so I was personally affected and I couldn't -- you know, it was difficult, was I wearing a mask here, wasn't I wearing a mask there? You know, going across the Severn Bridge was like going across the Mexican border, you didn't know whether you were going to get stopped. You know, and was I flouting the rules? When my father was ill, possibly I was. But ...
+**Ms Anna-Louise Marsh-Rees**: Absolutely. I mean, I was travelling between England and Wales so I was personally affected and I couldn't -- you know, it was difficult, was I :outline:`wearing a mask` here, wasn't I :outline:`wearing a mask` there? You know, going across the Severn Bridge was like going across the Mexican border, you didn't know whether you were going to get stopped. You know, and was I flouting the rules? When my father was ill, possibly I was. But ...
 
 **Mr Keith**: Well, that's all right.
 

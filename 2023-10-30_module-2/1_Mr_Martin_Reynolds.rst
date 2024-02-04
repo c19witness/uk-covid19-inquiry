@@ -1193,11 +1193,11 @@ So starting with Mr Cummings, INQ000048313, and a letter from him to this Inquir
 
 Page 53, Simon Case responds, if you could scroll in a little bit further, please:
 
-"At every stage of masks we in the United Kingdom have been slow ..."
+"At every stage of :outline:`masks` we in the United Kingdom have been slow ..."
 
 And I think we may have -- I'm afraid I can't read that. Thank you.
 
-A long message about masks.
+A long message about :outline:`masks`.
 
 Then if you could scroll back out, please, I think at the bottom of the page -- yes, that's the one:
 

@@ -83,7 +83,7 @@ And they can of course be encouraged to be adopted or applied through a variety 
 
 **Sir Mark Walport**: That is absolutely correct. There were no specific medical interventions at that stage.
 
-But it's important to recognise that not only do different viruses vary, but the coronavirus itself varied over time, and the main driver for the evolution of a virus or, indeed, a bacteria is to reproduce more effectively. And so, in general, infectious diseases tend to become more transmissible, and so the barrier function of, for example, a mask becomes harder and harder as the transmissibility goes up.
+But it's important to recognise that not only do different viruses vary, but the coronavirus itself varied over time, and the main driver for the evolution of a virus or, indeed, a bacteria is to reproduce more effectively. And so, in general, infectious diseases tend to become more transmissible, and so the barrier function of, for example, a :outline:`mask` becomes harder and harder as the transmissibility goes up.
 
 **Lead Inquiry**: In truth, all governments faced a terrible quandary, did they not --
 
@@ -141,7 +141,7 @@ But it's important to recognise that not only do different viruses vary, but the
 
 **Sir Mark Walport**: It's a systematic review of the evidence. In other words, it's to look at all types of evidence. And in some cases there were trials which were deductive, in other words you could compare a group using :outline:`masks` and a group not using masks, but by and large, because non-pharmaceutical interventions were introduced in combination, it was extremely difficult to dissect the relative effects of one non-pharmaceutical intervention against another.
 
-So, to give you a concrete example, when strong social distancing measures are applied, then is the effect due to wearing a mask or to the social distancing? And so the groups reviewed an enormous amount of evidence and came down to a relatively small number of studies, in the hundreds, where it was possible to achieve some deductive information about the effectiveness or otherwise of the non-pharmaceutical interventions. But for those systematic reviewers who are used to working with placebo-controlled clinical trials, they would view the evidence as being far weaker, but on the other hand observational research is important, and indeed, going back through the history of the Royal Society, it's the way we have learnt about all sorts of things. You can't always do an experiment, you have to rely on observational data.
+So, to give you a concrete example, when strong social distancing measures are applied, then is the effect due to :outline:`wearing a mask` or to the social distancing? And so the groups reviewed an enormous amount of evidence and came down to a relatively small number of studies, in the hundreds, where it was possible to achieve some deductive information about the effectiveness or otherwise of the non-pharmaceutical interventions. But for those systematic reviewers who are used to working with placebo-controlled clinical trials, they would view the evidence as being far weaker, but on the other hand observational research is important, and indeed, going back through the history of the Royal Society, it's the way we have learnt about all sorts of things. You can't always do an experiment, you have to rely on observational data.
 
 So we did the work in two parts, really, which was to try to work out as much as we could about each of the individual non-pharmaceutical interventions, but we also did a number of country case studies, because that gives you a different observational approach to what happens when things are done in combination. You can learn quite a lot from those.
 
@@ -187,7 +187,7 @@ In general terms, prior to the Royal Society's report, there was very little mat
 
 **Sir Mark Walport**: Yes.
 
-**Lead Inquiry**: -- to wear a mask, reduced infection compared to those studies that found there had been no effect?
+**Lead Inquiry**: -- to :outline:`wear a mask`, reduced infection compared to those studies that found there had been no effect?
 
 **Sir Mark Walport**: Yes. So there were 35 studies in community settings. Three of them were in fact randomised controlled trials, and there were 32 observational studies, and then were a further 40 studies in healthcare settings, one of which was a randomised control trial, and 39 observations.
 

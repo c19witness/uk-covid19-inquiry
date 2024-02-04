@@ -1005,7 +1005,7 @@ What other, apart from the ones you've already mentioned, policy decisions slipp
 
 **Mr Lee Cain**: I think it was something that was frequently raised, I think, you know, particularly by many female members of Number 10 who, I think -- it really sort of shone a light, because within -- within Covid what tends to happen is there was a small core room, often in the Cabinet Room, where the individuals would be round the table.
 
-Now, in non-Covid times there would be a lot more people in that room so it would sort of mask some of these issues. During Covid, the sort of secondary cast, if you will, would be outside watching on a Zoom, and what became very clear is it was predominantly women in the building who were outside watching on a Zoom and predominantly white, middle-aged men around the table.
+Now, in non-Covid times there would be a lot more people in that room so it would sort of :outline:`mask` some of these issues. During Covid, the sort of secondary cast, if you will, would be outside watching on a Zoom, and what became very clear is it was predominantly women in the building who were outside watching on a Zoom and predominantly white, middle-aged men around the table.
 
 **Mr Weatherby KC**: Yes.
 
