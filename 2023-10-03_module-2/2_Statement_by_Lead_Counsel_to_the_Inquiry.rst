@@ -289,7 +289,7 @@ SPI-M-O, the modelling committee, estimates on the same day the number of confir
 
 "It is a realistic probability that outbreaks outside China cannot be contained by isolation and contact tracing. If a high proportion of asymptomatic cases are infectious, then containment is unlikely via these policies ... It is a realistic probability that there is already sustained transmission in the UK, or that it will become established in the coming weeks."
 
-On 13 February, the seventh meeting of SAGE takes place. It debates, in the context of a discussion of how to delay the peak of the epidemic, as opposed to trying to suppress its spread entirely, the impact of mass school closures, restricting mass gatherings, and mask wearing. The minutes state:
+On 13 February, the seventh meeting of SAGE takes place. It debates, in the context of a discussion of how to delay the peak of the epidemic, as opposed to trying to suppress its spread entirely, the impact of mass school closures, restricting mass gatherings, and :outline:`mask wearing`. The minutes state:
 
 "SAGE and wider [government] should continue to work on the assumption China will be unable to contain the epidemic ... SAGE concluded that travel restrictions within the UK, unless draconian and fully adhered to, would not be effective in limiting transmission. They would also be ineffective if Covid-19 cases were already established in the UK ... There is no current evidence to suggest prevention of mass gatherings is effective in limiting transmission. Public actions in the absence of a mass gathering could have comparable impacts (eg watching a football match in a pub instead of a stadium as [being equally] likely to spread the disease)."
 
