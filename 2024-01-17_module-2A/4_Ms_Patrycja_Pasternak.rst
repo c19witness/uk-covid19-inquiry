@@ -269,7 +269,7 @@ You also talk in your statement about the impact of reasonable adjustments on th
 
 **Ms Patrycja Pasternak**: That is true, very few people use the :outline:`plastic masks which were see-through`. Those :outline:`windows in the masks help people who were deaf`, and very, very few people even those working with deaf people didn't use that accommodation.
 
-**Counsel Inquiry**: You say some frontline service providers refused to step back and remove their :outline:`mask1 or to use an alternative means of communication like pens and paper?
+**Counsel Inquiry**: You say some frontline service providers refused to step back and remove their :outline:`mask` or to use an alternative means of communication like pens and paper?
 
 **Ms Patrycja Pasternak**: Yes, that was true.
 
