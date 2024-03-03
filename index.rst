@@ -160,3 +160,6 @@ Contents
    2024-01-31_module-2A/index.rst
    2024-02-01_module-2A/index.rst
    2024-02-06_module-5/index.rst
+   2024-02-27_module-2B/index.rst
+   2024-02-28_module-2B/index.rst
+   2024-02-29_module-2B/index.rst
