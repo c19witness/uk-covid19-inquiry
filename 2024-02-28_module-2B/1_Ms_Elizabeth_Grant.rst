@@ -4,11 +4,7 @@ Transcript of Module 2B Public Hearing on 28 February 2024.
 
 **Lady Hallett**: Mr Poole.
 
-**Mr Poole**: My Lady, before we start our evidence this
-
-morning, we need to swear in our interpreters for the
-
-duration of our hearings.
+**Mr Poole**: My Lady, before we start our evidence this morning, we need to swear in our interpreters for the duration of our hearings.
 
 *(Interpreters sworn/affirmed)*
 
@@ -23,33 +19,13 @@ duration of our hearings.
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Lady Hallett**: Ms Grant, I know this is going to be
+**Lady Hallett**: Ms Grant, I know this is going to be difficult for you. If at any stage you need a break, just say. Thank you so much for coming to help.
 
-difficult for you. If at any stage you need a break,
-
-just say. Thank you so much for coming to help.
-
-**Mr Poole**: Ms Grant, whilst you give your evidence, could
-
-you try to keep your voice up as much as possible, so we
-
-can hear you, but also because it's being recorded,
-
-clearly into the microphone. Also if I ask you
-
-a question that isn't clear, which might be possible,
-
-then please ask me to repeat it.
+**Mr Poole**: Ms Grant, whilst you give your evidence, could you try to keep your voice up as much as possible, so we can hear you, but also because it's being recorded, clearly into the microphone. Also if I ask you a question that isn't clear, which might be possible, then please ask me to repeat it.
 
 Ms Grant, you are a representative of Covid Bereaved
 
-Families for Justice Cymru, and you have been good
-
-enough to provide the Inquiry with a statement, which we
-
-have at INQ000412150. You signed that statement on
-
-21 February. Are the contents of that statement true to the best of your knowledge and belief?
+Families for Justice Cymru, and you have been good enough to provide the Inquiry with a statement, which we have at INQ000412150. You signed that statement on 21 February. Are the contents of that statement true to the best of your knowledge and belief?
 
 **Ms Elizabeth Grant**: They are correct, yeah.
 
@@ -67,57 +43,27 @@ have at INQ000412150. You signed that statement on
 
 **Lead 2B**: Then in retirement they moved, I think, from Cornwall to Tintern in South Wales.
 
-We understand that your mother suffered with vascular dementia, which was first diagnosed in 2016, and also arthritis, which affected her mobility. But despite those conditions, I understand that she was able
-
-to lead a very active life, I believe she represented
-
-Cornwall and Monmouthshire at bowls in her retirement?
+We understand that your mother suffered with vascular dementia, which was first diagnosed in 2016, and also arthritis, which affected her mobility. But despite those conditions, I understand that she was able to lead a very active life, I believe she represented Cornwall and Monmouthshire at bowls in her retirement?
 
 **Ms Elizabeth Grant**: She did.
 
-**Lead 2B**: There came a time when your mother suffered a fall that
-
-required her to be admitted to hospital; is that right?
+**Lead 2B**: There came a time when your mother suffered a fall that required her to be admitted to hospital; is that right?
 
 **Ms Elizabeth Grant**: Yes, that's correct.
 
-**Lead 2B**: I think on 13 January 2020, that fall resulted in her
-
-sustaining a broken hip, and she was admitted to
-
-hospital then; is that right?
+**Lead 2B**: I think on 13 January 2020, that fall resulted in her sustaining a broken hip, and she was admitted to hospital then; is that right?
 
 **Ms Elizabeth Grant**: Yes, that's right.
 
-**Lead 2B**: Having undergone an operation to repair her hip, your
-
-mother was discharged from hospital and placed on
-
-a community ward in a community hospital, and that was
-
-28 January 2020; is that right?
+**Lead 2B**: Having undergone an operation to repair her hip, your mother was discharged from hospital and placed on a community ward in a community hospital, and that was 28 January 2020; is that right?
 
 **Ms Elizabeth Grant**: Correct.
 
-**Lead 2B**: Your mother was then discharged home on
+**Lead 2B**: Your mother was then discharged home on 24 February 2020. Did there come a time when your mother had to be readmitted to hospital?
 
-24 February 2020. Did there come a time when your
+**Ms Elizabeth Grant**: Yes, yes, she was readmitted shortly afterwards. She had stopped eating and stopped drinking, my father was getting concerned, he was her main carer, and called the ambulance.
 
-mother had to be readmitted to hospital?
-
-**Ms Elizabeth Grant**: Yes, yes, she was readmitted shortly afterwards. She
-
-had stopped eating and stopped drinking, my father was
-
-getting concerned, he was her main carer, and called the
-
-ambulance.
-
-**Lead 2B**: I think that was on 2 March, when she went back into
-
-hospital. Were you aware of any steps that were taken
-
-to protect your mother from Covid when she was readmitted to hospital, and make sure that she remained infection-free?
+**Lead 2B**: I think that was on 2 March, when she went back into hospital. Were you aware of any steps that were taken to protect your mother from Covid when she was readmitted to hospital, and make sure that she remained infection-free?
 
 **Ms Elizabeth Grant**: Not aware of anything, no.
 
@@ -417,55 +363,19 @@ We've touched on the broad issue of communications between hospitals but also co
 
 **Ms Elizabeth Grant**: Yes.
 
-**Lead 2B**: And, importantly, the whole issue of the arrangements which were then put in place for dealing with loved ones at the end, the way in which, again, communications and hospital staff and care homes and the way in which loved
-
-ones were buried and had their funerals conducted, that
-
-is an important issue --
+**Lead 2B**: And, importantly, the whole issue of the arrangements which were then put in place for dealing with loved ones at the end, the way in which, again, communications and hospital staff and care homes and the way in which loved ones were buried and had their funerals conducted, that is an important issue --
 
 **Ms Elizabeth Grant**: Yes.
 
 **Lead 2B**: -- for members of your group?
 
-**Ms Elizabeth Grant**: There's extra layers to the grief of that as well that
+**Ms Elizabeth Grant**: There's extra layers to the grief of that as well that keeps getting added. Bodies were mislaid, we have members of that experience. We have knowledge of members of staff within a particular health board that was going around into morgues and on ICU, documenting and photographing -- photography of dying people and of people that were on ventilators that was later exhibited and made a book out of. Which is another layer that adds to what you're trying to cope with, because you're immediately thinking: is that my mum? Is that -- you know, as I say, it was -- you know, it's -- it was just unnecessary.
 
-keeps getting added. Bodies were mislaid, we have
-
-members of that experience. We have knowledge of
-
-members of staff within a particular health board that
-
-was going around into morgues and on ICU, documenting
-
-and photographing -- photography of dying people and of
-
-people that were on ventilators that was later exhibited
-
-and made a book out of. Which is another layer that
-
-adds to what you're trying to cope with, because you're
-
-immediately thinking: is that my mum? Is that -- you
-
-know, as I say, it was -- you know, it's -- it was just
-
-unnecessary.
-
-**Lead 2B**: And presumably, and not least because, of course, on
-
-account of your mother's death, the issue with DNA
-
-Cardiopulmonary Resuscitation notices being given,
-
-end-of-life care is obviously a vital topic for your
-
-group; is that right?
+**Lead 2B**: And presumably, and not least because, of course, on account of your mother's death, the issue with DNA Cardiopulmonary Resuscitation notices being given, end-of-life care is obviously a vital topic for your group; is that right?
 
 **Ms Elizabeth Grant**: Yes.
 
-**Mr Poole**: Thank you very much, Ms Grant, I know it can't
-
-have been easy, but I have no further questions for you.
+**Mr Poole**: Thank you very much, Ms Grant, I know it can't have been easy, but I have no further questions for you.
 
 Thank you.
 
@@ -499,9 +409,7 @@ Thank you.
 
 **The Witness**: Yeah.
 
-**Mr Poole**: May I ask you to start by stating your full name,
-
-please.
+**Mr Poole**: May I ask you to start by stating your full name, please.
 
 **The Witness**: Amanda Jane Provis.
 

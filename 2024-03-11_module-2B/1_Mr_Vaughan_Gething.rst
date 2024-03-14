@@ -13,43 +13,21 @@ Transcript of Module 2B Public Hearing on 11 March 2024.
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Lady Hallett**: Thank you for coming back to help
-
-the Inquiry, Mr Gething, I appreciate maybe not the best
-
-week for you, but anyway, grateful for your help.
+**Lady Hallett**: Thank you for coming back to help the Inquiry, Mr Gething, I appreciate maybe not the best week for you, but anyway, grateful for your help.
 
 **The Witness**: Thank you.
 
-**Mr Poole**: Could I ask you to start by giving us your full
+**Mr Poole**: Could I ask you to start by giving us your full name, please.
 
-name, please.
+**Mr Vaughan Gething**: My full name is Humphrey Vaughan Ap David Gething. I'm commonly known as Vaughan Gething, it makes it easier.
 
-**Mr Vaughan Gething**: My full name is Humphrey Vaughan Ap David Gething. I'm
+**Lead 2B**: Mr Gething, thank you for attending and assisting the Tribunal, the Inquiry today.
 
-commonly known as Vaughan Gething, it makes it easier.
-
-**Lead 2B**: Mr Gething, thank you for attending and assisting
-
-the Tribunal, the Inquiry today.
-
-Your witness statement at is INQ000391327, we see
-
-that up on the screen there. You signed that statement
-
-on 3 January. Can you confirm that the contents of that
-
-statement are true to the best of your knowledge and
-
-belief?
+Your witness statement at is INQ000391327, we see that up on the screen there. You signed that statement on 3 January. Can you confirm that the contents of that statement are true to the best of your knowledge and belief?
 
 **Mr Vaughan Gething**: I believe they are.
 
-**Lead 2B**: You also provided a witness statement for Module 1,
-
-which is at INQ000187304. You signed that in the usual
-
-way with a declaration of truth. You also gave evidence in Module 1 and the transcript of that evidence is available on the Inquiry website.
+**Lead 2B**: You also provided a witness statement for Module 1, which is at INQ000187304. You signed that in the usual way with a declaration of truth. You also gave evidence in Module 1 and the transcript of that evidence is available on the Inquiry website.
 
 Now, Mr Gething, dealing first then with your background and career to date, you have been a member of the Senedd for Cardiff South and Penarth since May 2011, before which you practised as a solicitor in Cardiff; is that right?
 
@@ -61,57 +39,15 @@ Now, Mr Gething, dealing first then with your background and career to date, you
 
 **Lead 2B**: I would like to start by asking you some questions about the way in which you and others within the Welsh Government used informal methods of communication in order to discuss matters connected to the pandemic.
 
-In your witness statement, you say that you would sometimes discuss matters by phone, texts, WhatsApps or
-
-Microsoft Teams, but those methods of communication were
-
-not used to make decisions. Is that right?
+In your witness statement, you say that you would sometimes discuss matters by phone, texts, WhatsApps or Microsoft Teams, but those methods of communication were not used to make decisions. Is that right?
 
 **Mr Vaughan Gething**: That's correct.
 
-**Lead 2B**: Now, Dame Shan Morgan was taken to a number of Welsh
+**Lead 2B**: Now, Dame Shan Morgan was taken to a number of Welsh Government policies concerning the use of informal methods of communication and also the importance of keeping records. Do you accept that using WhatsApp and text to discuss Welsh Government business was prohibited?
 
-Government policies concerning the use of informal
+**Mr Vaughan Gething**: (unclear) prohibited to make decisions or decisions through text or WhatsApp, but the discussion, it was never my understanding that it was prohibited to have a discussion around that, in the sense of "You need to look at something", "I'm telling you I'm just publishing something, I want you to see this", "What time are we going to be in the meeting?" So I think the challenge is not defining something in a way that is trying to be entirely definitive, you can't even mention the government in those informal messages, because I don't think that's a particularly real world view.
 
-methods of communication and also the importance of
-
-keeping records. Do you accept that using WhatsApp and
-
-text to discuss Welsh Government business was
-
-prohibited?
-
-**Mr Vaughan Gething**: (unclear) prohibited to make decisions or decisions
-
-through text or WhatsApp, but the discussion, it was
-
-never my understanding that it was prohibited to have
-
-a discussion around that, in the sense of "You need to
-
-look at something", "I'm telling you I'm just publishing
-
-something, I want you to see this", "What time are we
-
-going to be in the meeting?" So I think the challenge
-
-is not defining something in a way that is trying to be
-
-entirely definitive, you can't even mention the
-
-government in those informal messages, because I don't
-
-think that's a particularly real world view.
-
-**Lead 2B**: Not -- isn't the issue, though, not just whether
-
-decisions were made using text or WhatsApp, but whether
-
-informal methods of communication were used to discuss
-
-those decisions that were made or, perhaps even more
-
-importantly, discussions about decisions that perhaps were not made; you would accept that that is an important record to have?
+**Lead 2B**: Not -- isn't the issue, though, not just whether decisions were made using text or WhatsApp, but whether informal methods of communication were used to discuss those decisions that were made or, perhaps even more importantly, discussions about decisions that perhaps were not made; you would accept that that is an important record to have?
 
 **Mr Vaughan Gething**: Yeah, all the records about how we made choices, and how they're available, I think are important, of course. WhatsApp essentially became a substitute for conversations you have in a corridor because you couldn't have corridor conversations because of the extraordinary measures we had to take.
 
@@ -497,53 +433,7 @@ So actually Cabinet was aware that Covid was something that was happening. And a
 
 **Lead 2B**: Now, we heard evidence -- yes, I think it was at the beginning of last week, from Dr Quentin Sandifer, who was the lead strategic director in Public Health Wales for Covid-19, he told the Inquiry that on 22 January he invoked the Public Health Wales Emergency Response Plan at enhanced level, and that two days later, so advises the First Minister about the significant risk,
 
-Public Health Wales called on the Welsh Government to
-
-stand up the Emergency Coordination Centre, and his
-
-evidence is that he was told by David Goulding that he
-
-didn't see this event as requiring a civil contingency
-
-multi-agency emergency response.
-
-Now, there was then on 11 March -- which is the date
-
-the WHO declared Covid-19 a pandemic -- Public Health
-
-Wales prepared a paper called "Covid-19 as a major
-
-health incident point to consider". I don't think we do
-
-need that displayed but, just in summary, that set out
-
-the current situation in Wales and provided
-
-an evidential summary of considerations to guide the
-
-Welsh Government in any decision whether to declare this
-
-a major incident for health.
-
-Again, Dr Sandifer told the Inquiry that he felt
-
-that Public Health Wales had to lay their cards on the
-
-table and say to the Welsh Government: this is how we
-
-see it, are you going to use emergency legislation?
-
-And the Welsh Government's response to that paper
-
-was that a declaration of a major health incident would
-
-not be helpful, which Dr Sandifer told the Inquiry he
-
-was astonished by, and he was astonished that by early
-
-March the Welsh Government were not treating the January, coincidentally the same day as the CMO                        24      pandemic as a civil emergency situation.
-
-Why was this?
+Public Health Wales called on the Welsh Government to stand up the Emergency Coordination Centre, and his evidence is that he was told by David Goulding that he didn't see this event as requiring a civil contingency multi-agency emergency response. Now, there was then on 11 March -- which is the date the WHO declared Covid-19 a pandemic -- Public Health Wales prepared a paper called "Covid-19 as a major health incident point to consider". I don't think we do need that displayed but, just in summary, that set out the current situation in Wales and provided an evidential summary of considerations to guide the Welsh Government in any decision whether to declare this a major incident for health. Again, Dr Sandifer told the Inquiry that he felt that Public Health Wales had to lay their cards on the table and say to the Welsh Government: this is how we see it, are you going to use emergency legislation? And the Welsh Government's response to that paper was that a declaration of a major health incident would not be helpful, which Dr Sandifer told the Inquiry he was astonished by, and he was astonished that by early March the Welsh Government were not treating the January, coincidentally the same day as the CMO                        24      pandemic as a civil emergency situation. Why was this?
 
 **Mr Vaughan Gething**: So there's a number of points in the questions there, Mr Poole. So I don't think it is surprising that civil contingency arrangements aren't stood up in early -- you know, in the -- 24th, 22 January, at that point where there isn't a case in the UK, there isn't a case in Wales at that point, and in dealing with something that might happen and the risks are there but the risks are -- I don't know if they're low or moderate at that time. As we move on and as it becomes more apparent about the level of risk, then actually of course the level of engagement from the government increases steadily, as you would expect.
 

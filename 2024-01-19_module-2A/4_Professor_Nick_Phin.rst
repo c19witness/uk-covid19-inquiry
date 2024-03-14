@@ -7,21 +7,7 @@ Questions From Lead Counsel to the Inquiry for Module 2A
 
 **Mr Dawson**: Thank you very much.
 
-This is the second occasion on which we have had two
-
-people give evidence together. I will, as I endeavoured
-
-the first time, attempt to direct my questions as best
-
-I can, but the Inquiry would be very interested to hear
-
-perspectives from both of you, so if there are
-
-observations you wish to make on questions I've
-
-addressed to the other, please indicate and I'd be very happy to hear from you on those matters too.
-
-You are Dr Jim McMenamin?
+This is the second occasion on which we have had two people give evidence together. I will, as I endeavoured the first time, attempt to direct my questions as best I can, but the Inquiry would be very interested to hear perspectives from both of you, so if there are observations you wish to make on questions I've addressed to the other, please indicate and I'd be very happy to hear from you on those matters too. You are Dr Jim McMenamin?
 
 **Dr McMenamin**: Yes, that's right.
 
@@ -29,21 +15,11 @@ You are Dr Jim McMenamin?
 
 **Dr Phin**: Correct.
 
-**Mr Dawson**: And I understand you both have provided a number
-
-of statements to the Inquiry. In particular,
-
-Dr McMenamin, you have provided a witness statement
-
-under Inquiry number INQ000360968. The statement is
-
-dated 29 November 2023. Is that your statement?
+**Mr Dawson**: And I understand you both have provided a number of statements to the Inquiry. In particular, Dr McMenamin, you have provided a witness statement under Inquiry number INQ000360968. The statement is dated 29 November 2023. Is that your statement?
 
 **Dr McMenamin**: Yes.
 
-**Mr Dawson**: Does the statement remain true and accurate as
-
-at this date.
+**Mr Dawson**: Does the statement remain true and accurate as at this date.
 
 **Dr McMenamin**: Yes, it does.
 

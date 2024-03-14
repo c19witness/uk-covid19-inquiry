@@ -4,9 +4,7 @@ Transcript of Module 2A Public Hearing on 30 January 2024
 
 **Lady Hallett**: Good morning.
 
-**Mr Dawson**: Good morning, my Lady. The first witness today
-
-is Ms Kate Forbes MSP.
+**Mr Dawson**: Good morning, my Lady. The first witness today is Ms Kate Forbes MSP.
 
 1. Ms Kate Forbes
 =================
@@ -19,11 +17,7 @@ Questions From Lead Counsel to the Inquiry for Module 2A
 
 **Ms Kate Forbes**: I am.
 
-**Lead 2A**: You have helpfully provided a witness statement to
-
-the Inquiry which is under reference INQ000273982, dated
-
-16 November 2023. Is that your statement?
+**Lead 2A**: You have helpfully provided a witness statement to the Inquiry which is under reference INQ000273982, dated 16 November 2023. Is that your statement?
 
 **Ms Kate Forbes**: That is my statement.
 
@@ -31,25 +25,15 @@ the Inquiry which is under reference INQ000273982, dated
 
 **Ms Kate Forbes**: I believe I have signed the statement.
 
-**Lead 2A**: And do the contents of this statement remain true and
-
-accurate as at today's date?
+**Lead 2A**: And do the contents of this statement remain true and accurate as at today's date?
 
 **Ms Kate Forbes**: They do.
 
-**Lead 2A**: You were appointed Cabinet Secretary for Finance on
-
-17 February 2020; is that correct?
+**Lead 2A**: You were appointed Cabinet Secretary for Finance on 17 February 2020; is that correct?
 
 **Ms Kate Forbes**: That is correct.
 
-**Lead 2A**: Until taking the role as Cabinet Secretary, you were
-
-minister for public finance and digital economy. In
-
-that role you had responsibility for fully devolved
-
-taxes; is that correct?
+**Lead 2A**: Until taking the role as Cabinet Secretary, you were minister for public finance and digital economy. In that role you had responsibility for fully devolved taxes; is that correct?
 
 **Ms Kate Forbes**: That's correct.
 
@@ -69,55 +53,25 @@ taxes; is that correct?
 
 **Ms Kate Forbes**: Yes. Up until that point I had primarily been, obviously, responsible for funding the pandemic, but I had taken on quite considerable responsibility for direct business support. So although that would have previously been under the economy portfolio in a sense it continued when I became economy secretary too.
 
-The thing that changed was probably my direct engagement with business, so I increased my direct
-
-engagement with business and with trade unions, and also
-
-took on more responsibility for the guidance that was
-
-being given to businesses and places of work in terms of
-
-how to keep the guidance and the rules around the Covid
-
-pandemic.
+The thing that changed was probably my direct engagement with business, so I increased my direct engagement with business and with trade unions, and also took on more responsibility for the guidance that was being given to businesses and places of work in terms o how to keep the guidance and the rules around the Covid pandemic.
 
 **Lead 2A**: Thank you.
 
-You explain in your statement that you remained in
-
-the role of Cabinet Secretary for Finance and the
-
-Economy for the remainder of the pandemic, indeed you
-
-remained in the role until 28 March 2023; is that
-
-correct?
+You explain in your statement that you remained in the role of Cabinet Secretary for Finance and the Economy for the remainder of the pandemic, indeed you remained in the role until 28 March 2023; is that correct?
 
 **Ms Kate Forbes**: That is correct.
 
 **Lead 2A**: Thank you.
 
-Your appointment to the Cabinet Secretary position
-
-followed on from the sudden resignation of your
-
-predecessor, which took place on the day of the Scottish
-
-budget, 6 February 2020. Is that correct?
+Your appointment to the Cabinet Secretary position followed on from the sudden resignation of your predecessor, which took place on the day of the Scottish budget, 6 February 2020. Is that correct?
 
 **Ms Kate Forbes**: That's correct.
 
-**Lead 2A**: Due to that unforeseen situation, you stepped in to
-
-deliver the Scottish budget that day?
+**Lead 2A**: Due to that unforeseen situation, you stepped in to deliver the Scottish budget that day?
 
 **Ms Kate Forbes**: Correct.
 
-**Lead 2A**: You presumably had had some role in contributing to the
-
-preparation of the budget when you were minister for
-
-public finance and digital economy; is that correct?
+**Lead 2A**: You presumably had had some role in contributing to the preparation of the budget when you were minister for public finance and digital economy; is that correct?
 
 **Ms Kate Forbes**: I would say very little in terms of contributing to the budget.
 
@@ -1191,39 +1145,15 @@ What I would say in terms of balancing those harms, I would say that towards the
 
 **Ms Kate Forbes**: No, it would have been after the election, I would say. I remember trying to implement that shift in summer 2021. I was newly in post, Cabinet Secretary for the economy, and thinking: wait, can we build more of a trust here? And say, "Look, these are the problems that we're trying to resolve, what do you think?" And then taking that into Cabinet.
 
-**Lead 2A**: Do you think it would be fair to say that that --
+**Lead 2A**: Do you think it would be fair to say that that -- although that was obviously a personal initiative on your part, that would be part of a wider government initiative at that stage to try to turn the attentions more on the other harms and away from managing the virus itself, to achieve a better balance?
 
-although that was obviously a personal initiative on
-
-your part, that would be part of a wider government
-
-initiative at that stage to try to turn the attentions
-
-more on the other harms and away from managing the virus
-
-itself, to achieve a better balance?
-
-**Ms Kate Forbes**: Yeah, I think harm 1 obviously continued to be
-
-prioritised but I do think that there was more interest
-
-in proportionality, although that had probably started
-
-to shift in the previous October, I would suggest.
+**Ms Kate Forbes**: Yeah, I think harm 1 obviously continued to be prioritised but I do think that there was more interest in proportionality, although that had probably started to shift in the previous October, I would suggest.
 
 **Mr Dawson**: Thank you.
 
-Those are my questions, my Lady. I don't understand
+Those are my questions, my Lady. I don't understand there are any CP questions.
 
-there are any CP questions.
-
-**Lady Hallett**: I don't think so. Thank you very much
-
-indeed.
-
-Thank you, Ms Forbes, I'm deeply grateful for your
-
-help.
+**Lady Hallett**: I don't think so. Thank you very much indeed. Thank you, Ms Forbes, I'm deeply grateful for your help.
 
 **The Witness**: Thank you.
 

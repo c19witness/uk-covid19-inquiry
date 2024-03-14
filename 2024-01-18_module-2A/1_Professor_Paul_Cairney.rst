@@ -4,9 +4,7 @@ Transcript of Module 2A Public Hearing on 18 January 2024
 
 **Lady Hallett**: Mr Dawson.
 
-**Mr Dawson**: Good morning, my Lady. The next witness this
-
-morning is Professor Paul Cairney.
+**Mr Dawson**: Good morning, my Lady. The next witness this morning is Professor Paul Cairney.
 
 1. Professor Paul Cairney
 =========================
@@ -17,27 +15,11 @@ Questions From Lead Counsel to the Inquiry for Module 2A
 
 **Mr Dawson**: Good morning, Professor Cairney.
 
-If I could ask you, when speaking, to try to speak
-
-into the microphone, it should pick up your voice, but
-
-you're here for a couple of hours at least, I think, so
-
-if you could try to do that so we can hear everything
-
-you're saying, I'd be very grateful.
-
-Professor, you have produced an expert report for
-
-the Inquiry, I think, which is dated 9 January of this
-
-year. Is that right?
+If I could ask you, when speaking, to try to speak into the microphone, it should pick up your voice, but you're here for a couple of hours at least, I think, so if you could try to do that so we can hear everything you're saying, I'd be very grateful. Professor, you have produced an expert report for the Inquiry, I think, which is dated 9 January of this year. Is that right?
 
 **Professor Paul Cairney**: That's right.
 
-**Lead 2A**: And that is under Inquiry reference INQ000274154. You
-
-are familiar with the content of this report?
+**Lead 2A**: And that is under Inquiry reference INQ000274154. You are familiar with the content of this report?
 
 **Professor Paul Cairney**: Yes.
 
@@ -45,11 +27,7 @@ are familiar with the content of this report?
 
 **Professor Paul Cairney**: Yes.
 
-**Lead 2A**: And your position is that this represents your opinion
-
-in connection with matters upon which you were asked to
-
-provide it?
+**Lead 2A**: And your position is that this represents your opinion in connection with matters upon which you were asked to provide it?
 
 **Professor Paul Cairney**: It does.
 
@@ -75,51 +53,23 @@ I'd just like to ask you some questions about your professional background. You'
 
 **Professor Paul Cairney**: That's correct.
 
-**Lead 2A**: You have also published reports, articles and papers
-
-about the Scottish Government and/or the UK Government's
-
-response to the pandemic, all of which I think are
-
-listed in your expert report; is that correct?
+**Lead 2A**: You have also published reports, articles and papers about the Scottish Government and/or the UK Government's response to the pandemic, all of which I think are listed in your expert report; is that correct?
 
 **Professor Paul Cairney**: That's correct.
 
-**Lead 2A**: I'd like to ask you a few broad questions about the
-
-scope of your instruction in preparing your expert
-
-report for us.
-
-Broadly speaking is it correct to say that you were
-
-asked to prepare a report which focused on Scottish
-
-Government decision-making during the pandemic?
+**Lead 2A**: I'd like to ask you a few broad questions about the scope of your instruction in preparing your expert report for us. Broadly speaking is it correct to say that you were asked to prepare a report which focused on Scottish Government decision-making during the pandemic?
 
 **Professor Paul Cairney**: Yes, very much so.
 
-**Lead 2A**: When you prepared your report, you separated the topics
-
-that you separated the issues that you were asked to
-
-address into a number of different topics, I think?
+**Lead 2A**: When you prepared your report, you separated the topics that you separated the issues that you were asked to address into a number of different topics, I think?
 
 **Professor Paul Cairney**: Yes.
 
-**Lead 2A**: Broadly, you were asked, first of all, to look at
-
-Scottish Government decision-making structures which
-
-existed up to and at the time the pandemic started?
+**Lead 2A**: Broadly, you were asked, first of all, to look at Scottish Government decision-making structures which existed up to and at the time the pandemic started?
 
 **Professor Paul Cairney**: Yeah.
 
-**Lead 2A**: And you were asked to look at some of the issues that
-
-arose as regards preparation for an emergency such as
-
-the pandemic in Scotland?
+**Lead 2A**: And you were asked to look at some of the issues that arose as regards preparation for an emergency such as the pandemic in Scotland?
 
 **Professor Paul Cairney**: Yes.
 

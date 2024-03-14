@@ -835,11 +835,7 @@ Thank you, my Lady.
 
 **Lady Hallett**: Thank you very much.
 
-Thank you very much, Mr Mason. I think we've put
-
-you through the difficult task of marking your own
-
-homework for long enough, so thank you for your help.
+Thank you very much, Mr Mason. I think we've put you through the difficult task of marking your own homework for long enough, so thank you for your help.
 
 *(The witness withdrew)*
 

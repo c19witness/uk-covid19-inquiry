@@ -5,29 +5,13 @@
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Mr Poole**: Could you please start by giving us your full
-
-name.
+**Mr Poole**: Could you please start by giving us your full name.
 
 **Mr Simon Hart**: Yes, Simon Anthony Hart.
 
-**Lead 2B**: Mr Hart, thank you for attending today and for your
+**Lead 2B**: Mr Hart, thank you for attending today and for your evidence and assisting the Tribunal.
 
-evidence and assisting the Tribunal.
-
-If I can ask you to just keep your voice up so that
-
-I can hear you, so that everyone hears you, but also so
-
-your evidence can be recorded.
-
-If I do ask you something that you don't understand,
-
-just ask me to rephrase it.
-
-If we could, please, have a look at your witness
-
-statement, please, at INQ000270271.
+If I can ask you to just keep your voice up so that I can hear you, so that everyone hears you, but also so your evidence can be recorded. If I do ask you something that you don't understand, just ask me to rephrase it. If we could, please, have a look at your witness statement, please, at INQ000270271.
 
 That is dated 30 August. Now, we just need to make one correction to that.
 
@@ -45,57 +29,15 @@ You refer in the second and third sentence there to attending a tabletop exercis
 
 **Mr Simon Hart**: Correct.
 
-**Lead 2B**: It's in that capacity, as Secretary of State for Wales, that you were asked to provide a statement to this module. If I can, I would like to ask some general questions about the role of the Secretary of State for Wales and also the Wales Office, before moving on to
-
-explore with you the relationship between the
-
-UK Government and the Welsh Government during the
-
-pandemic.
-
-So during the period with which we are concerned,
-
-namely January 2020 to May 2022, you were the
-
-Secretary of State for Wales and David TC Davies was the
-
-Parliamentary Undersecretary of State for Wales; is that
-
-right?
+**Lead 2B**: It's in that capacity, as Secretary of State for Wales, that you were asked to provide a statement to this module. If I can, I would like to ask some general questions about the role of the Secretary of State for Wales and also the Wales Office, before moving on to explore with you the relationship between the UK Government and the Welsh Government during the pandemic. So during the period with which we are concerned, namely January 2020 to May 2022, you were the Secretary of State for Wales and David TC Davies was the Parliamentary Undersecretary of State for Wales; is that right?
 
 **Mr Simon Hart**: Correct.
 
-**Lead 2B**: You tell us at paragraph 8 of your witness statement
-
-that the office of the Secretary of State Wales has only
-
-a very small number of policy responsibilities, you say
-
-most notably as custodians of the Welsh devolution
-
-settlement, ensuring its smooth and effective operation.
-
-Now, the Inquiry last week heard evidence from
-
-Professor Wincott about the devolution settlement.
-
-I don't want to get into a discussion with you about
-
-devolution. It is right, though, as Secretary of State
-
-for Wales, you were responsible, were you not, for
-
-representing Wales' interests in matters that are
-
-reserved to the UK Government?
+**Lead 2B**: You tell us at paragraph 8 of your witness statement that the office of the Secretary of State Wales has only a very small number of policy responsibilities, you say most notably as custodians of the Welsh devolution settlement, ensuring its smooth and effective operation. Now, the Inquiry last week heard evidence from Professor Wincott about the devolution settlement. I don't want to get into a discussion with you about devolution. It is right, though, as Secretary of State for Wales, you were responsible, were you not, for representing Wales' interests in matters that are reserved to the UK Government?
 
 **Mr Simon Hart**: Correct.
 
-**Lead 2B**: You were also responsible for ensuring that the concerns
-
-and priorities of Wales are taken into account in the
-
-decision-making of the UK Government; is that right?
+**Lead 2B**: You were also responsible for ensuring that the concerns and priorities of Wales are taken into account in the decision-making of the UK Government; is that right?
 
 **Mr Simon Hart**: That's also correct.
 

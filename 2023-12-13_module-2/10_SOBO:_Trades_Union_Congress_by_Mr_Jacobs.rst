@@ -95,25 +95,9 @@ Whilst these oral hearings have focused heavily on events leading to the first l
 
 On a realistic and balanced analysis, the question from late September 2020 was whether to take action earlier or later. It was also known that later would mean longer.
 
-The lesson from the first lockdown had been go
+The lesson from the first lockdown had been go earlier and go harder, but the policy as implemented was to do the opposite. It cost lives and the consequences of a very lengthy later lockdown. My Lady, these matters must be the subject of careful and detailed focus by the Inquiry in its report.
 
-earlier and go harder, but the policy as implemented was
-
-to do the opposite. It cost lives and the consequences
-
-of a very lengthy later lockdown.
-
-My Lady, these matters must be the subject of
-
-careful and detailed focus by the Inquiry in its report.
-
-My Lady, those are the submissions on behalf of the
-
-TUC and its sister organisations. They have been
-
-grateful to have the opportunity to seek to assist you
-
-in this important module of the Inquiry. Thank you.
+My Lady, those are the submissions on behalf of the TUC and its sister organisations. They have been grateful to have the opportunity to seek to assist you in this important module of the Inquiry. Thank you.
 
 **Lady Hallett**: Thank you very much indeed, Mr Jacobs.
 

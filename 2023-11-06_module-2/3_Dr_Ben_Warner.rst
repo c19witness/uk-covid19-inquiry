@@ -1013,9 +1013,7 @@ Lee Cain says:
 
 Then if we can go down two or three more lines, another fortnight or so to 30 October, you say:
 
-"I feel like we have accidentally invented a time
-
-machine."
+"I feel like we have accidentally invented a time machine."
 
 Lee Cain says:
 
@@ -1025,39 +1023,15 @@ And then:
 
 "I can't take this insanity."
 
-Now, so over a period of a month, or a month and
+Now, so over a period of a month, or a month and a half, three short exchanges, you'll see they have similarities, you both seem to be saying and agreeing perhaps that not enough lessons have been learnt from experiences earlier in the year, perhaps that lockdowns October, Lee Cain says:                                               12           should have been ordered earlier.
 
-a half, three short exchanges, you'll see they have
+Can you tell us, if necessary looking at the three exchanges in turn, what you thought around this time and whether these exchanges reflect your thinking or not?
 
-similarities, you both seem to be saying and agreeing
-
-perhaps that not enough lessons have been learnt from
-
-experiences earlier in the year, perhaps that lockdowns October, Lee Cain says:                                               12           should have been ordered earlier.
-
-Can you tell us, if necessary looking at the three
-
-exchanges in turn, what you thought around this time and
-
-whether these exchanges reflect your thinking or not?
-
-**Dr Ben Warner**: So, I mean, I feel these WhatsApps are indicative of
-
-what I was thinking but not necessarily the best
-
-evidence. I think that it's clear in -- can you scroll
-
-up to the top so I just get the dates right?
+**Dr Ben Warner**: So, I mean, I feel these WhatsApps are indicative of what I was thinking but not necessarily the best evidence. I think that it's clear in -- can you scroll up to the top so I just get the dates right?
 
 **Counsel Inquiry**: Yes, so 18 September.
 
-**Dr Ben Warner**: Yeah. So in -- actually earlier than that, if we're
-
-honest, we had a rising problem with infections,
-
-infections were rising. Indeed, I believe if you -- and
-
-so, you know -- and when I say to Lee, "We walked out of
+**Dr Ben Warner**: Yeah. So in -- actually earlier than that, if we're honest, we had a rising problem with infections, infections were rising. Indeed, I believe if you -- and so, you know -- and when I say to Lee, "We walked out of
 
 Covid in June, walked back in today, and literally ..." what I'm saying is that the capabilities that we discussed earlier actually, track and trace, things like that, did not manage to stem the virus, our knowledge of what NPIs were most effective was not that much more advanced. So essentially the decision-making that was occurring -- actually, the one thing I would say here is we do have the ONS infection study. That is an excellent piece of analytical work which actually allows us to be very clear, when we're talking about infections rising. When we talk about "We knew where we were three/four weeks ago", that's predictions off the ONS infection study. This is basically, you know, we are seeing that infections will keep rising until you do something.
 

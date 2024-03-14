@@ -29,13 +29,7 @@ My Lady, they're all my submissions.
 
 I'm afraid my Welsh isn't good enough to say I look forward to seeing you in February and March, but maybe you can give me some lessons, Ms Heaven or Mr Howells. Actually I think I have somebody in the Inquiry who can give me lessons.
 
-Thank you all, and I will rise now until 1.45, when
-
-I'm going to start the Module 2C preliminary hearing.
-
-Anyway, for those who need to know, we'll make sure
-
-a message is there.
+Thank you all, and I will rise now until 1.45, when I'm going to start the Module 2C preliminary hearing. Anyway, for those who need to know, we'll make sure a message is there.
 
 Thank you.
 

@@ -599,55 +599,17 @@ Mr Gardner, I gather there's a question the Children's Commissioner would like a
 
 Questions From Mr Gardner
 
-**Mr Gardner**: Ms Howarth, the Inquiry has just heard from Professor Diamond. I don't need you to turn to it, but in his first statement at paragraph 166 he refers to a school infection survey and notes that that was an England-only study. Are you able to confirm if any
+**Mr Gardner**: Ms Howarth, the Inquiry has just heard from Professor Diamond. I don't need you to turn to it, but in his first statement at paragraph 166 he refers to a school infection survey and notes that that was an England-only study. Are you able to confirm if any equivalent study was taken during Covid relating to Wales?
 
-equivalent study was taken during Covid relating to
+**Ms Stephanie Howarth**: There wasn't an equivalent study in Wales, no. I recall that we had discussions with ONS about their survey to understand how it worked, determine if it might be possible to extend to Wales, but from memory I recall it was quite an expensive survey to get up and running and there wasn't necessarily the funding available to do that.
 
-Wales?
-
-**Ms Stephanie Howarth**: There wasn't an equivalent study in Wales, no. I recall
-
-that we had discussions with ONS about their survey to
-
-understand how it worked, determine if it might be
-
-possible to extend to Wales, but from memory I recall it
-
-was quite an expensive survey to get up and running and
-
-there wasn't necessarily the funding available to do
-
-that.
-
-**Mr Gardner**: So you wouldn't have been involved in risk profiling,
-
-but -- correct me if I'm wrong?
+**Mr Gardner**: So you wouldn't have been involved in risk profiling, but -- correct me if I'm wrong?
 
 **Ms Stephanie Howarth**: No.
 
-**Mr Gardner**: But the result of that would be that those who were
+**Mr Gardner**: But the result of that would be that those who were making decisions about risk profiling wouldn't have had data available to them specifically about schools in Wales, then?
 
-making decisions about risk profiling wouldn't have had
-
-data available to them specifically about schools in
-
-Wales, then?
-
-**Ms Stephanie Howarth**: It depends what data you mean. So they wouldn't have
-
-had that specific data from the infection survey but
-
-there were other sources of data. Colleagues in
-
-Swansea University, for example, had linked together
-
-a range of data to understand transmission in schools.
-
-So there were a range of different data sources but the
-
-school infection survey run by ONS was an England-only
-
-survey.
+**Ms Stephanie Howarth**: It depends what data you mean. So they wouldn't have had that specific data from the infection survey but there were other sources of data. Colleagues in Swansea University, for example, had linked together a range of data to understand transmission in schools. So there were a range of different data sources but the school infection survey run by ONS was an England-only survey.
 
 **Mr Gardner**: I'm grateful. Thank you, my Lady.
 
@@ -671,43 +633,21 @@ I think it might also be useful to add that we shared data from the Welsh Govern
 
 **Counsel Inquiry**: Sticking with the ONS data, would earlier figures that may not have included care home deaths have been updated retrospectively when the complete ONS data was received?
 
-**Ms Stephanie Howarth**: So I'm not an expert in ONS's mortality data but my
+**Ms Stephanie Howarth**: So I'm not an expert in ONS's mortality data but my understanding is it should cover all deaths that have a death certificate. So that would be regardless of where the death occurred, so they should all be in there, is my understanding.
 
-understanding is it should cover all deaths that have
+**Counsel Inquiry**: Forgive me, I think the question simply is about whether earlier figures would ever be corrected to account for later figures?
 
-a death certificate. So that would be regardless of
-
-where the death occurred, so they should all be in
-
-there, is my understanding.
-
-**Counsel Inquiry**: Forgive me, I think the question simply is about whether
-
-earlier figures would ever be corrected to account for
-
-later figures?
-
-**Ms Stephanie Howarth**: I'm not clear on how the ONS mortality data works, but
-
-I imagine that there would be updates for any late
-
-returns, for example, or delays in registration that
-
-were received.
+**Ms Stephanie Howarth**: I'm not clear on how the ONS mortality data works, but I imagine that there would be updates for any late returns, for example, or delays in registration that were received.
 
 **Ms Spector**: I'm grateful, my Lady.
 
 **Lady Hallett**: Thank you very much indeed, Ms Spector.
 
-Thank you very much indeed for your help, I'm very
-
-grateful to you.
+Thank you very much indeed for your help, I'm very grateful to you.
 
 **The Witness**: Thank you.
 
-**Lady Hallett**: We'll break now, I think, we might as well
-
-between witnesses, and I shall return at 3.15.
+**Lady Hallett**: We'll break now, I think, we might as well between witnesses, and I shall return at 3.15.
 
 *(3.00 pm)*
 

@@ -43,29 +43,13 @@ My Lady, that's all I say by way of response.
 
 **Lady Hallett**: Thank you very much indeed, Mr Poole.
 
-That concludes this afternoon's preliminary hearing. I would like to thank everyone who has attended and those who have watched online. And particularly I would like to thank those who have contributed. We have again
-
-said before, this is an extraordinarily complex Inquiry
-
-with a huge range of various challenges, and I feel
-
-increasingly optimistic that with the kind of support
-
-and constructive suggestions that I have been receiving
-
-over the last couple of days from core participants,
-
-then we may be able to achieve the aims that I have set
-
-out before.
+That concludes this afternoon's preliminary hearing. I would like to thank everyone who has attended and those who have watched online. And particularly I would like to thank those who have contributed. We have again said before, this is an extraordinarily complex Inquiry with a huge range of various challenges, and I feel increasingly optimistic that with the kind of support and constructive suggestions that I have been receiving over the last couple of days from core participants, then we may be able to achieve the aims that I have set out before.
 
 So thank you, everybody, for all that you have said.
 
 I will bear everything very much in mind and, I think
 
-I said yesterday, I do have an open mind and the team
-
-will be flexible, I can assure you of that.
+I said yesterday, I do have an open mind and the team will be flexible, I can assure you of that.
 
 Thank you very much indeed.
 

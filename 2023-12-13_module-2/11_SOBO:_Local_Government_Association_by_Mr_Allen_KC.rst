@@ -5,25 +5,13 @@
 
 **Lady Hallett**: Is the microphone on?
 
-**Mr Allen**: No -- it will be. I think you probably heard me
-
-anyway.
+**Mr Allen**: No -- it will be. I think you probably heard me anyway.
 
 **Lady Hallett**: I did.
 
-**Mr Allen**: I shall start with a word, if I may, about future
+**Mr Allen**: I shall start with a word, if I may, about future modules.
 
-modules.
-
-The LGA wishes, if possible, to be
-
-a core participant in those modules that look more
-
-deeply into social care and test and trace, and there's
-
-much more detail to be explored in relation to those
-
-topics than can be covered in this module, or indeed in these closing submissions. So these submissions will not cover those issues in the depth that they will deserve in a later examination.
+The LGA wishes, if possible, to be a core participant in those modules that look more deeply into social care and test and trace, and there's much more detail to be explored in relation to those topics than can be covered in this module, or indeed in these closing submissions. So these submissions will not cover those issues in the depth that they will deserve in a later examination.
 
 The focus of the oral evidence for much of this module has been on the often chaotic and, it seems, consistently poor internal workings of national governance. But that is by no means the limit to the issue that this module has to consider about structure of governance.
 

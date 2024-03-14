@@ -4,9 +4,7 @@ Transcript of Module 2A Public Hearing on 29 January 2024
 
 **Lady Hallett**: Good morning.
 
-**Mr Dawson**: Good morning, my Lady. The first witness this
-
-morning is the Right Honourable Michael Gove MP.
+**Mr Dawson**: Good morning, my Lady. The first witness this morning is the Right Honourable Michael Gove MP.
 
 1. Mr Michael Gove
 ==================
@@ -15,15 +13,11 @@ morning is the Right Honourable Michael Gove MP.
 
 Questions From Lead Counsel to the Inquiry for Module 2A
 
-**Lady Hallett**: Mr Gove, I'm sorry that we have had to call
-
-you back again.
+**Lady Hallett**: Mr Gove, I'm sorry that we have had to call you back again.
 
 **The Witness**: Not at all.
 
-**Lady Hallett**: I do understand the difficulties it may
-
-cause, but it was necessary, I'm afraid.
+**Lady Hallett**: I do understand the difficulties it may cause, but it was necessary, I'm afraid.
 
 **The Witness**: Of course. Thank you.
 
@@ -31,15 +25,9 @@ cause, but it was necessary, I'm afraid.
 
 **Mr Michael Gove**: Yes.
 
-**Lead 2A**: You have helpfully provided a number of statements to
+**Lead 2A**: You have helpfully provided a number of statements to the Inquiry, but two particularly to this module. The first, if we could have it up, please, is INQ000371583.
 
-the Inquiry, but two particularly to this module. The
-
-first, if we could have it up, please, is INQ000371583.
-
-It's a statement dated 14 December 2023. Is that your
-
-statement?
+It's a statement dated 14 December 2023. Is that your statement?
 
 **Mr Michael Gove**: It is.
 
@@ -47,9 +35,7 @@ statement?
 
 **Mr Michael Gove**: Yes.
 
-**Lead 2A**: Do the contents of that statement remain true and
-
-accurate as far as you're concerned?
+**Lead 2A**: Do the contents of that statement remain true and accurate as far as you're concerned?
 
 **Mr Michael Gove**: Yes.
 
@@ -83,57 +69,23 @@ You're a member of the UK Parliament for Surrey Heath?
 
 **Mr Michael Gove**: Yes.
 
-**Lead 2A**: In your statement, you explain that you became
-
-significantly less involved in any aspect of the
-
-pandemic response after September 2021; is that broadly
-
-correct?
+**Lead 2A**: In your statement, you explain that you became significantly less involved in any aspect of the pandemic response after September 2021; is that broadly correct?
 
 **Mr Michael Gove**: Yes, it is.
 
-**Lead 2A**: In the period between January 2020 and September 2021,
-
-you were the Chancellor of the Duchy of Lancaster?
+**Lead 2A**: In the period between January 2020 and September 2021, you were the Chancellor of the Duchy of Lancaster?
 
 **Mr Michael Gove**: Yes.
 
-**Lead 2A**: From mid-February 2020 you became Minister for the
-
-Cabinet Office?
+**Lead 2A**: From mid-February 2020 you became Minister for the Cabinet Office?
 
 **Mr Michael Gove**: Yes.
 
-**Lead 2A**: And after September 2021, you continued to have contact
-
-with the devolved administrations, including the
-
-Scottish Government, in your post as minister for
-
-intergovernmental relations, but not in the context of
-
-the pandemic response; is that correct?
+**Lead 2A**: And after September 2021, you continued to have contact with the devolved administrations, including the Scottish Government, in your post as minister for intergovernmental relations, but not in the context of the pandemic response; is that correct?
 
 **Mr Michael Gove**: That is correct.
 
-**Lead 2A**: As I say, you've given evidence already in connections
-
-with modules 1 and 2, both in statement form and in oral
-
-evidence. You are here today to give evidence in
-
-relation to the Scottish Government's decision-making
-
-and, indeed, the UK Government's decision-making insofar
-
-as it related to Scotland. I understand that you
-
-performed a role during the course of the pandemic as
-
-the minister in the UK Government who acted as something
-
-of a conduit between the two governments. Would that be fair?
+**Lead 2A**: As I say, you've given evidence already in connections with modules 1 and 2, both in statement form and in oral evidence. You are here today to give evidence in relation to the Scottish Government's decision-making and, indeed, the UK Government's decision-making insofar as it related to Scotland. I understand that you performed a role during the course of the pandemic as the minister in the UK Government who acted as something of a conduit between the two governments. Would that be fair?
 
 **Mr Michael Gove**: Yes, it would.
 
@@ -1215,31 +1167,9 @@ Thank you very much indeed, Mr Gove. I hope we won't have to call upon you again
 
 On Friday 19 January the Inquiry heard evidence from Dr Jim McMenamin, as your Ladyship will recall, who had previously provided the Inquiry with a witness statement and accompanying documentation, including some WhatsApp messages. An extract of those WhatsApp messages was put to Jason Leitch on 23 March and subsequently published on the Inquiry's website the same day. The specific extract is from INQ000268025.
 
-In the published extract, the formatting of the messages may make it appear as though Dr McMenamin is agreeing to a suggested deletion of WhatsApp messages. Our interpretation is that this is not the case. Dr McMenamin was replying to another message earlier in the chain of correspondence not shown in the extracted
-
-text. The formatting of this WhatsApp message for
-
-presentation in evidence makes the message appear
-
-chronologically and does not illustrate direct responses
-
-to other messages out of sequence in the chain of
-
-correspondence. For the avoidance of doubt I wish to
-
-make sure that the evidence shows that Dr McMenamin did
-
-not delete any messages. It is in fact Dr McMenamin who
-
-provided the Inquiry with the WhatsApp messages
-
-contained within that document via his employer, Public
-
-Health Scotland.
+In the published extract, the formatting of the messages may make it appear as though Dr McMenamin is agreeing to a suggested deletion of WhatsApp messages. Our interpretation is that this is not the case. Dr McMenamin was replying to another message earlier in the chain of correspondence not shown in the extracted text. The formatting of this WhatsApp message for presentation in evidence makes the message appear chronologically and does not illustrate direct responses to other messages out of sequence in the chain of correspondence. For the avoidance of doubt I wish to make sure that the evidence shows that Dr McMenamin did not delete any messages. It is in fact Dr McMenamin who provided the Inquiry with the WhatsApp messages contained within that document via his employer, Public Health Scotland.
 
 **Lady Hallett**: Thank you very much, Mr Dawson.
 
-**Mr Dawson**: Thank you, my Lady. The witness this afternoon
-
-is Ms Jeane Freeman OBE.
+**Mr Dawson**: Thank you, my Lady. The witness this afternoon is Ms Jeane Freeman OBE.
 

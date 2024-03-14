@@ -17,39 +17,11 @@ Sir Frank.
 
 **The Witness**: Pleasure.
 
-**Mr Poole**: Could you please start by giving us your full
+**Mr Poole**: Could you please start by giving us your full name.
 
-name.
+**Sir Frank Atherton**: Yeah, I'm Dr Frank Atherton, Sir Frank Atherton, the Chief Medical Officer for Wales.
 
-**Sir Frank Atherton**: Yeah, I'm Dr Frank Atherton, Sir Frank Atherton, the
-
-Chief Medical Officer for Wales.
-
-**Lead 2B**: Sir Frank, thank you for attending today and assisting
-
-the Inquiry. If I could ask you whilst you're giving
-
-your evidence to keep your voice up so we can hear you,
-
-but also so it can be recorded.
-
-Sir Frank, you have provided a witness statement for
-
-Module 1 of this Inquiry. You gave evidence also at
-
-Module 1 and you've provided a witness statement for
-
-this module, which is dated 18 December 2023, and we see
-
-it on screen under INQ000391115.
-
-We don't need to go to it, but at page 70 of that
-
-witness statement you have signed it, and are the
-
-contents of that statement true to the best of your
-
-knowledge and belief?
+**Lead 2B**: Sir Frank, thank you for attending today and assisting the Inquiry. If I could ask you whilst you're giving your evidence to keep your voice up so we can hear you, but also so it can be recorded. Sir Frank, you have provided a witness statement for Module 1 of this Inquiry. You gave evidence also at Module 1 and you've provided a witness statement for this module, which is dated 18 December 2023, and we see it on screen under INQ000391115. We don't need to go to it, but at page 70 of that witness statement you have signed it, and are the contents of that statement true to the best of your knowledge and belief?
 
 **Sir Frank Atherton**: They are.
 
@@ -63,55 +35,15 @@ knowledge and belief?
 
 **Lead 2B**: As regards your professional background, you studied medicine at Leeds University, followed which you worked in a broad range of medical areas, in particular paediatrics. You then completed your training in general practice. You worked as director of public health in Lancashire and Cumbria between 1 August 2002 and 1 May 2012. And you served as president of the Association of Directors of Public Health between 1 August 2008 and 1 May 2012. I understand you were also Deputy Chief Medical Officer for Health in Nova Scotia between 1 May 2012 to 1 August 2016, so
 
-I think it's right to say you have a long and
-
-distinguished career in the field of public health and
-
-medicine.
+I think it's right to say you have a long and distinguished career in the field of public health and medicine.
 
 **Sir Frank Atherton**: Thank you.
 
-**Lead 2B**: Just some questions, if I may, to start with the role of
+**Lead 2B**: Just some questions, if I may, to start with the role of the Chief Medical Officer for Wales. I'm right, aren't I, that although the CMO is a member of Welsh Government staff, and as such bound by the Civil Service Code, in practice you are afforded a high degree of independence when you come to advise the Welsh Government and a high degree of separation from their day-to-day concerns; is that right?
 
-the Chief Medical Officer for Wales.
+**Sir Frank Atherton**: That's right, yeah. By custom and practice I do have a degree of independence which some other civil servants perhaps don't enjoy.
 
-I'm right, aren't I, that although the CMO is
-
-a member of Welsh Government staff, and as such bound by
-
-the Civil Service Code, in practice you are afforded
-
-a high degree of independence when you come to advise
-
-the Welsh Government and a high degree of separation
-
-from their day-to-day concerns; is that right?
-
-**Sir Frank Atherton**: That's right, yeah. By custom and practice I do have
-
-a degree of independence which some other civil servants
-
-perhaps don't enjoy.
-
-**Lead 2B**: If we can, please, have on screen INQ000668086.
-
-Sir Frank I think this is page 72 in your bundle if
-
-you would rather hard copy.
-
-This is an organisational chart of the Welsh
-
-Government as at November 2019, so just going into the
-
-pandemic. We can see the four director generals, and
-
-underneath Andrew Goodall, who at the time was director
-
-general of Health and Social Services Group, we can see
-
-the CMO post there.
-
-At the start of the pandemic, you therefore reported to Dr Andrew Goodall as director general of the HSSG; is that right?
+**Lead 2B**: If we can, please, have on screen INQ000668086. Sir Frank I think this is page 72 in your bundle if you would rather hard copy. This is an organisational chart of the Welsh Government as at November 2019, so just going into the pandemic. We can see the four director generals, and underneath Andrew Goodall, who at the time was director general of Health and Social Services Group, we can see the CMO post there. At the start of the pandemic, you therefore reported to Dr Andrew Goodall as director general of the HSSG; is that right?
 
 **Sir Frank Atherton**: That's correct, yeah.
 
@@ -983,45 +915,13 @@ Questions From Ms Foubister
 
 **Ms Foubister**: Thank you, my Lady.
 
-Good morning, Sir Frank, I represent John's Campaign
+Good morning, Sir Frank, I represent John's Campaign and Care Rights UK. In May 2020 you expressed a concern about indirect harm caused to young people and socially disadvantaged groups in particular, and you suggested more information was needed. Did you take any steps to investigate indirect harms relating to other groups such as those suffering from dementia or those suffering from non-Covid medical conditions?
 
-and Care Rights UK.
+**Sir Frank Atherton**: I'm sorry, when you say I expressed a concern, where did I express that concern? And can you --
 
-In May 2020 you expressed a concern about indirect
+**Ms Foubister**: So my reference is to paragraph 160 of your witness statement. Perhaps we can pull it up or I can read out what you say. About halfway down paragraph 160 you said:
 
-harm caused to young people and socially disadvantaged
-
-groups in particular, and you suggested more information
-
-was needed. Did you take any steps to investigate
-
-indirect harms relating to other groups such as those
-
-suffering from dementia or those suffering from
-
-non-Covid medical conditions?
-
-**Sir Frank Atherton**: I'm sorry, when you say I expressed a concern, where did
-
-I express that concern? And can you --
-
-**Ms Foubister**: So my reference is to paragraph 160 of your witness
-
-statement. Perhaps we can pull it up or I can read out
-
-what you say.
-
-About halfway down paragraph 160 you said:
-
-"I informed Ministers [this is around 7 May 2020, at
-
-one of the 21-day reviews] that I was concerned about
-
-indirect harms, especially for the young and for
-
-socially disadvantaged groups and I suggested that we
-
-needed more information on the nature of the indirect harm to these groups for future reviews."
+"I informed Ministers [this is around 7 May 2020, at one of the 21-day reviews] that I was concerned about indirect harms, especially for the young and for socially disadvantaged groups and I suggested that we needed more information on the nature of the indirect harm to these groups for future reviews."
 
 So my question is around what other groups you were considering, in particular those suffering from dementia or other non-Covid medical conditions, and what steps you took to think about and investigate indirect harms for those groups?
 
@@ -1043,15 +943,11 @@ Does that complete the questions for Sir Frank?
 
 **Lady Hallett**: Thank you for your help, Sir Frank.
 
-I'm afraid I can't, again, give you a guarantee I won't
-
-ask for your help again --
+I'm afraid I can't, again, give you a guarantee I won't ask for your help again --
 
 **The Witness**: Thank you, my Lady.
 
-**Lady Hallett**: -- because of course we have the health
-
-module to come, but thank you for your help so far.
+**Lady Hallett**: -- because of course we have the health module to come, but thank you for your help so far.
 
 **The Witness**: Thank you.
 

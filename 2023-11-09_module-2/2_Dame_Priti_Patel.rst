@@ -537,53 +537,15 @@ So striking the balance, difficult. I think at the time it felt very uncomfortab
 
 I recall throughout that time, and I think in particular with regards to the Black Lives Matter protests, and it may be the one that took place on telegraphing, communicating publicly, you know, "Please be respectful if you're protesting, because there's a pandemic, there is a health pandemic taking place, and, you know, we are restricting people's movements because of public health considerations".
 
-**Lead Inquiry**: Precisely, if I may say so. The regulations at that time, I think from a certain amount of research, the Health Protection (Coronavirus, Restrictions) amendment regulations in general terms prohibited outdoor gatherings of more than six. I therefore want to ask you about the discomfort to which you have just referred, because in a tweet on 6 June you tweeted:
-
-"Protests must be peaceful and in accordance with
-
-social distancing rules."
-
-Which rather tended to imply that it was possible to
-
-have a protest in accordance with social distancing
-
-rules, which in fact wasn't possible because you can't
-
-protest meaningfully with more(sic) than six people.
-
-Then in a Telegraph op-ed on 8 June, you said any
-
-large gatherings of people are unlawful. So from the
-
-standpoint of a potential protester, you do appear there
-
-to be speaking with two voices.
+**Lead Inquiry**: Precisely, if I may say so. The regulations at that time, I think from a certain amount of research, the Health Protection (Coronavirus, Restrictions) amendment regulations in general terms prohibited outdoor gatherings of more than six. I therefore want to ask you about the discomfort to which you have just referred, because in a tweet on 6 June you tweeted: "Protests must be peaceful and in accordance with social distancing rules." Which rather tended to imply that it was possible to have a protest in accordance with social distancing rules, which in fact wasn't possible because you can't protest meaningfully with more(sic) than six people. Then in a Telegraph op-ed on 8 June, you said any large gatherings of people are unlawful. So from the standpoint of a potential protester, you do appear there to be speaking with two voices.
 
 **Dame Patel**: There's inconsistency there.
 
-**Lead Inquiry**: There is. June -- it may be, I'm not saying it is -- even                      13      A.   Yes, I can see that.
+**Lead Inquiry**: There is. June -- it may be, I'm not saying it is -- even                      13      A.   Yes, I can see that. I do also recall, though, through the discussions that took place, and this is very specific to Black Lives Matters, and possibly the team with the Metropolitan Police, because the main protest took place in London, they in particular were focusing on the need to social distance throughout that protest.
 
-I do also recall, though, through the discussions
+**Lead Inquiry**: The position was reached, was it not, as we saw in the WhatsApp from Lord Frost -- and we'll just have it put up, INQ000236372, page 86.
 
-that took place, and this is very specific to Black
-
-Lives Matters, and possibly the team with
-
-the Metropolitan Police, because the main protest took
-
-place in London, they in particular were focusing on the
-
-need to social distance throughout that protest.
-
-**Lead Inquiry**: The position was reached, was it not, as we saw in the
-
-WhatsApp from Lord Frost -- and we'll just have it put
-
-up, INQ000236372, page 86.
-
-This is a WhatsApp communication in the specific
-
-context of the Sarah Everard vigil, I think on 13 March.
+This is a WhatsApp communication in the specific context of the Sarah Everard vigil, I think on 13 March.
 
 Yes. So the High Court ruled on the lawfulness of the Metropolitan Police's declaration that the vigil would be unlawful, and it did so on 12 and 13 March, and then the protest took place in the evening of 13 March, notwithstanding that High Court ruling, and of course the police then arrested, as we know, to large numbers of people's distress -- the arrests of the persons who had attended.
 

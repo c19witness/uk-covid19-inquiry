@@ -91,27 +91,11 @@ My list of CPs attending remotely was incomplete and I apologise to Public Healt
 
 My apologies to Public Health Scotland and to Mr Bowie. They will most definitely be included. Thank you.
 
-That completes all the submissions that I shall hear today, and with the assistance of Counsel to the Inquiry I shall consider them all carefully, as I've indicated,
+That completes all the submissions that I shall hear today, and with the assistance of Counsel to the Inquiry I shall consider them all carefully, as I've indicated, and then make any determinations where they are necessary.
 
-and then make any determinations where they are
+I'm very grateful to everyone who's either attended here in person or has followed us online, and again, as
 
-necessary.
-
-I'm very grateful to everyone who's either attended
-
-here in person or has followed us online, and again, as
-
-I've already indicated, I'm extremely grateful to all
-
-those who have provided both written and oral
-
-submissions, and none of them will be wasted, I can
-
-assure you. Even if they raise issues that I have
-
-already determined, I will revisit them and, I promise
-
-you, review them.
+I've already indicated, I'm extremely grateful to all those who have provided both written and oral submissions, and none of them will be wasted, I can assure you. Even if they raise issues that I have already determined, I will revisit them and, I promise you, review them.
 
 Thank you all very much indeed.
 

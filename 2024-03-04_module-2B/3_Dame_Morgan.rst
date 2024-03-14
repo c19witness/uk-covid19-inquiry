@@ -5,39 +5,11 @@
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Mr Poole**: Could you please start by giving us your full
-
-name.
+**Mr Poole**: Could you please start by giving us your full name.
 
 **Dame Morgan**: My name is Shan Elizabeth Morgan.
 
-**Lead 2B**: As you give your evidence this afternoon, if I could ask
-
-you to keep your voice up so that we can hear you but
-
-also so that your evidence can be recorded. If I ask
-
-you anything you don't understand, please do ask me to
-
-rephrase it.
-
-Dame Shan, you have provided a witness statement to
-
-this module, we have it there on the display, you've
-
-signed that on 13 December last year. I was going to
-
-say, are the contents true to the best of your knowledge
-
-and belief, but before I do that, I think you need to
-
-make a couple of corrections, if I just walk you through
-
-those.
-
-If we can, sorry, have page 18 of the witness statement up, just see if those have been made already.
-
-No they haven't.
+**Lead 2B**: As you give your evidence this afternoon, if I could ask you to keep your voice up so that we can hear you but also so that your evidence can be recorded. If I ask you anything you don't understand, please do ask me to rephrase it. Dame Shan, you have provided a witness statement to this module, we have it there on the display, you've signed that on 13 December last year. I was going to say, are the contents true to the best of your knowledge and belief, but before I do that, I think you need to make a couple of corrections, if I just walk you through those. If we can, sorry, have page 18 of the witness statement up, just see if those have been made already. No they haven't.
 
 Now I understand that the meetings you refer to these paragraphs, so paragraphs 60, 61 and 62 as being hosted by Mark Sedwill, which you refer to as Covid-O meetings, were in fact Cabinet Secretary meetings, not Covid-O meetings, and you did not attend any Covid-O meetings; is that right?
 

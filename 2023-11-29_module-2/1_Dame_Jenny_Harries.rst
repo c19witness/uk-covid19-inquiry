@@ -325,9 +325,7 @@ We will note here, paragraph 8.125, and then we'll look at the next paragraph as
 
 **Counsel Inquiry**: But you say here that as it developed it reflected the developing scientific understanding at any given time. You say:
 
-"The initial position was that outside healthcare settings, the use of face-coverings for people who did not have COVID-19 in community settings was unlikely to have a significant impact and was not recommended ..."
-
-and you give references to NERVTAG and so on, and then also a reference to SAGE.
+"The initial position was that outside healthcare settings, the use of face-coverings for people who did not have COVID-19 in community settings was unlikely to have a significant impact and was not recommended ..." and you give references to NERVTAG and so on, and then also a reference to SAGE.
 
 If we can go on to look at the next paragraph, please, you say that:
 

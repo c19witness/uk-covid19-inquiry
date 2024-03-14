@@ -5,13 +5,7 @@
 
 Inquiry, I represent the Local Government Association.
 
-Scrutinising when the pandemic was at its height,
-
-the LGA applied to become a core participant for two
-
-reasons: it represents the collected voice of local
-
-government, with over 99% of the English principal local authorities; and councils played an absolutely major role in bringing the country through the pandemic.
+Scrutinising when the pandemic was at its height, the LGA applied to become a core participant for two reasons: it represents the collected voice of local government, with over 99% of the English principal local authorities; and councils played an absolutely major role in bringing the country through the pandemic.
 
 During Module 1 it was widely acknowledged the nation's preparedness and resilience plans were ill focused and inadequate, and in this module the Inquiry will look at how those preparations were deployed and how government at all levels made policy under pressure and then operationalised it.
 
@@ -75,25 +69,7 @@ My Lady, the fifth and last aspect I want to mention concerns social care both a
 
 Yet while such a mutual relationship seems to have operated between the government and the NHS, the relationship between central and local government in respect of the responsibilities for social care, both at home and in care homes, was in no sense comparable. In short, it seems that central government did not really know how to address the 18,000 providers and 150 local authorities concerned with social care. Thus, adult social care settings suffered severe problems from lack of PPE, from cross-infection, and from high morbidity.
 
-Thus the arrangements for the funding, organisation and deployment of PPE for social care were far slower for social care than for the NHS. And thus consideration and treatment of the social care sector was at times late and piecemeal, with an overall
-
-governmental failure to offer those involved in this
-
-sector, whether staff or care recipients, equality of
-
-esteem with the NHS.
-
-The LGA urges this Inquiry to highlight
-
-the importance in any future similar crisis of
-
-addressing the needs of and the risks in the social care
-
-sector on a basis of equality with its approach to the
-
-NHS. Protecting those in social care must never be
-
-an afterthought. It is a matter of absolutely equal priority.
+Thus the arrangements for the funding, organisation and deployment of PPE for social care were far slower for social care than for the NHS. And thus consideration and treatment of the social care sector was at times late and piecemeal, with an overall governmental failure to offer those involved in this sector, whether staff or care recipients, equality of esteem with the NHS. The LGA urges this Inquiry to highlight the importance in any future similar crisis of addressing the needs of and the risks in the social care sector on a basis of equality with its approach to the NHS. Protecting those in social care must never be an afterthought. It is a matter of absolutely equal priority.
 
 My Lady, thank you, we look forward to assisting during this module.
 

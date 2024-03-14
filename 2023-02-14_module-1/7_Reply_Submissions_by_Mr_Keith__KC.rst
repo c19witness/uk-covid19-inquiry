@@ -55,43 +55,7 @@ My Lady, those are all the matters that I would wish to raise by way of reply su
 
 **Lady Hallett**: Thank you very much, Mr Keith. I'm very grateful.
 
-Thank you to everybody who has attended and who
-
-has provided helpful submissions. I've now said several
-
-times that I am very grateful and I will consider those
-
-submissions carefully. Two matters that I must make
-
-a decision on as soon as I can: one, whether or not we
-
-have a third preliminary hearing as suggested by
-
-a number of the participants, particularly Ms Gallagher;
-
-and also whether or not I move the proposed start date
-
-from May until June. I know that people need to make
-
-arrangements, they need to know my decision on those
-
-issues as soon as possible, and so those are definitely
-
-matters that I will be making public as soon as I'm in
-
-a position to do so.
-
-Other matters may be taken in rather slower time.
-
-Some matters may not need to be ruled upon at this stage
-
-but I will also make sure that any decisions are made
-
-public as soon as I have completed them.
-
-So thank you to everybody again and that concludes
-
-this second preliminary hearing into Module 1.
+Thank you to everybody who has attended and who has provided helpful submissions. I've now said several times that I am very grateful and I will consider those submissions carefully. Two matters that I must make a decision on as soon as I can: one, whether or not we have a third preliminary hearing as suggested by a number of the participants, particularly Ms Gallagher; and also whether or not I move the proposed start date from May until June. I know that people need to make arrangements, they need to know my decision on those issues as soon as possible, and so those are definitely matters that I will be making public as soon as I'm in a position to do so. Other matters may be taken in rather slower time. Some matters may not need to be ruled upon at this stage but I will also make sure that any decisions are made public as soon as I have completed them. So thank you to everybody again and that concludes this second preliminary hearing into Module 1.
 
 Thank you.
 

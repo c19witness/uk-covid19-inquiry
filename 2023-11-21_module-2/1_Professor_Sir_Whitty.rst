@@ -389,55 +389,11 @@ There has been some suggestion from some quarters that there was an absence of p
 
 That doesn't mean that there weren't different and perfectly legitimately different responses to the pandemic at an operational or political and other areas, so I'm not claiming this was identical across the UK, it clearly wasn't, but I think at a technical level we did whatever we could to ensure that the advice was shared and also tested across the UK, and I think that was actually a real strength.
 
-**Lead Inquiry**: As a matter of interest, it's obvious that there were, well, a very large number of meetings from that process, do you recall whether or not your various
+**Lead Inquiry**: As a matter of interest, it's obvious that there were, well, a very large number of meetings from that process, do you recall whether or not your various meetings with the other UK CMOs were minuted?
 
-meetings with the other UK CMOs were minuted?
+**Professor Sir Whitty**: We had -- essentially we met in kind of three different ways. There were some -- there was just informal discussions, there were formal things where we were trying to come to a decision, and essentially that either ended up with a minute or it might end up with a joint letter, but that essentially is the minute of "these are the positions we've taken". And then there were discussion groups, of which the most -- probably the most prominent was something called the senior clinicians group, which I chaired, and that didn't just have CMOs, it also had people from the NHS at some points, it had chief nurses and others, so this was very much not a decision-making -- it was for just people to share information principally. But these were -- you know, where a decision was taken then there would be a formal record of it, and that I think was the key point about this.
 
-**Professor Sir Whitty**: We had -- essentially we met in kind of three different
-
-ways. There were some -- there was just informal
-
-discussions, there were formal things where we were
-
-trying to come to a decision, and essentially that
-
-either ended up with a minute or it might end up with
-
-a joint letter, but that essentially is the minute of
-
-"these are the positions we've taken". And then there
-
-were discussion groups, of which the most -- probably
-
-the most prominent was something called the senior
-
-clinicians group, which I chaired, and that didn't just
-
-have CMOs, it also had people from the NHS at some
-
-points, it had chief nurses and others, so this was very
-
-much not a decision-making -- it was for just people to
-
-share information principally. But these were --
-
-you know, where a decision was taken then there would be
-
-a formal record of it, and that I think was the key
-
-point about this.
-
-**Lead Inquiry**: Moving on to another part of the system, Public Health
-
-England. You say in your statement that, because you
-
-were asked to comment on the effectiveness of Public
-
-Health England, that it did play to its considerable
-
-scientific strengths in January and February, and January 2020 onwards. In terms of the formality of                      24           of course we remind ourselves that it was in January
-
-that it created, at great pace, a PCR diagnostic test for SARS-CoV-2, but that operationally it struggled thereafter to scale up the system of testing based upon the diagnostic test that it had invented; is that a fair summary?
+**Lead Inquiry**: Moving on to another part of the system, Public Health England. You say in your statement that, because you were asked to comment on the effectiveness of Public Health England, that it did play to its considerable scientific strengths in January and February, and January 2020 onwards. In terms of the formality of                      24           of course we remind ourselves that it was in January that it created, at great pace, a PCR diagnostic test for SARS-CoV-2, but that operationally it struggled thereafter to scale up the system of testing based upon the diagnostic test that it had invented; is that a fair summary?
 
 **Professor Sir Whitty**: That is a fair summary.
 

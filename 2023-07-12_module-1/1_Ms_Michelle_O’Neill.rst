@@ -61,31 +61,13 @@ Ms O'Neill, may I start, please, with an account of your positions in the Northe
 
 **Ms Michelle O’Neill**: That is correct.
 
-**Lead Inquiry**: In February 2022, you once again lost your position as deputy First Minister because Mr Givan resigned as the First Minister, in relation to, I think, arguments about the Northern Ireland Protocol. There was then a set of
-
-elections on 5 May, Northern Ireland Assembly elections,
-
-but it wasn't possible thereafter for the Executive and
-
-Assembly to be re-formed for further political reasons
-
-relating to the Assembly process.
+**Lead Inquiry**: In February 2022, you once again lost your position as deputy First Minister because Mr Givan resigned as the First Minister, in relation to, I think, arguments about the Northern Ireland Protocol. There was then a set of elections on 5 May, Northern Ireland Assembly elections, but it wasn't possible thereafter for the Executive and Assembly to be re-formed for further political reasons relating to the Assembly process.
 
 **Ms Michelle O’Neill**: Again, that's correct.
 
-**Lead Inquiry**: So is that a fair summary of the position, rather
+**Lead Inquiry**: So is that a fair summary of the position, rather complex as it is?
 
-complex as it is?
-
-I want to ask you about the unique constitutional
-
-position of the Northern Ireland Assembly and the
-
-Executive Office.
-
-Both are institutions, are they not, which came into
-
-existence as a result of the Good Friday Agreement, the
+I want to ask you about the unique constitutional position of the Northern Ireland Assembly and the Executive Office. Both are institutions, are they not, which came into existence as a result of the Good Friday Agreement, the
 
 Good Friday 1998 agreement, and the Northern Ireland Act June 2021 when Baroness Foster, from whom we heard                    14           1998 which followed; is that correct?
 
@@ -99,17 +81,7 @@ I answer the questions?
 
 **Lady Hallett**: Well, provided they're pertinent, yes.
 
-**Ms Michelle O’Neill**: Okay. May I first just say that I'm grateful to be here
-
-and to assist with the Inquiry, and to put on record my
-
-condolences to all the bereaved families, because to
-
-lose a loved one in the best of times is difficult, but
-
-to do so through these pandemic times has been --
-
-exasperated(sic) the situation. So I wanted to put that on record today.
+**Ms Michelle O’Neill**: Okay. May I first just say that I'm grateful to be here and to assist with the Inquiry, and to put on record my condolences to all the bereaved families, because to lose a loved one in the best of times is difficult, but to do so through these pandemic times has been -- exasperated(sic) the situation. So I wanted to put that on record today.
 
 And secondly, just to add my gratitude and appreciation to all those in the health service and our frontline services that really took to the -- you know, went above and beyond to get us through these times.
 

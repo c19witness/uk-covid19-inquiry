@@ -43,11 +43,7 @@ My Lady, that is all that I propose to say in relation to the submissions which 
 
 I thank all the Core Participants, those who made oral submissions and those who have made both oral and written submissions. They've all been extremely constructive and helpful and, I repeat, I am very grateful to them and for the offers of support because, to be frank, we're going to need it. We have a huge task ahead and we will need the support of everybody, particularly the Core Participants, and with that support I hope we can achieve the aims that I set out earlier.
 
-So thank you all very much indeed and thank you to those who have come who didn't have a speaking
-
-role. We do appreciate your interest in everything
-
-that's going on. So thank you all.
+So thank you all very much indeed and thank you to those who have come who didn't have a speaking role. We do appreciate your interest in everything that's going on. So thank you all.
 
 *(2.28 pm)*
 

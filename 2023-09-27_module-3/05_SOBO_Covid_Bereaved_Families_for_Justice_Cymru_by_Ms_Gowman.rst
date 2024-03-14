@@ -1,23 +1,11 @@
 5. Submissions on Behalf of Covid Bereaved Families for Justice Cymru by Ms Gowman
 ===================================================================================
 
-**Ms Gowman**: Yes, I have, your Ladyship. Prynhawn da, good
+**Ms Gowman**: Yes, I have, your Ladyship. Prynhawn da, good afternoon. I represent Covid-19 Bereaved Families for
 
-afternoon. I represent Covid-19 Bereaved Families for
+Justice Cymru, and will refer to the group as the Cymru group.
 
-Justice Cymru, and will refer to the group as the Cymru
-
-group.
-
-A significant proportion of the group's members died
-
-as a result of hospital-acquired Covid. Accordingly,
-
-the group believes that it has a real standing on the
-
-issue of the impact of Covid-19 on healthcare systems in
-
-Wales.
+A significant proportion of the group's members died as a result of hospital-acquired Covid. Accordingly, the group believes that it has a real standing on the issue of the impact of Covid-19 on healthcare systems in Wales.
 
 Your Ladyship has received written submissions from the group and I don't propose to repeat the same in detail. These oral submissions will therefore seek to supplement the Cymru group's written position in respect of the following topics: the provisional list of issues, Rule 9 requests, expert evidence, disclosure, and Every Story Matters.
 

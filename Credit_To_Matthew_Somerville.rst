@@ -5,8 +5,7 @@ Credit to Matthew Somerville
 
 "This site takes a copy of the `official transcripts <https://www.covid19.public-inquiry.uk/hearings>`_, which are available in PDF,
 parses them into reStructuredText, and uploads them to ReadTheDocs for
-**display and searching**. It also auto-links evidence IDs to the relevant page
-on the official site.
+**display and searching**. It also auto-links evidence IDs to the relevant page on the official site.
 
 I hope this may be useful to people following the Inquiry.
 If you have any questions or comments, please do get in touch.

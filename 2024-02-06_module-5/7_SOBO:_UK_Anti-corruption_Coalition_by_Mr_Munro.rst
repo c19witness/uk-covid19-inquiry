@@ -3,45 +3,9 @@
 
 **Mr Munro**: Thank you, Chair.
 
-My name is Peter Munro, and I am speaking on behalf
+My name is Peter Munro, and I am speaking on behalf of the UK Anti-Corruption Coalition. I'd like to first open with a note of appreciation. The Coalition would like to thank you and your team for granting us core participant status for this key module in the Covid Inquiry on the UK Government procurement response. We hope we can add some important, constructive insights into proceedings today and throughout the course of the year.
 
-of the UK Anti-Corruption Coalition. I'd like to first
-
-open with a note of appreciation. The Coalition would
-
-like to thank you and your team for granting us core
-
-participant status for this key module in the Covid
-
-Inquiry on the UK Government procurement response.
-
-We hope we can add some important, constructive
-
-insights into proceedings today and throughout the
-
-course of the year.
-
-We look forward to adding our voice, sharing our
-
-evidence and expertise to support the Inquiry's
-
-investigation into the UK and devolved governments'
-
-management of government procurement, helping the
-
-country learn important lessons.
-
-You'll be aware that we have submitted a written
-
-submission ahead of today's hearing, but today I'd like
-
-to summarise some of those points on behalf of the
-
-group. But first, by way of introduction as a first
-
-time core participant, I'd like to note a few points
-
-about the UK Anti-Corruption Coalition itself.
+We look forward to adding our voice, sharing our evidence and expertise to support the Inquiry's investigation into the UK and devolved governments' management of government procurement, helping the country learn important lessons. You'll be aware that we have submitted a written submission ahead of today's hearing, but today I'd like to summarise some of those points on behalf of the group. But first, by way of introduction as a first time core participant, I'd like to note a few points about the UK Anti-Corruption Coalition itself.
 
 Our coalition is a non-partisan group of anti-corruption organisations who aim to reduce corruption in the UK and reduce its role in facilitating it abroad. We consist of 17 partner members, including international NGOs and academics with shared aims offering bespoke expertise wherever corruption exists in the UK and beyond. Our policy areas include illicit financial flows, money laundering, defence and security, environmental issues, human rights, the courts, the press, matters of public governance and political integrity, and public health.
 
@@ -127,13 +91,7 @@ Unless I can be of any further assistance, or you need me to repeat anything or 
 
 Right, I think that now completes all the submissions, and unless anybody has anything else they wish to add, that completes this preliminary hearing.
 
-I think the next hearing of the Inquiry is in Cardiff, I think, at the end of February. And I look
-
-forward to seeing those who are following these
-
-proceedings there or remotely, even though I won't see
-
-them.
+I think the next hearing of the Inquiry is in Cardiff, I think, at the end of February. And I look forward to seeing those who are following these proceedings there or remotely, even though I won't see them.
 
 Thank you all very much.
 

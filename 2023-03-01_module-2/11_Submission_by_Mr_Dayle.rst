@@ -133,13 +133,7 @@ My Lady, those are the only two points that I wish to raise by way of reply subm
 
 **Baroness Hallett**: Thank you very much, Mr Keith. Thank you to everybody who has been attending online and stayed with us during the course of another long but important day.
 
-I'm extremely grateful to everybody, as I said at the beginning, for all their submissions and I shall bear them all very much in mind. If I have to make any rulings as opposed to issuing directions about preliminary hearings and the like, I will make any
-
-ruling as soon as I can but obviously I want to reflect
-
-on a number of the issues that have been raised. Thank
-
-you everybody.
+I'm extremely grateful to everybody, as I said at the beginning, for all their submissions and I shall bear them all very much in mind. If I have to make any rulings as opposed to issuing directions about preliminary hearings and the like, I will make any ruling as soon as I can but obviously I want to reflect on a number of the issues that have been raised. Thank you everybody.
 
 *(4.30 pm)*
 

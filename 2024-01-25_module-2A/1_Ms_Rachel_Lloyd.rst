@@ -1165,57 +1165,13 @@ Further Questions From the Chair
 
 **Lady Hallett**: Just before you go, Ms Lloyd, may I ask you to help me on another matter, in relation to M2.
 
-As you may have followed, I heard a certain amount of evidence about the role of special advisers in Number 10 and the role of Mr Dominic Cummings as an example. You talked about the -- there's a special
-
-advisers code that applied to you. I think technically
-
-what happens is that special advisers, as you were and
-
-Dominic Cummings was, are technically part of the civil
-
-service but they don't answer to any of, as it were, the
-
-governance or management structure of the civil service,
-
-they answer to the minister or the First Minister or the
-
-Prime Minister?
+As you may have followed, I heard a certain amount of evidence about the role of special advisers in Number 10 and the role of Mr Dominic Cummings as an example. You talked about the -- there's a special advisers code that applied to you. I think technically what happens is that special advisers, as you were and Dominic Cummings was, are technically part of the civil service but they don't answer to any of, as it were, the governance or management structure of the civil service, they answer to the minister or the First Minister or the Prime Minister?
 
 **Ms Rachel Lloyd**: Yeah.
 
-**Lady Hallett**: I just find that a bit troubling. I, mean,
+**Lady Hallett**: I just find that a bit troubling. I, mean, don't you end up with a conflict then between ...?
 
-don't you end up with a conflict then between ...?
-
-**Ms Rachel Lloyd**: I think it's how you do it. I don't think I ended up
-
-with a conflict. The special adviser code sits
-
-alongside the Civil Service Code. You are governed by
-
-both, with an exemption from certain parts of the Civil
-
-Service Code that enables your political activities, and
-
-you are appointed by the First Minister.
-
-I think if you are conscious that the civil servants
-
-around you have to comply with the Civil Service Code,
-
-and they have obligations on them, then a conflict
-
-doesn't arise. And whilst the First Minister is, if you
-
-like, my line manager, the person that appointed me, the
-
-person that could fire me, I was cognisant of the senior
-
-officials in the Scottish Government and my relationship
-
-with them. So as much as I was sort of on a par, if you
-
-like, I knew that, you know, I needed to be aware if they were unhappy, perhaps thought a special adviser was stepping over the line. That is a back and forth relationship. That's a relationship that exists because you build that relationship.
+**Ms Rachel Lloyd**: I think it's how you do it. I don't think I ended up with a conflict. The special adviser code sits alongside the Civil Service Code. You are governed by both, with an exemption from certain parts of the Civil Service Code that enables your political activities, and you are appointed by the First Minister. I think if you are conscious that the civil servants around you have to comply with the Civil Service Code, and they have obligations on them, then a conflict doesn't arise. And whilst the First Minister is, if you like, my line manager, the person that appointed me, the person that could fire me, I was cognisant of the senior officials in the Scottish Government and my relationship with them. So as much as I was sort of on a par, if you like, I knew that, you know, I needed to be aware if they were unhappy, perhaps thought a special adviser was stepping over the line. That is a back and forth relationship. That's a relationship that exists because you build that relationship.
 
 But I don't think I found a conflict, and I don't think such a conflict existed in the Scottish Government.
 
@@ -1249,7 +1205,5 @@ Thank you.
 
 **Lady Hallett**: Mr Dawson.
 
-**Mr Dawson**: Good afternoon, my Lady. The next witness is
-
-the Right Honourable Humza Yousaf MSP.
+**Mr Dawson**: Good afternoon, my Lady. The next witness is the Right Honourable Humza Yousaf MSP.
 

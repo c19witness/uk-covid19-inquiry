@@ -709,57 +709,15 @@ Was that a concern shared by the Welsh Government?
 
 **Ms Rebecca Evans**: I certainly would have wanted to have been able to do that -- that sooner, and I've been thinking very much about this, and I think that one of the challenges we had at the time was that by the time we got to July we were facing -- and you'll see it in some of the documents I've shared with the Inquiry -- that we were facing up to £1 billion to £1.5 billion of forecast pressures on the Welsh Government's budget. That didn't even include what we might need if there was a second lockdown or if you include extra pressures on Welsh Government resources, for example job losses leading to higher claims on various types of support.
 
-So there were huge pressures at the time, and I remember looking recently at some documents where the -- where Welsh Government officials were looking at that £600 million which was announced by the UK Government for infection control in care homes, and I think that that was one area where we were trying to get clarity as to whether or not that included consequential funding for the self-isolation within those care homes as well, so I think it is some --
+So there were huge pressures at the time, and I remember looking recently at some documents where the -- where Welsh Government officials were looking at that £600 million which was announced by the UK Government for infection control in care homes, and I think that that was one area where we were trying to get clarity as to whether or not that included consequential funding for the self-isolation within those care homes as well, so I think it is some -- a scheme that we definitely we would have wished to have brought in earlier. I think that it demonstrates one of the tough decisions we had to make, from a financial perspective, in terms of being able to agree to an open-ended financial commitment, which could be significant, when you don't have the clarity of the budget available to service it.
 
-a scheme that we definitely we would have wished to have
+**Mr Jacobs**: Ms Evans, clearly significant budgetary pressures, but for those first eight months the additional sums spent on financial support for those in work needing to self-isolate was zero, wasn't it? Whatever the financial pressures, could it not have been more than that?
 
-brought in earlier. I think that it demonstrates one of
-
-the tough decisions we had to make, from a financial
-
-perspective, in terms of being able to agree to
-
-an open-ended financial commitment, which could be
-
-significant, when you don't have the clarity of the
-
-budget available to service it.
-
-**Mr Jacobs**: Ms Evans, clearly significant budgetary pressures, but
-
-for those first eight months the additional sums spent
-
-on financial support for those in work needing to
-
-self-isolate was zero, wasn't it? Whatever the
-
-financial pressures, could it not have been more than
-
-that?
-
-**Ms Rebecca Evans**: I think that, you know, were we to look back and be able
-
-to do things again, you know, we could have looked at
-
-that -- we could have looked at that earlier, that's
-
-definitely fair to say.
-
-From a financial management perspective, that would
-
-have increased the risk even further. When I say,
-
-you know, £1 billion of pressures and up to £1.5 billion
-
-of forecast pressures, without even a second lockdown,
-
-that is huge. And, you know --
+**Ms Rebecca Evans**: I think that, you know, were we to look back and be able to do things again, you know, we could have looked at that -- we could have looked at that earlier, that's definitely fair to say. From a financial management perspective, that would have increased the risk even further. When I say, you know, £1 billion of pressures and up to £1.5 billion of forecast pressures, without even a second lockdown, that is huge. And, you know --
 
 **Mr Jacobs**: Yes.
 
-**Ms Rebecca Evans**: -- I think that that is really, you know, what we need
-
-to be considering as well. So it does demonstrate some of the tough financial choices you have to make in these circumstances.
+**Ms Rebecca Evans**: -- I think that that is really, you know, what we need to be considering as well. So it does demonstrate some of the tough financial choices you have to make in these circumstances.
 
 **Mr Jacobs**: Would the Barnett guarantee in July 2020 have been an opportunity to take some action on the issue of financial support for self-isolation?
 
@@ -767,21 +725,13 @@ to be considering as well. So it does demonstrate some of the tough financial ch
 
 **Mr Jacobs**: Just finally, in the latter part of the pandemic you will recall, I'm sure, that the Welsh Government increased the £500 self-isolation support payment to £750. Can you help us with the rationale for that and was there concern in particular that even a £500 payment wasn't sufficient to remove the financial barriers to self-isolation?
 
-**Ms Rebecca Evans**: So it would have been my colleague, the minister with responsibility for social services at the time, who would have been responsible for asking us to increase that funding. But at that point affordability was different, so we had -- you know, we had the Barnett guarantee, then we had uplifts to the Barnett guarantee to the point at which we were even carrying money over at the end of the financial year, so affordability is
-
-unfortunately always one of the things that we have to
-
-think about when we're looking at supporting different
-
-programmes.
+**Ms Rebecca Evans**: So it would have been my colleague, the minister with responsibility for social services at the time, who would have been responsible for asking us to increase that funding. But at that point affordability was different, so we had -- you know, we had the Barnett guarantee, then we had uplifts to the Barnett guarantee to the point at which we were even carrying money over at the end of the financial year, so affordability is unfortunately always one of the things that we have to think about when we're looking at supporting different programmes.
 
 **Mr Jacobs**: I think I'm at my time, thank you very much.
 
 **Lady Hallett**: Thank you, Mr Jacobs.
 
-Thank you very much indeed, Ms Evans, very grateful
-
-for your help.
+Thank you very much indeed, Ms Evans, very grateful for your help.
 
 **The Witness**: Thank you.
 

@@ -281,53 +281,17 @@ So in fact Chris Whitty appears to be confirming the concerns that Sadiq Khan ha
 
 So Lord Lister, just finally on this, on reflection, in hindsight, given that sequence of events and the documents we've looked at, do you think perhaps you or the system ought to have been readier to make an exception to that rule you've described and invite Sadiq Khan -- as in fact, as we can see, he was on the 16th -- a week or so earlier?
 
-**Lord Edward Udney-Lister**: And -- yes, and I -- I think perhaps we should have
+**Lord Edward Udney-Lister**: And -- yes, and I -- I think perhaps we should have moved -- or I should have authorised it earlier. But
 
-moved -- or I should have authorised it earlier. But
+I was always concerned about this treating London differently from the rest of the country, and in fact later on in Covid that became much more of an issue than it was at the beginning. But in hindsight, perhaps it would have been right to have done it earlier, but I -- that worry was always at the back of my mind.
 
-I was always concerned about this treating London
+**Counsel Inquiry**: Yes. Right. Well, I want to take you forward, then, in time, please, and let's talk about the first lockdown.
 
-differently from the rest of the country, and in fact
+If we can start, please, on page 11 of your statement, paragraph 26, you state here that:
 
-later on in Covid that became much more of an issue than
+"By 23 March ... it had become clear that a lockdown was needed to prevent the NHS from being overwhelmed, to buy us time until a vaccine was developed and to March, that Sadiq Khan was invited to COBR for the                    16           underline the seriousness of the situation to the public." And I won't take you to it, but there is another paragraph of your statement where you state explicitly, perhaps it's implicit here, that you accepted, and still accept, that the first lockdown was justified at the time and in the circumstances that it was ordered?
 
-it was at the beginning.
-
-But in hindsight, perhaps it would have been right
-
-to have done it earlier, but I -- that worry was always
-
-at the back of my mind.
-
-**Counsel Inquiry**: Yes. Right. Well, I want to take you forward, then, in
-
-time, please, and let's talk about the first lockdown.
-
-If we can start, please, on page 11 of your
-
-statement, paragraph 26, you state here that:
-
-"By 23 March ... it had become clear that a lockdown
-
-was needed to prevent the NHS from being overwhelmed, to
-
-buy us time until a vaccine was developed and to March, that Sadiq Khan was invited to COBR for the                    16           underline the seriousness of the situation to the
-
-public."
-
-And I won't take you to it, but there is another
-
-paragraph of your statement where you state explicitly,
-
-perhaps it's implicit here, that you accepted, and still
-
-accept, that the first lockdown was justified at the
-
-time and in the circumstances that it was ordered?
-
-**Lord Edward Udney-Lister**: I think what we believed at the beginning of March was
-
-that there was a plan that was there that could be used.
+**Lord Edward Udney-Lister**: I think what we believed at the beginning of March was that there was a plan that was there that could be used.
 
 There was the belief that herd immunity was the answer to the problem, and that the quicker we actually all caught it, the quicker we would have immunity from it, and that -- that to some extent remained true, except of course that the death toll would have been unbelievably high and totally unacceptable, and therefore it was -- became absolutely clear that herd immunity was not a policy option that was open to the government, and that a lockdown was the only solution.
 

@@ -2,23 +2,11 @@ Transcript of Module 2A Public Hearing on 17 January 2024
 
 *(10.00 am)*
 
-**Lady Hallett**: I don't seem to have any papers, or my
-
-notebook. I think they're in my room. If we carry on,
-
-by the time someone's been upstairs ... can we get
-
-a message? Okay, thanks.
+**Lady Hallett**: I don't seem to have any papers, or my notebook. I think they're in my room. If we carry on, by the time someone's been upstairs ... can we get a message? Okay, thanks.
 
 **Mr Dawson**: Thank you, my Lady.
 
-I was simply going to introduce to you this morning
-
-that, as I said yesterday, we have a number of witnesses
-
-this morning who are giving evidence from a number of
-
-impact organisations. The first witness this morning is
+I was simply going to introduce to you this morning that, as I said yesterday, we have a number of witnesses this morning who are giving evidence from a number of impact organisations. The first witness this morning is
 
 Mrs Jane Morrison.
 
@@ -31,21 +19,13 @@ Mrs Jane Morrison.
 
 Questions From Lead Counsel to the Inquiry for Module 2A
 
-**Mr Dawson**: Good morning, Mrs Morrison. If you could try to
-
-speak, as best you can, into the microphone so we can
-
-hear you nice and clearly, that would be much
-
-appreciated, thank you.
+**Mr Dawson**: Good morning, Mrs Morrison. If you could try to speak, as best you can, into the microphone so we can hear you nice and clearly, that would be much appreciated, thank you.
 
 You are Mrs Jane Morrison?
 
 **Mrs Jane Morrison**: Correct.
 
-**Lead 2A**: And you have already given evidence, I think, to
-
-the Inquiry in its Module 1?
+**Lead 2A**: And you have already given evidence, I think, to the Inquiry in its Module 1?
 
 **Mrs Jane Morrison**: Correct.
 
@@ -73,55 +53,27 @@ the Inquiry in its Module 1?
 
 **Mrs Jane Morrison**: Correct.
 
-**Lead 2A**: As I understand it from the testimony that you've
-
-provided to the Inquiry, she was an inpatient in
-
-hospital, having developed jaundice, and she was
-
-undergoing some tests.
+**Lead 2A**: As I understand it from the testimony that you've provided to the Inquiry, she was an inpatient in hospital, having developed jaundice, and she was undergoing some tests.
 
 **Mrs Jane Morrison**: Correct.
 
-**Lead 2A**: She had been in hospital for two weeks when she caught
-
-Covid, catching it on the 15th day of her stay in
-
-hospital?
+**Lead 2A**: She had been in hospital for two weeks when she caught Covid, catching it on the 15th day of her stay in hospital?
 
 **Mrs Jane Morrison**: Correct.
 
-**Lead 2A**: I understand that the tests for her underlying health
-
-condition had taken much longer than would have been the
-
-case before the pandemic?
+**Lead 2A**: I understand that the tests for her underlying health condition had taken much longer than would have been the case before the pandemic?
 
 **Mrs Jane Morrison**: That's correct, yes.
 
 **Lead 2A**: Why was that?
 
-**Mrs Jane Morrison**: There are things like scans -- every time someone went
-
-in the scan it had to be thoroughly disinfected
-
-afterwards, and then they had to wait at least
-
-20 minutes before they could let another patient come in
-
-and use the scanners, so it was tending to be three days
-
-between tests rather than just following one after the
-
-other.
+**Mrs Jane Morrison**: There are things like scans -- every time someone went in the scan it had to be thoroughly disinfected afterwards, and then they had to wait at least 20 minutes before they could let another patient come in and use the scanners, so it was tending to be three days between tests rather than just following one after the other.
 
 **Lead 2A**: I see, so this prolonged her stay in hospital?
 
 **Mrs Jane Morrison**: Very much so.
 
-**Lead 2A**: As I understand it, she had been in hospital for 14 days
-
-and she caught Covid within the hospital, and that's -- a term which is often applied to that, which I see in some of your testimony, is a nosocomial infection?
+**Lead 2A**: As I understand it, she had been in hospital for 14 days and she caught Covid within the hospital, and that's -- a term which is often applied to that, which I see in some of your testimony, is a nosocomial infection?
 
 **Mrs Jane Morrison**: That's correct, yes.
 

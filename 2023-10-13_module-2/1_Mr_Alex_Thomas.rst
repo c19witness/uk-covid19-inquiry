@@ -299,57 +299,13 @@ COBR. If we go back, please, to the chart at INQ0002041014, page 4, a certain am
 
 You have explained how there is no administrative obligation on the Prime Minister to chair a COBR, but there may be a presentational advantage in so doing. Is it your view that presentationally that was an opportunity missed by the Prime Minister, given the state of the crisis in late February?
 
-**Mr Alex Thomas**: There is a presentational benefit to the Prime Minister
+**Mr Alex Thomas**: There is a presentational benefit to the Prime Minister in chairing COBR. There is also, I perhaps should have said, an operational benefit inside government for particular types of crises to the Prime Minister chairing COBR.
 
-in chairing COBR. There is also, I perhaps should have
+I suppose I have a -- you know, given what we subsequently know, I would have a, you know, moderate view that presentationally it would have been beneficial for the Prime Minister to chair an earlier COBR. I would have a stronger view, given what we now know, that the signal it would have sent, that this required a whole-government response, the Prime Minister was February and 18 February; is that correct?                            12           personally engaged in that, and that all departments needed to give their maximum possible attention to this crisis, that is actually the reason I think, rather than presentation, why it would have been beneficial for the Prime Minister to chair COBR sooner.
 
-said, an operational benefit inside government for
+**Lead Inquiry**: Have you been able to ascertain what the position was in relation to representatives of the devolved administrations in relation to their attendance at COBR?
 
-particular types of crises to the Prime Minister
-
-chairing COBR.
-
-I suppose I have a -- you know, given what we
-
-subsequently know, I would have a, you know, moderate
-
-view that presentationally it would have been beneficial
-
-for the Prime Minister to chair an earlier COBR.
-
-I would have a stronger view, given what we now know,
-
-that the signal it would have sent, that this required
-
-a whole-government response, the Prime Minister was February and 18 February; is that correct?                            12           personally engaged in that, and that all departments
-
-needed to give their maximum possible attention to this
-
-crisis, that is actually the reason I think, rather than
-
-presentation, why it would have been beneficial for
-
-the Prime Minister to chair COBR sooner.
-
-**Lead Inquiry**: Have you been able to ascertain what the position was in
-
-relation to representatives of the devolved
-
-administrations in relation to their attendance at COBR?
-
-**Mr Alex Thomas**: My understanding, again, and I thank the Inquiry for
-
-brief advance notice of that particular question, is
-
-that when Matt Hancock MP was chairing the COBRs,
-
-the invitations went to the devolved administration
-
-Health Secretary equivalents, and so they attended COBR
-
-until the Prime Minister chaired the 2 March COBR when invitations, to my mind perfectly naturally, then were sent to the First and in Northern Ireland First and deputy First Ministers to attend those COBR meetings.
-
-I understand from the Inquiry, but not my own research, that Mark Drakeford, the First Minister of Wales, did participate in one earlier COBR meeting.
+**Mr Alex Thomas**: My understanding, again, and I thank the Inquiry for brief advance notice of that particular question, is that when Matt Hancock MP was chairing the COBRs, the invitations went to the devolved administration Health Secretary equivalents, and so they attended COBR until the Prime Minister chaired the 2 March COBR when invitations, to my mind perfectly naturally, then were sent to the First and in Northern Ireland First and deputy First Ministers to attend those COBR meetings. I understand from the Inquiry, but not my own research, that Mark Drakeford, the First Minister of Wales, did participate in one earlier COBR meeting.
 
 **Lead Inquiry**: So, to be absolutely clear, the health ministers from the devolved administrations, so that would be Vaughan Gething from the Welsh Government, Robin Swann from the Northern Ireland Executive, and Jeane Freeman, the Scottish Cabinet Secretary for Health, they all attended from 24 January. Mr Drakeford first attended on 18 February, but Nicola Sturgeon, Arlene Foster and Michelle O'Neill attended, respectively, for the first time from 2 March.
 

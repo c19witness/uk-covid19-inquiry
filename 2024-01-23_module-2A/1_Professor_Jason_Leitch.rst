@@ -19,15 +19,11 @@ Questions From Lead Counsel to the Inquiry for Module 2A
 
 **Professor Jason Leitch**: I am.
 
-**Lead 2A**: You have helpfully provided witness statements to
-
-the Inquiry.
+**Lead 2A**: You have helpfully provided witness statements to the Inquiry.
 
 Could we have up, please, INQ000329366.
 
-Is this a witness statement dated 2 November 2023;
-
-is that your statement?
+Is this a witness statement dated 2 November 2023; is that your statement?
 
 **Professor Jason Leitch**: Yes.
 
@@ -35,17 +31,11 @@ is that your statement?
 
 **Professor Jason Leitch**: Yes.
 
-**Lead 2A**: Does the content of the statement remain true and
-
-accurate as far as you're concerned?
+**Lead 2A**: Does the content of the statement remain true and accurate as far as you're concerned?
 
 **Professor Jason Leitch**: It does.
 
-**Lead 2A**: You also provided a further witness statement under
-
-reference INQ000273981; this is also your witness
-
-statement?
+**Lead 2A**: You also provided a further witness statement under reference INQ000273981; this is also your witness statement?
 
 **Professor Jason Leitch**: It is.
 
@@ -71,9 +61,7 @@ If I could just mention for the record as well a couple of other statements whic
 
 **Professor Jason Leitch**: That's correct.
 
-**Lead 2A**: And that you are the co-director of the directorate for
-
-healthcare quality and improvement?
+**Lead 2A**: And that you are the co-director of the directorate for healthcare quality and improvement?
 
 **Professor Jason Leitch**: That's correct.
 
@@ -85,29 +73,15 @@ Director since January 2015?
 
 **Professor Jason Leitch**: Yes.
 
-**Lead 2A**: I'd like to explore with you a little bit about your
-
-background, but also about the role of National Clinical
-
-Director, so as we understand it in a bit more detail.
-
-I understand that you originally qualified in dentistry
-
-with a degree from the University of Glasgow?
+**Lead 2A**: I'd like to explore with you a little bit about your background, but also about the role of National Clinical Director, so as we understand it in a bit more detail. I understand that you originally qualified in dentistry with a degree from the University of Glasgow?
 
 **Professor Jason Leitch**: Yes.
 
-**Lead 2A**: And that you became a fellow of the Faculty of Dental
-
-Surgery at the Royal College of Surgeons in England in
-
-1996?
+**Lead 2A**: And that you became a fellow of the Faculty of Dental Surgery at the Royal College of Surgeons in England in 1996?
 
 **Professor Jason Leitch**: That's correct.
 
-**Lead 2A**: You hold a directorate from the University of Glasgow,
-
-as I understand it?
+**Lead 2A**: You hold a directorate from the University of Glasgow, as I understand it?
 
 **Professor Jason Leitch**: I do.
 
@@ -115,9 +89,7 @@ as I understand it?
 
 **Professor Jason Leitch**: It was drug trials, it was anaesthetic drugs.
 
-**Lead 2A**: Thank you. You also hold a master's in public health
-
-from Harvard University, as I understand it?
+**Lead 2A**: Thank you. You also hold a master's in public health from Harvard University, as I understand it?
 
 **Professor Jason Leitch**: I do.
 
@@ -459,31 +431,15 @@ You say that:
 
 There is then a discussion about what should happen with regard to the football club and the breaches of the rules.
 
-Does this exchange not show, in relation to an important matter, that you had direct access to key decision-makers, including the First Minister, including via these messages, and that you were offering direct advice in connection with the way that this important
+Does this exchange not show, in relation to an important matter, that you had direct access to key decision-makers, including the First Minister, including via these messages, and that you were offering direct advice in connection with the way that this important matter should be handled during the pandemic?
 
-matter should be handled during the pandemic?
-
-**Professor Jason Leitch**: Yes, it does, but I don't think this is the same chain.
-
-I don't think Ms Sturgeon is on this chain. I didn't
-
-know it was Joe Fitzpatrick, because I only saw this
-
-last night. So I think this is a set of messages August from you -- a little bit further down, I think,                  6           between Joe Fitzpatrick, who was the minister for public
-
-health and sport at the time, and me. I don't think
+**Professor Jason Leitch**: Yes, it does, but I don't think this is the same chain. I don't think Ms Sturgeon is on this chain. I didn't know it was Joe Fitzpatrick, because I only saw this last night. So I think this is a set of messages August from you -- a little bit further down, I think,                  6           between Joe Fitzpatrick, who was the minister for public health and sport at the time, and me. I don't think
 
 Ms Sturgeon has anything to do with this --
 
-**Lead 2A**: Okay, but you're offering advice to that minister in any
+**Lead 2A**: Okay, but you're offering advice to that minister in any event?
 
-event?
-
-**Professor Jason Leitch**: I'm having a discussion about what we could do about
-
-this particular football game with the minister for
-
-public health and sport, correct.
+**Professor Jason Leitch**: I'm having a discussion about what we could do about this particular football game with the minister for public health and sport, correct.
 
 **Lead 2A**: That's not advice?
 
@@ -491,23 +447,13 @@ public health and sport, correct.
 
 **Lead 2A**: Okay.
 
-**Professor Jason Leitch**: But it wouldn't be the only place that advice would
-
-happen. That would then be put into the system with the
-
-head of sport at Scottish Government.
+**Professor Jason Leitch**: But it wouldn't be the only place that advice would happen. That would then be put into the system with the head of sport at Scottish Government.
 
 **Lead 2A**: Thank you.
 
-I'd like to ask you some questions, please, about
+I'd like to ask you some questions, please, about your -- the general subject of your use and retention of messages during the course of the pandemic.
 
-your -- the general subject of your use and retention of
-
-messages during the course of the pandemic.
-
-We'll talk about your general communications role
-
-later, but what was your understanding of the Scottish Government's policy on the use and retention of informal messaging such as WhatsApp or text messages or other such things during the course of the pandemic?
+We'll talk about your general communications role later, but what was your understanding of the Scottish Government's policy on the use and retention of informal messaging such as WhatsApp or text messages or other such things during the course of the pandemic?
 
 **Professor Jason Leitch**: As you've heard, the record retention policy was that you could use informal messaging systems for Scottish Government business. If you did, you should ensure that any advice or any decisions or anything that should be in the corporate record was then placed in that corporate record by email, briefing, et cetera, and then you should then delete the informal messaging. And that's the guidance I followed.
 
@@ -1207,43 +1153,23 @@ The second reflection is perhaps slightly more open. I think in hindsight, and t
 
 **Lead 2A**: One might say that, given the pre-existing knowledge of Scotland's considerable health inequalities, that groups like disabled groups would be the ones that would be prioritised in order to be able to get information to, because they were the most vulnerable to the threat not only of the virus itself but of other non-Covid harms to which they were being exposed?
 
-**Professor Jason Leitch**: I think it's a broad group to say the disabled groups were more vulnerable than others, it's not quite as simple as that. The principal risk is age, then there
-
-are other pre-existing conditions which give you
-
-an increased risk, some of which cause disability,
-
-you're correct, and I think we did take into account
-
-into our clinical advice as much as could with the pace
-
-at which we were working.
+**Professor Jason Leitch**: I think it's a broad group to say the disabled groups were more vulnerable than others, it's not quite as simple as that. The principal risk is age, then there are other pre-existing conditions which give you an increased risk, some of which cause disability, you're correct, and I think we did take into account into our clinical advice as much as could with the pace at which we were working.
 
 **Mr Dawson**: Thank you very much.
 
-I have no further questions, my Lady. If I could
-
-just take one moment, excuse me.
+I have no further questions, my Lady. If I could just take one moment, excuse me.
 
 *(Pause)*
 
-**Mr Dawson**: There are no core participant questions, as
-
-I understand it, my Lady. An application has been made
-
-and rejected, as I understand it, my Lady.
+**Mr Dawson**: There are no core participant questions, as I understand it, my Lady. An application has been made and rejected, as I understand it, my Lady.
 
 **Lady Hallett**: Thank you.
 
-I think the answer is, Ms Mitchell, that the issue
-
-that you raised is going to be asked of other people.
+I think the answer is, Ms Mitchell, that the issue that you raised is going to be asked of other people.
 
 Thank you.
 
-Thank you very much, Professor. I'm sorry about the
-
-cough.
+Thank you very much, Professor. I'm sorry about the cough.
 
 **The Witness**: It's okay. I hope you feel better.
 

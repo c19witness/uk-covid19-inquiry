@@ -5,19 +5,9 @@
 
 Woefully inadequate was the assessment of
 
-Matt Hancock, former Health Secretary, of the state of
+Matt Hancock, former Health Secretary, of the state of preparedness of the United Kingdom at the outset of the pandemic. Wholly inadequate was the phrase used by Bruce Mann and Professor Alexander, the experts chosen to assist the Inquiry. The 2019 National Security Risk
 
-preparedness of the United Kingdom at the outset of the
-
-pandemic. Wholly inadequate was the phrase used by
-
-Bruce Mann and Professor Alexander, the experts chosen
-
-to assist the Inquiry. The 2019 National Security Risk
-
-Assessment assessed the likelihood of the emergence of
-
-a dangerous newly emerging infectious disease as moderate, with a reasonable worst-case scenario of 200 deaths and 2,000 casualties.
+Assessment assessed the likelihood of the emergence of a dangerous newly emerging infectious disease as moderate, with a reasonable worst-case scenario of 200 deaths and 2,000 casualties.
 
 But as we noted in opening, in 2015 then Prime Minister David Cameron warned in a major speech to the G7 that the world needed to consider the possibility of the emergence of a new disease with a fatality rate of Ebola and the transmissibility of measles. It's difficult to square that with a reasonable worst-case scenario of 200 deaths.
 

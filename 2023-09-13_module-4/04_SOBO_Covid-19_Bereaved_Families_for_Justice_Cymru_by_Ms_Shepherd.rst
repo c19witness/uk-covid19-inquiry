@@ -5,9 +5,7 @@
 
 I represent Covid-19 Bereaved Families for Justice
 
-Cymru. At the outset, we wish to thank the Chair for
-
-granting the bereaved families core participant status in this module. We feel that we have an important role to play in this module as we have a stake in how pharmaceutical interventions were used or not used by public bodies when responding to the pandemic.
+Cymru. At the outset, we wish to thank the Chair for granting the bereaved families core participant status in this module. We feel that we have an important role to play in this module as we have a stake in how pharmaceutical interventions were used or not used by public bodies when responding to the pandemic.
 
 There are four particular areas on which I wish to address you. Firstly, scope. Second, Every Story Matters. Thirdly, evidence in disclosure. Fourthly, expert evidence.
 

@@ -47,37 +47,15 @@ School; is that correct?
 
 **Professor Devi Sridhar**: Yes.
 
-**Lead 2A**: Would it be fair to say that your areas of particular
+**Lead 2A**: Would it be fair to say that your areas of particular expertise are public health and, in particular, international public health?
 
-expertise are public health and, in particular,
+**Professor Devi Sridhar**: Yes, and I would emphasise in low and middle-income contexts. I largely worked in poor countries until this pandemic.
 
-international public health?
+**Lead 2A**: Thank you. We know that you became a member of the Scottish Government's Covid-19 Advisory Group, which was created in late March 2020, but you became a member on 2 April 2020; is that right?
 
-**Professor Devi Sridhar**: Yes, and I would emphasise in low and middle-income
+**Professor Devi Sridhar**: Yes, or around that time, yeah, I was at the second meeting, not at the first one.
 
-contexts. I largely worked in poor countries until this
-
-pandemic.
-
-**Lead 2A**: Thank you. We know that you became a member of the
-
-Scottish Government's Covid-19 Advisory Group, which was
-
-created in late March 2020, but you became a member on
-
-2 April 2020; is that right?
-
-**Professor Devi Sridhar**: Yes, or around that time, yeah, I was at the second
-
-meeting, not at the first one.
-
-**Lead 2A**: Yes. There were a number of other people who were part
-
-of that group who came broadly from a public health
-
-background, as I understand it, and I was interested to
-
-explore with you, as I assume there may be many different subspecialities within the field of public health, what it was that you brought to that group and, indeed, what other public health specialists contributed, if indeed they have a subspeciality of some kind?
+**Lead 2A**: Yes. There were a number of other people who were part of that group who came broadly from a public health background, as I understand it, and I was interested to explore with you, as I assume there may be many different subspecialities within the field of public health, what it was that you brought to that group and, indeed, what other public health specialists contributed, if indeed they have a subspeciality of some kind?
 
 **Professor Devi Sridhar**: Yeah, I think the group was well balanced. We had people who were mathematical modellers, which we've heard a lot about before, we had people who were clinical specialists, those actually seeing people with infectious disease in hospital, and the area that I tried to work in was that I had worked for -- you know, now it's 20 years with governments and with NGOs in the UN in low and middle-income contexts in trying to manage infectious disease outbreaks, and I had a large research team funded by the Wellcome Trust who had been -- was actively working on those issues at the time.
 
@@ -873,23 +851,7 @@ So thank you very much indeed.
 
 **Mr Dawson**: If I could just explain that the next witness is Professor Andrew Morris. He does indeed have Covid. Fortunately for our purposes arrangements have been made for him to appear remotely. I understand that this means that there'll be around 20 minutes to set that up, and we will return and hear his evidence.
 
-**Lady Hallett**: Indeed. I think one also needs to remember,
-
-having had Covid more than once myself, one does get
-
-very tired. I mean, one thinks one's going to be okay,
-
-and I gather the Professor thinks he'll be fine, but
-
-I think we need to make sure that we really restrict our
-
-questions to those that are absolutely essential.
-
-Very well, I shall return -- you're going to tell me
-
-3.05? I think you are. Yes. I was hoping I might get
-
-away with 15 minutes, but I can't. 3.05.
+**Lady Hallett**: Indeed. I think one also needs to remember, having had Covid more than once myself, one does get very tired. I mean, one thinks one's going to be okay, and I gather the Professor thinks he'll be fine, but I think we need to make sure that we really restrict our questions to those that are absolutely essential. Very well, I shall return -- you're going to tell me 3.05? I think you are. Yes. I was hoping I might get away with 15 minutes, but I can't. 3.05.
 
 Thank you again.
 
@@ -905,13 +867,7 @@ Thank you again.
 
 *(3.05 pm)*
 
-**Lady Hallett**: Professor, it's rather strange having you on
+**Lady Hallett**: Professor, it's rather strange having you on a screen in the witness box. I don't know if you know where you are in our hearing room.
 
-a screen in the witness box. I don't know if you know
-
-where you are in our hearing room.
-
-**Mr Dawson**: The next witness is Professor Andrew Morris,
-
-my Lady.
+**Mr Dawson**: The next witness is Professor Andrew Morris, my Lady.
 

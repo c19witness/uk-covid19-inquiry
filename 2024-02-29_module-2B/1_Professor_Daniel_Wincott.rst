@@ -11,41 +11,15 @@ Transcript of Module 2B Public Hearing on 29 February 2024.
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Mr Poole**: Could you start by giving us your full name,
-
-please.
+**Mr Poole**: Could you start by giving us your full name, please.
 
 **Professor Daniel Wincott**: My name's Daniel Edward Wincott.
 
-**Lead 2B**: Professor Wincott, thank you for attending today and
-
-assisting the Inquiry. Can I ask you to, when you're
-
-giving your evidence, keep your voice up so that we can
-
-hear you but also so that your evidence can be recorded,
-
-and if I ask you anything that isn't clear, ask me to
-
-rephrase the question.
-
-Professor, you are currently a professor of law and
-
-society in the School of Law and Politics at
-
-Cardiff University; is that right?
+**Lead 2B**: Professor Wincott, thank you for attending today and assisting the Inquiry. Can I ask you to, when you're giving your evidence, keep your voice up so that we can hear you but also so that your evidence can be recorded, and if I ask you anything that isn't clear, ask me to rephrase the question. Professor, you are currently a professor of law and society in the School of Law and Politics at Cardiff University; is that right?
 
 **Professor Daniel Wincott**: I am, yes.
 
-**Lead 2B**: We also see from your report, which we'll come on to in
-
-a moment, that you hold undergraduate degrees and
-
-masters degrees from the University of Manchester and
-
-also a PhD from the London School of Economics; is that
-
-right?
+**Lead 2B**: We also see from your report, which we'll come on to in a moment, that you hold undergraduate degrees and masters degrees from the University of Manchester and also a PhD from the London School of Economics; is that right?
 
 **Professor Daniel Wincott**: Yes.
 
@@ -59,53 +33,11 @@ right?
 
 **Lead 2B**: You've prepared at the Inquiry's request a report that we can see at INQ000411927, and that, as we can see there, is entitled "Welsh Government core political and administration decision-making in relation to the Covid-19 pandemic".
 
-At the bottom of that first page is what is described as an author statement, where you refer to your report, to your duty as an expert to provide independent evidence, and to the fact that the opinions expressed in the report represent your true and complete
-
-professional opinion on the matters to which they refer;
-
-is that right?
+At the bottom of that first page is what is described as an author statement, where you refer to your report, to your duty as an expert to provide independent evidence, and to the fact that the opinions expressed in the report represent your true and complete professional opinion on the matters to which they refer; is that right?
 
 **Professor Daniel Wincott**: It is.
 
-**Lead 2B**: We don't -- we can see there also the date. It's dated
-
-16 February this year.
-
-So, Professor, as the title of your report suggests,
-
-you've been engaged by the Inquiry to help explain the
-
-Welsh Government's core political and administrative
-
-decision-making during the pandemic. Before we look at
-
-that in detail, I should say we're going to adduce your
-
-report in full in its entirety. And we can see it's
-
-fairly lengthy, it contains an awful lot of very helpful
-
-information and detail; we're not going to, in the time
-
-available this morning, be able to cover all of the
-
-topics in your report but what we will try to do is
-
-cover the central themes.
-
-Before we do that, I just want to be clear about the
-
-mechanics of how your report was put together. Am
-
-I right that you were initially instructed last year to
-
-prepare a report and that was on the basis of your own
-
-understanding of the matters identified in your
-
-instructions and materials that you could find in the
-
-public domain; is that right?
+**Lead 2B**: We don't -- we can see there also the date. It's dated 16 February this year. So, Professor, as the title of your report suggests, you've been engaged by the Inquiry to help explain the Welsh Government's core political and administrative decision-making during the pandemic. Before we look at that in detail, I should say we're going to adduce your report in full in its entirety. And we can see it's fairly lengthy, it contains an awful lot of very helpful information and detail; we're not going to, in the time available this morning, be able to cover all of the topics in your report but what we will try to do is cover the central themes. Before we do that, I just want to be clear about the mechanics of how your report was put together. Am I right that you were initially instructed last year to prepare a report and that was on the basis of your own understanding of the matters identified in your instructions and materials that you could find in the public domain; is that right?
 
 **Professor Daniel Wincott**: That's correct, yes.
 
@@ -645,47 +577,21 @@ So exactly what the mix of the causes of the significant increase in infections 
 
 **Ms Shepherd**: I just want to ask one follow-up question to that, and it's --
 
-**Lady Hallett**: Only if it's within his expertise. I was worried, as you know, Ms Shepherd, that I shouldn't have given permission for this question because it's not
+**Lady Hallett**: Only if it's within his expertise. I was worried, as you know, Ms Shepherd, that I shouldn't have given permission for this question because it's not really within this witness's expertise. So, first, what's the question?
 
-really within this witness's expertise. So, first,
+**Ms Shepherd**: I was going to ask: no matter the reason for the Welsh Government implementing the firebreak when it did, was the ultimate result that Wales was in a situation where we had this ramp up, ramp down rollercoaster --
 
-what's the question?
-
-**Ms Shepherd**: I was going to ask: no matter the reason for
-
-the Welsh Government implementing the firebreak when it
-
-did, was the ultimate result that Wales was in
-
-a situation where we had this ramp up, ramp down
-
-rollercoaster --
-
-**Lady Hallett**: I think, to be honest, that's more for
-
-an epidemiologist or a scientist --
+**Lady Hallett**: I think, to be honest, that's more for an epidemiologist or a scientist --
 
 **Ms Shepherd**: Thank you, my Lady.
 
-**Lady Hallett**: -- as opposed to a professor of law and
-
-politics, so, I'm sorry, but I think I'm going to have
-
-to stop you there.
+**Lady Hallett**: -- as opposed to a professor of law and politics, so, I'm sorry, but I think I'm going to have to stop you there.
 
 **Ms Shepherd**: Thank you, my Lady.
 
 **Lady Hallett**: Thank you.
 
-Thank you very much indeed, Professor. I'm sorry if
-
-we did stray beyond expertise. It's my fault,
-
-I shouldn't have given permission for that question.
-
-But thank you for your help anyway and I'm sorry we
-
-can't have a longer seminar.
+Thank you very much indeed, Professor. I'm sorry if we did stray beyond expertise. It's my fault, I shouldn't have given permission for that question. But thank you for your help anyway and I'm sorry we can't have a longer seminar.
 
 **The Witness**: Thank you.
 

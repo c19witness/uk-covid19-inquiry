@@ -409,55 +409,11 @@ Now, this was a -- first of all, it's an internal product for the use -- for use
 
 **Mr Gavin Freeguard**: Yes, and across various different measures as well.
 
-**Counsel Inquiry**: Yes, and we can see that the date here in small type is was almost the prototype and it was before it was
+**Counsel Inquiry**: Yes, and we can see that the date here in small type is was almost the prototype and it was before it was actually being used. So it was in fact, if you remember the email between Dominic Cummings and Tom Shinner was I think 25 March, so this is around the time that the dashboard is being set up and this is, as it were, a prototype. But as you say, we see immediately it's a very different sort of product, much more accessible. Can we go on and look, please, at pages 11, 12 and 13 in series. So there, as it happens, we see the way in which the dashboard presents the information which was missing from that CRIP: the number of ICU beds, how many are being used, therefore how many are available. And similar -- if we can just scroll forward to pages 12 and 13, we see similar data relating to those matters.
 
-actually being used. So it was in fact, if you remember
+**Lady Hallett**: How did they make the transition from the obviously inadequate CRIP to the dashboard and the automated -- "populating" I think is the word, isn't it? Did they have the software available, or did they buy it as a matter of emergency? How did suddenly we make this transition?
 
-the email between Dominic Cummings and Tom Shinner was
-
-I think 25 March, so this is around the time that the
-
-dashboard is being set up and this is, as it were,
-
-a prototype.
-
-But as you say, we see immediately it's a very
-
-different sort of product, much more accessible.
-
-Can we go on and look, please, at pages 11, 12 and
-
-13 in series. So there, as it happens, we see the way
-
-in which the dashboard presents the information which
-
-was missing from that CRIP: the number of ICU beds, how
-
-many are being used, therefore how many are available.
-
-And similar -- if we can just scroll forward to pages 12
-
-and 13, we see similar data relating to those matters.
-
-**Lady Hallett**: How did they make the transition from the
-
-obviously inadequate CRIP to the dashboard and the
-
-automated -- "populating" I think is the word, isn't it?
-
-Did they have the software available, or did they buy it
-
-as a matter of emergency? How did suddenly we make this
-
-transition?
-
-**Mr Gavin Freeguard**: My understanding is that they brought some more
-
-expertise into the centre, so people with sort of data
-
-science skills, I think there were a few private March. This, in fact, I think was the very first, it                  24           companies who may have brought software in as well that
-
-was able to, I think to begin with, patch together some of those various different sources that were coming in, and then over time develop those pipelines that were much more automated to bring the data through.
+**Mr Gavin Freeguard**: My understanding is that they brought some more expertise into the centre, so people with sort of data science skills, I think there were a few private March. This, in fact, I think was the very first, it                  24           companies who may have brought software in as well that was able to, I think to begin with, patch together some of those various different sources that were coming in, and then over time develop those pipelines that were much more automated to bring the data through.
 
 **Mr O'Connor**: I'm sure we'll hear more evidence about this, Mr Freeguard, but it's fair to say that none of the things that happened in setting up the dashboard could only happen once the pandemic started; these were all things that could have been done in advance in readiness for a pandemic?
 

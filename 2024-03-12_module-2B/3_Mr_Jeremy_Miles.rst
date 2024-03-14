@@ -5,23 +5,13 @@
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Lady Hallett**: (Inaudible - microphone switch delay) -- to
+**Lady Hallett**: (Inaudible - microphone switch delay) -- to ask you to come and give evidence this week. As I said to Mr Gething, I appreciate it's not the best week.
 
-ask you to come and give evidence this week. As I said
-
-to Mr Gething, I appreciate it's not the best week.
-
-**Mr Poole**: Could you start with giving us your full name,
-
-please.
+**Mr Poole**: Could you start with giving us your full name, please.
 
 **Mr Jeremy Miles**: My name is Jeremy Miles.
 
-**Lead 2B**: Mr Miles, thank you for attending today and assisting
-
-the Inquiry. You have provided a witness statement. We
-
-can see that at INQ000389184. That was signed on 13 December last year. Are the contents of that witness statement true to the best of your knowledge and belief?
+**Lead 2B**: Mr Miles, thank you for attending today and assisting the Inquiry. You have provided a witness statement. We can see that at INQ000389184. That was signed on 13 December last year. Are the contents of that witness statement true to the best of your knowledge and belief?
 
 **Mr Jeremy Miles**: They are.
 

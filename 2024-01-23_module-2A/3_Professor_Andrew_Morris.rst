@@ -33,57 +33,31 @@ You've provided a number of witness statements to the Inquiry. The first stateme
 
 **Professor Andrew Morris**: That is correct.
 
-**Lead 2A**: And as far as you are concerned, do the contents of that
-
-witness statement remain true and accurate as of today's
-
-date?
+**Lead 2A**: And as far as you are concerned, do the contents of that witness statement remain true and accurate as of today's date?
 
 **Professor Andrew Morris**: They do.
 
-**Lead 2A**: You also provided a questionnaire response dated
-
-17 October 2022 under reference INQ000056491. Is that
-
-your questionnaire response dated that date?
+**Lead 2A**: You also provided a questionnaire response dated 17 October 2022 under reference INQ000056491. Is that your questionnaire response dated that date?
 
 **Professor Andrew Morris**: It is.
 
-**Lead 2A**: Do the contents of that document remain true and
-
-accurate as far as you're concerned at this date?
+**Lead 2A**: Do the contents of that document remain true and accurate as far as you're concerned at this date?
 
 **Professor Andrew Morris**: They do.
 
-**Lead 2A**: You also helpfully provided us with a Scottish
-
-Government corporate statement in your capacity as the
-
-chair of the Scottish Government Covid Advisory Group
-
-dated 23 June 2023, under INQ000215468. Is that your
-
-statement in that capacity?
+**Lead 2A**: You also helpfully provided us with a Scottish Government corporate statement in your capacity as the chair of the Scottish Government Covid Advisory Group dated 23 June 2023, under INQ000215468. Is that your statement in that capacity?
 
 **Professor Andrew Morris**: It is.
 
-**Lead 2A**: Do the contents of that statement remain true and
-
-accurate as of today's date?
+**Lead 2A**: Do the contents of that statement remain true and accurate as of today's date?
 
 **Professor Andrew Morris**: They do.
 
-**Lead 2A**: I'd just like to run through some brief details of your
-
-history, Professor. You are a medical doctor?
+**Lead 2A**: I'd just like to run through some brief details of your history, Professor. You are a medical doctor?
 
 **Professor Andrew Morris**: I am.
 
-**Lead 2A**: You graduated from Glasgow University in 1987 and
-
-pursued a career in hospital medicine as a physician,
-
-initially in Scotland and then in Cornwall; is that correct?
+**Lead 2A**: You graduated from Glasgow University in 1987 and pursued a career in hospital medicine as a physician, initially in Scotland and then in Cornwall; is that correct?
 
 **Professor Andrew Morris**: Correct.
 
@@ -481,55 +455,11 @@ Can you assist us, as we are somewhat short on precise information about the dee
 
 **Lead 2A**: Not at all. It's a mystery we're trying to solve ourselves, Professor, so thank you for your assistance. We'll move on, then, if that's not a matter with which you can help us.
 
-Again asking you a question about the period when the group was being put together, what was your
+Again asking you a question about the period when the group was being put together, what was your understanding of the Scottish Government's strategy at that time with regard to the management of a possible second wave of the virus?
 
-understanding of the Scottish Government's strategy at
+**Professor Andrew Morris**: (Pause). My ... my understanding was the Scottish Government's strategy was: to break chains of transmission through test, trace, isolate and support policy; secondly, to protect healthcare workers and continue to manage the epidemic within care homes; thirdly, to enhance constant surveillance and population and sharing of data in real time; continue with the NPI measures and maintain clear and honest communications with the public, including transparency of risk level; and to use lockdowns sparingly. And the anticipation April to discuss care homes?                                          14           was that the above strategies would buy time to enable the vaccine developments to achieve population immunity through vaccination.
 
-that time with regard to the management of a possible
-
-second wave of the virus?
-
-**Professor Andrew Morris**: (Pause). My ... my understanding was the Scottish
-
-Government's strategy was: to break chains of
-
-transmission through test, trace, isolate and support
-
-policy; secondly, to protect healthcare workers and
-
-continue to manage the epidemic within care homes;
-
-thirdly, to enhance constant surveillance and population
-
-and sharing of data in real time; continue with the NPI
-
-measures and maintain clear and honest communications
-
-with the public, including transparency of risk level;
-
-and to use lockdowns sparingly. And the anticipation April to discuss care homes?                                          14           was that the above strategies would buy time to enable
-
-the vaccine developments to achieve population immunity
-
-through vaccination.
-
-**Lead 2A**: Thank you.
-
-Could I just ask you, there are a number of
-
-references in Scottish Government materials to the Covid
-
-Advisory Group, they tend to call it the "CMO advisory
-
-group", and obviously as we know it was set up and you
-
-were appointed as chair by Dr Calderwood. What role did
-
-the CMO play in the meetings? In particular, what was
-
-the CMO's role in understanding and discussing the
-
-advice of the group and then subsequently conveying it to ministers to assist in their decision-making?
+**Lead 2A**: Thank you. Could I just ask you, there are a number of references in Scottish Government materials to the Covid Advisory Group, they tend to call it the "CMO advisory group", and obviously as we know it was set up and you were appointed as chair by Dr Calderwood. What role did the CMO play in the meetings? In particular, what was the CMO's role in understanding and discussing the advice of the group and then subsequently conveying it to ministers to assist in their decision-making?
 
 **Professor Andrew Morris**: The group was established to report through the Chief Medical Officer to Scottish Government ministers and officials. The CMO himself, I think -- I think Dr Calderwood attended three meetings of the group, and I think Professor Smith attended 32 meetings of the group, out of 60 in total.
 

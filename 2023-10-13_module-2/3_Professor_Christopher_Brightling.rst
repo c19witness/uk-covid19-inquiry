@@ -127,57 +127,11 @@ I've referred to your study which related to hospitalised patients suffering fro
 
 Can you give us a little bit more detail on that, please?
 
-**Dr Evans**: Yes. So, following on from the last line of questioning, the other group that we had information about is patients where they have a very severe lung
+**Dr Evans**: Yes. So, following on from the last line of questioning, the other group that we had information about is patients where they have a very severe lung injury ending in hospital, requiring oxygen and sometimes breathing machines to help them. And people with those conditions, so either acute lung injury or something known as adult respiratory distress syndrome, can, we know from other studies, particularly large studies from Canada showing that those patients can have ongoing consequences for many, many years -- both health consequences and consequences for occupation, so the fact that -- the SARS-CoV-2 virus, we knew from China quite early on that the predominant illness at that point was very much the acute lung injury, so that was one element to why we were looking at those people that were in hospital.
 
-injury ending in hospital, requiring oxygen and
+But there were also some logistical challenges around setting up a research study. So people in hospital had a clear diagnosis from a clinician, even if we didn't have the testing confirmed right at the beginning. So you had a firm start point and then a follow-up. Scientifically it would have been very difficult at that time, without thought before, because of the lack of testing as well in the community, so it was quite challenging to study that group.
 
-sometimes breathing machines to help them. And people
-
-with those conditions, so either acute lung injury or
-
-something known as adult respiratory distress syndrome,
-
-can, we know from other studies, particularly large
-
-studies from Canada showing that those patients can have
-
-ongoing consequences for many, many years -- both health
-
-consequences and consequences for occupation, so the
-
-fact that -- the SARS-CoV-2 virus, we knew from China
-
-quite early on that the predominant illness at that
-
-point was very much the acute lung injury, so that was
-
-one element to why we were looking at those people that
-
-were in hospital.
-
-But there were also some logistical challenges
-
-around setting up a research study. So people in
-
-hospital had a clear diagnosis from a clinician, even if
-
-we didn't have the testing confirmed right at
-
-the beginning. So you had a firm start point and then
-
-a follow-up. Scientifically it would have been very
-
-difficult at that time, without thought before, because
-
-of the lack of testing as well in the community, so it
-
-was quite challenging to study that group.
-
-**Mr O'Connor**: At any rate, that was the cohort that you
-
-focused on in setting up this study, which was, we see
-
-the acronym, PHOSP-Covid -- is that how you refer to it?
+**Mr O'Connor**: At any rate, that was the cohort that you focused on in setting up this study, which was, we see the acronym, PHOSP-Covid -- is that how you refer to it?
 
 **Dr Evans**: Yes.
 

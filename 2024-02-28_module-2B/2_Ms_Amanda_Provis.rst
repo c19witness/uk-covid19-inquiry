@@ -5,43 +5,23 @@
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Lady Hallett**: Please just say if you need a break or
+**Lady Hallett**: Please just say if you need a break or anything. Thank you very much for helping us.
 
-anything. Thank you very much for helping us.
-
-**Mr Poole**: Ms Provis, I think you were in the room a moment
-
-ago when I said this, but I will say it again, if you
-
-could just try to keep your voice up so that we can hear
-
-you but also so that your evidence can be recorded. If
-
-I ask you anything that you don't understand, please ask
-
-me to repeat it --
+**Mr Poole**: Ms Provis, I think you were in the room a moment ago when I said this, but I will say it again, if you could just try to keep your voice up so that we can hear you but also so that your evidence can be recorded. If I ask you anything that you don't understand, please ask me to repeat it --
 
 **Ms Amanda Provis**: Okay.
 
 **Lead 2B**: -- or rephrase it.
 
-I understand that you give your evidence this
-
-morning on behalf of Covid Bereaved Families for
-
-Justice Cymru.
+I understand that you give your evidence this morning on behalf of Covid Bereaved Families for Justice Cymru.
 
 **Ms Amanda Provis**: Yeah.
 
-**Lead 2B**: You have been good enough to provide a witness statement
-
-to the Inquiry that's dated 23 February 2024.
+**Lead 2B**: You have been good enough to provide a witness statement to the Inquiry that's dated 23 February 2024.
 
 **Ms Amanda Provis**: Yes.
 
-**Lead 2B**: We have that up on the screen. You signed that witness
-
-statement. Is it true to the best of your knowledge and belief --
+**Lead 2B**: We have that up on the screen. You signed that witness statement. Is it true to the best of your knowledge and belief --
 
 **Ms Amanda Provis**: Yes, it is.
 
@@ -273,19 +253,7 @@ So you've described how you visited your grandmother at the care home. Within th
 
 **Ms Amanda Provis**: Yes.
 
-**Lead 2B**: As well as infection control in care homes, there were
-
-also the restrictions that you've spoken about placed on
-
-care homes generally, in terms of trying to keep
-
-residents safe, but of course the terrible consequences
-
-that that had on loved ones and relatives of loved ones
-
-that wished to visit care homes; that is a concern of
-
-yours --
+**Lead 2B**: As well as infection control in care homes, there were also the restrictions that you've spoken about placed on care homes generally, in terms of trying to keep residents safe, but of course the terrible consequences that that had on loved ones and relatives of loved ones that wished to visit care homes; that is a concern of yours --
 
 **Ms Amanda Provis**: It is.
 
@@ -293,37 +261,17 @@ yours --
 
 **Ms Amanda Provis**: That's correct.
 
-**Lead 2B**: What about the receipt of medical care within
-
-care homes? Have some, perhaps a large number of
-
-members of your group, raised the issue of whether or
-
-not their loved ones received proper or adequate medical
-
-care when in care homes?
+**Lead 2B**: What about the receipt of medical care within care homes? Have some, perhaps a large number of members of your group, raised the issue of whether or not their loved ones received proper or adequate medical care when in care homes?
 
 **Ms Amanda Provis**: Yes, that's correct.
 
-**Lead 2B**: Now, outside the care sector, have a lot of your members
-
-raised the issue of the 111 medical service, so the
-
-phone system for receiving medical help?
+**Lead 2B**: Now, outside the care sector, have a lot of your members raised the issue of the 111 medical service, so the phone system for receiving medical help?
 
 **Ms Amanda Provis**: Yes, that's correct.
 
-**Lead 2B**: Turning to hospitals and the general provision of
+**Lead 2B**: Turning to hospitals and the general provision of medical care, what are your main concerns regarding hospitals?
 
-medical care, what are your main concerns regarding
-
-hospitals?
-
-**Ms Amanda Provis**: I'm concerned that there wasn't adequate PPE for anybody
-
-that worked there, and that if there was adequate PPE
-
-that it wouldn't have been brought home to my mother and, you know, she would have still -- hopefully have still been with us.
+**Ms Amanda Provis**: I'm concerned that there wasn't adequate PPE for anybody that worked there, and that if there was adequate PPE that it wouldn't have been brought home to my mother and, you know, she would have still -- hopefully have still been with us.
 
 **Lead 2B**: And also a related issue, the issue of restrictions in visiting and the ability to see loved ones in hospital, is that another issue that --
 
@@ -341,23 +289,17 @@ that it wouldn't have been brought home to my mother and, you know, she would ha
 
 **The Witness**: Thank you.
 
-**Lady Hallett**: Thank you very much indeed. Would you like
-
-to talk to somebody?
+**Lady Hallett**: Thank you very much indeed. Would you like to talk to somebody?
 
 **The Witness**: No, I'm okay.
 
-**Lady Hallett**: Are you sure? I saw you brought the
-
-photographs.
+**Lady Hallett**: Are you sure? I saw you brought the photographs.
 
 **The Witness**: Yeah, thank you.
 
 *(The witness withdrew)*
 
-**Lady Hallett**: I don't know if anybody else is getting cold
-
-but I am getting distinctly chilly again.
+**Lady Hallett**: I don't know if anybody else is getting cold but I am getting distinctly chilly again.
 
 **Mr Poole**: My Lady, we're due next to hear from
 
@@ -365,9 +307,7 @@ Professor Emmanuel Ogbonna.
 
 *(Pause)*
 
-**Mr Poole**: Professor, could you start by giving us your full
-
-name?
+**Mr Poole**: Professor, could you start by giving us your full name?
 
 **The Witness**: Professor Emmanuel Ogbonna.
 

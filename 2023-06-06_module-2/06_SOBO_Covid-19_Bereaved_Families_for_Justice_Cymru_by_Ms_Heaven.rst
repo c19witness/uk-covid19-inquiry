@@ -47,31 +47,11 @@ So, in summary, we ask that these communications are disclosed, if they've not a
 
 Briefly on expert witnesses, we note that for Module 1 many of the expert reports were in draft when the evidence proposals were circulated by the Inquiry. This naturally created difficulties for core participants, not knowing what the final expert report would say. Therefore, in Module 2 we ask you to introduce a deadline for the service of final expert reports to ensure that they are then served in advance of your CTI's evidence proposals.
 
-As to the substance of the draft expert reports, we once again do raise a concern at the level of detail and analysis in these reports in relation to Wales. As you know, we've raised concerns about the lack of specificity and the limited comparison between the devolved nations and frequently a distinct lack of analysis of the communication and interaction between the devolved governments and the UK Government. We obviously therefore look forward to receiving the finalised expert reports, which we very much hope will
-
-contain more analysis in relation to the issues that
-
-I've just highlighted.
-
-Finally, my Lady, the Covid-19 Bereaved Families for
-
-Justice Cymru once again offer their continued support
-
-to the commemoration and to Every Story Matters, and
-
-they wish to make clear to you today that they will
-
-continue to work with your team in developing your
-
-understanding of the experience of the bereaved families
-
-of Wales.
+As to the substance of the draft expert reports, we once again do raise a concern at the level of detail and analysis in these reports in relation to Wales. As you know, we've raised concerns about the lack of specificity and the limited comparison between the devolved nations and frequently a distinct lack of analysis of the communication and interaction between the devolved governments and the UK Government. We obviously therefore look forward to receiving the finalised expert reports, which we very much hope will contain more analysis in relation to the issues that I've just highlighted. Finally, my Lady, the Covid-19 Bereaved Families for Justice Cymru once again offer their continued support to the commemoration and to Every Story Matters, and they wish to make clear to you today that they will continue to work with your team in developing your understanding of the experience of the bereaved families of Wales.
 
 Thank you very much.
 
-**Lady Hallett**: Thank you very much indeed, Ms Heaven. I'm
-
-very grateful for your offers of support as well.
+**Lady Hallett**: Thank you very much indeed, Ms Heaven. I'm very grateful for your offers of support as well.
 
 Right, could we return, please, at 2.15.
 
@@ -85,7 +65,5 @@ Right, could we return, please, at 2.15.
 
 **Mr Metzer**: Yes.
 
-**Lady Hallett**: I'd made a note to myself to look to my left,
-
-but I'm afraid I hadn't found it in time.
+**Lady Hallett**: I'd made a note to myself to look to my left, but I'm afraid I hadn't found it in time.
 

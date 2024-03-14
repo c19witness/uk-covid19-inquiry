@@ -2,9 +2,7 @@ Transcript of Module 2B Public Hearing on 01 March 2024.
 
 *(9.59 am)*
 
-**Lady Hallett**: Good morning on a rather damp St David's Day
-
-here in Cardiff.
+**Lady Hallett**: Good morning on a rather damp St David's Day here in Cardiff.
 
 **Mr Poole**: Can I call Dr Chris Williams, please.
 
@@ -15,41 +13,17 @@ here in Cardiff.
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Mr Poole**: Could you please start by giving us your full
-
-name.
+**Mr Poole**: Could you please start by giving us your full name.
 
 **Dr Chris Williams**: Christopher Julian Williams.
 
-**Lead 2B**: Dr Williams, thank you for attending the Inquiry today
+**Lead 2B**: Dr Williams, thank you for attending the Inquiry today to give your evidence. Can I just remind you to please keep your voice up so that we can hear you but also so that your evidence can be recorded. If I ask you a question you don't understand, please do ask me to rephrase it. There will be breaks, but if you do need one, let us know.
 
-to give your evidence. Can I just remind you to please
-
-keep your voice up so that we can hear you but also so
-
-that your evidence can be recorded. If I ask you
-
-a question you don't understand, please do ask me to
-
-rephrase it. There will be breaks, but if you do need
-
-one, let us know.
-
-Your witness statement to this module is at
-
-INQ000251938. That was signed and dated on 17 August,
-
-and is that statement true to the best of your knowledge
-
-and belief?
+Your witness statement to this module is at INQ000251938. That was signed and dated on 17 August, and is that statement true to the best of your knowledge and belief?
 
 **Dr Chris Williams**: It is.
 
-**Lead 2B**: Now, Dr Williams, in terms of your professional
-
-background, I understand that you have worked as
-
-a consultant epidemiologist in Public Health Wales Communicable Disease Surveillance Centre, the CDSC, since 2013, and you have been involved in public health responses to communicable diseases since 2001; is that right?
+**Lead 2B**: Now, Dr Williams, in terms of your professional background, I understand that you have worked as a consultant epidemiologist in Public Health Wales Communicable Disease Surveillance Centre, the CDSC, since 2013, and you have been involved in public health responses to communicable diseases since 2001; is that right?
 
 **Dr Chris Williams**: Yes.
 
@@ -65,55 +39,15 @@ a consultant epidemiologist in Public Health Wales Communicable Disease Surveill
 
 **Dr Chris Williams**: Yes.
 
-**Lead 2B**: Can you briefly tell us what the CDSC was and perhaps
+**Lead 2B**: Can you briefly tell us what the CDSC was and perhaps explain its importance and significance in that period January to March 2020.
 
-explain its importance and significance in that period
+**Dr Chris Williams**: So we have a responsibility for surveillance of infectious diseases, also advising on outbreak management and research, teaching, those kind of activities.
 
-January to March 2020.
+In the early part of the pandemic we moved from hearing about the first case from the WHO at the end of 2019 to starting to get briefings, mainly through colleagues in Public Health England, about this new infection, new disease that was affecting people in China, and there were a series of meetings on that, which in general Public Health England led, and we were just -- we were picking up on what was going and I was disseminating it through my organisation.
 
-**Dr Chris Williams**: So we have a responsibility for surveillance of
+**Lead 2B**: We will come to look at that in a bit more detail and break that period down in a moment, but I understand that in March 2020 you became one of three incident directors to Public Health Wales. What did that role involve?
 
-infectious diseases, also advising on outbreak
-
-management and research, teaching, those kind of
-
-activities.
-
-In the early part of the pandemic we moved from
-
-hearing about the first case from the WHO at the end of
-
-2019 to starting to get briefings, mainly through
-
-colleagues in Public Health England, about this new
-
-infection, new disease that was affecting people in
-
-China, and there were a series of meetings on that,
-
-which in general Public Health England led, and we were
-
-just -- we were picking up on what was going and I was
-
-disseminating it through my organisation.
-
-**Lead 2B**: We will come to look at that in a bit more detail and
-
-break that period down in a moment, but I understand
-
-that in March 2020 you became one of three incident
-
-directors to Public Health Wales. What did that role
-
-involve?
-
-**Dr Chris Williams**: So that was more day-to-day decision-making, attending
-
-particular groups with respect to the response within
-
-Public Health Wales, and, you know, monitoring the
-
-situation. So there was quite a few tasks associated with that, but essentially it was the tactical response on the day. I was one, as you say, of three, and then I think there were four later.
+**Dr Chris Williams**: So that was more day-to-day decision-making, attending particular groups with respect to the response within Public Health Wales, and, you know, monitoring the situation. So there was quite a few tasks associated with that, but essentially it was the tactical response on the day. I was one, as you say, of three, and then I think there were four later.
 
 **Lead 2B**: I'm right in saying that you were also involved with the Technical Advisory Cell and the Technical Advisory Group that we heard a bit about from Dr Hoyle yesterday; is that right?
 
@@ -1003,27 +937,11 @@ Were you also aware of concerns of this nature?
 
 **Ms Foubister**: And in 2020, was there an attempt to quantify or collect data or even consider the more indirect harms resulting from NPIs?
 
-**Dr Chris Williams**: I don't recall that from my own work or -- it might be in other people's evidence, but remember I'm a specialist -- it's in infectious disease
+**Dr Chris Williams**: I don't recall that from my own work or -- it might be in other people's evidence, but remember I'm a specialist -- it's in infectious disease epidemiology.
 
-epidemiology.
+**Ms Foubister**: You may not be able to answer this, given what you've just said, but my final question is: to what extent were the adverse impacts of NPIs on people in care or those needing care analysed? To what extent was data or expert input obtained for the benefit of core decision-makers in order to be weighed against the benefits?
 
-**Ms Foubister**: You may not be able to answer this, given what you've
-
-just said, but my final question is: to what extent were
-
-the adverse impacts of NPIs on people in care or those
-
-needing care analysed? To what extent was data or
-
-expert input obtained for the benefit of core
-
-decision-makers in order to be weighed against the
-
-benefits?
-
-**Dr Chris Williams**: I can't answer that, I'm afraid. I'm not part of that
-
-evidence.
+**Dr Chris Williams**: I can't answer that, I'm afraid. I'm not part of that evidence.
 
 **Ms Foubister**: Thank you.
 
@@ -1031,9 +949,7 @@ evidence.
 
 **Lady Hallett**: Thank you very much.
 
-Thank you very much, Dr Williams. Thank you for
-
-your help.
+Thank you very much, Dr Williams. Thank you for your help.
 
 **The Witness**: Thank you.
 
@@ -1041,9 +957,7 @@ your help.
 
 **Mr Poole**: If I can -- I'll wait.
 
-**Lady Hallett**: Mr Poole, Ms Whitaker, don't worry, the
-
-question wasn't asked, so we're moving on.
+**Lady Hallett**: Mr Poole, Ms Whitaker, don't worry, the question wasn't asked, so we're moving on.
 
 **Mr Poole**: Exactly, my Lady.
 

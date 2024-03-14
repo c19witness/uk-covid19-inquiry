@@ -17,15 +17,7 @@ My Lady, those are the only points I wish to raise by way of reply submissions a
 
 **Baroness Hallett**: Thank you very much, Mr Poole.
 
-As I said earlier, I'm very grateful to everyone for their help and for their offers of continued help in the future. We are going to need that help if we are, as I said earlier, to meet the ambitious timetable but having seen such a constructive approach adopted by all the Core Participants in their written and their oral submissions, I remain optimistic that we can conduct
-
-both a thorough and a timely investigation of the issues
-
-that are of significance for the people of Wales. So
-
-thank you everybody for attending, making submissions or
-
-indeed just watching online.
+As I said earlier, I'm very grateful to everyone for their help and for their offers of continued help in the future. We are going to need that help if we are, as I said earlier, to meet the ambitious timetable but having seen such a constructive approach adopted by all the Core Participants in their written and their oral submissions, I remain optimistic that we can conduct both a thorough and a timely investigation of the issues that are of significance for the people of Wales. So thank you everybody for attending, making submissions or indeed just watching online.
 
 Thank you.
 

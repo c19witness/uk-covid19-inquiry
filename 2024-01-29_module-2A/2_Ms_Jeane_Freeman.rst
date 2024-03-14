@@ -15,13 +15,7 @@ Ms Freeman.
 
 **Ms Jeane Freeman**: I am.
 
-**Lead 2A**: You have helpfully provided some statements to this
-
-module of the Inquiry, in particular a witness statement
-
-dated 16 November 2023 under reference INQ000273984. Is
-
-that your statement?
+**Lead 2A**: You have helpfully provided some statements to this module of the Inquiry, in particular a witness statement dated 16 November 2023 under reference INQ000273984. Is that your statement?
 
 **Ms Jeane Freeman**: It is.
 
@@ -58,26 +52,15 @@ that your statement?
 **Ms Jeane Freeman**: Yes.
 
 **Lead 2A**: From June 2018 until May 2021 you head the post of
-
-Cabinet Secretary for Health and Sport within the
-
-Scottish Government?
+Cabinet Secretary for Health and Sport within the Scottish Government?
 
 **Ms Jeane Freeman**: I did.
 
-**Lead 2A**: You left that role in May 2021, prior to the Scottish
-
-Parliamentary election in which you did not stand; is
-
-that correct?
+**Lead 2A**: You left that role in May 2021, prior to the Scottish Parliamentary election in which you did not stand; is that correct?
 
 **Ms Jeane Freeman**: That's correct.
 
-**Lead 2A**: Prior to holding that role, you were the minister for
-
-social security within the Scottish Government between
-
-18 May 2016 and 26 June 2018?
+**Lead 2A**: Prior to holding that role, you were the minister for social security within the Scottish Government between 18 May 2016 and 26 June 2018?
 
 **Ms Jeane Freeman**: I was.
 
@@ -85,27 +68,17 @@ social security within the Scottish Government between
 
 **Ms Jeane Freeman**: Yes.
 
-**Lead 2A**: As Cabinet Secretary for Health and Sport, your
-
-responsibilities included the NHS and its performance,
-
-national clinical strategy, carers and adult care and
-
-support; is that correct?
+**Lead 2A**: As Cabinet Secretary for Health and Sport, your responsibilities included the NHS and its performance, national clinical strategy, carers and adult care and support; is that correct?
 
 **Ms Jeane Freeman**: That's correct.
 
 **Lead 2A**: Thank you.
 
-I'd like to ask you some questions about your use of
-
-informal communications --
+I'd like to ask you some questions about your use of informal communications --
 
 **Ms Jeane Freeman**: Yes.
 
-**Lead 2A**: -- during the course of the pandemic, and also your
-
-retention of them.
+**Lead 2A**: -- during the course of the pandemic, and also your retention of them.
 
 The Inquiry has seen on a number of occasions a table that was helpfully produced by the Scottish Government indicating the position with regard to usage and retention of a number of different things, including informal messaging. Now, this is dated from October of this year.
 

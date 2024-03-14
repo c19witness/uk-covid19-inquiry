@@ -19,15 +19,7 @@ Questions From Lead Counsel to the Inquiry for Module 2A
 
 **Ms Nicola Sturgeon**: I am.
 
-**Lead 2A**: You very helpfully provided two statements to this
-
-module of the Inquiry as well as a number of other prior
-
-statements. The statements you provided to this module
-
-are under reference INQ000339033. This is a statement
-
-dated 6 November 2023. Is that your statement?
+**Lead 2A**: You very helpfully provided two statements to this module of the Inquiry as well as a number of other prior statements. The statements you provided to this module are under reference INQ000339033. This is a statement dated 6 November 2023. Is that your statement?
 
 **Ms Nicola Sturgeon**: It is.
 
@@ -35,17 +27,11 @@ dated 6 November 2023. Is that your statement?
 
 **Ms Nicola Sturgeon**: I have.
 
-**Lead 2A**: Do the contents of the statement remain true and
-
-accurate as at today's date?
+**Lead 2A**: Do the contents of the statement remain true and accurate as at today's date?
 
 **Ms Nicola Sturgeon**: Yes.
 
-**Lead 2A**: You also provided a further statement to us under
-
-reference INQ000273980. This was a further statement
-
-dated 16 November 2023. Is that your further statement?
+**Lead 2A**: You also provided a further statement to us under reference INQ000273980. This was a further statement dated 16 November 2023. Is that your further statement?
 
 **Ms Nicola Sturgeon**: Yes.
 

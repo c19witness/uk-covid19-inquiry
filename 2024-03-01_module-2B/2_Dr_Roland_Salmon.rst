@@ -23,57 +23,31 @@ Now, you have kindly given a witness statement to this Inquiry, INQ000224354. We
 
 **Dr Roland Salmon**: Yes, that's correct.
 
-**Lead 2B**: You spent eight years, up to 2019, as a member of the Department of Health's Advisory Committee on Dangerous Pathogens, including two years as acting chair and
+**Lead 2B**: You spent eight years, up to 2019, as a member of the Department of Health's Advisory Committee on Dangerous Pathogens, including two years as acting chair and eight years as chair of its transmissible spongiform encephalopathy working group; is that right?
 
-eight years as chair of its transmissible spongiform
-
-encephalopathy working group; is that right?
-
-**Dr Roland Salmon**: Yes, that's correct, I was succeeded by one
-
-Chris Whitty.
+**Dr Roland Salmon**: Yes, that's correct, I was succeeded by one Chris Whitty.
 
 **Lead 2B**: The Inquiry knows him well.
 
-From 2003 to 2013 you were a member of the
+From 2003 to 2013 you were a member of the Scientific Advisory Committee (Conseil Scientifique) of the French National Institute for Public Health
 
-Scientific Advisory Committee (Conseil Scientifique) of
-
-the French National Institute for Public Health
-
-Surveillance and subsequently, until 2016, a member of
-
-its management board; is that right?
+Surveillance and subsequently, until 2016, a member of its management board; is that right?
 
 **Dr Roland Salmon**: That's correct.
 
-**Lead 2B**: I think you have been a senior crematorium medical
-
-referee for Cardiff Council Crematorium since 1999; is
-
-that also right?
+**Lead 2B**: I think you have been a senior crematorium medical referee for Cardiff Council Crematorium since 1999; is that also right?
 
 **Dr Roland Salmon**: That's also correct.
 
-**Lead 2B**: In terms of your role in the Welsh Government's response
-
-to the pandemic is it right you never sat on TAG or TAC
-
-or any of their subgroups?
+**Lead 2B**: In terms of your role in the Welsh Government's response to the pandemic is it right you never sat on TAG or TAC or any of their subgroups?
 
 **Dr Roland Salmon**: I had no formal role at all.
 
-**Lead 2B**: And is it right you had no formal communication at any
-
-level with the Welsh Government or its advisory groups
-
-throughout the pandemic?
+**Lead 2B**: And is it right you had no formal communication at any level with the Welsh Government or its advisory groups throughout the pandemic?
 
 **Dr Roland Salmon**: Yes, that's also correct.
 
-**Lead 2B**: Now, I plan to ask you some questions in a moment about
-
-the overall notion of population immunity and shielding, but first, if I may, I want to address some comments you have made concerning the pre-eminence of modelling and modellers in the pandemic and the figures that those modellers used.
+**Lead 2B**: Now, I plan to ask you some questions in a moment about the overall notion of population immunity and shielding, but first, if I may, I want to address some comments you have made concerning the pre-eminence of modelling and modellers in the pandemic and the figures that those modellers used.
 
 Now, in your witness statement you have commented that in TAC it was, your words, "mathematical modellers that dominated the agenda".
 

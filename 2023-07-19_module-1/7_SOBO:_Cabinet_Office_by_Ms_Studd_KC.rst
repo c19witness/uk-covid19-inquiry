@@ -111,29 +111,11 @@ I'd also like to praise the members of the public who have attended, I think one
 
 The next stage for the Inquiry team is to start drafting -- I think drafting has probably already started in some respects -- and finalising the report for Module 1. As I have made clear many times, I intend to finalise it and publish it as soon as possible.
 
-There's obviously a very great deal of material to consider, and so I will ensure that it's published -- the hope is that it will be published by early summer
+There's obviously a very great deal of material to consider, and so I will ensure that it's published -- the hope is that it will be published by early summer next year. If we could do it any quicker, obviously we will, but given the amount we have to go through, we will have to see.
 
-next year. If we could do it any quicker, obviously we
+Anyway, that is my hope and my plan, because -- as I think it was Ms Marsh-Rees said yesterday -- the sooner I can get any recommendations, if I make any, public, then the sooner they may be implemented and the sooner they may have an effect.
 
-will, but given the amount we have to go through, we
-
-will have to see.
-
-Anyway, that is my hope and my plan, because -- as
-
-I think it was Ms Marsh-Rees said yesterday -- the
-
-sooner I can get any recommendations, if I make any,
-
-public, then the sooner they may be implemented and the
-
-sooner they may have an effect.
-
-So thank you all very much, for those who have
-
-followed online, for those who have been here, and for
-
-the participants and the lawyers involved. Thank you.
+So thank you all very much, for those who have followed online, for those who have been here, and for the participants and the lawyers involved. Thank you.
 
 *(12.43 pm)*
 

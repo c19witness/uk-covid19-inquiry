@@ -241,49 +241,11 @@ Can we then please turn to page 29, and it's the second to last paragraph, and a
 
 No, but -- but I want to caveat that in that I think that there was more of a culture of inevitability coming down from the UK Government around the whole discourse of people with -- who were vulnerable because they had pre-existing health conditions. There was a feeling amongst the group that disabled people were generally seen throughout Covid as dispensable, that it was almost inevitable that because they had pre-existing health conditions they would be more vulnerable to Covid and therefore they would die.
 
-And I know when this statistic came out it was
+And I know when this statistic came out it was really quite shocking, and I remember the meeting that it was brought to, the statistician from Welsh Government brought the statistic to the meeting, and there was a lot of discussion about why might it be so high, and latterly we learnt that it was particularly high in Wales. And I think that that has a lot to do with the historical and socioeconomic profile in Wales, of poverty and deprivation, and, you know, I ... I mean, COVID related deaths in Wales were disabled people."                  10           I just feel that what we wanted to convey in the Locked Out report was a really clear message that it was not inevitable that disabled people were necessarily going to die in larger numbers than other groups of the population. There were things that could and should be done, and there were lessons to be learnt for the future.
 
-really quite shocking, and I remember the meeting that
+**Counsel Inquiry**: Perhaps on that same topic, page 34 of the report, if we could have that, please, and it's the top paragraph:
 
-it was brought to, the statistician from Welsh
-
-Government brought the statistic to the meeting, and
-
-there was a lot of discussion about why might it be so
-
-high, and latterly we learnt that it was particularly
-
-high in Wales. And I think that that has a lot to do
-
-with the historical and socioeconomic profile in Wales,
-
-of poverty and deprivation, and, you know, I ... I mean, COVID related deaths in Wales were disabled people."                  10           I just feel that what we wanted to convey in the
-
-Locked Out report was a really clear message that it was
-
-not inevitable that disabled people were necessarily
-
-going to die in larger numbers than other groups of the
-
-population. There were things that could and should be
-
-done, and there were lessons to be learnt for the
-
-future.
-
-**Counsel Inquiry**: Perhaps on that same topic, page 34 of the report, if we
-
-could have that, please, and it's the top paragraph:
-
-"Concerns have been raised about the access of
-
-long-term users of NHS services for non-Covid-related
-
-health conditions in Wales ..."
-
-So perhaps directly relevant to what we were just
-
-talking about.
+"Concerns have been raised about the access of long-term users of NHS services for non-Covid-related health conditions in Wales ..." So perhaps directly relevant to what we were just talking about.
 
 **Professor Debbie Foster**: Mm.
 

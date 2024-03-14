@@ -4,9 +4,7 @@ Transcript of Module 2A Public Hearing on 19 January 2024
 
 **Lady Hallett**: Mr Dawson.
 
-**Mr Dawson**: Good morning, my Lady. The first witness this
-
-morning is Ms Lesley Fraser.
+**Mr Dawson**: Good morning, my Lady. The first witness this morning is Ms Lesley Fraser.
 
 1. Ms Lesley Fraser
 ===================
@@ -19,41 +17,13 @@ Questions From Lead Counsel to the Inquiry for Module 2A
 
 **Ms Lesley Fraser**: I am.
 
-**Lead 2A**: You have provided us with a number of statements for
-
-the Inquiry so far, thank you very much for having done
-
-so. If I could just run through them quickly in
-
-order --
+**Lead 2A**: You have provided us with a number of statements for the Inquiry so far, thank you very much for having done so. If I could just run through them quickly in order --
 
 **Ms Lesley Fraser**: Yes.
 
-**Lead 2A**: -- that the references can be put on the transcript for
+**Lead 2A**: -- that the references can be put on the transcript for those who are interested to read them. You provided a witness statement dated 23 October 2023 which is INQ000320588. You provided a second statement as a corporate statement as Director General of corporate, which has the reference INQ000215474. That's dated 23 June 2023. You then provided an addendum witness statement in that capacity as director on 6 November of this year, INQ000340111.
 
-those who are interested to read them.
-
-You provided a witness statement dated
-
-23 October 2023 which is INQ000320588.
-
-You provided a second statement as a corporate
-
-statement as Director General of corporate, which has
-
-the reference INQ000215474. That's dated 23 June 2023.
-
-You then provided an addendum witness statement in
-
-that capacity as director on 6 November of this year,
-
-INQ000340111.
-
-A further statement, again in that capacity, on 9 November of this year, INQ000340122.
-
-Then finally, again in that capacity, a further statement on 4 January 2024, INQ000391307.
-
-You have signed all of these statements, as I understand it; is that correct?
+A further statement, again in that capacity, on 9 November of this year, INQ000340122. Then finally, again in that capacity, a further statement on 4 January 2024, INQ000391307. You have signed all of these statements, as I understand it; is that correct?
 
 **Ms Lesley Fraser**: I have, yes.
 
@@ -79,57 +49,27 @@ You are the Director General of the Corporate directorate general within the Sco
 
 **Ms Lesley Fraser**: That's correct, yes.
 
-**Lead 2A**: You explain in some of your statements that the Director General Corporate is responsible for the corporate services required by the Scottish Government, which includes, amongst other things, corporate governance,
-
-legal propriety and ethics, and also you're responsible
-
-for the Covid Inquiries Response Directorate. Is all
-
-that correct?
+**Lead 2A**: You explain in some of your statements that the Director General Corporate is responsible for the corporate services required by the Scottish Government, which includes, amongst other things, corporate governance, legal propriety and ethics, and also you're responsible for the Covid Inquiries Response Directorate. Is all that correct?
 
 **Ms Lesley Fraser**: All of that is correct, yes.
 
 **Lead 2A**: Thank you.
 
-The Covid Inquiries Response Directorate, as
-
-I understand it, is a directorate within the Scottish
-
-Government which co-ordinates the Scottish Government's
-
-response to this Inquiry and indeed to the
-
-Scottish Inquiry?
+The Covid Inquiries Response Directorate, as I understand it, is a directorate within the Scottish Government which co-ordinates the Scottish Government's response to this Inquiry and indeed to the Scottish Inquiry?
 
 **Ms Lesley Fraser**: That's correct, yes.
 
-**Lead 2A**: I'd like to ask you some questions this morning about
-
-a number of documents and practices relating to document
-
-retention within the Scottish Government.
+**Lead 2A**: I'd like to ask you some questions this morning about a number of documents and practices relating to document retention within the Scottish Government.
 
 **Ms Lesley Fraser**: Yes.
 
-**Lead 2A**: As I understand it, this is a matter which falls within
+**Lead 2A**: As I understand it, this is a matter which falls within your ambit as the Director-General Corporate?
 
-your ambit as the Director-General Corporate?
-
-**Ms Lesley Fraser**: It is, so I am responsible for all aspects of
-
-record-keeping but I'm also the senior information risk
-
-owner for the organisation, which carries its own
-
-responsibilities as well, but all that general area
-
-falls within my ambit.
+**Ms Lesley Fraser**: It is, so I am responsible for all aspects of record-keeping but I'm also the senior information risk owner for the organisation, which carries its own responsibilities as well, but all that general area falls within my ambit.
 
 **Lead 2A**: Thank you very much.
 
-Could I just have the 9 November statement,
-
-INQ000340122. You say in paragraph 1 of that statement that:
+Could I just have the 9 November statement, INQ000340122. You say in paragraph 1 of that statement that:
 
 "The Scottish Government has established policies and guidance in place to support effective information governance and records management. The Scottish Government is committed to openness and transparency, and to cooperating fully with both the UK and Scottish Covid-19 Inquiries."
 

@@ -39,37 +39,11 @@ The impact on those whom I represent, it is critical. Sadly, for many of the Nor
 
 Finally, I would like to turn to the issue of witness evidence, the first-hand accounts of those whom I represent. I rehearse and reiterate the echoes of previous submissions at preliminary hearings regarding the importance of the Inquiry hearing witness evidence from those with lived experience of matters addressed in each module. There can be no room for doubt that the witness evidence from the Covid bereaved is surely as important to you as it is for them. You have already commented that some of the most insightful participants in the impact film came from Northern Ireland, and of course who can forget the extremely moving and poignant evidence of our own Brenda Doherty, who provided a powerful conclusion to the evidence at the end of Module 1.
 
-Whilst reflecting that we continue to request the invitation to give oral testimony to the Inquiry, the Northern Ireland Covid Bereaved Families for Justice
+Whilst reflecting that we continue to request the invitation to give oral testimony to the Inquiry, the Northern Ireland Covid Bereaved Families for Justice will continue to identify such a range of such evidence that we feel should be heard, and we will work tirelessly to assist the Inquiry in identifying a proportionate number of witnesses who are able to reflect the varied, lived-in experiences of our client base.
 
-will continue to identify such a range of such evidence
+My Lady, unless there's anything you wish me to address you on or refer you to specifically, those are the submissions on behalf of the Northern Ireland Covid Bereaved Families for Justice, and I would like to thank you again for your continued consideration.
 
-that we feel should be heard, and we will work
-
-tirelessly to assist the Inquiry in identifying
-
-a proportionate number of witnesses who are able to
-
-reflect the varied, lived-in experiences of our client
-
-base.
-
-My Lady, unless there's anything you wish me to
-
-address you on or refer you to specifically, those are
-
-the submissions on behalf of the Northern Ireland Covid
-
-Bereaved Families for Justice, and I would like to
-
-thank you again for your continued consideration.
-
-**Lady Hallett**: Thank you very much indeed, Ms McDermott, and
-
-the point you make about comparative analysis, I was
-
-thinking about that just yesterday, and I agree it's
-
-something that needs careful consideration.
+**Lady Hallett**: Thank you very much indeed, Ms McDermott, and the point you make about comparative analysis, I was thinking about that just yesterday, and I agree it's something that needs careful consideration.
 
 Thank you very much indeed.
 

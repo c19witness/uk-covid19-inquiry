@@ -11,9 +11,7 @@ Transcript of Module 2B Public Hearing on 05 March 2024.
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Mr Poole**: If you could start, please, by giving us your
-
-full name.
+**Mr Poole**: If you could start, please, by giving us your full name.
 
 **Dr Andrew Goodall**: Bore da, good morning, I'm Andrew Goodall.
 
@@ -35,57 +33,13 @@ In terms of your professional background, you have a law degree from Essex Unive
 
 **Dr Andrew Goodall**: Yes, that's correct.
 
-**Lead 2B**: Between 2009 and 2014 you were the chief executive of the Aneurin Bevan University board. Since June 2014 you have been the director general, Health and Social Services and also the chief executive, NHS Wales, and
-
-then in September 2021 you were appointed to the role of
-
-the Welsh Government permanent secretary. You took over
-
-that post in November 2021, taking over from
-
-Dame Shan Morgan, who we heard from yesterday afternoon.
-
-Is all of that correct?
+**Lead 2B**: Between 2009 and 2014 you were the chief executive of the Aneurin Bevan University board. Since June 2014 you have been the director general, Health and Social Services and also the chief executive, NHS Wales, and then in September 2021 you were appointed to the role of the Welsh Government permanent secretary. You took over that post in November 2021, taking over from Dame Shan Morgan, who we heard from yesterday afternoon. Is all of that correct?
 
 **Dr Andrew Goodall**: Yes.
 
-**Lead 2B**: Dr Goodall, although you are currently the
+**Lead 2B**: Dr Goodall, although you are currently the permanent secretary to the Welsh Government, the focus of my questioning this morning will be on your role as director general of the Health and Social Services and also chief executive NHS Wales during the pandemic. If I can start then with some questions about those two roles, I will come on to the responsibilities of both of those roles in a bit more detail a bit later on, but can you just explain to us how it came to be that you held both roles at the same time?
 
-permanent secretary to the Welsh Government, the focus
-
-of my questioning this morning will be on your role as
-
-director general of the Health and Social Services and
-
-also chief executive NHS Wales during the pandemic.
-
-If I can start then with some questions about those
-
-two roles, I will come on to the responsibilities of
-
-both of those roles in a bit more detail a bit later on,
-
-but can you just explain to us how it came to be that
-
-you held both roles at the same time?
-
-**Dr Andrew Goodall**: In Welsh Government the NHS Wales chief executive role
-
-is also the director general of Health and Social
-
-Services, so it's a role that is located in the civil
-
-service, but it has the responsibilities for the NHS
-
-through leadership and oversight responsibilities.
-
-Within that role it's really important to say that
-
-the director general responsibilities are supporting
-
-ministers of course, but it means that the NHS in
-
-practical terms is line managed by Welsh Government.
+**Dr Andrew Goodall**: In Welsh Government the NHS Wales chief executive role is also the director general of Health and Social Services, so it's a role that is located in the civil service, but it has the responsibilities for the NHS through leadership and oversight responsibilities. Within that role it's really important to say that the director general responsibilities are supporting ministers of course, but it means that the NHS in practical terms is line managed by Welsh Government.
 
 **Lead 2B**: So would it be right in saying that the NHS Wales role is essentially an outward facing role whereas the director general role is primarily inward facing?
 

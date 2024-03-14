@@ -39,25 +39,7 @@ Unless there's anything further, my Lady, those are the submissions at this stag
 
 **Lady Hallett**: Thank you very much indeed, Ms Mitchell. As ever, directly on point and you raise some interesting matters that I obviously will consider.
 
-In relation to disclosure, can I just say this to supplement what Ms Carey said earlier: I am acutely
-
-conscious of the burdens that this Inquiry has placed on
-
-some material providers and of course the demands placed
-
-on them by what Ms Carey called the "day job". Having
-
-said that, I am also acutely conscious of the duty that
-
-I have to the public of the United Kingdom, and
-
-therefore I have to say I will use all the powers at my
-
-disposal, where necessary, to ensure adherence to the
-
-timetable that I have set, and I would therefore issue
-
-the reminder that Ms Mitchell asked me to do.
+In relation to disclosure, can I just say this to supplement what Ms Carey said earlier: I am acutely conscious of the burdens that this Inquiry has placed on some material providers and of course the demands placed on them by what Ms Carey called the "day job". Having said that, I am also acutely conscious of the duty that I have to the public of the United Kingdom, and therefore I have to say I will use all the powers at my disposal, where necessary, to ensure adherence to the timetable that I have set, and I would therefore issue the reminder that Ms Mitchell asked me to do.
 
 Thank you very much.
 
@@ -65,7 +47,5 @@ Thank you very much.
 
 **Lady Hallett**: Right.
 
-Now I think it's Ms Gowman, and I think you've moved
-
-so I can see you.
+Now I think it's Ms Gowman, and I think you've moved so I can see you.
 

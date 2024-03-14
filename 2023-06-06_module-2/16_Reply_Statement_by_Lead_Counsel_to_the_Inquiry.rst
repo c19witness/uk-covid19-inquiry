@@ -57,11 +57,7 @@ I'm very grateful to everybody who's attended here in person and followed our pr
 
 I repeat an undertaking I have given before, but I'll do my very best to address those concerns and where possible resolve any issues. I can't always promise to do what everybody wants me to do, but I'll do my very best within the constraints upon me.
 
-So thank you all very much. The next time I think
-
-the Inquiry team meets core participants will be when we
-
-start hearing evidence next week.
+So thank you all very much. The next time I think the Inquiry team meets core participants will be when we start hearing evidence next week.
 
 Thank you all.
 

@@ -39,57 +39,13 @@ My Lady, if we could have permission for that to be formally published, please.
 
 **Professor Andrew Hayward**: Correct.
 
-**Counsel Inquiry**: In terms of epidemiology, just to assist the layperson,
+**Counsel Inquiry**: In terms of epidemiology, just to assist the layperson, in a sentence or two, what does that mean?
 
-in a sentence or two, what does that mean?
+**Professor Andrew Hayward**: Well, epidemiology was originally devised, if you like, as the study of epidemics, of which a pandemic is September of this year. It's in front of us, and if                     4           a major example. It concerns really understanding how diseases spread through populations, what causes people to get diseases, really by looking at patterns of diseases in populations compared to different exposures, lifestyle exposures or exposures to infections. And I'd say there is really sort of two broad branches of it, one of which is what I would call sort of more empirical epidemiology where we're trying to measure these things and draw inferences, and then there's also another side of it which is the mathematical modelling, where we're perhaps more concerned with making predictions about the future.
 
-**Professor Andrew Hayward**: Well, epidemiology was originally devised, if you like,
+**Counsel Inquiry**: We'll probably touch upon the first part of that in a moment. But in terms of the areas we want to deal with today, you've provided a comprehensive statement, and I'm not going to deal with every single part, but I'd like to deal with an overview and timeline of your roles.
 
-as the study of epidemics, of which a pandemic is September of this year. It's in front of us, and if                     4           a major example. It concerns really understanding how
-
-diseases spread through populations, what causes people
-
-to get diseases, really by looking at patterns of
-
-diseases in populations compared to different exposures,
-
-lifestyle exposures or exposures to infections. And I'd
-
-say there is really sort of two broad branches of it,
-
-one of which is what I would call sort of more empirical
-
-epidemiology where we're trying to measure these things
-
-and draw inferences, and then there's also another side
-
-of it which is the mathematical modelling, where we're
-
-perhaps more concerned with making predictions about the
-
-future.
-
-**Counsel Inquiry**: We'll probably touch upon the first part of that in
-
-a moment. But in terms of the areas we want to deal
-
-with today, you've provided a comprehensive statement,
-
-and I'm not going to deal with every single part, but
-
-I'd like to deal with an overview and timeline of your
-
-roles.
-
-You were on NERVTAG and SAGE EMG, which we'll turn
-
-to in a moment; secondly, you were involved in a number
-
-of significant scientific studies, which we will turn
-
-to, again briefly; and, thirdly, some observations you make on the impact of transmission; and, lastly, lessons learned.
-
-So dealing with that first topic, and perhasps we could turn to paragraph 5.1 of your statement and your membership of NERVTAG.
+You were on NERVTAG and SAGE EMG, which we'll turn to in a moment; secondly, you were involved in a number of significant scientific studies, which we will turn to, again briefly; and, thirdly, some observations you make on the impact of transmission; and, lastly, lessons learned. So dealing with that first topic, and perhasps we could turn to paragraph 5.1 of your statement and your membership of NERVTAG.
 
 We've heard already what NERVTAG is but briefly, as set out there, it was originally an expert committee of DHSC, but in due course it was designated as a subgroup for SAGE; is that correct?
 

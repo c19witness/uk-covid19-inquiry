@@ -1171,21 +1171,13 @@ Was any thought given to that, to a public campaign?
 
 **Mr Sajid Javid**: Yeah.
 
-**Counsel Inquiry**: My question really is very much focused, and I think
+**Counsel Inquiry**: My question really is very much focused, and I think you've answered it, the short answer is no.
 
-you've answered it, the short answer is no.
-
-**Mr Sajid Javid**: Not a -- I don't remember thought being given to
-
-a specific campaign.
+**Mr Sajid Javid**: Not a -- I don't remember thought being given to a specific campaign.
 
 **Counsel Inquiry**: Thank you.
 
-Then if I can move on through the time, obviously
-
-there came a time when the Omicron variant was
-
-discovered?
+Then if I can move on through the time, obviously there came a time when the Omicron variant was discovered?
 
 **Mr Sajid Javid**: Yeah.
 
@@ -1229,27 +1221,7 @@ Separately, if we carry on:
 
 What was your relationship like at that point with Number 10?
 
-**Mr Sajid Javid**: It was getting testy, because of Omicron. And that -- as you say, this is dated -- so 26 November. My first -- so things were moving very fast. My first
-
-briefing I received on Omicron, full briefing, was on
-
-24 November, and I was very concerned by what I had
-
-heard and what the experts had told me.
-
-Just to pick up a point, Ms Cecil, you said on the
-
-vaccines, it wasn't -- so, as you said, they said it was
-
-much, much more infectious, from the evidence they had
-
-at the time, and clearly that turned out to be the case,
-
-so much more infectious. And also what was in my mind
-
-then was that I knew that each new variant had -- you know, so when we had Alpha, Beta, Delta, they had been much more infectious than the other, and now this was much more infectious than Delta, which was already highly infectious, I was deeply concerned about that.
-
-But also, with regard to the vaccines, what I was told was that -- not that the vaccines didn't work, they may not work, because they're -- they may well be much less effective -- ##:       Effective.
+**Mr Sajid Javid**: It was getting testy, because of Omicron. And that -- as you say, this is dated -- so 26 November. My first -- so things were moving very fast. My first briefing I received on Omicron, full briefing, was on 24 November, and I was very concerned by what I had heard and what the experts had told me. Just to pick up a point, Ms Cecil, you said on the vaccines, it wasn't -- so, as you said, they said it was much, much more infectious, from the evidence they had at the time, and clearly that turned out to be the case, so much more infectious. And also what was in my mind then was that I knew that each new variant had -- you know, so when we had Alpha, Beta, Delta, they had been much more infectious than the other, and now this was much more infectious than Delta, which was already highly infectious, I was deeply concerned about that. But also, with regard to the vaccines, what I was told was that -- not that the vaccines didn't work, they may not work, because they're -- they may well be much less effective -- ##:       Effective.
 
 **Mr Sajid Javid**: Right? So their effectiveness would be much less. And even a sort of a 5 percentage point decline would be significant if you've got a lot more infections. And then the point about severity is that we couldn't be sure on the severity -- is it less, more? -- at the time there was no data. So I was deeply concerned, especially about the infectiousness, and I wanted us to take action and -- some action, and take it ASAP. And -- and I did start to take action straightaway: I think the next day I started -- I announced some travel restrictions, I made a statement in Parliament on the 26th, and --
 
@@ -1325,35 +1297,11 @@ In relation to planning and preparation, in the event that there was a subsequen
 
 *(unclear: multiple speakers)*
 
-**Mr Sajid Javid**: Yeah, and by then -- by then, having learnt a lot more
-
-about Omicron, my advice was to look at further --
-
-taking further measures, the advice that had come from
-
-me and my department based on the expert advice I was
-
-getting. And there was a Cabinet meeting, I can't be
-
-sure, I want to say 20 December, where there was a --
-
-the Prime Minister -- aware that I wanted to go
-
-further -- wanted to seek the Cabinet's view, and when
-
-we had that meeting, I recall the only people in the
-
-Cabinet that were supporting what I was saying about
-
-going further were Michael Gove and Simon Clarke.
+**Mr Sajid Javid**: Yeah, and by then -- by then, having learnt a lot more about Omicron, my advice was to look at further -- taking further measures, the advice that had come from me and my department based on the expert advice I was getting. And there was a Cabinet meeting, I can't be sure, I want to say 20 December, where there was a -- the Prime Minister -- aware that I wanted to go further -- wanted to seek the Cabinet's view, and when we had that meeting, I recall the only people in the Cabinet that were supporting what I was saying about going further were Michael Gove and Simon Clarke.
 
 **Counsel Inquiry**: Thank you.
 
-I want to turn to another topic, which really is
-
-coming out the other side, effectively, and dealing with
-
-the Living with Covid strategy.
+I want to turn to another topic, which really is coming out the other side, effectively, and dealing with the Living with Covid strategy.
 
 **Mr Sajid Javid**: Yeah.
 
@@ -1361,17 +1309,7 @@ the Living with Covid strategy.
 
 **Mr Sajid Javid**: Yeah.
 
-**Counsel Inquiry**: -- just very briefly, you set out within your statement
-
-in some detail that there was a disagreement with
-
-Treasury in relation to and funding an apparatus,
-
-effectively the tools, as you see them, in relation to
-
-a pandemic, particularly in respect of infrastructure December --                                                           24           and testing, scientific research and so on. And you
-
-considered that funding ought to be maintained.
+**Counsel Inquiry**: -- just very briefly, you set out within your statement in some detail that there was a disagreement with Treasury in relation to and funding an apparatus, effectively the tools, as you see them, in relation to a pandemic, particularly in respect of infrastructure December --                                                           24           and testing, scientific research and so on. And you considered that funding ought to be maintained.
 
 What you state in your statement is that the -- is that as a consequence of that, they -- the Prime Minister required further cuts to the Health budget if that infrastructure was to take place, to stay in place; is that right?
 

@@ -57,55 +57,13 @@ In that regard, CBFJ Cymru looks forward to receiving a Rule 9 request directed 
 
 Rule 10 procedure. In keeping with our submissions made at Module 1 preliminary hearing on adopting the same informal procedure in respect of Module 3, namely that an opportunity is afforded to meet with the CTI, either remotely or in person, following submission of Core Participants' observations on CTI's evidence proposals and prior to CTI providing a finalised evidence proposal. Therefore, we request a short amount of time set aside after CTI's questions so that further follow-up questions arising from the evidence can be considered with the Core Participants.
 
-Disclosure to Core Participants. I suspect, my Lady, you are getting a little tired now of hearing
+Disclosure to Core Participants. I suspect, my Lady, you are getting a little tired now of hearing submissions on disclosure. I will simply make this point. It is fairly obvious. We don't have any submissions save we request disclosures given in good time for us to have sufficient time to adequately prepare for the substantive hearing.
 
-submissions on disclosure. I will simply make this
+Instruction of expert witnesses. At this stage we don't have any submissions to make in respect this issue, save in respect of timing once again. It is noted that it is not proposed to disclose letters of instruction but we will be informed of the identity of witnesses, questions and the issues they will be asked to address before the expert reports are finalised. We will welcome that CPs will receive that information as February we request that consideration is given to                 14          early as possible so that we have the opportunity to make observations in what we hope will be a constructive and meaningful way.
 
-point. It is fairly obvious. We don't have any
+My Lady, approach to evidence of circumstances of individual death and pen portrait material, we note the matters set out in paragraph 65 and 66 of CTI's note. CBFJ Cymru request that the Chair give consideration as to whether hearing the circumstances of particular deaths would be permissible in respect of this module.
 
-submissions save we request disclosures given in good
-
-time for us to have sufficient time to adequately
-
-prepare for the substantive hearing.
-
-Instruction of expert witnesses. At this stage we
-
-don't have any submissions to make in respect this
-
-issue, save in respect of timing once again. It is
-
-noted that it is not proposed to disclose letters of
-
-instruction but we will be informed of the identity of
-
-witnesses, questions and the issues they will be asked
-
-to address before the expert reports are finalised. We
-
-will welcome that CPs will receive that information as February we request that consideration is given to                 14          early as possible so that we have the opportunity to
-
-make observations in what we hope will be a constructive
-
-and meaningful way.
-
-My Lady, approach to evidence of circumstances of
-
-individual death and pen portrait material, we note the
-
-matters set out in paragraph 65 and 66 of CTI's note.
-
-CBFJ Cymru request that the Chair give consideration as
-
-to whether hearing the circumstances of particular
-
-deaths would be permissible in respect of this module.
-
-Individual bereaved family members within the group have
-
-relevant evidence to give in respect of the way in which
-
-their loved ones became infected, often in hospital settings, and how they were treated thereafter.
+Individual bereaved family members within the group have relevant evidence to give in respect of the way in which their loved ones became infected, often in hospital settings, and how they were treated thereafter.
 
 We note the mention of paragraph 66 of the calling of evidence regarding individual deaths or experience of Covid-19 may be considered so as to introduce a systemic issue. CBFJ Cymru welcomes the acknowledgement from the CTI in its note that to include this type of evidence would be in keeping with the Inquiry's express intention to keep those affected by the pandemic at the heart of the Inquiry and submits that such evidence would assist the investigation and cast a spotlight on the issues concerned.
 

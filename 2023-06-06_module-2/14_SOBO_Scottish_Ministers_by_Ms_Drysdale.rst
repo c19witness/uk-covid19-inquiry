@@ -25,9 +25,7 @@ Turning to the issue of further evidence provided by the Scottish Government, my
 
 Turning to the issue of the relationship between the modules, the Scottish Government notes that the Welsh Government seek clarification on the relationship and interrelationship between the different Modules 2, 2A, 2B and 2C, and the Scottish Government welcomes the update by Mr Keith KC on how cross-module disclosure will be made and it would also appreciate further clarification in due course of the precise parameters of Module 2 and how that will interact with Module 2A.
 
-Finally, my Lady, on the issue of assistance to the Inquiry by the Scottish Government, the Scottish Government wishes to emphasise that it will assist the Inquiry to ensure that investigations are conducted as comprehensively as possible in the time available. It will assist the Inquiry in its aim of identifying recommendations to support appropriate and effective decision-making in the event of a future pandemic, and to answer questions for the bereaved and
-
-for all those affected by the pandemic.
+Finally, my Lady, on the issue of assistance to the Inquiry by the Scottish Government, the Scottish Government wishes to emphasise that it will assist the Inquiry to ensure that investigations are conducted as comprehensively as possible in the time available. It will assist the Inquiry in its aim of identifying recommendations to support appropriate and effective decision-making in the event of a future pandemic, and to answer questions for the bereaved and for all those affected by the pandemic.
 
 My Lady, these are the submissions for the
 

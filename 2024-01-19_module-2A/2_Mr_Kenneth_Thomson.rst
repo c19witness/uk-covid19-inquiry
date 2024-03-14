@@ -11,41 +11,11 @@ Questions From Lead Counsel to the Inquiry for Module 2A
 
 **Lead 2A**: Could you please try to speak into the microphone,
 
-Mr Thomson, as best you can.
+Mr Thomson, as best you can. You have provided, I think, a number of witness statements to the Inquiry, for which we're very grateful. The position in your regard is slightly complicated in that I think there were some statements which you had some responsibility for compiling but were actually signed off and finalised by others subsequent to you leaving post; is that correct?
 
-You have provided, I think, a number of witness
+**Mr Kenneth Thomson**: I saw those -- they were compiled by others on behalf of the Director General. I saw some of that material before I left post but, as you I think are saying, some of it was signed and submitted to the Inquiry by my successor.
 
-statements to the Inquiry, for which we're very
-
-grateful. The position in your regard is slightly
-
-complicated in that I think there were some statements
-
-which you had some responsibility for compiling but were
-
-actually signed off and finalised by others subsequent
-
-to you leaving post; is that correct?
-
-**Mr Kenneth Thomson**: I saw those -- they were compiled by others on behalf of
-
-the Director General. I saw some of that material
-
-before I left post but, as you I think are saying, some
-
-of it was signed and submitted to the Inquiry by my
-
-successor.
-
-**Lead 2A**: Yes, let's try to go through and -- just to be
-
-absolutely clear which ones you're responsible for and
-
-which ones you've had involvement with.
-
-There is a witness statement from you dated
-
-9 November 2023 under reference INQ000343888. That's your statement?
+**Lead 2A**: Yes, let's try to go through and -- just to be absolutely clear which ones you're responsible for and which ones you've had involvement with. There is a witness statement from you dated 9 November 2023 under reference INQ000343888. That's your statement?
 
 **Mr Kenneth Thomson**: It is.
 
@@ -67,55 +37,15 @@ A further four witness statements have also been provided by, I think, the Direc
 
 **Mr Kenneth Thomson**: Yeah, go on, go through them --
 
-**Lead 2A**: I don't want to be asking questions about ones you're
+**Lead 2A**: I don't want to be asking questions about ones you're not responsible for, Mr Thomson. The first was a supplemental statement dated 26 October 2023. It's INQ000348720. This statement -- you may recall this one, I think that you did have an involvement with it -- was a supplemental statement of that date relating to Covid-specific structures of the Scottish Government such as SGoRR, the Covid directors and the four harms group. That was one I think that was compiled by you, possibly, but then signed by your successor, Mr Griffin, is that correct?
 
-not responsible for, Mr Thomson.
+**Mr Kenneth Thomson**: It was seen by me and provided in draft, as paragraph 1 confirms.
 
-The first was a supplemental statement dated
-
-26 October 2023. It's INQ000348720. This statement --
-
-you may recall this one, I think that you did have
-
-an involvement with it -- was a supplemental statement
-
-of that date relating to Covid-specific structures of
-
-the Scottish Government such as SGoRR, the Covid
-
-directors and the four harms group.
-
-That was one I think that was compiled by you,
-
-possibly, but then signed by your successor, Mr Griffin,
-
-is that correct?
-
-**Mr Kenneth Thomson**: It was seen by me and provided in draft, as paragraph 1
-
-confirms.
-
-**Lead 2A**: Thank you very much. And the second statement, similar
-
-to that, was INQ000339039, a statement dated
-
-1 November 2023.
+**Lead 2A**: Thank you very much. And the second statement, similar to that, was INQ000339039, a statement dated 1 November 2023.
 
 **Mr Kenneth Thomson**: That's not the statement --
 
-**Lead 2A**: No, that' (inaudible) I'm afraid. There was a second
-
-statement, we'll come back to that.
-
-I understand also that two further statements were
-
-provided on behalf of the directorate general with which
-
-you were previously associated. These were provided by
-
-your successor, the first dated 5 November 2023,
-
-INQ000366267.
+**Lead 2A**: No, that' (inaudible) I'm afraid. There was a second statement, we'll come back to that. I understand also that two further statements were provided on behalf of the directorate general with which you were previously associated. These were provided by your successor, the first dated 5 November 2023, INQ000366267.
 
 **Mr Kenneth Thomson**: I have a different number in front of me. Yes, I now have 267 before me.
 
@@ -1037,53 +967,23 @@ Does that tend to suggest that in the course of that conversation the Deputy Fir
 
 **Mr Dawson**: Thank you, my Lady.
 
-**Mr Kenneth Thomson**: No, I think what I'm listing here is reasons that --
+**Mr Kenneth Thomson**: No, I think what I'm listing here is reasons that -- risks, rather than --
 
-risks, rather than --
+**Lady Hallett**: No, but did you get the impression from a minister that independence was back on the agenda? That's the question.
 
-**Lady Hallett**: No, but did you get the impression from
+**Mr Kenneth Thomson**: I can't -- I don't recall that being part of the discussion with the Deputy First Minister.
 
-a minister that independence was back on the agenda?
-
-That's the question.
-
-**Mr Kenneth Thomson**: I can't -- I don't recall that being part of the
-
-discussion with the Deputy First Minister.
-
-**Lady Hallett**: But did you get that impression from any
-
-other minister? Otherwise why did you make this note?
-
-Because it would only be back on the agenda if
-
-a minister had said it's a policy issue again, wouldn't
-
-it?
+**Lady Hallett**: But did you get that impression from any other minister? Otherwise why did you make this note? Because it would only be back on the agenda if a minister had said it's a policy issue again, wouldn't it?
 
 **Mr Kenneth Thomson**: Well --
 
-**Lady Hallett**: That's the question. It's a simple question,
+**Lady Hallett**: That's the question. It's a simple question, Mr Thomson.
 
-Mr Thomson.
-
-**Mr Kenneth Thomson**: Right, I was trying to explain why I had written this
-
-note.
-
-If the question is, was there a possibility that
-
-independence work would resume, yes that's definitely
-
-a possibility. But that's not actually why I wrote it
-
-here.
+**Mr Kenneth Thomson**: Right, I was trying to explain why I had written this note. If the question is, was there a possibility that independence work would resume, yes that's definitely a possibility. But that's not actually why I wrote it here.
 
 **Mr Dawson**: Thank you, my Lady.
 
-We've referred to looking at statistical information
-
-and making comparisons about the way in which the pandemic ebbed and flowed in the different nations of the United Kingdom, and we have heard some detailed evidence about that from the Scottish Government and its own Chief Statistician.
+We've referred to looking at statistical information and making comparisons about the way in which the pandemic ebbed and flowed in the different nations of the United Kingdom, and we have heard some detailed evidence about that from the Scottish Government and its own Chief Statistician.
 
 In the period after this point, Scotland was still to experience its highest rates of infection. It was still to experience around a third of its deaths. It was still to experience incredible hardship and devastation, including hospitals being overwhelmed, the military needing to be called in. Is it your position, as you suggested earlier, that the focus of the Scottish Government over that period remained on the Covid pandemic and not on independence?
 

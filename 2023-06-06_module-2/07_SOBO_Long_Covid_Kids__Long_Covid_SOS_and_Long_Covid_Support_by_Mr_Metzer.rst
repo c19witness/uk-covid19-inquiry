@@ -3,9 +3,7 @@
 
 **Mr Metzer**: Thank you.
 
-My Lady, I address you on behalf of the Covid
-
-groups. I shall start with specific issues relating directly to our clients, and then turn to wider procedural issues.
+My Lady, I address you on behalf of the Covid groups. I shall start with specific issues relating directly to our clients, and then turn to wider procedural issues.
 
 My Lady, people with long Covid deserve answers. Mr Keith King's Counsel has said on previous occasions, and I agree, that transparency and public confidence is core to the functioning of this Inquiry, and in the same vein people suffering with long Covid deserve to know what the government knew about the long-term effects of this pernicious disease and what steps, if any, it took when confronted with the reality of huge numbers of people not recovering from it.
 

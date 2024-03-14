@@ -23,57 +23,19 @@ Now, Professor, you have been good enough to provide a detailed witness statemen
 
 **Professor Sir Diamond**: Yes, it is.
 
-**Lead 2B**: You also provided two witness statements to Module 2 and you also gave evidence in Module 2 on 10 October, and the transcript of that evidence is obviously available
-
-on the Inquiry website.
-
-If I can start, though, with just a few questions
-
-about yourself. You are the chief executive of the
-
-UK Statistics Authority and since August 2019 you have
-
-been the National Statistician; is that right?
+**Lead 2B**: You also provided two witness statements to Module 2 and you also gave evidence in Module 2 on 10 October, and the transcript of that evidence is obviously available on the Inquiry website. If I can start, though, with just a few questions about yourself. You are the chief executive of the UK Statistics Authority and since August 2019 you have been the National Statistician; is that right?
 
 **Professor Sir Diamond**: That's right.
 
-**Lead 2B**: You are also head of the Government Statistical Service
+**Lead 2B**: You are also head of the Government Statistical Service and Analysis Function, and in that capacity you provide, am I right, overall leadership for the Office of National Statistics and the statistics profession across the UK Government?
 
-and Analysis Function, and in that capacity you provide,
-
-am I right, overall leadership for the Office of
-
-National Statistics and the statistics profession across
-
-the UK Government?
-
-**Professor Sir Diamond**: Yes, I would just clarify I'm head of the Government
-
-Statistical Service and I'm also head of the Government
-
-Analysis Function. They are two separate -- the
-
-analysis function includes the statisticians but also
-
-includes economists, operational researchers, social
-
-researchers, actuaries and geographers.
+**Professor Sir Diamond**: Yes, I would just clarify I'm head of the Government Statistical Service and I'm also head of the Government Analysis Function. They are two separate -- the analysis function includes the statisticians but also includes economists, operational researchers, social researchers, actuaries and geographers.
 
 **Lead 2B**: I'm grateful.
 
-If we can start, then, please, with some questions
+If we can start, then, please, with some questions about generally data gathering in the UK but also Wales. Dealing first then with the UK Statistics Authority, what is the UK Statistics Authority?
 
-about generally data gathering in the UK but also Wales.
-
-Dealing first then with the UK Statistics Authority,
-
-what is the UK Statistics Authority?
-
-**Professor Sir Diamond**: The UK Statistics Authority consists of the Office for
-
-Statistics Regulation, which is the regulator of
-
-statistics, but, more importantly for this bit, the Office for National Statistics, which is the operational arm of the UK Statistics Authority. The Office for National Statistics has a responsibility to provide official statistics across largely the economy and population and society and to produce those statistics in order to provide the evidence on which policy can be based.
+**Professor Sir Diamond**: The UK Statistics Authority consists of the Office for Statistics Regulation, which is the regulator of statistics, but, more importantly for this bit, the Office for National Statistics, which is the operational arm of the UK Statistics Authority. The Office for National Statistics has a responsibility to provide official statistics across largely the economy and population and society and to produce those statistics in order to provide the evidence on which policy can be based.
 
 **Lead 2B**: Can you please describe to us the way in which the UK Statistics Authority operates in relation to the UK Government but also the devolved administrations.
 

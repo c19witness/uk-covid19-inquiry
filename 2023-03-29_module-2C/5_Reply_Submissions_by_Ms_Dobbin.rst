@@ -21,21 +21,7 @@ Unless I can help you any further with anything.
 
 **Baroness Hallett**: No, thank you very much, Ms Dobbin.
 
-Everyone has been extremely helpful again and I would like to express my gratitude for many of the suggestions made and I will take them up with counsel to the Inquiry and I have absolutely no doubt that the Core Participants' assistance is improving the work that we
-
-do. We are developing as we go along. We try to remain
-
-flexible and therefore the submissions, as I have heard
-
-today, both this morning and this afternoon, will help
-
-us in that development.
-
-So thank you everyone who participated. Thank you
-
-everyone who watched online. That concludes today's
-
-hearings. Thank you.
+Everyone has been extremely helpful again and I would like to express my gratitude for many of the suggestions made and I will take them up with counsel to the Inquiry and I have absolutely no doubt that the Core Participants' assistance is improving the work that we do. We are developing as we go along. We try to remain flexible and therefore the submissions, as I have heard today, both this morning and this afternoon, will help us in that development. So thank you everyone who participated. Thank you everyone who watched online. That concludes today's hearings. Thank you.
 
 *(4.00 pm)*
 

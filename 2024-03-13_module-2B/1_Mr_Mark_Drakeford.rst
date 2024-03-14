@@ -11,71 +11,27 @@ Transcript of Module 2B Public Hearing on 13 March 2024.
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Mr Poole**: If you could start with giving us your full name,
-
-please.
+**Mr Poole**: If you could start with giving us your full name, please.
 
 **Mr Mark Drakeford**: It's Mark Drakeford.
 
-**Lead 2B**: Mr Drakeford, you have provided a witness statement for
-
-the purposes of this module, and we've got that
-
-displayed, it's INQ000371209. You signed that statement
-
-on 13 December last year. Are the contents of that
-
-statement true to the best of your knowledge and belief?
+**Lead 2B**: Mr Drakeford, you have provided a witness statement for the purposes of this module, and we've got that displayed, it's INQ000371209. You signed that statement on 13 December last year. Are the contents of that statement true to the best of your knowledge and belief?
 
 **Mr Mark Drakeford**: They are.
 
-**Lead 2B**: You also provided a witness statement for Module 1, and
-
-we can see that at INQ000177804. That's been signed in
-
-the usual way with a declaration of truth as well. You
-
-also gave evidence in Module 1 and the transcript of
-
-that evidence is available on the Inquiry website. You
-
-have also provided two further witness statements for
-
-Module 2, if we can just identify those. The first we
-
-see there, it's INQ000273747, and then the second, it's
-
-INQ000280190, and those two have been signed with
-
-statements of truth.
+**Lead 2B**: You also provided a witness statement for Module 1, and we can see that at INQ000177804. That's been signed in the usual way with a declaration of truth as well. You also gave evidence in Module 1 and the transcript of that evidence is available on the Inquiry website. You have also provided two further witness statements for Module 2, if we can just identify those. The first we see there, it's INQ000273747, and then the second, it's INQ000280190, and those two have been signed with statements of truth.
 
 Mr Drakeford, we're very grateful for the provision of those statements and also your assistance to date.
 
-If I can deal first with your background and career, it is very well known that you are the First Minister of Wales, you have been so since December 2018. Before entering politics you have worked as a probation officer, a youth justice worker and a Barnardo's project leader.
-
-Between 1991 and 1995 you lectured in applied social studies at the University College of Swansea, now Swansea University. You then moved to what is now Cardiff University first as a lecturer and later as a professor of social policy and applied social sciences.
-
-Alongside your university lecturing in 2000 you became a special adviser on health and social policy and later served as the head of the First Minister's political office. You then succeeded Rhodri Morgan as the Assembly member for Cardiff West when Mr Morgan retired in 2011. In 2013 you were appointed Minister for Health and Social Services, a post you held until May 2016, when you became Cabinet Secretary for Finance and Local Government. You became First Minister and leader of Welsh Labour in 2018.
-
-Is that all correct?
+If I can deal first with your background and career, it is very well known that you are the First Minister of Wales, you have been so since December 2018. Before entering politics you have worked as a probation officer, a youth justice worker and a Barnardo's project leader. Between 1991 and 1995 you lectured in applied social studies at the University College of Swansea, now Swansea University. You then moved to what is now Cardiff University first as a lecturer and later as a professor of social policy and applied social sciences. Alongside your university lecturing in 2000 you became a special adviser on health and social policy and later served as the head of the First Minister's political office. You then succeeded Rhodri Morgan as the Assembly member for Cardiff West when Mr Morgan retired in 2011. In 2013 you were appointed Minister for Health and Social Services, a post you held until May 2016, when you became Cabinet Secretary for Finance and Local Government. You became First Minister and leader of Welsh Labour in 2018. Is that all correct?
 
 **Mr Mark Drakeford**: That's all correct.
 
-**Lead 2B**: Although you announced on 13 December last year that you
-
-would stand down as First Minister, you remain
-
-First Minister until your successor is selected; is that
-
-right?
+**Lead 2B**: Although you announced on 13 December last year that you would stand down as First Minister, you remain First Minister until your successor is selected; is that right?
 
 **Mr Mark Drakeford**: Correct.
 
-**Lead 2B**: Mr Drakeford, your experience is important for a number
-
-of areas in this module, because in practice you worked
-
-inside the Welsh Government, including a decade in the
+**Lead 2B**: Mr Drakeford, your experience is important for a number of areas in this module, because in practice you worked inside the Welsh Government, including a decade in the
 
 First Minister's office, since the outset of devolution in 2000. You have therefore got a vast knowledge of government, how the Welsh Government machine works in practice. You have also been health minister and minister for local government, so are very familiar with the work of the NHS and local government in Wales.
 
@@ -1463,53 +1419,9 @@ The first paragraph you tell Mr Sunak that the Welsh Government is actively cons
 
 But if we can turn over, please, to page 2 and look at the third bullet point, you say that:
 
-"... HMRC [could] administer a scheme of this sort,
+"... HMRC [could] administer a scheme of this sort, given the systems ... put in place."
 
-given the systems ... put in place."
-
-And you then say that:
-
-"The Welsh Government would be willing to reimburse
-
-HMRC for the additional costs of paying 67% of the wage
-
-costs of eligible employees instead of 60%."
-
-So that's your letter of 16 October.
-
-The then Chancellor's response, if we can see that,
-
-please. October. I suppose, first, is that right? Do you                            9               It's INQ000216555.
-
-It's the first main paragraph, effectively saying:
-
-unable to bring forward the claims date to 23 October
-
-"due to limitations in HMRC delivery timelines".
-
-Now, it's fair to say that you were deeply
-
-disappointed with this response, and you said as much in
-
-your letter back to the then Chancellor of 20 October.
-
-Returning though to the point you make about the
-
-timing being tied up with or influenced by UK Government
-
-financial support, your first letter is 16 October,
-
-that's a week before the firebreak was to come into
-
-effect. You knew prior to the JSS announcement on
-
-9 October that 1 November had been effectively a date
-
-set in stone by the then Chancellor. Why were you not
-
-making these enquiries much earlier, especially given
-
-the SAGE advice in mid-September?
+And you then say that: "The Welsh Government would be willing to reimburse HMRC for the additional costs of paying 67% of the wage costs of eligible employees instead of 60%." So that's your letter of 16 October. The then Chancellor's response, if we can see that, please. October. I suppose, first, is that right? Do you                            9               It's INQ000216555. It's the first main paragraph, effectively saying: unable to bring forward the claims date to 23 October "due to limitations in HMRC delivery timelines". Now, it's fair to say that you were deeply disappointed with this response, and you said as much in your letter back to the then Chancellor of 20 October. Returning though to the point you make about the timing being tied up with or influenced by UK Government financial support, your first letter is 16 October, that's a week before the firebreak was to come into effect. You knew prior to the JSS announcement on 9 October that 1 November had been effectively a date set in stone by the then Chancellor. Why were you not making these enquiries much earlier, especially given the SAGE advice in mid-September?
 
 **Mr Mark Drakeford**: Well, I think the facts are that I was raising it much earlier. The first time I raise it is on 22 September in a COBR meeting where I make a point -- my Lady, there's a huge amount of very knotty detail in this issue, but there's a very simple principle behind it, which is that if the public health circumstances in any part of the United Kingdom were such that action needed to be taken, there needed to be a process in which the Treasury could be asked to support that action. Clear?
 

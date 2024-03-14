@@ -1,39 +1,9 @@
 5. Submissions on Behalf of the National Police Chiefs' Council by Mr Phillips KC
 =================================================================================
 
-**Mr Phillips**: My Lady, as you know, I appear on behalf of
+**Mr Phillips**: My Lady, as you know, I appear on behalf of the National Police Chiefs' Council, which is a national co-ordinating body representing UK police forces. And as again you know, the NPCC was a core participant in Modules 1 and 2 and it's worked to assist the Inquiry at every stage of the proceedings. Now, in this module, the NPCC represents the interests of the Police Service of Scotland, often referred to as Police Scotland, and the police in
 
-the National Police Chiefs' Council, which is a national
-
-co-ordinating body representing UK police forces. And
-
-as again you know, the NPCC was a core participant in
-
-Modules 1 and 2 and it's worked to assist the Inquiry at
-
-every stage of the proceedings.
-
-Now, in this module, the NPCC represents the
-
-interests of the Police Service of Scotland, often
-
-referred to as Police Scotland, and the police in
-
-Scotland, as in the rest of the UK, were one of the
-
-frontline organisations when it came to the management
-
-of the pandemic.
-
-Now, my Lady, in Module 2, you heard evidence from
-
-Martin Hewitt, who was the chair of the organisation
-
-throughout the pandemic. In this module, you won't hear
-
-from any police witnesses. However, you do have
-
-a written statement from Temporary Deputy Chief Constable Alan Speirs, who led the policing response to the pandemic in Scotland.
+Scotland, as in the rest of the UK, were one of the frontline organisations when it came to the management of the pandemic. Now, my Lady, in Module 2, you heard evidence from Martin Hewitt, who was the chair of the organisation throughout the pandemic. In this module, you won't hear from any police witnesses. However, you do have a written statement from Temporary Deputy Chief Constable Alan Speirs, who led the policing response to the pandemic in Scotland.
 
 Now, Police Scotland established a formal response to the pandemic at a very early stage, with the setting up of Operation Talla in January 2020. Of course the policing scope of this module extends only to the issue of the enforcement of the Covid-19 regulations but, as you heard in Module 2, and as you will see again from the written statement I've mentioned, Operation Talla co-ordinated a far broader range of work over the course of the pandemic. Its portfolios included the critical task of maintaining core policing functions, supporting the criminal justice system, establishing procedures for the collation and analysis of Covid-19 data, and finally procuring, delivering and training staff in the use of PPE.
 

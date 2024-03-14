@@ -5,23 +5,11 @@
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Mr Poole**: Could you start by giving us your full name,
-
-please.
+**Mr Poole**: Could you start by giving us your full name, please.
 
 **Dr Robert Orford**: Yes, Robert Leslie Orford.
 
-**Lead 2B**: Dr Orford, thank you for coming today and giving your
-
-evidence to the Inquiry.
-
-If I could just remind you to keep your voice up so
-
-we can hear you, but also so your evidence can be
-
-recorded. If I ask you a question you don't understand
-
-and would like rephrased, please do ask me.
+**Lead 2B**: Dr Orford, thank you for coming today and giving your evidence to the Inquiry. If I could just remind you to keep your voice up so we can hear you, but also so your evidence can be recorded. If I ask you a question you don't understand and would like rephrased, please do ask me.
 
 You have been good enough to provide two witness statements to this module: your individual witness statement dated 19 December of last week, we can see that displayed, and also a corporate statement on behalf of TAG and TAC, which is dated 23 November, and we can also see that displayed on screen.
 
@@ -1001,59 +989,11 @@ While we're getting there I'll tell you what I'm going to be directing your atte
 
 If we can just zoom in to paragraph 190. Thank you very much.
 
-So you refer to the paper which is focused on "How can we use evidence better, to inform effective policies", and then if we can go down the page a bit, it's over onto the second bit of the page, to (IV), where you note that one of the recommendations of that paper was that the Welsh Government needs to embed
+So you refer to the paper which is focused on "How can we use evidence better, to inform effective policies", and then if we can go down the page a bit, it's over onto the second bit of the page, to (IV), where you note that one of the recommendations of that paper was that the Welsh Government needs to embed a better culture of evidence use within policy development.
 
-a better culture of evidence use within policy
+So my question to you, Dr Orford, is for your views on what specific changes have been or should be made to ensure that the views and evidence from stakeholders and experts are taken into account by core decision-makers?
 
-development.
-
-So my question to you, Dr Orford, is for your views
-
-on what specific changes have been or should be made to
-
-ensure that the views and evidence from stakeholders and
-
-experts are taken into account by core decision-makers?
-
-**Dr Robert Orford**: Thank you.
-
-So this work has come from the -- so this was
-
-April 2022 -- from the Strategic Evidence Board, so
-
-there's a recognition by the executive group of Welsh
-
-Government the need for more evidence to be embedded
-
-within policymaking. And I think that observation --
-
-you know, the chief science adviser,
-
-Sir Patrick Vallance and Angela McLean currently, are
-
-doing work to ensure there's greater scientific literacy
-
-within the civil service, where there's a relatively
-
-small percentage of civil servants that have a degree in
-
-science, broadly they have degrees in humanities. Some
-
-of the work that we've done in the Health and Social
-
-Services Group is to develop a division called SEA,
-
-Science Evidence Advice. Within SEA there are important
-
-functions like SPI functions, which we call science
-
-policy interfaces, so people who are able to support
-
-policy colleagues, ask evidence-informed questions to
-
-support them in developing and evaluating their policies.
-
-So there's work like that going on throughout Welsh Government about how we improve our analytical capacity and capability as an organisation. So that work is ongoing.
+**Dr Robert Orford**: Thank you. So this work has come from the -- so this was April 2022 -- from the Strategic Evidence Board, so there's a recognition by the executive group of Welsh Government the need for more evidence to be embedded within policymaking. And I think that observation -- you know, the chief science adviser, Sir Patrick Vallance and Angela McLean currently, are doing work to ensure there's greater scientific literacy within the civil service, where there's a relatively small percentage of civil servants that have a degree in science, broadly they have degrees in humanities. Some of the work that we've done in the Health and Social Services Group is to develop a division called SEA, Science Evidence Advice. Within SEA there are important functions like SPI functions, which we call science policy interfaces, so people who are able to support policy colleagues, ask evidence-informed questions to support them in developing and evaluating their policies. So there's work like that going on throughout Welsh Government about how we improve our analytical capacity and capability as an organisation. So that work is ongoing.
 
 **Ms Foubister**: Thank you very much.
 
@@ -1079,9 +1019,7 @@ Thank you very much, Dr Orford, that completes the questions we have. I'm not su
 
 **Lady Hallett**: It's now 3 o'clock, so what's better for you?
 
-**Mr Poole**: I think probably, to allow arrangements to be
-
-made, if we take it now.
+**Mr Poole**: I think probably, to allow arrangements to be made, if we take it now.
 
 **Lady Hallett**: Very well, back at 3 o'clock.
 
@@ -1091,9 +1029,7 @@ made, if we take it now.
 
 *(3.00 pm)*
 
-**Lady Hallett**: Is anybody else feeling the chill? Could we
-
-sort out the temperature, please.
+**Lady Hallett**: Is anybody else feeling the chill? Could we sort out the temperature, please.
 
 **Mr Poole**: Could I please call Dame Shan Morgan.
 

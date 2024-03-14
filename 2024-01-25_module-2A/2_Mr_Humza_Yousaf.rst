@@ -5,13 +5,7 @@
 
 Questions From Lead Counsel to the Inquiry for Module 2A
 
-**Lady Hallett**: I appreciate the other demands on your time,
-
-obviously, and I can guarantee you that everyone is
-
-under strict instructions we'll finish by 4.30 at the
-
-latest.
+**Lady Hallett**: I appreciate the other demands on your time, obviously, and I can guarantee you that everyone is under strict instructions we'll finish by 4.30 at the latest.
 
 **The Witness**: Thank you, my Lady.
 
@@ -19,13 +13,7 @@ latest.
 
 **Mr Humza Yousaf**: That is right.
 
-**Lead 2A**: You have helpfully provided two statements to
-
-the Inquiry, if we could just look at these, the first
-
-is INQ000273956. It's a statement dated
-
-2 November 2023. Is that your statement?
+**Lead 2A**: You have helpfully provided two statements to the Inquiry, if we could just look at these, the first is INQ000273956. It's a statement dated 2 November 2023. Is that your statement?
 
 **Mr Humza Yousaf**: That is.
 
@@ -33,9 +21,7 @@ is INQ000273956. It's a statement dated
 
 **Mr Humza Yousaf**: I have.
 
-**Lead 2A**: Can you confirm to her Ladyship that the contents of the
-
-statement remain true and accurate as at today's date?
+**Lead 2A**: Can you confirm to her Ladyship that the contents of the statement remain true and accurate as at today's date?
 
 **Mr Humza Yousaf**: I can confirm that is the case.
 

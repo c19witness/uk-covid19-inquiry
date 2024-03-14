@@ -49,35 +49,11 @@ In response to these failures, the BMA asked NHS England in April 2020 to develo
 
 The third and final category is inequalities. The pandemic highlighted disparities within society, widened health inequalities, and impacted groups differently. People from some ethnic minority backgrounds were more likely to become infected with and die from Covid-19. Shockingly, analysis by the Health Service Journal found that 94% of doctors who died up to April 2020 were from ethnic minority backgrounds, even though this group makes up only 44% of NHS medical staff.
 
-The BMA was one of the first organisations to raise concerns about this issue. On 9 April 2020, the BMA's chair of council wrote to the CEO of NHS England raising concerns about the disproportionate impact of Covid-19 on people from ethnic minority backgrounds and the high rates of Covid-19 deaths amongst this group and called
+The BMA was one of the first organisations to raise concerns about this issue. On 9 April 2020, the BMA's chair of council wrote to the CEO of NHS England raising concerns about the disproportionate impact of Covid-19 on people from ethnic minority backgrounds and the high rates of Covid-19 deaths amongst this group and called for an urgent investigation.
 
-for an urgent investigation.
+The BMA also raised concerns about other groups who were disproportionately impacted by the pandemic, such as those who were clinically vulnerable, due to pre-existing medical conditions or other factors, older people and those living in care settings and disabled people.
 
-The BMA also raised concerns about other groups who
-
-were disproportionately impacted by the pandemic, such
-
-as those who were clinically vulnerable, due to
-
-pre-existing medical conditions or other factors, older
-
-people and those living in care settings and disabled
-
-people.
-
-The BMA suggests that central to the Inquiry's
-
-Module 2 investigation should be an examination of
-
-the likely impact of NPIs and other government decisions
-
-on particular groups, the extent to which early warnings
-
-about disproportionate impacts were adequately taken
-
-into account and the extent to which action was taken to
-
-mitigate disproportionate impacts.
+The BMA suggests that central to the Inquiry's Module 2 investigation should be an examination of the likely impact of NPIs and other government decisions on particular groups, the extent to which early warnings about disproportionate impacts were adequately taken into account and the extent to which action was taken to mitigate disproportionate impacts.
 
 Thank you, my Lady.
 

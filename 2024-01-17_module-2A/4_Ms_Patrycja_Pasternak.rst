@@ -53,55 +53,25 @@ If we turn first to your personal experiences of the pandemic, if we may. You su
 
 **Counsel Inquiry**: With personal assistants assisting you for the whole
 
-**Ms Patrycja Pasternak**: Yes. I've got a team of five part-time personal
+**Ms Patrycja Pasternak**: Yes. I've got a team of five part-time personal assistants who I manage myself.
 
-assistants who I manage myself.
-
-**Counsel Inquiry**: Effectively you're given a sort of budget to employ
-
-assistants to cover your needs within that budget?
+**Counsel Inquiry**: Effectively you're given a sort of budget to employ assistants to cover your needs within that budget?
 
 **Ms Patrycja Pasternak**: Yes, and Patty's one of them.
 
-**Counsel Inquiry**: Yes. When lockdown came, two of your personal
-
-assistants were unable to continue assisting you, due to
-
-their own personal circumstances; is that correct?
+**Counsel Inquiry**: Yes. When lockdown came, two of your personal assistants were unable to continue assisting you, due to their own personal circumstances; is that correct?
 
 **Ms Patrycja Pasternak**: Yes, that's right.
 
-**Counsel Inquiry**: In terms of having control of the budget for employing
+**Counsel Inquiry**: In terms of having control of the budget for employing those personal assistants, how did that cause difficulties for you?
 
-those personal assistants, how did that cause
-
-difficulties for you?
-
-**Ms Patrycja Pasternak**: Well, to begin with, I didn't know where the money would
-
-come from to pay for their self-isolation, because I had
-
-to find additional support. I also cut the hours of
-
-support because there was insufficient support
-
-available.
+**Ms Patrycja Pasternak**: Well, to begin with, I didn't know where the money would come from to pay for their self-isolation, because I had to find additional support. I also cut the hours of support because there was insufficient support available.
 
 **Counsel Inquiry**: So --
 
-**Ms Patrycja Pasternak**: I was fortunate enough to receive support from the
+**Ms Patrycja Pasternak**: I was fortunate enough to receive support from the Independent Living Fund. I don't know if you've heard about that but it's a fund whereby people receiving money from their local authority can go to the Fund for additional money. And although I wasn't receiving much,
 
-Independent Living Fund. I don't know if you've heard
-
-about that but it's a fund whereby people receiving
-
-money from their local authority can go to the Fund for
-
-additional money. And although I wasn't receiving much,
-
-I did receive support from my local authority, the Fund hours a day?                                                        24           was able to give me more money to pay for the furlough
-
-of the people taking self-isolation. Did that answer the point?
+I did receive support from my local authority, the Fund hours a day?                                                        24           was able to give me more money to pay for the furlough of the people taking self-isolation. Did that answer the point?
 
 **Counsel Inquiry**: So when you, having reduced your own personal assistant support, you effectively had to seek assistance elsewhere to try and maintain some level of support that would keep you safe --
 
@@ -321,55 +291,19 @@ Do you think that the Scottish Government should have turned more rapidly to the
 
 **Counsel Inquiry**: So you never were able to find out whether you were able to -- you didn't see the input that Inclusion Scotland were putting into things reflected in the output of Scottish Government?
 
-**Ms Patrycja Pasternak**: Well, that's true generally. There were one or two instances, my Lady, when we could see the outcome, and that was in the £100 million to restart care packages,
+**Ms Patrycja Pasternak**: Well, that's true generally. There were one or two instances, my Lady, when we could see the outcome, and that was in the £100 million to restart care packages, but there was no audit of where that money went to, there was no transparency about where that money went to, because we didn't see any care packages being reopened. So although the government were listening to us, the local authority delivery of service was not.
 
-but there was no audit of where that money went to,
-
-there was no transparency about where that money went
-
-to, because we didn't see any care packages being
-
-reopened. So although the government were listening to
-
-us, the local authority delivery of service was not.
-
-**Counsel Inquiry**: Turning just finally to the future recommendations that
-
-Inclusion Scotland have suggested, they're at
-
-paragraph 111 to 116 of your statement, and do you say
-
-that DPOs should be involved in emergency planning?
+**Counsel Inquiry**: Turning just finally to the future recommendations that Inclusion Scotland have suggested, they're at paragraph 111 to 116 of your statement, and do you say that DPOs should be involved in emergency planning?
 
 **Ms Patrycja Pasternak**: Yes. "There should be nothing about us without us".
 
-That, my Lady, is our motto, "There should be nothing
+That, my Lady, is our motto, "There should be nothing about us without us".
 
-about us without us".
+**Counsel Inquiry**: And there are a series of other recommendations, I won't take you through them, but I've just given the reference for the transcript.
 
-**Counsel Inquiry**: And there are a series of other recommendations, I won't
+Dr Elder-Woodward, is there anything else you would like to say?
 
-take you through them, but I've just given the reference
-
-for the transcript.
-
-Dr Elder-Woodward, is there anything else you would
-
-like to say?
-
-**Ms Patrycja Pasternak**: Just a couple of things.
-
-First of all, my Lady, there would have been more
-
-resilience to Covid if our socioeconomic rights had been
-
-delivered. The fact was that we were bereft of social
-
-and economic rights, that made us more, err -- I don't
-
-like the term "vulnerable" -- more susceptible to the
-
-Covid pandemic.
+**Ms Patrycja Pasternak**: Just a couple of things. First of all, my Lady, there would have been more resilience to Covid if our socioeconomic rights had been delivered. The fact was that we were bereft of social and economic rights, that made us more, err -- I don't like the term "vulnerable" -- more susceptible to the Covid pandemic.
 
 The other thing I wanted to talk about was the DNR. On the DNR, we felt, people felt, that they were not wanted, that society didn't want them, because they put them on DNRs. That could have been a utilitarian approach to coping with Covid, but we would rather the Commandos' motto, "Leave no one behind". If that motto is true of army people under fire, it should also be true of society in dealing with pandemics, "Leave no one behind".
 
@@ -383,29 +317,15 @@ Thanks, my Lady.
 
 **Lady Hallett**: Thank you very much.
 
-Thank you very much indeed, Dr Elder-Woodward. I'm really sorry to hear some of what you've had to say, obviously, but you've been really helpful and I'm very grateful to you. Don't worry if on the journey home you think of something that you wish you'd said. A) I've got the written statement, and I take into account all the written material, not just what I hear here in the oral hearings; and also you have the advantage of being represented by very experienced King's Counsel, Mr Friedman, so he'll make sure that anything you want
+Thank you very much indeed, Dr Elder-Woodward. I'm really sorry to hear some of what you've had to say, obviously, but you've been really helpful and I'm very grateful to you. Don't worry if on the journey home you think of something that you wish you'd said. A) I've got the written statement, and I take into account all the written material, not just what I hear here in the oral hearings; and also you have the advantage of being represented by very experienced King's Counsel, Mr Friedman, so he'll make sure that anything you want to be put before the Inquiry will be put before the Inquiry. So thank you very much indeed for your help.
 
-to be put before the Inquiry will be put before
-
-the Inquiry.
-
-So thank you very much indeed for your help.
-
-**The Witness**: My Lady, could I thank you for giving me the
-
-opportunity to come and give evidence.
+**The Witness**: My Lady, could I thank you for giving me the opportunity to come and give evidence.
 
 **Lady Hallett**: Not at all. Thank you.
 
 *(The witness withdrew)*
 
-**Lady Hallett**: Right, I think I have to rise now for
-
-five minutes. I think everybody else stays, if they
-
-want to stay, and I go for five minutes. I shall
-
-return.
+**Lady Hallett**: Right, I think I have to rise now for five minutes. I think everybody else stays, if they want to stay, and I go for five minutes. I shall return.
 
 *(12.15 pm)*
 
@@ -415,9 +335,5 @@ return.
 
 **Lady Hallett**: Mr Dawson.
 
-**Mr Dawson**: Good afternoon, my Lady. The next witness,
-
-there will be two witnesses giving evidence today,
-
-Mr Roger Halliday and Mr Scott Heald.
+**Mr Dawson**: Good afternoon, my Lady. The next witness, there will be two witnesses giving evidence today, Mr Roger Halliday and Mr Scott Heald.
 

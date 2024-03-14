@@ -319,55 +319,11 @@ A further expert report has been disclosed to core participants prepared by Prof
 
 The current provisional intention of Module 2A is that it will not lead further evidence from the experts who have spoken about matters of general relevance across the UK, such as Professor Brightling or Dr Evans, or whose reports have specifically covered Module 2A in their remit, including Professor Henderson and Professor Hale, and the inequality experts, whose written and oral evidence already covers Scottish considerations.
 
-The evidence which they have provided to the Inquiry remains available for consideration at the M2A hearings and/or in the final report on Module 2A matters. Issues
+The evidence which they have provided to the Inquiry remains available for consideration at the M2A hearings and/or in the final report on Module 2A matters. Issues arising from their evidence about governmental, including intergovernmental structures, NPIs, structural inequality and, by extension, inequality in political decision-making and outcomes, have been and will be canvassed at the Module 2A hearings with other witnesses. It is likely that I will cover key aspects of this evidence in my opening statement at the hearings in January.
 
-arising from their evidence about governmental,
+The listening exercise, which we call Every Story Matters, commemoration and impact film.
 
-including intergovernmental structures, NPIs, structural
-
-inequality and, by extension, inequality in political
-
-decision-making and outcomes, have been and will be
-
-canvassed at the Module 2A hearings with other
-
-witnesses. It is likely that I will cover key aspects
-
-of this evidence in my opening statement at the hearings
-
-in January.
-
-The listening exercise, which we call Every Story
-
-Matters, commemoration and impact film.
-
-On 28 July 2023, the Inquiry provided a further
-
-update on the ways in which an individual can share October.                                                              13      their experiences with the Inquiry. Every Story Matters
-
-was formally launched on 13 June 2023. The experiences
-
-and stories shared are helping the Inquiry to build
-
-a comprehensive picture of how the pandemic affected
-
-people's lives across the UK, including in Scotland.
-
-An updated web forum was made available in late May, and
-
-to date thousands of responses have been submitted.
-
-The public information campaign to make people aware of
-
-Every Story Matters has been running on radio,
-
-billboards, in the press and digital advertising.
-
-The Inquiry has been working with charities and other
-
-organisations to promote Every Story Matters to
-
-seldom-heard voices. Campaign activity aimed at raising awareness of Every Story Matters has been undertaken. Every Story Matters will take place in Scotland predominantly from the beginning of January 2024 and will run until the end of the Module 2A hearings. A new contract has been awarded to M&C Saatchi to support the advertising of Every Story Matters, and a new research and analysis contract has been awarded to Ipsos to help the Inquiry deliver the next stage of this important project.
+On 28 July 2023, the Inquiry provided a further update on the ways in which an individual can share October.                                                              13      their experiences with the Inquiry. Every Story Matters was formally launched on 13 June 2023. The experiences and stories shared are helping the Inquiry to build a comprehensive picture of how the pandemic affected people's lives across the UK, including in Scotland. An updated web forum was made available in late May, and to date thousands of responses have been submitted. The public information campaign to make people aware of Every Story Matters has been running on radio, billboards, in the press and digital advertising. The Inquiry has been working with charities and other organisations to promote Every Story Matters to seldom-heard voices. Campaign activity aimed at raising awareness of Every Story Matters has been undertaken. Every Story Matters will take place in Scotland predominantly from the beginning of January 2024 and will run until the end of the Module 2A hearings. A new contract has been awarded to M&C Saatchi to support the advertising of Every Story Matters, and a new research and analysis contract has been awarded to Ipsos to help the Inquiry deliver the next stage of this important project.
 
 We have recently launched our programme of UK-wide Every Story Matters events, which will enable people across the UK to speak to Inquiry staff in person about their experiences of the pandemic. We will be holding events in Scotland in the New Year. A new contract will soon be announced to help the Inquiry deliver further community events.
 

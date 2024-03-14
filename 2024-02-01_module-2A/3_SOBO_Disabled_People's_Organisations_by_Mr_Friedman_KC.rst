@@ -73,27 +73,7 @@ These governors in Scotland must therefore, we say with respect, acquire the com
 
 But what of this suggestion that human rights will never be enough without social and economic rights, that the woes of Covid governance essentially come down to economic determinism, that there has been a failure of the dominant free market philosophies in the wealthier western nations to protect the poorer parts of their populations?
 
-My Lady, we are in the nation of Adam Smith, and the city that many in this room would tell you is the birthplace of the enlightenment. Smith may be famous for extolling the virtues of the invisible hand of the free markets in his The Wealth of Nations, but his earlier book on morals, The Theory of Moral Sentiments published in 1759, has something to say about the ethics of care as the source of both a good life and good governance. He told his 18th century audience that the secret of happiness was to be loved and to be lovely. Broadly translated into modern language, that accords with a submission we have already made to you, that the principal value of good government should be to care
-
-about caring and being cared for, and that we should
-
-favour such politics, economics and systems that sustain
-
-that way of relating to one another.
-
-The evidence in this Inquiry lays bare that the
-
-pandemic and its countermeasures were wretchedly unjust.
-
-So, as you continue your journey, we ask you to keep
-
-thinking about how we all are vulnerable to some degree
-
-at some time, that the capacity to care is at least as
-
-fundamental to what it means to be human as the capacity to reason.
-
-And so, to do justice to the unequal harms of Covid, this Inquiry, along with the public it serves, must find ways to enable the ethics and practice of mutual care to become both more possible and more sustainable.
+My Lady, we are in the nation of Adam Smith, and the city that many in this room would tell you is the birthplace of the enlightenment. Smith may be famous for extolling the virtues of the invisible hand of the free markets in his The Wealth of Nations, but his earlier book on morals, The Theory of Moral Sentiments published in 1759, has something to say about the ethics of care as the source of both a good life and good governance. He told his 18th century audience that the secret of happiness was to be loved and to be lovely. Broadly translated into modern language, that accords with a submission we have already made to you, that the principal value of good government should be to care about caring and being cared for, and that we should favour such politics, economics and systems that sustain that way of relating to one another. The evidence in this Inquiry lays bare that the pandemic and its countermeasures were wretchedly unjust. So, as you continue your journey, we ask you to keep thinking about how we all are vulnerable to some degree at some time, that the capacity to care is at least as fundamental to what it means to be human as the capacity to reason. And so, to do justice to the unequal harms of Covid, this Inquiry, along with the public it serves, must find ways to enable the ethics and practice of mutual care to become both more possible and more sustainable.
 
 **Lady Hallett**: Thank you very much indeed, Mr Friedman, very grateful.
 

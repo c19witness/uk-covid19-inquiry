@@ -3,47 +3,15 @@
 
 **Mr Phillips**: My Lady, as you know, the National Police
 
-Chiefs' Council is a national co-ordinating body that
+Chiefs' Council is a national co-ordinating body that represents all UK police forces, and of course in this Inquiry it is a core participant representing UK policing. The police were, on any view, one of the key frontline organisations during the pandemic.
 
-represents all UK police forces, and of course in this
+In his oral evidence to you, former assistant commissioner Martin Hewitt, who chaired the organisation throughout, noted two particular impacts of the pandemic on policing.
 
-Inquiry it is a core participant representing UK
+First, the NPCC recognised very early on that the pandemic required a dedicated police response. The national co-ordination of that response, established in
 
-policing. The police were, on any view, one of the key
+March 2020, was Operation Talla. As you know, Operation Talla covered just about every area of policing activity, and deployed the available resources of the NPCC.
 
-frontline organisations during the pandemic.
-
-In his oral evidence to you, former assistant
-
-commissioner Martin Hewitt, who chaired the organisation
-
-throughout, noted two particular impacts of the pandemic
-
-on policing.
-
-First, the NPCC recognised very early on that the
-
-pandemic required a dedicated police response. The
-
-national co-ordination of that response, established in
-
-March 2020, was Operation Talla. As you know,
-
-Operation Talla covered just about every area of
-
-policing activity, and deployed the available resources
-
-of the NPCC.
-
-Secondly, it was clear to the NPCC that normal
-
-policing activity, including the prevention and
-
-detection of crime, would have to carry on despite the
-
-challenging conditions and would, of course, continue
-
-after the end of the pandemic, whenever that was.
+Secondly, it was clear to the NPCC that normal policing activity, including the prevention and detection of crime, would have to carry on despite the challenging conditions and would, of course, continue after the end of the pandemic, whenever that was.
 
 As I said in my brief opening submissions, the pandemic of course posed a wide range of challenges in every aspect of public and private life. Policing and police officers faced many such challenges, as the pandemic affected every part of the service.
 

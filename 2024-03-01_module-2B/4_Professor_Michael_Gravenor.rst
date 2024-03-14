@@ -9,21 +9,11 @@ Questions From Lead Counsel to the Inquiry for Module 2B
 
 Professor.
 
-**Mr Poole**: Please take a seat, Professor. If you could
-
-start with giving us your full name, please.
+**Mr Poole**: Please take a seat, Professor. If you could start with giving us your full name, please.
 
 **Professor Michael Gravenor**: My name is Michael Brynley Gravenor.
 
-**Lead 2B**: Professor, whilst giving your evidence, if you can
-
-please keep your voice up so we can hear you but also so
-
-your evidence can be recorded. If I ask you a question
-
-you don't understand, please do ask me to rephrase it;
-
-and thank you again for coming and assisting the Inquiry this afternoon.
+**Lead 2B**: Professor, whilst giving your evidence, if you can please keep your voice up so we can hear you but also so your evidence can be recorded. If I ask you a question you don't understand, please do ask me to rephrase it; and thank you again for coming and assisting the Inquiry this afternoon.
 
 The witness statement you've provided for this module is at INQ000347979. We don't need to go to it but at page 35 you signed and dated that on 28 October of last year. Are the contents of that statement true to the best of your knowledge and belief?
 
@@ -491,55 +481,11 @@ I think it's an important point to make that in an emergency situation there are
 
 **Lead 2B**: Having sort of perhaps stepped outside the brief and modelled a four-week lockdown, and having made the findings that you did, did you advise TAG or TAC of those findings at the time?
 
-**Professor Michael Gravenor**: At the time, no. I think they were shared -- I think they were discussed in the modelling subgroup perhaps prior to that, but I think by the time we got to dates going over the school half term, so when we looked prior to that, we just set up a set of scenarios in which you can vary the length of the firebreak, and they may or may not have had school closures and they may have had different effects. So there would have been very many scenarios that we would have, and then we would focus then on the two to three-week -- and then we were given a date. So they wouldn't have been directly comparable anyway because we were running over the half term, and then after the half term of the firebreak
+**Professor Michael Gravenor**: At the time, no. I think they were shared -- I think they were discussed in the modelling subgroup perhaps prior to that, but I think by the time we got to dates going over the school half term, so when we looked prior to that, we just set up a set of scenarios in which you can vary the length of the firebreak, and they may or may not have had school closures and they may have had different effects. So there would have been very many scenarios that we would have, and then we would focus then on the two to three-week -- and then we were given a date. So they wouldn't have been directly comparable anyway because we were running over the half term, and then after the half term of the firebreak there was a mixed school -- some -- some return to school. So it was a very specific situation that we were modelling in response to that email, which does not directly correspond to the previous kind of circuit-breaker experiments that were done before.
 
-there was a mixed school -- some -- some return to
+**Lead 2B**: From what you've just said, it sounds as though by the time you were asked to model the firebreak it was pretty advanced thinking on the part of the Welsh Government that there was going to be a firebreak. I mean, did modelling -- in your view, did modelling work need to be carried out in order for that decision to be made to impose a firebreak?
 
-school.
-
-So it was a very specific situation that we were
-
-modelling in response to that email, which does not
-
-directly correspond to the previous kind of
-
-circuit-breaker experiments that were done before.
-
-**Lead 2B**: From what you've just said, it sounds as though by the
-
-time you were asked to model the firebreak it was pretty
-
-advanced thinking on the part of the Welsh Government
-
-that there was going to be a firebreak. I mean, did
-
-modelling -- in your view, did modelling work need to be
-
-carried out in order for that decision to be made to
-
-impose a firebreak?
-
-**Professor Michael Gravenor**: I think possibly not, I think it's going to perhaps October we -- there was a fairly well set plan for                    15           guide thinking in terms of the impact and maybe being
-
-most useful in terms of the return time. So it's
-
-an important decision. So you've got to understand the
-
-particular circumstances in which it's going to work and
-
-the uncertainty around that.
-
-So within the remit of the two and three-week
-
-firebreak we considered a combination of what the true
-
-value R was when we headed into it. Now, that was
-
-unknown, so we considered a range. Then we have to
-
-consider a range of the impact, and so we considered
-
-a range of those, because it may not reduce contact as much as it happened in March. So we can use that as a yardstick but it may not be as effective. Then finally we have to consider what is the likely R at the end of the firebreak. And there are certain things to consider there, it's deeper into the winter, there might be a carry-over effect of the firebreak, whether it's beneficial. Which is what largely transpired. So there are many different potential outcomes.
+**Professor Michael Gravenor**: I think possibly not, I think it's going to perhaps October we -- there was a fairly well set plan for                    15           guide thinking in terms of the impact and maybe being most useful in terms of the return time. So it's an important decision. So you've got to understand the particular circumstances in which it's going to work and the uncertainty around that. So within the remit of the two and three-week firebreak we considered a combination of what the true value R was when we headed into it. Now, that was unknown, so we considered a range. Then we have to consider a range of the impact, and so we considered a range of those, because it may not reduce contact as much as it happened in March. So we can use that as a yardstick but it may not be as effective. Then finally we have to consider what is the likely R at the end of the firebreak. And there are certain things to consider there, it's deeper into the winter, there might be a carry-over effect of the firebreak, whether it's beneficial. Which is what largely transpired. So there are many different potential outcomes.
 
 And I think the modelling is useful to sort of have those explicitly down -- we don't necessarily know which one of these is going to be followed so it's not necessary to show that, but with that -- with that analysis you can say that under the range of the assumptions -- under the range of scenarios that we consider to be reasonable then this is going -- this is a possible likely effect. And if that is a suppression for some extra time beyond the actual break, then it has -- then it will have a big impact on prevalence, as it did.
 
@@ -867,51 +813,17 @@ So it's just a very short question: were you asked to model these range of propo
 
 **Ms Heaven**: So it's the rule of six again.
 
-**Professor Michael Gravenor**: So in 2021, at exactly that time, we modelled a lot of
-
-scenarios for Omicron. At that point I think we were
-
-largely modelling the range of scenarios that reflected
-
-the uncertainty regarding the severity of Omicron. So
-
-we'd had a very limited number of -- a very limited
-
-amount of data on the hospitalisations and deaths which
-
-indicated the levels of severity. So we had to run sets
-
-of scenarios that were all consistent with that and then
-
-see what was happening next.
-
-So I think -- as I remember, we didn't -- we
-
-certainly didn't, in answer to your question, model
-
-those very, very specific interventions because we never
-
-do.
+**Professor Michael Gravenor**: So in 2021, at exactly that time, we modelled a lot of scenarios for Omicron. At that point I think we were largely modelling the range of scenarios that reflected the uncertainty regarding the severity of Omicron. So we'd had a very limited number of -- a very limited amount of data on the hospitalisations and deaths which indicated the levels of severity. So we had to run sets of scenarios that were all consistent with that and then see what was happening next. So I think -- as I remember, we didn't -- we certainly didn't, in answer to your question, model those very, very specific interventions because we never do.
 
 **Ms Heaven**: Okay.
 
-**Professor Michael Gravenor**: It is more the broader reductions in transmission that
-
-are accompanied by those interventions, and we certainly
-
-modelled lots of scenarios of Tier 1, Tier 2, Tier 3 --
+**Professor Michael Gravenor**: It is more the broader reductions in transmission that are accompanied by those interventions, and we certainly modelled lots of scenarios of Tier 1, Tier 2, Tier 3 --
 
 **Ms Heaven**: Okay.
 
-**Professor Michael Gravenor**: -- type interventions in the period from December and
+**Professor Michael Gravenor**: -- type interventions in the period from December and going into January with Omicron, as we gradually learnt more about its severity. But quite a lot of scenarios December ...?                                                         22           then, yes.
 
-going into January with Omicron, as we gradually learnt
-
-more about its severity. But quite a lot of scenarios December ...?                                                         22           then, yes.
-
-**Ms Heaven**: Well, thank you very much, those are my
-
-questions.
+**Ms Heaven**: Well, thank you very much, those are my questions.
 
 Thank you, my Lady.
 

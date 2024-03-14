@@ -419,57 +419,9 @@ It wasn't an international exemplar. Events had proved that by then.
 
 **Professor Dame Harries**: So, I mean, I don't have the context for this, which is often quite difficult for me to make comments on statements which are provided to me and not with the rest of it but I would perhaps just repeat that it says it acknowledges the poor position we're in now, regardless of the position we may now be in. I am flagging that historically it had. So I think I'm just saying that there is a problem there and, previously, we thought we got it right because that's what other people told us.
 
-**Counsel Inquiry**: Let me move on, and I think is going to be my last set of questions, to one more of your sets of public commentary and, to do this, let's go within the same statement to page 145, please.
+**Counsel Inquiry**: Let me move on, and I think is going to be my last set of questions, to one more of your sets of public commentary and, to do this, let's go within the same statement to page 145, please. Now, we see, first of all, at paragraph 10.18, it's another of the Downing Street press conferences, this time on 26 March 2020, and we see, set out below in full, first of all the question you were asked and then the answer you gave. These were comments about testing, which, as with the other comments we've looked at, were the subject of debate at the time.
 
-Now, we see, first of all, at paragraph 10.18, it's
-
-another of the Downing Street press conferences, this
-
-time on 26 March 2020, and we see, set out below in
-
-full, first of all the question you were asked and then
-
-the answer you gave. These were comments about testing,
-
-which, as with the other comments we've looked at, were
-
-the subject of debate at the time.
-
-The question then:
-
-"I don't think we've ever really had a public
-
-explanation of why this country decided to stop testing
-
-people who were suffering with symptoms of coronavirus
-
-when every -- well, certainly when the World Health
-
-Organization was advocating that as a policy and many
-
-other Asian countries have done this with great
-
-success?" Your answer, which I will read out, I'm going to suggest
-
-perhaps you are making two broad points and I will pause
-
-after where I think you sort of end the first one and we
-
-can talk about that before moving onto the second. But
-
-the first part of your answer then, you say:
-
-"So I think I'm going to answer in two different
-
-sections, the first one about the WHO comment, so
-
-I think the comment you were picking up was Dr Tedros
-
-saying 'test, test, test', but, in fact, we need to
-
-realise that the clue for WHO is in its title, it is
-
-a world health organisation, and it is addressing all countries across the world with entirely different health infrastructures and particular public health infrastructures, we have an extremely well developed public health system in this country and in fact our public health teams actually train others abroad, we have supported WHO through their GOARN process, and some of our epidemiologists have gone out to Manilla for example to support the early response in that area, so the point there is that they are addressing every country including low and middle income countries so encouraging all countries to test of some type."
+The question then: "I don't think we've ever really had a public explanation of why this country decided to stop testing people who were suffering with symptoms of coronavirus when every -- well, certainly when the World Health Organization was advocating that as a policy and many other Asian countries have done this with great success?" Your answer, which I will read out, I'm going to suggest perhaps you are making two broad points and I will pause after where I think you sort of end the first one and we can talk about that before moving onto the second. But the first part of your answer then, you say: "So I think I'm going to answer in two different sections, the first one about the WHO comment, so I think the comment you were picking up was Dr Tedros saying 'test, test, test', but, in fact, we need to realise that the clue for WHO is in its title, it is a world health organisation, and it is addressing all countries across the world with entirely different health infrastructures and particular public health infrastructures, we have an extremely well developed public health system in this country and in fact our public health teams actually train others abroad, we have supported WHO through their GOARN process, and some of our epidemiologists have gone out to Manilla for example to support the early response in that area, so the point there is that they are addressing every country including low and middle income countries so encouraging all countries to test of some type."
 
 That's a point where I think perhaps you go onto the second part of answer. But let's just focus on that first answer. In fact, the WHO guidance or imperative, "test, test, test", applied to all countries, did it not?
 

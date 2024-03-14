@@ -119,49 +119,13 @@ Which is linked to five, that there should be greater focus on identifying the w
 
 Six, as to the significant issues that this module raises as to how the centre of government operated in a crisis, this is not dealt with in detail here, other than to say it is clear that there needs to be consideration of structures that will produce better decision-making, of the need to draw on a wider range of life experiences when making decisions affecting huge numbers of people's lives in major ways, and as to how politicians interact with the scientists from whom they seek advice.
 
-Seven, there will be many lessons in the area of
+Seven, there will be many lessons in the area of social care from this module, and the later modules, and that is a subject too large to attempt here. Two final points. From the perspective of Wales, as well as the above, what also emerges is that at some levels of the UK Government there was a failure to embrace the task of working with the devolved administrations. There should have been close and grown-up collaboration, which people across the UK were entitled to expect. Whether the Welsh Government did all it should have done to collaborate must be considered in Module 2B of the Inquiry, which is yet to come.
 
-social care from this module, and the later modules, and
-
-that is a subject too large to attempt here.
-
-Two final points. From the perspective of Wales, as
-
-well as the above, what also emerges is that at some
-
-levels of the UK Government there was a failure to
-
-embrace the task of working with the devolved
-
-administrations. There should have been close and
-
-grown-up collaboration, which people across the UK were
-
-entitled to expect. Whether the Welsh Government did
-
-all it should have done to collaborate must be
-
-considered in Module 2B of the Inquiry, which is yet to
-
-come.
-
-Finally, the lesson has been learned, of course,
-
-that the institutions of the UK Government were very far
-
-from equal to the task of responding to the pandemic and
-
-that this brought devastating consequences, and we will
-
-refer in more detail to that aspect in our written
-
-submissions.
+Finally, the lesson has been learned, of course, that the institutions of the UK Government were very far from equal to the task of responding to the pandemic and that this brought devastating consequences, and we will refer in more detail to that aspect in our written submissions.
 
 Thank you, my Lady.
 
-**Lady Hallett**: Thank you very much, Ms Harris, very
-
-grateful.
+**Lady Hallett**: Thank you very much, Ms Harris, very grateful.
 
 Mr Metzer.
 

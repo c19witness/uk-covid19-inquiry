@@ -39,9 +39,7 @@ I'm very grateful, Mr Dawson, for the Inquiry allowing me to complete a sentence
 
 **Lead 2A**: You provided a further statement to the Inquiry on
 
-16 November 2023 under reference INQ000273979; is that
-
-correct?
+16 November 2023 under reference INQ000273979; is that correct?
 
 **Mr John Swinney**: That's correct.
 
@@ -57,31 +55,11 @@ correct?
 
 **Mr John Swinney**: It does.
 
-**Lead 2A**: We also have had a number of corporate statements from
-
-various directorates of the Scottish Government
-
-connected to matters that were within your very broad
-
-ambit during the course of the pandemic, to which I may
-
-make reference as we go along, and you helpfully also
-
-provided a statement to Module 1 in which you also gave
-
-oral evidence dated 5 May, which we've already looked at
-
-in previous hearings.
+**Lead 2A**: We also have had a number of corporate statements from various directorates of the Scottish Government connected to matters that were within your very broad ambit during the course of the pandemic, to which I may make reference as we go along, and you helpfully also provided a statement to Module 1 in which you also gave oral evidence dated 5 May, which we've already looked at in previous hearings.
 
 **Mr John Swinney**: That's correct.
 
-**Lead 2A**: Can I ask you a little bit, first of all, just about
-
-your background. You were the Deputy First Minister of
-
-the Scottish Government between November of 2014 and
-
-March 2023?
+**Lead 2A**: Can I ask you a little bit, first of all, just about your background. You were the Deputy First Minister of the Scottish Government between November of 2014 and March 2023?
 
 **Mr John Swinney**: That is correct.
 

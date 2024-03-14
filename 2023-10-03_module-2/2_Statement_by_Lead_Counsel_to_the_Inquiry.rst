@@ -883,55 +883,17 @@ On 30 September SPI-M-O indicated that, according to medium-term projections fro
 
 On 8 October, the Prime Minister gave a press conference at which the three tier system was announced, and one issue for this module is the practical wisdom of those measures. They were complex, politically divisive, and they led to considerable public confusion.
 
-The existence of different control measures in
+The existence of different control measures in different places at different times also, you may conclude, made it difficult to establish a clear national message. A WhatsApp from Mr Cummings read:
 
-different places at different times also, you may
+"This is a shitshow. We should have gone a month ago as we said."
 
-conclude, made it difficult to establish a clear
+At a meeting on 25 October, an argument began before the Prime Minister, to use the words of the proponents of one side of the argument, "let it rip - they have had a good innings", and the contrary argument was put that pm, extended requirements on :outline:`face coverings` and                       10      a democratically elected government's primary obligation was to save lives. The Prime Minister acknowledged that it was "a complete shambles" but that he really didn't want to have to enter another national lockdown. He was told that if he went down the route of not imposing a lockdown, he would need to tell people that he was going to allow them to die.
 
-national message. A WhatsApp from Mr Cummings read:
+On 30 September, Sir Simon Stevens, head of the NHS, reported that hospitals would be overrun in every part of England. The decision to lock down was made but the decision leaked and the announcement was brought forward. There would be a lockdown from 5 November.
 
-"This is a shitshow. We should have gone a month
+The third lockdown revolves largely around the emergence of the Alpha variant, which first emerged in
 
-ago as we said."
-
-At a meeting on 25 October, an argument began before
-
-the Prime Minister, to use the words of the proponents
-
-of one side of the argument, "let it rip - they have had
-
-a good innings", and the contrary argument was put that pm, extended requirements on :outline:`face coverings` and                       10      a democratically elected government's primary obligation
-
-was to save lives. The Prime Minister acknowledged that
-
-it was "a complete shambles" but that he really didn't
-
-want to have to enter another national lockdown. He was
-
-told that if he went down the route of not imposing
-
-a lockdown, he would need to tell people that he was
-
-going to allow them to die.
-
-On 30 September, Sir Simon Stevens, head of the NHS,
-
-reported that hospitals would be overrun in every part
-
-of England. The decision to lock down was made but the
-
-decision leaked and the announcement was brought
-
-forward. There would be a lockdown from 5 November.
-
-The third lockdown revolves largely around the
-
-emergence of the Alpha variant, which first emerged in
-
-Kent in late November and early December, which was up
-
-to 70% more transmissible. The winter plan of 23 November set out a return from the second lockdown to a three tier system.
+Kent in late November and early December, which was up to 70% more transmissible. The winter plan of 23 November set out a return from the second lockdown to a three tier system.
 
 Unlike the earlier three tier system, there was no negotiation this time with local authorities. On 2 December, the last day of the lockdown, the Medicines and Healthcare products Regulatory Agency gave approval for the use of the first Covid-19 vaccines; the Pfizer-BioNTech vaccine. The miraculous availability of a vaccine turned the course of the pandemic, but it would naturally be some time before vaccines could be made widely available.
 

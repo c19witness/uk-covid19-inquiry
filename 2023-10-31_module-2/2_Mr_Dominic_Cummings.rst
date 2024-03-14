@@ -957,55 +957,7 @@ Before he went to Chevening, which he did on 14 February, he received a note in 
 
 "Coronavirus/international response: containment of the virus in China is a key part of preventing the spread of the outbreak to the UK."
 
-If what you were told by the Chief Scientist was right, the Chief Scientific Adviser was right, Mr Cummings, that there was an inevitability or a probable inevitability to the virus sweeping the world, then any debate about whether or not
-
-the virus could be contained in China was out of date.
-
-Why was the Prime Minister not told, "Evidence is
-
-now emerging that this virus is out of control and will
-
-likely sweep the world, and debate about international
-
-repatriation and drafting of legislation and doctrinal
-
-identification of reasonable worst-case scenarios is
-
-behind us, we need to deal with that loss of control"? February, and the meeting on 10 February to which you                  8      A.   Well, I think there was still -- I think there was still
-
-an awful lot of -- so at the meeting that Patrick and
-
-I asked for on the 10th, from memory these things were
-
-discussed. But remember at that point it was still not
-
-at all seen in Whitehall like this is going to be --
-
-nobody really in Whitehall thought that a month from now
-
-we're going to be in -- in -- the biggest crisis
-
-the country has seen in -- since 1945. The view was
-
-much more that if this is really going to happen, it's
-
-not going to happen for months. And you can see
-
-repeated references in documents to Number 10 and
-
-the Prime Minister that refer to, well, if there is
-
-sustained community transmission in Britain, then
-
-the crisis will come sort of two or three months after.
-
-Which is repeated in various documents.
-
-I remember at this point, although there was in
-
-fact, we now know, sustained transmission in this
-
-country at that time, that was not known then. So the whole system was at this point -- and not just now, but three weeks after this point -- still thinking of this as something that was going to land on people in May/June, not something that was going to overwhelm everybody in mid-March.
+If what you were told by the Chief Scientist was right, the Chief Scientific Adviser was right, Mr Cummings, that there was an inevitability or a probable inevitability to the virus sweeping the world, then any debate about whether or not the virus could be contained in China was out of date. Why was the Prime Minister not told, "Evidence is now emerging that this virus is out of control and will likely sweep the world, and debate about international repatriation and drafting of legislation and doctrinal identification of reasonable worst-case scenarios is behind us, we need to deal with that loss of control"? February, and the meeting on 10 February to which you                  8      A.   Well, I think there was still -- I think there was still an awful lot of -- so at the meeting that Patrick and I asked for on the 10th, from memory these things were discussed. But remember at that point it was still not at all seen in Whitehall like this is going to be -- nobody really in Whitehall thought that a month from now we're going to be in -- in -- the biggest crisis the country has seen in -- since 1945. The view was much more that if this is really going to happen, it's not going to happen for months. And you can see repeated references in documents to Number 10 and the Prime Minister that refer to, well, if there is sustained community transmission in Britain, then the crisis will come sort of two or three months after. Which is repeated in various documents. I remember at this point, although there was in fact, we now know, sustained transmission in this country at that time, that was not known then. So the whole system was at this point -- and not just now, but three weeks after this point -- still thinking of this as something that was going to land on people in May/June, not something that was going to overwhelm everybody in mid-March.
 
 **Lead Inquiry**: You had sent a text to the Number 10 action WhatsApp group on 6 February saying the "chief scientist told me today it's [probably] out of control now and will sweep [the] world". You plainly told the other communicants to that WhatsApp group of what you had been told by the Chief Scientist?
 

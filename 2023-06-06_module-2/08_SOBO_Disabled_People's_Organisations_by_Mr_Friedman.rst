@@ -65,49 +65,17 @@ The Inquiry contains within its terms of reference, created by the government, a
 
 That cannot be done in a manner that satisfies public confidence if collectively agreed Cabinet statements go public whilst important but potentially embarrassing disagreements between ministers go unpublished.
 
-My Lady, the rest of our submissions for today are in writing. I want to say one more thing about why this Inquiry is like no other and its diminishment cannot be tolerated. Unlike in any other legal proceedings that the Cabinet Office seeks to compare it to, the wisdom of
+My Lady, the rest of our submissions for today are in writing. I want to say one more thing about why this Inquiry is like no other and its diminishment cannot be tolerated. Unlike in any other legal proceedings that the Cabinet Office seeks to compare it to, the wisdom of government policy and the competence of our governors, especially the Prime Minister and the Cabinet, are directly under scrutiny in this Inquiry. It cannot be forgotten that the Cabinet sat at the apex of what my colleague Adam Wagner has called the Emergency State.
 
-government policy and the competence of our governors,
+There is an enhanced need for this Inquiry to scrutinise Cabinet decision-making and the mindset of ministers, given that the law-making powers provided under the Public Health Act 1984 granted so much power to the Executive above and beyond the scrutiny of both Parliament and the courts.
 
-especially the Prime Minister and the Cabinet, are
+The Cabinet Office issues still at stake today therefore lie at the heart of the intended scope for Module 2, from WhatsApp messages to diaries to minutes.
 
-directly under scrutiny in this Inquiry. It cannot be
-
-forgotten that the Cabinet sat at the apex of what my
-
-colleague Adam Wagner has called the Emergency State.
-
-There is an enhanced need for this Inquiry to
-
-scrutinise Cabinet decision-making and the mindset of
-
-ministers, given that the law-making powers provided
-
-under the Public Health Act 1984 granted so much power
-
-to the Executive above and beyond the scrutiny of both
-
-Parliament and the courts.
-
-The Cabinet Office issues still at stake today
-
-therefore lie at the heart of the intended scope for
-
-Module 2, from WhatsApp messages to diaries to minutes.
-
-It would in fact undermine the very principle of Cabinet
-
-responsibility if the opportunity was missed to publicly
-
-examine how the government worked in this exceptional
-
-and fragile period of crisis.
+It would in fact undermine the very principle of Cabinet responsibility if the opportunity was missed to publicly examine how the government worked in this exceptional and fragile period of crisis.
 
 My Lady, thank you.
 
-**Lady Hallett**: Extremely grateful, Mr Friedman, thank you
-
-very much indeed.
+**Lady Hallett**: Extremely grateful, Mr Friedman, thank you very much indeed.
 
 Right, Rajiv Menon King's Counsel? Mr Menon.
 

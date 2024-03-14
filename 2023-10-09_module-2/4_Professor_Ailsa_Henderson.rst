@@ -343,55 +343,13 @@ But more recently, it had met, had it not, in the years running up to the pandem
 
 Briefly, that's the JMC, but there were other inter-national bodies that were part of these structures. You refer to two: one was the North South Ministerial Council, and another was the British-Irish Council. Tell us just a little bit about those.
 
-**Professor Ailsa Henderson**: These come to us through the Belfast Agreement, so they're specific to the devolution settlement in Northern Ireland. They reflect strands 2 and 3 of the arrangements, where strand 1 was the internal
-
-arrangements for Northern Ireland. And they were forums
-
-for communication. So it was to reflect the fact that
-
-Northern Ireland is embedded within an island but also
-
-is part of the UK, and so the North South Ministerial
-
-Council manages relations across the island of Ireland,
-
-and the British-Irish Council was a way of providing
-
-a forum in which a larger group of actors could meet, so
-
-it includes members from across both islands.
+**Professor Ailsa Henderson**: These come to us through the Belfast Agreement, so they're specific to the devolution settlement in Northern Ireland. They reflect strands 2 and 3 of the arrangements, where strand 1 was the internal arrangements for Northern Ireland. And they were forums for communication. So it was to reflect the fact that Northern Ireland is embedded within an island but also is part of the UK, and so the North South Ministerial Council manages relations across the island of Ireland, and the British-Irish Council was a way of providing a forum in which a larger group of actors could meet, so it includes members from across both islands.
 
 **Mr O'Connor**: Thank you.
 
-If we can go on, finally, in this section to times, so a little bit less than annually, but                        11           paragraph 56. We have sketched, then, this network of
+If we can go on, finally, in this section to times, so a little bit less than annually, but                        11           paragraph 56. We have sketched, then, this network of institutions which existed before the pandemic commenced, and in paragraph 56 you offer us some of the value judgments given by academics over the years, that were critical of these arrangements, and one that's particularly striking is the view that was offered was that they were not sufficiently strong to withstand a crisis?
 
-institutions which existed before the pandemic
-
-commenced, and in paragraph 56 you offer us some of
-
-the value judgments given by academics over the years,
-
-that were critical of these arrangements, and one that's
-
-particularly striking is the view that was offered was
-
-that they were not sufficiently strong to withstand
-
-a crisis?
-
-**Professor Ailsa Henderson**: Yes. This is a kind of non-representative sample of --
-
-no, that makes it sound like it's not representative of
-
-what academics in general think. This is a grab bag of
-
-some of the articles that have been written about
-
-intergovernmental relations in the UK, but they are
-
-almost uniform in their condemnation of the fact
-
-that there are insufficiently robust intergovernmental relations in the UK.
+**Professor Ailsa Henderson**: Yes. This is a kind of non-representative sample of -- no, that makes it sound like it's not representative of what academics in general think. This is a grab bag of some of the articles that have been written about intergovernmental relations in the UK, but they are almost uniform in their condemnation of the fact that there are insufficiently robust intergovernmental relations in the UK.
 
 And partly that is attributed to three things. One, it's to the asymmetry that I mentioned at the start. So because of the asymmetrical arrangements and also because of the way that devolution in Northern Ireland arrived in particular, it wasn't possible to devise a kind of one-size-fits-all intergovernmental relations arrangement.
 

@@ -279,27 +279,13 @@ And I think one of the important lessons going forward, and I do -- I do think i
 
 **Professor Ann John**: So there are UK-wide initiatives, both with NHS data, with recording of ethnicity status in hospitals, in healthcare. There's the idea of recording ethnicity on death certificates, but recording on death certificates of things like occupancy and ethnicity can be quite poor.
 
-So I guess what I'm saying is there's a lot of work to be done with under-served populations, so I know that -- you know, back in the day I always used to tick "Prefer not to say" because you have an inherent knowledge that it's going to be a disadvantage to you. It's not an advantage to be from an ethnic minority. So I think there are things that we need -- we need to address education and awareness of people in terms of their suspicions about why we're recording this data.
+So I guess what I'm saying is there's a lot of work to be done with under-served populations, so I know that -- you know, back in the day I always used to tick "Prefer not to say" because you have an inherent knowledge that it's going to be a disadvantage to you. It's not an advantage to be from an ethnic minority. So I think there are things that we need -- we need to address education and awareness of people in terms of their suspicions about why we're recording this data. And we also need to think about, you know, how we address those trust issues across our most, sort of, unheard vulnerable populations. Because all those things come down to trust.
 
-And we also need to think about, you know, how we
-
-address those trust issues across our most, sort of,
-
-unheard vulnerable populations. Because all those
-
-things come down to trust.
-
-**Ms Spector**: My Lady, I have no further questions, and
-
-I don't believe there are any Rule 10 applications.
+**Ms Spector**: My Lady, I have no further questions, and I don't believe there are any Rule 10 applications.
 
 **Lady Hallett**: No, there aren't.
 
-Thank you very much indeed, Professor. I do hope
-
-being a clinical professor doesn't mean you stopped
-
-teaching, because I found it extremely interesting.
+Thank you very much indeed, Professor. I do hope being a clinical professor doesn't mean you stopped teaching, because I found it extremely interesting.
 
 Thank you very much indeed.
 

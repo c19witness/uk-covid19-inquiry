@@ -4,9 +4,7 @@ Transcript of Module 2A Public Hearing on 24 January 2024
 
 **Lady Hallett**: Mr Dawson.
 
-**Mr Dawson**: Good morning, my Lady. The first witness this
-
-morning is Professor Mark Woolhouse OBE.
+**Mr Dawson**: Good morning, my Lady. The first witness this morning is Professor Mark Woolhouse OBE.
 
 **Lady Hallett**: We meet again.
 
@@ -21,11 +19,7 @@ Questions From Lead Counsel to the Inquiry for Module 2A
 
 **Professor Mark Woolhouse**: I am.
 
-**Lead 2A**: You have helpfully provided a statement to this module
-
-of the Inquiry, along with other statements provided to
-
-previous modules. Your modular statement for this
+**Lead 2A**: You have helpfully provided a statement to this module of the Inquiry, along with other statements provided to previous modules. Your modular statement for this
 
 Inquiry is dated 14 December 2023 and has the reference
 
@@ -33,21 +27,13 @@ INQ000369765. Is that your statement?
 
 **Professor Mark Woolhouse**: It is.
 
-**Lead 2A**: Do the contents of this statement remain true and
+**Lead 2A**: Do the contents of this statement remain true and accurate as of today's date?
 
-accurate as of today's date?
-
-**Professor Mark Woolhouse**: They do, though we have sent a handful of further
-
-exhibits to the Inquiry, but I don't think they
-
-materially affect this statement.
+**Professor Mark Woolhouse**: They do, though we have sent a handful of further exhibits to the Inquiry, but I don't think they materially affect this statement.
 
 **Lead 2A**: Thank you very much indeed.
 
-You're a professor of infectious disease
-
-epidemiology at the University of Edinburgh?
+You're a professor of infectious disease epidemiology at the University of Edinburgh?
 
 **Professor Mark Woolhouse**: I am.
 
@@ -77,57 +63,23 @@ You were awarded an OBE in 2002 for service to the control of infectious disease
 
 **Professor Mark Woolhouse**: I am.
 
-**Lead 2A**: We've heard some evidence about your role in providing early information and advice to the Scottish Government, in particular through Dr Catherine Calderwood, the then Chief Medical Officer. You have given some evidence
-
-about that to the Inquiry already, but I'd like to ask
-
-you some more questions in the particularly Scottish
-
-context of this module.
-
-Could we have up on screen, please, INQ000352450.
-
-If we could go to -- yes, that's the right one.
-
-This is a chain of emails which you have helpfully
-
-produced to the Inquiry between yourself and
-
-Catherine Calderwood; is that correct?
+**Lead 2A**: We've heard some evidence about your role in providing early information and advice to the Scottish Government, in particular through Dr Catherine Calderwood, the then Chief Medical Officer. You have given some evidence about that to the Inquiry already, but I'd like to ask you some more questions in the particularly Scottish context of this module. Could we have up on screen, please, INQ000352450. If we could go to -- yes, that's the right one. This is a chain of emails which you have helpfully produced to the Inquiry between yourself and Catherine Calderwood; is that correct?
 
 **Professor Mark Woolhouse**: It is.
 
-**Lead 2A**: And I understand that you first contacted Dr Calderwood
-
-in connection with your concerns about the emergence of
-
-a new virus on 21 January 2020; is that right?
+**Lead 2A**: And I understand that you first contacted Dr Calderwood in connection with your concerns about the emergence of a new virus on 21 January 2020; is that right?
 
 **Professor Mark Woolhouse**: It is.
 
-**Lead 2A**: What prompted you to contact Dr Calderwood specifically
+**Lead 2A**: What prompted you to contact Dr Calderwood specifically at that time?
 
-at that time?
-
-**Professor Mark Woolhouse**: This seemed to be a matter that very quickly would
-
-require the Scottish Government to engage with, and
-
-since I wasn't at the time part of any formal advisory
-
-system, it seemed to me the logical route to channelling
-
-my concerns to the government was through the Chief
+**Professor Mark Woolhouse**: This seemed to be a matter that very quickly would require the Scottish Government to engage with, and since I wasn't at the time part of any formal advisory system, it seemed to me the logical route to channelling my concerns to the government was through the Chief
 
 Medical Officer for Scotland.
 
-**Lead 2A**: And presumably, given the fact that you, as well as
+**Lead 2A**: And presumably, given the fact that you, as well as having contact with people at a UK level, contacted the
 
-having contact with people at a UK level, contacted the
-
-Chief Medical Officer for Scotland, you were under the
-
-impression that the Scottish Government had the ability to do something about this?
+Chief Medical Officer for Scotland, you were under the impression that the Scottish Government had the ability to do something about this?
 
 **Professor Mark Woolhouse**: Yes.
 

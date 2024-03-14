@@ -15,9 +15,7 @@ Other than that, my Lady, those are the only specific matters on which I felt it
 
 I have already thanked the Core Participants for their written submissions.    I should now like to thank them all for their oral submissions and for their excellent timing.
 
-All the submissions I have heard this morning were focused, constructive and very helpful and that bodes well for the future of this Module 2A.     So thank you
-
-everybody for your attendance today.
+All the submissions I have heard this morning were focused, constructive and very helpful and that bodes well for the future of this Module 2A.     So thank you everybody for your attendance today.
 
 *(12.52 pm)*
 

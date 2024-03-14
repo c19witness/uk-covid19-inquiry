@@ -21,11 +21,7 @@ Questions From Lead Counsel to the Inquiry for Module 2A
 
 **Mr Alister Jack**: Yes.
 
-**Lead 2A**: You've helpfully provided a witness statement to
-
-the Inquiry under reference INQ000360600. It's dated
-
-29 November 2023. Is that your witness statement?
+**Lead 2A**: You've helpfully provided a witness statement to the Inquiry under reference INQ000360600. It's dated 29 November 2023. Is that your witness statement?
 
 **Mr Alister Jack**: Yes.
 
@@ -33,23 +29,11 @@ the Inquiry under reference INQ000360600. It's dated
 
 **Mr Alister Jack**: Yes.
 
-**Lead 2A**: Do the contents of that statement remain true and
-
-accurate as at today's date?
+**Lead 2A**: Do the contents of that statement remain true and accurate as at today's date?
 
 **Mr Alister Jack**: Yes.
 
-**Lead 2A**: The Office of the Secretary of State for Scotland also
-
-provided a further statement to the Inquiry under the
-
-name of Laurence Rockey, who is the director of the
-
-Office of the Secretary of State for Scotland. It was
-
-dated 4 August 2023 and is under reference INQ000232507.
-
-Are you familiar with the contents of this statement?
+**Lead 2A**: The Office of the Secretary of State for Scotland also provided a further statement to the Inquiry under the name of Laurence Rockey, who is the director of the Office of the Secretary of State for Scotland. It was dated 4 August 2023 and is under reference INQ000232507. Are you familiar with the contents of this statement?
 
 **Mr Alister Jack**: Yes.
 
@@ -81,55 +65,19 @@ You have been a member of the UK Parliament for Dumfries and Galloway since 2017
 
 **Mr Dawson**: I want to begin by asking you some questions about the role of the Secretary of State for Scotland.
 
-In your statement at paragraph 3 you say that in that
+In your statement at paragraph 3 you say that in that role you act as Scotland's voice in Whitehall and represent the interests of Scotland at Cabinet. Is it fair to say that you are Scotland's main representative in the United Kingdom Government?
 
-role you act as Scotland's voice in Whitehall and
+**Mr Alister Jack**: Yes. And could I just -- my Lady, could I just, before I give my evidence, just express my sadness for those that lost their lives during the pandemic, and also express my condolences to those who were bereaved, who lost loved ones. And to answer your question, yes.
 
-represent the interests of Scotland at Cabinet. Is it
+**Lead 2A**: You also say at paragraph 3 that you champion the UK Government in Scotland, and advocate for the UK Government's policies in Scotland.
 
-fair to say that you are Scotland's main representative
-
-in the United Kingdom Government?
-
-**Mr Alister Jack**: Yes. And could I just -- my Lady, could I just, before
-
-I give my evidence, just express my sadness for those
-
-that lost their lives during the pandemic, and also
-
-express my condolences to those who were bereaved, who
-
-lost loved ones.
-
-And to answer your question, yes.
-
-**Lead 2A**: You also say at paragraph 3 that you champion the
-
-UK Government in Scotland, and advocate for the
-
-UK Government's policies in Scotland.
-
-Is it fair to say, then, that you are the
-
-United Kingdom Government's main representative in
-
-Scotland?
+Is it fair to say, then, that you are the United Kingdom Government's main representative in Scotland?
 
 **Mr Alister Jack**: Yes.
 
-**Lead 2A**: You say also that the Scotland Office is not
+**Lead 2A**: You say also that the Scotland Office is not a policymaking department. How does that work in practice as regards the role which it plays in Scottish affairs?
 
-a policymaking department. How does that work in
-
-practice as regards the role which it plays in Scottish
-
-affairs?
-
-**Mr Alister Jack**: So the Scotland Office's role is to be the defender, if
-
-you like, the safeguarder of devolution. And it's also
-
-the Scotland Office's role to work across Whitehall -- the lines of devolution are sometimes blurred, the understanding of Whitehall departments as ministers change can often -- they often need, you know, as they're bringing legislation forward, direction from us on how devolution plays out, and respecting it, which is very important.
+**Mr Alister Jack**: So the Scotland Office's role is to be the defender, if you like, the safeguarder of devolution. And it's also the Scotland Office's role to work across Whitehall -- the lines of devolution are sometimes blurred, the understanding of Whitehall departments as ministers change can often -- they often need, you know, as they're bringing legislation forward, direction from us on how devolution plays out, and respecting it, which is very important.
 
 That's -- I mean, we have many roles within the Scotland Office, but within Whitehall we are always, and my job is always to press the case to get the best deal for Scotland, but also, when we're making legislation across the UK, to make sure we don't cut across the devolution settlement. And likewise, through section 33 and section 35 of the Scotland Act, my job is to make sure that the devolved administration in Scotland doesn't either stray into reserved areas with their legislation, or indeed, as we saw in January last year when I used a section 35 order for the first time in the history of devolution, they go and cut across existing UK or GB-wide legislation.
 

@@ -291,17 +291,9 @@ So Ms Doherty started our hearings with the impact film, and you're our last wit
 
 **Lady Hallett**: I'm told in fact that, apart the fact that
 
-I would take a break anyway, I'm asked not to hear
+I would take a break anyway, I'm asked not to hear closing submissions until 1.30.
 
-closing submissions until 1.30.
-
-**Mr Keith**: My Lady, yes. We have been unable to bring them
-
-forward, so if we could have -- if you could rise now
-
-and then sit again at 1.30, we can start the closing
-
-submissions at that point.
+**Mr Keith**: My Lady, yes. We have been unable to bring them forward, so if we could have -- if you could rise now and then sit again at 1.30, we can start the closing submissions at that point.
 
 **Lady Hallett**: I shall. 1.30, please.
 

@@ -5,19 +5,7 @@
 
 Questions From Lead Counsel to the Inquiry for Module 2B
 
-**Mr Poole**: Professor, thank you for attending today and
-
-assisting the Inquiry. Whilst you're giving your
-
-evidence, if you can please make sure that you keep your
-
-voice up, so that we can hear you, but also so that your
-
-evidence can be recorded and that you speak as slowly as
-
-you can so that again your evidence can be recorded.
-
-If I ask you anything that isn't clear, please ask me to repeat it.
+**Mr Poole**: Professor, thank you for attending today and assisting the Inquiry. Whilst you're giving your evidence, if you can please make sure that you keep your voice up, so that we can hear you, but also so that your evidence can be recorded and that you speak as slowly as you can so that again your evidence can be recorded. If I ask you anything that isn't clear, please ask me to repeat it.
 
 **Professor Emmanuel Ogbonna**: Okay.
 

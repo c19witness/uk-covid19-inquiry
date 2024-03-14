@@ -573,55 +573,19 @@ So, given that it wasn't the NHS England or the PHE who were told to respond in 
 
 **Ms Emma Reed**: Sorry, could you repeat the question?
 
-**Lead Inquiry**: Yes. How often was active consideration given to whether or not that general conclusion from Exercise Cygnus was being dealt with? How often were meetings held where employees in the department would say, "Right, well, that was the serious conclusion from the exercise. How well are we doing in terms of
+**Lead Inquiry**: Yes. How often was active consideration given to whether or not that general conclusion from Exercise Cygnus was being dealt with? How often were meetings held where employees in the department would say, "Right, well, that was the serious conclusion from the exercise. How well are we doing in terms of addressing those concerns, of making sure that the plans and the policies and the capability are now sufficient"? How often was active consideration given to making sure that that worrying feature was being adequately addressed?
 
-addressing those concerns, of making sure that the plans
+**Ms Emma Reed**: I would say on a regular number of occasions in different ways. That -- the concern that was raised in Cygnus was a feature of our risk and our risk register. That was discussed at every level of the department on a quarterly basis. We had boards that were looking at the readiness of the health and social care system to respond to that, that was chaired by my Director General, Clara Swinson. We had quarterly conversations to look at cross-government readiness and whether we were addressing the recommendations of that report.
 
-and the policies and the capability are now sufficient"?
-
-How often was active consideration given to making sure
-
-that that worrying feature was being adequately
-
-addressed?
-
-**Ms Emma Reed**: I would say on a regular number of occasions in
-
-different ways. That -- the concern that was raised in
-
-Cygnus was a feature of our risk and our risk register.
-
-That was discussed at every level of the department on
-
-a quarterly basis. We had boards that were looking at
-
-the readiness of the health and social care system to
-
-respond to that, that was chaired by my Director
-
-General, Clara Swinson. We had quarterly conversations
-
-to look at cross-government readiness and whether we
-
-were addressing the recommendations of that report.
-
-So -- and also regular meetings with our
-
-permanent secretary. So I think the question about how months later?                                                         18           we were responding to our state of readiness was asked
-
-on a regular occasion.
+So -- and also regular meetings with our permanent secretary. So I think the question about how months later?                                                         18           we were responding to our state of readiness was asked on a regular occasion.
 
 **Lead Inquiry**: How many recommendations came out of Exercise Cygnus?
 
 **Ms Emma Reed**: 22, and four learning recommendations.
 
-**Lead Inquiry**: By June 2020, how many of those recommendations did the
+**Lead Inquiry**: By June 2020, how many of those recommendations did the DHSC itself identify had not been fully completed?
 
-DHSC itself identify had not been fully completed?
-
-**Ms Emma Reed**: Off my recollection, I would say that eight of them had
-
-not been fully completed -- had been partially completed, and about six of them had not been completed at all.
+**Ms Emma Reed**: Off my recollection, I would say that eight of them had not been fully completed -- had been partially completed, and about six of them had not been completed at all.
 
 **Lead Inquiry**: That was, you're quite right, the conclusion of a DHSC meeting, workstream, another workstream, to consider to what degree the department or to what degree the recommendations from Exercise Cygnus had not been completed, and that was a conclusion reached in June 2020, was it not, Ms Reed?
 
