@@ -1309,7 +1309,7 @@ I want to turn to another topic, which really is coming out the other side, effe
 
 **Mr Sajid Javid**: Yeah.
 
-**Counsel Inquiry**: -- just very briefly, you set out within your statement in some detail that there was a disagreement with Treasury in relation to and funding an apparatus, effectively the tools, as you see them, in relation to a pandemic, particularly in respect of infrastructure December --                                                           24           and testing, scientific research and so on. And you considered that funding ought to be maintained.
+**Counsel Inquiry**: -- just very briefly, you set out within your statement in some detail that there was a disagreement with Treasury in relation to and funding an apparatus, effectively the tools, as you see them, in relation to a pandemic, particularly in respect of infrastructure December -- and testing, scientific research and so on. And you considered that funding ought to be maintained.
 
 What you state in your statement is that the -- is that as a consequence of that, they -- the Prime Minister required further cuts to the Health budget if that infrastructure was to take place, to stay in place; is that right?
 

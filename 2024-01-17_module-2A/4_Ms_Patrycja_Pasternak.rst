@@ -71,7 +71,7 @@ If we turn first to your personal experiences of the pandemic, if we may. You su
 
 **Ms Patrycja Pasternak**: I was fortunate enough to receive support from the Independent Living Fund. I don't know if you've heard about that but it's a fund whereby people receiving money from their local authority can go to the Fund for additional money. And although I wasn't receiving much,
 
-I did receive support from my local authority, the Fund hours a day?                                                        24           was able to give me more money to pay for the furlough of the people taking self-isolation. Did that answer the point?
+I did receive support from my local authority, the Fund hours a day? was able to give me more money to pay for the furlough of the people taking self-isolation. Did that answer the point?
 
 **Counsel Inquiry**: So when you, having reduced your own personal assistant support, you effectively had to seek assistance elsewhere to try and maintain some level of support that would keep you safe --
 

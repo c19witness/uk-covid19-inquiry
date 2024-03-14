@@ -1023,7 +1023,7 @@ And then:
 
 "I can't take this insanity."
 
-Now, so over a period of a month, or a month and a half, three short exchanges, you'll see they have similarities, you both seem to be saying and agreeing perhaps that not enough lessons have been learnt from experiences earlier in the year, perhaps that lockdowns October, Lee Cain says:                                               12           should have been ordered earlier.
+Now, so over a period of a month, or a month and a half, three short exchanges, you'll see they have similarities, you both seem to be saying and agreeing perhaps that not enough lessons have been learnt from experiences earlier in the year, perhaps that lockdowns October, Lee Cain says: should have been ordered earlier.
 
 Can you tell us, if necessary looking at the three exchanges in turn, what you thought around this time and whether these exchanges reflect your thinking or not?
 

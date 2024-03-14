@@ -413,7 +413,7 @@ Now, this was a -- first of all, it's an internal product for the use -- for use
 
 **Lady Hallett**: How did they make the transition from the obviously inadequate CRIP to the dashboard and the automated -- "populating" I think is the word, isn't it? Did they have the software available, or did they buy it as a matter of emergency? How did suddenly we make this transition?
 
-**Mr Gavin Freeguard**: My understanding is that they brought some more expertise into the centre, so people with sort of data science skills, I think there were a few private March. This, in fact, I think was the very first, it                  24           companies who may have brought software in as well that was able to, I think to begin with, patch together some of those various different sources that were coming in, and then over time develop those pipelines that were much more automated to bring the data through.
+**Mr Gavin Freeguard**: My understanding is that they brought some more expertise into the centre, so people with sort of data science skills, I think there were a few private March. This, in fact, I think was the very first, it companies who may have brought software in as well that was able to, I think to begin with, patch together some of those various different sources that were coming in, and then over time develop those pipelines that were much more automated to bring the data through.
 
 **Mr O'Connor**: I'm sure we'll hear more evidence about this, Mr Freeguard, but it's fair to say that none of the things that happened in setting up the dashboard could only happen once the pandemic started; these were all things that could have been done in advance in readiness for a pandemic?
 

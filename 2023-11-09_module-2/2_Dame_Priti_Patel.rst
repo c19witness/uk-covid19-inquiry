@@ -541,7 +541,7 @@ I recall throughout that time, and I think in particular with regards to the Bla
 
 **Dame Patel**: There's inconsistency there.
 
-**Lead Inquiry**: There is. June -- it may be, I'm not saying it is -- even                      13      A.   Yes, I can see that. I do also recall, though, through the discussions that took place, and this is very specific to Black Lives Matters, and possibly the team with the Metropolitan Police, because the main protest took place in London, they in particular were focusing on the need to social distance throughout that protest.
+**Lead Inquiry**: There is. June -- it may be, I'm not saying it is -- even A.   Yes, I can see that. I do also recall, though, through the discussions that took place, and this is very specific to Black Lives Matters, and possibly the team with the Metropolitan Police, because the main protest took place in London, they in particular were focusing on the need to social distance throughout that protest.
 
 **Lead Inquiry**: The position was reached, was it not, as we saw in the WhatsApp from Lord Frost -- and we'll just have it put up, INQ000236372, page 86.
 

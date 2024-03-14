@@ -887,7 +887,7 @@ The existence of different control measures in different places at different tim
 
 "This is a shitshow. We should have gone a month ago as we said."
 
-At a meeting on 25 October, an argument began before the Prime Minister, to use the words of the proponents of one side of the argument, "let it rip - they have had a good innings", and the contrary argument was put that pm, extended requirements on :outline:`face coverings` and                       10      a democratically elected government's primary obligation was to save lives. The Prime Minister acknowledged that it was "a complete shambles" but that he really didn't want to have to enter another national lockdown. He was told that if he went down the route of not imposing a lockdown, he would need to tell people that he was going to allow them to die.
+At a meeting on 25 October, an argument began before the Prime Minister, to use the words of the proponents of one side of the argument, "let it rip - they have had a good innings", and the contrary argument was put that pm, extended requirements on :outline:`face coverings` and a democratically elected government's primary obligation was to save lives. The Prime Minister acknowledged that it was "a complete shambles" but that he really didn't want to have to enter another national lockdown. He was told that if he went down the route of not imposing a lockdown, he would need to tell people that he was going to allow them to die.
 
 On 30 September, Sir Simon Stevens, head of the NHS, reported that hospitals would be overrun in every part of England. The decision to lock down was made but the decision leaked and the announcement was brought forward. There would be a lockdown from 5 November.
 

@@ -433,7 +433,7 @@ There is then a discussion about what should happen with regard to the football 
 
 Does this exchange not show, in relation to an important matter, that you had direct access to key decision-makers, including the First Minister, including via these messages, and that you were offering direct advice in connection with the way that this important matter should be handled during the pandemic?
 
-**Professor Jason Leitch**: Yes, it does, but I don't think this is the same chain. I don't think Ms Sturgeon is on this chain. I didn't know it was Joe Fitzpatrick, because I only saw this last night. So I think this is a set of messages August from you -- a little bit further down, I think,                  6           between Joe Fitzpatrick, who was the minister for public health and sport at the time, and me. I don't think
+**Professor Jason Leitch**: Yes, it does, but I don't think this is the same chain. I don't think Ms Sturgeon is on this chain. I didn't know it was Joe Fitzpatrick, because I only saw this last night. So I think this is a set of messages August from you -- a little bit further down, I think, between Joe Fitzpatrick, who was the minister for public health and sport at the time, and me. I don't think
 
 Ms Sturgeon has anything to do with this --
 

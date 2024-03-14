@@ -289,7 +289,7 @@ I was always concerned about this treating London differently from the rest of t
 
 If we can start, please, on page 11 of your statement, paragraph 26, you state here that:
 
-"By 23 March ... it had become clear that a lockdown was needed to prevent the NHS from being overwhelmed, to buy us time until a vaccine was developed and to March, that Sadiq Khan was invited to COBR for the                    16           underline the seriousness of the situation to the public." And I won't take you to it, but there is another paragraph of your statement where you state explicitly, perhaps it's implicit here, that you accepted, and still accept, that the first lockdown was justified at the time and in the circumstances that it was ordered?
+"By 23 March ... it had become clear that a lockdown was needed to prevent the NHS from being overwhelmed, to buy us time until a vaccine was developed and to March, that Sadiq Khan was invited to COBR for the underline the seriousness of the situation to the public." And I won't take you to it, but there is another paragraph of your statement where you state explicitly, perhaps it's implicit here, that you accepted, and still accept, that the first lockdown was justified at the time and in the circumstances that it was ordered?
 
 **Lord Edward Udney-Lister**: I think what we believed at the beginning of March was that there was a plan that was there that could be used.
 

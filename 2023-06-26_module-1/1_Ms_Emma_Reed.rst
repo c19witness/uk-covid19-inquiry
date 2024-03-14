@@ -577,7 +577,7 @@ So, given that it wasn't the NHS England or the PHE who were told to respond in 
 
 **Ms Emma Reed**: I would say on a regular number of occasions in different ways. That -- the concern that was raised in Cygnus was a feature of our risk and our risk register. That was discussed at every level of the department on a quarterly basis. We had boards that were looking at the readiness of the health and social care system to respond to that, that was chaired by my Director General, Clara Swinson. We had quarterly conversations to look at cross-government readiness and whether we were addressing the recommendations of that report.
 
-So -- and also regular meetings with our permanent secretary. So I think the question about how months later?                                                         18           we were responding to our state of readiness was asked on a regular occasion.
+So -- and also regular meetings with our permanent secretary. So I think the question about how months later? we were responding to our state of readiness was asked on a regular occasion.
 
 **Lead Inquiry**: How many recommendations came out of Exercise Cygnus?
 

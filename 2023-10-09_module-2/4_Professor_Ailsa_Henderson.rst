@@ -347,7 +347,7 @@ Briefly, that's the JMC, but there were other inter-national bodies that were pa
 
 **Mr O'Connor**: Thank you.
 
-If we can go on, finally, in this section to times, so a little bit less than annually, but                        11           paragraph 56. We have sketched, then, this network of institutions which existed before the pandemic commenced, and in paragraph 56 you offer us some of the value judgments given by academics over the years, that were critical of these arrangements, and one that's particularly striking is the view that was offered was that they were not sufficiently strong to withstand a crisis?
+If we can go on, finally, in this section to times, so a little bit less than annually, but paragraph 56. We have sketched, then, this network of institutions which existed before the pandemic commenced, and in paragraph 56 you offer us some of the value judgments given by academics over the years, that were critical of these arrangements, and one that's particularly striking is the view that was offered was that they were not sufficiently strong to withstand a crisis?
 
 **Professor Ailsa Henderson**: Yes. This is a kind of non-representative sample of -- no, that makes it sound like it's not representative of what academics in general think. This is a grab bag of some of the articles that have been written about intergovernmental relations in the UK, but they are almost uniform in their condemnation of the fact that there are insufficiently robust intergovernmental relations in the UK.
 

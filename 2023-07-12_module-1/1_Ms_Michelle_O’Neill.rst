@@ -69,7 +69,7 @@ Ms O'Neill, may I start, please, with an account of your positions in the Northe
 
 I want to ask you about the unique constitutional position of the Northern Ireland Assembly and the Executive Office. Both are institutions, are they not, which came into existence as a result of the Good Friday Agreement, the
 
-Good Friday 1998 agreement, and the Northern Ireland Act June 2021 when Baroness Foster, from whom we heard                    14           1998 which followed; is that correct?
+Good Friday 1998 agreement, and the Northern Ireland Act June 2021 when Baroness Foster, from whom we heard 1998 which followed; is that correct?
 
 **Ms Michelle O’Neill**: May I make a few brief comments, my Lady, before
 

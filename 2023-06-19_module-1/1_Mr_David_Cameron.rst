@@ -407,7 +407,7 @@ I don't remember -- that doesn't mean I didn't get a note about it, but I haven'
 
 I don't think you have.
 
-**Counsel Inquiry**: All right. Well, we haven't, no. But this was an exercise designed to assess the UK's preparation and response to an influenza pandemic. The Inquiry has heard about it already and no doubt will continue so to do throughout the course of these public hearings. But it involved 950 representatives from the devolved administrations, the Department of Health, 12 other government departments, NHS Wales, NHS England, Public Health England, and eight local resilience forums, and six prisons took part in the exercise. Huge, then, in terms of organisation. October of 2016, planning for this exercise began                      20               I'd like to look briefly, please, at some of the recommendations from this exercise, whilst acknowledging again that you had left office by the time this report was produced.
+**Counsel Inquiry**: All right. Well, we haven't, no. But this was an exercise designed to assess the UK's preparation and response to an influenza pandemic. The Inquiry has heard about it already and no doubt will continue so to do throughout the course of these public hearings. But it involved 950 representatives from the devolved administrations, the Department of Health, 12 other government departments, NHS Wales, NHS England, Public Health England, and eight local resilience forums, and six prisons took part in the exercise. Huge, then, in terms of organisation. October of 2016, planning for this exercise began I'd like to look briefly, please, at some of the recommendations from this exercise, whilst acknowledging again that you had left office by the time this report was produced.
 
 **Mr David Cameron**: Yes.
 
