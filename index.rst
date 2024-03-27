@@ -171,3 +171,5 @@ Contents
    2024-03-11_module-2B/index.rst
    2024-03-12_module-2B/index.rst
    2024-03-13_module-2B/index.rst
+   2024-03-14_module-2B/index.rst
+   2024-03-19_module-6/index.rst
