@@ -152,6 +152,7 @@ Contents
    2024-01-17_module-2A/index.rst
    2024-01-18_module-2A/index.rst
    2024-01-19_module-2A/index.rst
+   2024-01-22_module-2A/index.rst
    2024-01-23_module-2A/index.rst
    2024-01-24_module-2A/index.rst
    2024-01-25_module-2A/index.rst
@@ -176,3 +177,15 @@ Contents
    2024-04-10_module-3/index.rst
    2024-04-30_module-2C/index.rst
    2024-05-01_module-2C/index.rst
+   2024-05-02_module-2C/index.rst
+   2024-05-03_module-2C/index.rst
+   2024-05-07_module-2C/index.rst
+   2024-05-08_module-2C/index.rst
+   2024-05-09_module-2C/index.rst
+   2024-05-12_module-2C/index.rst
+   2024-05-13_module-2C/index.rst
+   2024-05-14_module-2C/index.rst
+   2024-05-15_module-2C/index.rst
+   2024-05-16_module-2C/index.rst
+   2024-05-22_module-4/index.rst
+   2024-05-23_module-2/index.rst
