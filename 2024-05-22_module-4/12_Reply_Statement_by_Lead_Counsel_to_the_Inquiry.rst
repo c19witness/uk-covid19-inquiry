@@ -1,5 +1,5 @@
 12. Reply Statement by Lead Counsel to the Inquiry
-=================================================
+==================================================
 
 **Mr Keith**: My Lady, may I just pick up one or two of the points that have been made.
 
